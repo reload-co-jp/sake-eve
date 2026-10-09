@@ -1,0 +1,22 @@
+name: Lint
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  Test:
+    name: Run linter and formatter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - uses: pnpm/action-setup@v4
+      - run: pnpm i
+      - name: Run linter
+        run: pnpm lint
+      - name: Run formatter
+        run: pnpm format
