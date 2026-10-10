@@ -1,0 +1,64 @@
+name: Collect events
+
+on:
+  schedule:
+    # Hourly. PR TIMES RSS holds ~200 latest releases (a few hours on weekdays), so this avoids gaps
+    # with one feed request per hour.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Fetch and report only (no commit)"
+        type: boolean
+        default: false
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+      - uses: pnpm/action-setup@fc06bc1257f339d1d5d8b3a19a8cae5388b55320 # v4.4.0
+      - run: pnpm install --frozen-lockfile
+
+      - name: Collect
+        run: node collector/run.ts ${{ inputs.dry_run && '--dry-run' || '' }} ${{ github.event_name == 'schedule' && '--scheduled' || '' }}
+
+      - name: Validate data
+        run: pnpm validate
+
+      - name: Commit data
+        id: commit
+        # Also commit the run log when collection failed, so errors are recorded in the repo.
+        if: ${{ always() && !inputs.dry_run }}
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(data): collect events"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    needs: collect
+    if: ${{ always() && needs.collect.outputs.changed == 'true' }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml

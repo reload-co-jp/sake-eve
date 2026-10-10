@@ -1,94 +1,174 @@
-# Next.js Static Site Template
+# サケイベ！
 
-Next.js 16 + React 19 + TypeScript を使用した静的サイト生成のテンプレートリポジトリです。GitHub Pages へのデプロイが自動化されています。
+お酒（ビール・ワイン・ウイスキー・日本酒など）のイベントを探す日本語Webメディア。詳細要件は [SPEC.md](./SPEC.md)。
 
-## 技術スタック
+- Next.js 16（App Router / Static Export）+ React 19 + TypeScript
+- データストア: `data/*.json`（ビルド時にスキーマ検証）
+- デプロイ: GitHub Pages（`main` への push で `.github/workflows/deploy.yml`）
 
-- **Next.js** 16 - App Router / Static Export
-- **React** 19
-- **TypeScript** 5
-- **ESLint** 9 - Flat Config
-- **Prettier** 3
+## セットアップ・開発
 
-## このテンプレートの使い方
-
-1. **「Use this template」ボタン**をクリックして新しいリポジトリを作成
-2. リポジトリをクローン
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
-   ```
-3. 依存関係をインストール
-   ```bash
-   pnpm install
-   ```
-4. 開発サーバーを起動
-   ```bash
-   pnpm dev
-   ```
-
-## セットアップ後にやること
-
-### 1. `next.config.js` の修正
-
-`basePath` をリポジトリ名に変更してください：
-
-```js
-basePath: process.env.NODE_ENV === "production" ? "/YOUR_REPO_NAME" : "",
-```
-
-### 2. `app/layout.tsx` の修正
-
-メタデータとサイト情報を更新してください：
-
-```tsx
-export const metadata: Metadata = {
-  title: "Your Site Title",
-  description: "Your site description",
-}
-```
-
-### 3. GitHub Pages の設定
-
-1. リポジトリの **Settings** → **Pages** へ移動
-2. **Source** を「GitHub Actions」に設定
-
-## ディレクトリ構成
-
-```
-.
-├── app/
-│   ├── layout.tsx      # ルートレイアウト
-│   ├── page.tsx        # ホームページ
-│   └── reset.css       # CSSリセット
-├── .github/
-│   └── workflows/
-│       ├── lint.yml    # リント自動実行
-│       └── deploy.yml  # GitHub Pages 自動デプロイ
-├── next.config.js      # Next.js 設定
-├── tsconfig.json       # TypeScript 設定
-├── eslint.config.mjs   # ESLint 設定
-└── .prettierrc.json    # Prettier 設定
+```bash
+pnpm install
+pnpm dev          # http://localhost:3000
 ```
 
 ## スクリプト
 
-| コマンド | 説明 |
-|---------|------|
-| `pnpm dev` | 開発サーバーを起動 |
-| `pnpm build` | 静的サイトをビルド（`/out` に出力） |
-| `pnpm lint` | ESLint を実行 |
-| `pnpm format` | Prettier でコードをフォーマット |
-| `pnpm typecheck` | TypeScript の型チェック |
+| コマンド           | 内容                                           |
+| ------------------ | ---------------------------------------------- |
+| `pnpm dev`         | 開発サーバー                                   |
+| `pnpm build`       | 静的サイトを `out/` に出力（データ検証を含む） |
+| `pnpm validate`    | `data/*.json` のスキーマ・参照整合性を検証     |
+| `pnpm collect`     | 情報源から収集して `data/` に追記              |
+| `pnpm collect:dry` | 収集のみ実行し結果を表示（書き込みなし）       |
+| `pnpm test`        | 全テスト（Vitest）                             |
+| `pnpm lint`        | ESLint                                         |
+| `pnpm typecheck`   | `tsc --noEmit`                                 |
+| `pnpm format`      | Prettier                                       |
 
-## 機能
+## ページ
 
-- **静的サイト生成** - `next build` で `/out` に HTML を出力
-- **自動デプロイ** - main ブランチへの push で GitHub Pages に自動デプロイ
-- **自動リント** - push 時に ESLint / Prettier チェックを実行
-- **依存関係の自動更新** - Dependabot による週次チェック
-- **エディタ設定** - VS Code での自動フォーマット設定済み
+| URL                                 | 内容                                                                                                                     |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| `/`                                 | トップ（検索、近日開催、ジャンル、地図・タイムライン導線、新着、レポート、事業者、新商品、エリア）                       |
+| `/events/`                          | 一覧・検索（20件ごとにページ分割）                                                                                       |
+| `/events/map/`                      | 地図（MapLibre GL JS + 地理院タイル、近接ピンはクラスタ表示、座標不明は非表示）                                          |
+| `/events/timeline/`                 | ガントチャート風タイムライン（日・週・月、日程不明は非表示、横スクロール）                                               |
+| `/events/{slug}/`                   | 詳細（開催情報、入場料・予約、地図、出店者、商品、関連記事、出典・確認状態、同地域・同ジャンルのイベント、構造化データ） |
+| `/articles/`, `/articles/{slug}/`   | 記事（イベント・事業者・商品と多対多）                                                                                   |
+| `/producers/`, `/producers/{slug}/` | 酒蔵・ブルワリー等（所在地は会場と別管理、参加予定／過去の参加実績）                                                     |
+| `/products/`, `/products/{slug}/`   | 新商品・限定商品                                                                                                         |
+| `/areas/{prefecture}/`              | 都道府県別（例 `/areas/tokyo/`。掲載0件は noindex）                                                                      |
+| `/genres/{genre}/`                  | ジャンル別（例 `/genres/beer/`。掲載0件は noindex）                                                                      |
+| `/sitemap.xml`, `/robots.txt`       | 検索条件付きURLは含めない                                                                                                |
 
-## ライセンス
+### 検索条件（URLクエリ）
 
-ISC
+一覧・地図・タイムラインで共通。共有・再読み込みで復元される。
+
+`q` キーワード（イベント名・会場・主催者・出店者名・商品名）/ `pref` 都道府県 / `city` 市区町村 / `from`,`to` 期間（`YYYY-MM-DD`、JSTで開催期間と重なるもの）/ `genre` ジャンル（複数可）/ `type` イベント形式（複数可）/ `status` 開催状況（複数可、未指定時は終了以外）/ `free=1` 入場無料 / `noresv=1` 予約不要 / `sort=new` 新着順 / `page` ページ。タイムラインは `scale=day|week|month`、`start=YYYY-MM-DD`。
+
+入場料・予約が不明（`null`）のイベントは「入場無料」「予約不要」の条件に一致しない。
+
+## データ
+
+| ファイル                                | 内容                                                 |
+| --------------------------------------- | ---------------------------------------------------- |
+| `data/events.json`                      | イベント                                             |
+| `data/sources.json`                     | 出典（URL・取得日時等）                              |
+| `data/articles.json`                    | 記事                                                 |
+| `data/producers.json`                   | 事業者（酒蔵・ブルワリー等）                         |
+| `data/products.json`                    | 商品                                                 |
+| `data/review/duplicate-candidates.json` | 重複候補（人が確認する）                             |
+| `data/review/collect-log.json`          | 収集ログ（書き込み・失敗があった回のみ、最新100件）  |
+| `data/review/audit-log.json`            | 管理画面の変更履歴（作成・更新・公開・非公開とメモ） |
+
+型定義は `lib/types.ts`、検証ルールは `lib/validate.ts`。サンプルは `isSample: true`（タイトルに【サンプル】、出典 `sourceType: "sample"`、URLは `example.com`）で、画面に「サンプル」バッジを表示。収集データは `isSample: false`。
+
+サイトに表示されるのは `publication: "published"` のイベントだけ（`pending` 承認待ち / `hidden` 非公開）。公開状態（承認）と確認状態（`verificationStatus`、事実の確度）は別の項目で、`needs_review` のまま `published` にすると検証エラー。`dateOnly: true` は日付のみ判明（時刻は表示しない）。`price`（表示用文字列）/`isFree`/`reservationRequired` は情報がなければ `null`。
+
+関連（イベント↔事業者・商品・記事）は両側に ID を持つが、表示時はどちらか片側にあれば紐づける。事業者は名称・別名・公式URLが他と重なると検証エラー（重複の可能性）。
+
+### データ更新手順（手動投入）
+
+1. 出典を `data/sources.json` に追加（`url`・`fetchedAt` 必須）。
+2. イベントを `data/events.json` に追加し、`sourceIds` で出典を参照。出典側 `relatedEventIds` にもイベントIDを追加。
+3. `id` は不変の一意値、`slug` はURL用（半角英小文字・数字・ハイフン）。slugを変えてもidは変えない。
+4. 不明な値は推測せず `null`（キー省略は検証エラー）。日時はタイムゾーン付きISO 8601（例 `2026-10-17T11:00:00+09:00`）。
+5. 一次情報で確認したら `verificationStatus` と `lastVerifiedAt` を更新。
+6. 中止・延期は信頼できる出典を確認したうえで `status` を `cancelled` / `postponed` に。終了イベントは削除しない（開催日時から自動で「終了」表示、一覧では既定で非表示）。
+7. `pnpm validate && pnpm build` → push でデプロイ。
+
+検証内容: 必須項目と型、列挙値、ISO日時、日付の前後関係、http(s) URL、緯度経度の範囲と組、都道府県名、ID・slugの重複、関連IDの存在。不正データがあると `pnpm build` も失敗する。
+
+## 収集処理
+
+`collector/`（フロントエンドとは別。Node 24 で TypeScript を直接実行）。
+
+```bash
+pnpm collect:dry   # 取得・抽出結果だけ確認
+pnpm collect       # data/events.json, data/sources.json に追記
+```
+
+| ファイル                | 役割                                                                                         |
+| ----------------------- | -------------------------------------------------------------------------------------------- |
+| `collector/config.json` | 情報源の有効/無効、検索クエリ、ジャンル・イベント判定キーワード、UA、リクエスト間隔          |
+| `collector/sources.ts`  | 情報源ごとのアダプター（取得とフィード項目の正規化のみ）。新しい情報源はここと config に追加 |
+| `collector/http.ts`     | robots.txt 準拠チェック、リクエスト間隔、タイムアウト。403/429 は回避せず中止                |
+| `collector/rss.ts`      | RSS 2.0 / RSS 1.0 (RDF) パーサー                                                             |
+| `collector/extract.ts`  | 項目抽出（推測しない）                                                                       |
+| `collector/dedupe.ts`   | URL正規化、タイトル類似度、重複候補判定                                                      |
+| `collector/store.ts`    | 追記マージ、検証、原子的書き込み、ログ                                                       |
+
+### 情報源と利用条件（2026-10-10 確認）
+
+| 情報源                                                         | 状態               | 根拠                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PR TIMES 公式RSS `https://prtimes.jp/index.rdf`                | 有効               | robots.txt `Allow: /`。利用規約上ゲストは私的使用・引用の範囲で利用可、大量アクセス禁止 → RSSを1時間に1回のみ取得し、タイトル・URL・配信日時・抽出項目だけ保存（本文・画像は保存しない）。キーワード別RSSが無いため全件RSSをローカルで絞り込み、検索ページHTMLは取得しない                                                                                                                                                                      |
+| PR TIMES 検索ページ `/main/action.php?run=html&page=searchkey` | 有効（6時間ごと）  | robots.txt で許可。利用規約は大量アクセスを禁止 → 仕様書3.2のイベント系キーワード（`config.json` の `prtimes_search.queries`）ごとに新着1ページのみ取得。未取得かつ一覧タイトルに酒類/イベント語を含むものだけ詳細ページを取得（1回30件まで、残りは次回）。詳細ページの JSON-LD から正式タイトル・配信日時・配信元、本文は抽出にのみ使用し保存しない。403/429 で即中止                                                                          |
+| Google News RSS                                                | **自動取得は無効** | フィードの copyright に「personal feed reader での個人的・非商用利用専用、その他の利用は禁止」と明記。robots.txt も `/rss` を許可していない。代わりに管理画面の「ニュースから探す」で、編集者が自分のブラウザで Google ニュースを検索し（設定済みキーワードのリンクを表示）、元記事のURLを「URLから取り込む」に貼る。取得するのはその元記事ページ1件だけ（robots.txt 確認、本文は保存しない、`sourceType: "news"`）。Google ニュースのURLは拒否 |
+
+### 処理の流れ
+
+定期実行（`--scheduled`）では各情報源の `runEveryHours` に従う（RSS は毎時、検索は6時間ごと）。手動の `pnpm collect` は全情報源を実行。
+
+1. 有効な情報源ごとに取得（失敗・ブロックはログに記録して他の情報源は続行）
+2. 酒類キーワードを含む項目を候補にする（`config.json` の `requireEventKeyword: true` でイベント語も必須にできる）。イベント語（フェス・試飲会・開催など）がない項目は新商品・キャンペーンの可能性があるため必ず `needs_review`
+3. 正規化URLが既存の出典と一致 → スキップ（既存レコードは一切変更しない）
+4. 抽出（本文末尾の会社概要・問い合わせ先より後は使わない。ジャンルはタイトル優先、都道府県は会場→住所→タイトルの順。ラベルなしの日付が配信日と同じなら配信日とみなして捨てる）: ジャンル、イベント形式、開催日（年が明記された日付のみ）、会場・住所（「会場：」「住所：」等のラベル付きのみ）、都道府県（会場・住所・タイトルから。本社所在地は使わない）、公式URL（ラベル付きのみ）。不明は `null`
+5. 新規イベント（`publication: "pending"` 承認待ち、`verificationStatus: "unverified"`）と出典（`fetchedAt` 付き）を追加。概要文は保存しない。**収集データが承認なしにサイトへ出ることはない**
+6. 似たタイトル・同日開催の既存イベントは **統合せず** `data/review/duplicate-candidates.json` に記録
+7. 次のいずれかは `needs_review`（確認するまで公開不可）: 重複候補あり / 日付がラベル付きでない / 都道府県不明
+8. 全データを検証し、エラーがあれば書き込まずに終了コード1
+
+### 定期実行
+
+`.github/workflows/collect.yml`: 毎時17分に実行、Actions 画面から手動実行（dry run 指定可）。`data/` に変更があればコミットし、`deploy.yml` を呼び出して再デプロイ。取得件数・失敗理由は Actions の Step Summary とログ、および `data/review/collect-log.json` に残る。
+
+## 管理画面と公開承認
+
+```bash
+pnpm admin   # http://127.0.0.1:4321/
+```
+
+ローカル専用の管理画面（Node 標準モジュールのみ、追加依存なし）。`data/*.json` を直接編集する。
+
+- **ニュースから探す**: Google ニュース検索リンク（`config.json` の `google_news.queries`）と「URLから取り込む」。ページに schema.org の Event 構造化データがあれば開催日・会場・住所はそれを使う。文字コード（Shift_JIS 等）は自動判定。IPアドレス・localhost・Google ニュースのURLは取得しない
+- **承認待ち**: 収集・新規作成されたイベントの一覧。出典リンク、抽出結果、重複候補を見ながら「公開する / 非公開にする / 承認待ちに戻す」。メモは変更履歴に残る
+- **イベント編集**: 日時（JST、日付のみ対応）、会場・住所・座標、ジャンル・形式、入場料・予約、開催状況、確認状態、「今確認した」で最終確認日時、出店者・商品・記事・出典の紐づけ、出典の追加（公式発表・手動登録）
+- **記事・事業者・商品**: JSON 編集と新規作成
+- **閲覧**: 出典（取得日時・処理状態）、重複候補、収集ログ（失敗理由）、変更履歴
+- 保存時に全データを検証し、エラーがあれば書き込まない。ID は変更不可、削除機能はない（非公開で対応）。出典は追加のみで編集不可
+- 安全対策: 127.0.0.1 のみで待受、Host ヘッダー検証（DNS rebinding 対策）、起動ごとのトークンと Origin 検証（他サイトからの操作を拒否）、CSP
+
+### 公開までの流れ
+
+1. `git switch -c review/2026-10-10` などで作業ブランチを作る
+2. `pnpm admin` → 承認待ちを確認。原典で日時・会場を確かめ、イベント編集で確認状態（例 `verified`）と最終確認日時を更新
+3. 「公開する」（`needs_review` のままでは押せない）。イベントではない・重複などは「非公開にする」＋理由メモ
+4. 変更（`data/events.json` と `data/review/audit-log.json`）をコミットして PR を作成。PR テンプレートの承認チェックを埋める
+5. CI（`.github/workflows/ci.yml`: lint・型・テスト・検証・ビルド）通過とレビュー承認でマージ → `deploy.yml` でサイトに反映
+
+重複は自動統合しない。同一と判断したら片方を「非公開」にし、残す側の出典に追加する。
+
+## 公開URLの設定
+
+canonical・sitemap・構造化データの絶対URLは環境変数 `SITE_URL`（例 `https://sake-eve.example.jp`）から生成。GitHub リポジトリの Variables に `SITE_URL` を設定すると `deploy.yml` のビルドで使われる（未設定時は `http://localhost:3000`）。
+
+## 地図
+
+- ライブラリ: MapLibre GL JS v5（v6 は Worker を別ファイルで読み込み、静的出力のバンドルでは配置されないため v5 を採用）
+- タイル: 国土地理院「淡色地図」。出典表示（地図右下）を条件に商用利用可。ラスタタイルのみでフォントを持たないため、クラスタは件数の数字ではなく円の大きさで表す
+- 地図の下に表示中イベントのリストを併記（キーボード・スクリーンリーダー向け）
+
+## 未実装・制約
+
+- 管理画面はローカル実行のみ（ログイン機能・オンライン編集なし）。承認の最終段は GitHub の PR レビュー
+- 記事・事業者・商品は公開状態を持たない（編集者が作成するため、PR レビューで承認）
+- 地図の表示範囲と一覧の連動
+- 「近日開催」・詳細ページの開催状況・関連イベントはビルド時点で判定 → 定期的な再ビルドが必要（一覧・地図・タイムラインはブラウザの現在時刻で判定）
+- 一覧・地図・タイムラインの検索はクライアントで実行（JS無効時は結果非表示）
+- 出店者・商品の「予定／確認済み／過去の実績」はイベントの状態から算出（個別の出店状態は持たない）
+- サンプルのイベントには構造化データを出力しない
+- 画像（イベント写真・記事サムネイル）は利用権限のある素材がないため未使用

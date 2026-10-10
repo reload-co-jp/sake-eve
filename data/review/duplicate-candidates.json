@@ -1,0 +1,11 @@
+[
+  {
+    "eventId": "evt-f49dc2bce459",
+    "candidateEventId": "evt-71ed4640f133",
+    "score": 0.33,
+    "reasons": [
+      "same_start_date"
+    ],
+    "detectedAt": "2026-10-10T13:07:33.836Z"
+  }
+]

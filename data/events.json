@@ -1,0 +1,1699 @@
+[
+  {
+    "id": "evt-sample-0001",
+    "slug": "sample-craft-beer-fes-tokyo-2026",
+    "title": "【サンプル】下町クラフトビールフェス 2026",
+    "description": "動作確認用のサンプルデータです。実在のイベントではありません。都内の公園でクラフトビールを飲み比べるフェスを想定しています。",
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-17T11:00:00+09:00",
+    "endAt": "2026-10-18T18:00:00+09:00",
+    "venue": {
+      "name": "サンプル公園 特設会場",
+      "address": "東京都台東区サンプル1-1（架空）",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "latitude": 35.7148,
+      "longitude": 139.7745
+    },
+    "organizer": "サンプル実行委員会（架空）",
+    "officialUrl": "https://example.com/sample/craft-beer-fes",
+    "ticketUrl": null,
+    "price": "入場無料（飲食は有料）",
+    "isFree": true,
+    "reservationRequired": false,
+    "sourceIds": [
+      "src-sample-0001"
+    ],
+    "producerIds": [
+      "prd-sample-0001"
+    ],
+    "productIds": [
+      "pdt-sample-0001"
+    ],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-09T10:00:00+09:00",
+    "createdAt": "2026-10-01T09:00:00+09:00",
+    "updatedAt": "2026-10-09T10:00:00+09:00",
+    "dateOnly": false,
+    "isSample": true,
+    "publication": "published"
+  },
+  {
+    "id": "evt-sample-0002",
+    "slug": "sample-wine-tasting-yamanashi-2026",
+    "title": "【サンプル】甲府ワイン試飲会",
+    "description": "動作確認用のサンプルデータです。実在のイベントではありません。",
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-11-03T13:00:00+09:00",
+    "endAt": "2026-11-03T17:00:00+09:00",
+    "venue": {
+      "name": "サンプルホール（架空）",
+      "address": null,
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": "3,000円",
+    "isFree": false,
+    "reservationRequired": true,
+    "sourceIds": [
+      "src-sample-0002"
+    ],
+    "producerIds": [
+      "prd-sample-0003"
+    ],
+    "productIds": [
+      "pdt-sample-0003"
+    ],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "partially_verified",
+    "lastVerifiedAt": "2026-10-05T12:00:00+09:00",
+    "createdAt": "2026-10-05T12:00:00+09:00",
+    "updatedAt": "2026-10-05T12:00:00+09:00",
+    "dateOnly": false,
+    "isSample": true,
+    "publication": "published"
+  },
+  {
+    "id": "evt-sample-0003",
+    "slug": "sample-sakagura-open-niigata-2026",
+    "title": "【サンプル】秋の酒蔵開放デー",
+    "description": "動作確認用のサンプルデータです。実在のイベントではありません。",
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "brewery_open_day",
+      "tasting"
+    ],
+    "startAt": "2026-10-10T10:00:00+09:00",
+    "endAt": "2026-10-12T16:00:00+09:00",
+    "venue": {
+      "name": "サンプル酒造（架空）",
+      "address": "新潟県新潟市サンプル2-2（架空）",
+      "prefecture": "新潟県",
+      "city": "新潟市",
+      "latitude": 37.9161,
+      "longitude": 139.0364
+    },
+    "organizer": "サンプル酒造（架空）",
+    "officialUrl": "https://example.com/sample/sakagura-open",
+    "ticketUrl": null,
+    "price": "無料",
+    "isFree": true,
+    "reservationRequired": false,
+    "sourceIds": [
+      "src-sample-0003"
+    ],
+    "producerIds": [
+      "prd-sample-0002"
+    ],
+    "productIds": [
+      "pdt-sample-0002"
+    ],
+    "articleIds": [
+      "art-sample-0001",
+      "art-sample-0003"
+    ],
+    "status": "scheduled",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-08T09:00:00+09:00",
+    "createdAt": "2026-09-20T09:00:00+09:00",
+    "updatedAt": "2026-10-08T09:00:00+09:00",
+    "dateOnly": false,
+    "isSample": true,
+    "publication": "published"
+  },
+  {
+    "id": "evt-sample-0004",
+    "slug": "sample-whisky-gin-seminar-osaka-2026",
+    "title": "【サンプル】ウイスキー＆ジン入門セミナー",
+    "description": "動作確認用のサンプルデータです。実在のイベントではありません。",
+    "genres": [
+      "whisky",
+      "gin"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-12-05T14:00:00+09:00",
+    "endAt": "2026-12-05T16:30:00+09:00",
+    "venue": {
+      "name": "サンプル会議室（架空）",
+      "address": null,
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": "https://example.com/sample/whisky-seminar/tickets",
+    "price": "2,500円",
+    "isFree": false,
+    "reservationRequired": true,
+    "sourceIds": [
+      "src-sample-0004"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-08T15:00:00+09:00",
+    "updatedAt": "2026-10-08T15:00:00+09:00",
+    "dateOnly": false,
+    "isSample": true,
+    "publication": "published"
+  },
+  {
+    "id": "evt-sample-0005",
+    "slug": "sample-shochu-awamori-market-fukuoka",
+    "title": "【サンプル】焼酎・泡盛マーケット（日程未定）",
+    "description": "動作確認用のサンプルデータです。実在のイベントではありません。開催日・会場が未発表のケースを想定しています。",
+    "genres": [
+      "shochu",
+      "awamori"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-sample-0005"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-09T08:00:00+09:00",
+    "updatedAt": "2026-10-09T08:00:00+09:00",
+    "dateOnly": false,
+    "isSample": true,
+    "publication": "published"
+  },
+  {
+    "id": "evt-sample-0006",
+    "slug": "sample-summer-beer-garden-sapporo-2026",
+    "title": "【サンプル】夏のビアガーデン祭り",
+    "description": "動作確認用のサンプルデータです。実在のイベントではありません。終了イベントのアーカイブ表示確認用です。",
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-07-20T12:00:00+09:00",
+    "endAt": "2026-08-15T21:00:00+09:00",
+    "venue": {
+      "name": "サンプル広場（架空）",
+      "address": null,
+      "prefecture": "北海道",
+      "city": "札幌市",
+      "latitude": 43.0606,
+      "longitude": 141.3487
+    },
+    "organizer": "サンプル実行委員会（架空）",
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": "入場無料",
+    "isFree": true,
+    "reservationRequired": false,
+    "sourceIds": [
+      "src-sample-0006"
+    ],
+    "producerIds": [
+      "prd-sample-0001"
+    ],
+    "productIds": [],
+    "articleIds": [
+      "art-sample-0002"
+    ],
+    "status": "scheduled",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-07-01T10:00:00+09:00",
+    "createdAt": "2026-06-15T10:00:00+09:00",
+    "updatedAt": "2026-07-01T10:00:00+09:00",
+    "dateOnly": false,
+    "isSample": true,
+    "publication": "published"
+  },
+  {
+    "id": "evt-sample-0007",
+    "slug": "sample-cocktail-night-yokohama-2026",
+    "title": "【サンプル】港町カクテルナイト",
+    "description": "動作確認用のサンプルデータです。実在のイベントではありません。中止イベントの表示確認用です。",
+    "genres": [
+      "cocktail",
+      "gin"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-24T18:00:00+09:00",
+    "endAt": "2026-10-24T22:00:00+09:00",
+    "venue": {
+      "name": "サンプルバー（架空）",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://example.com/sample/cocktail-night",
+    "ticketUrl": null,
+    "price": "4,000円",
+    "isFree": false,
+    "reservationRequired": true,
+    "sourceIds": [
+      "src-sample-0007"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "cancelled",
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-07T18:00:00+09:00",
+    "createdAt": "2026-09-01T10:00:00+09:00",
+    "updatedAt": "2026-10-07T18:00:00+09:00",
+    "dateOnly": false,
+    "isSample": true,
+    "publication": "published"
+  },
+  {
+    "id": "evt-b6f0e2e1eec0",
+    "slug": "e-b6f0e2e1eec0",
+    "title": "【大好評企画】￥6,600(税込)で「十四代」「而今」も飲み放題！乾杯酒「新政」付きの豪華希少酒飲み放題を、日本酒原価酒蔵2店舗で10月10日(土)～31日(土)限定開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b6f0e2e1eec0"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-09T16:27:41.907Z",
+    "updatedAt": "2026-10-09T16:27:41.907Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-8279c7611bc6",
+    "slug": "e-8279c7611bc6",
+    "title": "水沢うどんの端材をアップサイクルしたクラフトビール「水沢15 UDON ALE」を10月10日発売",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-10T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8279c7611bc6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T12:55:36.764Z",
+    "updatedAt": "2026-10-10T12:55:36.764Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9105da8d1c92",
+    "slug": "e-9105da8d1c92",
+    "title": "【広島初上陸】47都道府県の日本酒飲み放題と旬の海鮮を楽しむ居酒屋「トロ壱 広島本通店」2026年10月16日(金)オープン！当日は「日本酒120分飲み放題1円」「お造り盛り無料」イベント開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-16T00:00:00+09:00",
+    "endAt": "2026-10-16T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "広島県広島市中区本通8-33 本通アサヒビル2F",
+      "prefecture": "広島県",
+      "city": "広島市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9105da8d1c92"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0337b5740a02",
+    "slug": "e-0337b5740a02",
+    "title": "「神戸クリスマスマーケット2026」11/7（土）から開催！神戸の山上で、昼も夜も“楽しい”“美しい”古城と森をめぐるクリスマス。ディスプレイ・ライトアップ・グルメがさらに充実！今年は12/28まで。",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "展望プラザ",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0337b5740a02"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e5cdc2a0f63c",
+    "slug": "e-e5cdc2a0f63c",
+    "title": "日本ワイン150周年に向けた新プロジェクト。株式会社CruXが消費者と産地を繋ぐ多様な取り組みを発表。",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e5cdc2a0f63c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-df105e19047d",
+    "slug": "e-df105e19047d",
+    "title": "10/17(土)、18(日)開催！ドラマ「ワカコ酒」フェス武田梨奈トークショーなどイベント情報や参加酒造の情報をお届け！",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "すみだオクトーバーフェスト飲食特設ステージ",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-df105e19047d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ea4f91ee8d17",
+    "slug": "e-ea4f91ee8d17",
+    "title": "宇和島ゆかりの人やお店が大集合。UCC「宇和島文化祭」開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-25T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
+    "venue": {
+      "name": "袋町商店街(きさいやロード内)",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://uwajima-art-project.jp/",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ea4f91ee8d17"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b0a9b6e499a9",
+    "slug": "e-b0a9b6e499a9",
+    "title": "＜TOYOTA ARENA TOKYO＞アリーナ開業1周年記念特別イベント「AOMI Beer Garden」詳細決定！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b0a9b6e499a9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-865827dfcb6e",
+    "slug": "e-865827dfcb6e",
+    "title": "【2014年ドラフト1位・横山雄哉氏らタイガースOB参戦！】あのみんなが憧れる「ビールかけ」を無料体験！炭酸水1,000本で歓喜を分かち合う『ビールかけ祭り』10月10日(土)開催！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-10T23:59:00+09:00",
+    "venue": {
+      "name": "有馬街道温泉 すずらんの湯 中庭ウッドデッキ特設会場",
+      "address": "兵庫県神戸市北区山田町小部 字妙賀11-1",
+      "prefecture": "兵庫県",
+      "city": "神戸市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-865827dfcb6e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:46:14.713Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-6d3757c2e22f",
+    "slug": "e-6d3757c2e22f",
+    "title": "名古屋で40年以上の歴史を誇るバリアフリーイベントが今年も栄のど真ん中で開催!",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6d3757c2e22f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c43183b07e48",
+    "slug": "e-c43183b07e48",
+    "title": "【開催レポート】クラフトビールを通じた地域連携の第一歩 「RINKU SEASIDE CRAFT BEER DAYS」を初開催　泉佐野市に根差す2事業者と地域を味わう機会を創出",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-09-26T00:00:00+09:00",
+    "endAt": "2026-09-26T23:59:00+09:00",
+    "venue": {
+      "name": "りんくうプレミアム・アウトレット シーサイドエリア 中央広場横",
+      "address": "大阪府泉佐野市 運営:三菱地所・サイモン株式会社)は",
+      "prefecture": "大阪府",
+      "city": "泉佐野市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c43183b07e48"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-dde8f4c13607",
+    "slug": "e-dde8f4c13607",
+    "title": "「TACHIKAWA JAZZ NIGHT 2026 Final」GREEN SPRINGSにて開催！（10/23(金) ～ 25(日) /JR立川駅北口）",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "GREEN SPRINGS 2F パブリックスクエア",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.tachikawajazznight.com",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-dde8f4c13607"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-688470ed9f67",
+    "slug": "e-688470ed9f67",
+    "title": "【あべのハルカス近鉄本店】日本・ベルギー友好160周年記念！「ベルギーフェア」を開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-21T00:00:00+09:00",
+    "endAt": "2026-10-27T23:59:00+09:00",
+    "venue": {
+      "name": "あべのハルカス近鉄本店(大阪市阿倍野区阿倍野筋1-1-43) 各階",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-688470ed9f67"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a628feb7e604",
+    "slug": "e-a628feb7e604",
+    "title": "淡路サービスエリア下り線で『お客様感謝デー』開催！玉ねぎ当てクイズやオリジナル缶バッジ作り、淡路人形浄瑠璃、和太鼓演奏など、家族で楽しめるイベントが盛りだくさん！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "tour"
+    ],
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "〒656-2302 兵庫県淡路市大磯6番地",
+      "prefecture": "兵庫県",
+      "city": "淡路市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a628feb7e604"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:46:18.474Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-1a2f58d7d101",
+    "slug": "e-1a2f58d7d101",
+    "title": "自由が丘に「AGRIKO FARM」10月9日開園。自分のラベルは、自分で選ぶ。ビールプロジェクト「UNLABELED」始動。",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "guu table(グーテーブル)にて提供",
+      "address": "東京都目黒区緑が丘2-25-7 ラ・クール自由が丘 2~3F",
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.agriko.net/",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1a2f58d7d101"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-71ed4640f133",
+    "slug": "e-71ed4640f133",
+    "title": "【鵠沼海浜公園 HUG-RIDE PARK】1日約4,000名来場・湘南のクラフトビールフェス第6弾を11月7日(土)・8日(日)に開催。14ブルワリーと16店舗のフードが集結",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": "鵠沼海浜公園 HUG-RIDE PARK(神奈川県藤沢市鵠沼海岸4丁目4-1)",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.odakyu-sc.com/shopping/detail/59?topic=43",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-71ed4640f133"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:46:19.708Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-1b83507db089",
+    "slug": "e-1b83507db089",
+    "title": "香川を、クラフトビールでもっと面白く。OHLOY BREWING、 　　自社醸造所のクラウドファンディングを開始",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": "香川県高松市",
+      "prefecture": "香川県",
+      "city": "高松市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://camp-fire.jp/projects/986780/view",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1b83507db089"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-227a764df1f5",
+    "slug": "e-227a764df1f5",
+    "title": "【系列バー4店舗でチャージ無料】となる特典付き「オリジナルテイスティングノート」を参加者全員にプレゼント！「長濱ウイスキー特別テイスティングセミナー」を10月12日（月・祝）16時から新宿で開催！",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "tasting",
+      "seminar"
+    ],
+    "startAt": "2026-10-12T00:00:00+09:00",
+    "endAt": "2026-10-12T23:59:00+09:00",
+    "venue": {
+      "name": "BAR 新宿 ウイスキーサロン  Google map",
+      "address": "〒160-0022 東京都新宿区新宿3丁目12−1 佐藤ビル 3階",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.romanbeer.com/whisky/",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-227a764df1f5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:46:20.758Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-54376a1ab07d",
+    "slug": "e-54376a1ab07d",
+    "title": "東京産の農林水産物を味わい、体験するイベント「東京味わいフェスタ2026 ～TASTE of TOKYO～」出店者・イベント内容が決定",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.tasteoftokyo-ajiwaifes.jp",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-54376a1ab07d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-31aec02ffc75",
+    "slug": "e-31aec02ffc75",
+    "title": "11月12日（木）開催！マスターブレンダー・マイケルヘンリー氏初来日！『ロッホローモンドスペシャルセミナー』",
+    "description": null,
+    "genres": [
+      "beer",
+      "whisky"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-31aec02ffc75"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-18c8c0ad1de9",
+    "slug": "e-18c8c0ad1de9",
+    "title": "10/9 TIB開催の「TechBIZKON X」に出展！分身サービス「GENCHI」イマーシブコマースを展示します",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "Tokyo Innovation Base(〒100-0005 東京都千代田区丸の内 3-8-3)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.b2match.com/e/techbizkon-x-lifetech",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-18c8c0ad1de9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ddb90b80f093",
+    "slug": "e-ddb90b80f093",
+    "title": "【庭のホテル 東京】日本料理 縁で「彩の国・埼玉」の食と酒を味わう特別イベントを11月13日（金）と14日（土）の二夜限定で開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "「日本料理 縁」 庭のホテル 東京 1階",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ddb90b80f093"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-39c85e31532b",
+    "slug": "e-39c85e31532b",
+    "title": "【大阪プロレスが今年も“なんば”へ！】観戦無料の『大阪秋の陣2026』10月12日（月祝）開催　～GREATER NAMBA FESTIVAL～",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-39c85e31532b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e4d0bc6e0eca",
+    "slug": "e-e4d0bc6e0eca",
+    "title": "【八尾市・久宝寺緑地で新たな大型イベント】VTuber×関西の銘酒×地域グルメ！が楽しめる「YAOYOROZU FESTIVAL 26」が誕生！！",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "whisky",
+      "sake",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://yaoyorozu-fes.jp/",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e4d0bc6e0eca"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a5754d24e37b",
+    "slug": "e-a5754d24e37b",
+    "title": "【ロイヤルパインズホテル浦和】お正月に美味しく楽しめるビュッフェイベント「ニューイヤーファミリービュッフェ2027～獅子舞・餅つき・ガチャみくじで楽しむお正月～」を2027年1月1日（元日）に開催！",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "whisky",
+      "sake",
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2027-01-01T00:00:00+09:00",
+    "endAt": "2027-01-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都港区",
+      "prefecture": "東京都",
+      "city": "港区",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.royalpines.co.jp/",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a5754d24e37b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-dc4a701a5383",
+    "slug": "e-dc4a701a5383",
+    "title": "～芝生の屋上で家族や友人と過ごす秋の週末～東急百貨店吉祥寺店　屋上イベント「太陽の広場まつり」を開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-17T23:59:00+09:00",
+    "venue": {
+      "name": "東急百貨店吉祥寺店 屋上「太陽の広場」",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.tokyu-dept.co.jp/kichijouji/news/detail.html?id=1601",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-dc4a701a5383"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f49dc2bce459",
+    "slug": "e-f49dc2bce459",
+    "title": "県西エリア5ブルワリーのビールが集結「小田原・箱根 クラフトビールフェス 2026」",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": "鈴廣かまぼこの里",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://kamaboko.com/events/craftbeer_festival/",
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f49dc2bce459"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1d81b175185d",
+    "slug": "e-1d81b175185d",
+    "title": "【11月19日解禁】ボジョレー・ヌーヴォーなど世界のワイン10種以上×JAZZ生演奏。農園リゾートTHE FARMで「WINE JAZZ NIGHT 2026」を3夜連続開催",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "農園リゾート THE FARM グランピングエリア",
+      "address": "千葉県香取市西田部738",
+      "prefecture": "千葉県",
+      "city": "香取市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1d81b175185d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-440a2e299efb",
+    "slug": "e-440a2e299efb",
+    "title": "宇都宮東武ホテルグランデ「ハロウィンデザートパラダイス」を2日間限定開催！好評のビュッフェイベントがディナータイムにも初登場",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "whisky",
+      "sake",
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": "栃木県宇都宮市)は",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-440a2e299efb"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-5fc29c0eba2d",
+    "slug": "e-5fc29c0eba2d",
+    "title": "「北九州市フェアin東京交通会館」を開催します！",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "sake",
+      "shochu"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-17T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5fc29c0eba2d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-62bb58b2e73e",
+    "slug": "e-62bb58b2e73e",
+    "title": "ガチャを回して、推しに投票。「クラフトビール総選挙2026 in 神戸」10月21日より開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": "サンキタ広場(兵庫県神戸市中央区)",
+      "address": null,
+      "prefecture": "兵庫県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-62bb58b2e73e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-17bceeff3875",
+    "slug": "e-17bceeff3875",
+    "title": "10月９日（金）～12日（月・祝）「はまテラスクラフトビールフェス」開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-17bceeff3875"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  }
+]

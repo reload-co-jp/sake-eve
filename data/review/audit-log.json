@@ -1,0 +1,42 @@
+[
+  {
+    "at": "2026-10-10T13:46:14.713Z",
+    "collection": "events",
+    "id": "evt-865827dfcb6e",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-10T13:46:18.474Z",
+    "collection": "events",
+    "id": "evt-a628feb7e604",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-10T13:46:19.708Z",
+    "collection": "events",
+    "id": "evt-71ed4640f133",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-10T13:46:20.758Z",
+    "collection": "events",
+    "id": "evt-227a764df1f5",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  }
+]

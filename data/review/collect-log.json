@@ -1,0 +1,126 @@
+[
+  {
+    "startedAt": "2026-10-09T16:27:38.841Z",
+    "finishedAt": "2026-10-09T16:27:41.916Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 200,
+      "irrelevant": 199,
+      "duplicateUrl": 0,
+      "added": 1,
+      "needsReview": 1,
+      "duplicateCandidates": 0
+    },
+    "validationErrors": [],
+    "written": true
+  },
+  {
+    "startedAt": "2026-10-10T12:55:33.707Z",
+    "finishedAt": "2026-10-10T12:55:36.774Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 200,
+      "irrelevant": 198,
+      "duplicateUrl": 0,
+      "added": 2,
+      "needsReview": 2,
+      "duplicateCandidates": 0
+    },
+    "validationErrors": [],
+    "written": true
+  },
+  {
+    "startedAt": "2026-10-10T13:01:10.912Z",
+    "finishedAt": "2026-10-10T13:03:38.017Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200
+      },
+      {
+        "id": "prtimes_search",
+        "status": "ok",
+        "items": 30,
+        "message": "検索ヒット500件 / 未取得499件 / 候補364件 / 詳細取得30件 / 次回へ繰越334件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 230,
+      "irrelevant": 199,
+      "duplicateUrl": 1,
+      "added": 30,
+      "needsReview": 26,
+      "duplicateCandidates": 1
+    },
+    "validationErrors": [],
+    "written": true
+  },
+  {
+    "startedAt": "2026-10-10T13:05:06.737Z",
+    "finishedAt": "2026-10-10T13:07:33.867Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200
+      },
+      {
+        "id": "prtimes_search",
+        "status": "ok",
+        "items": 30,
+        "message": "検索ヒット500件 / 未取得499件 / 候補364件 / 詳細取得30件 / 次回へ繰越334件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 230,
+      "irrelevant": 199,
+      "duplicateUrl": 1,
+      "added": 30,
+      "needsReview": 26,
+      "duplicateCandidates": 1
+    },
+    "validationErrors": [],
+    "written": true
+  }
+]

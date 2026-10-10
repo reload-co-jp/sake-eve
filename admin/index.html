@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="admin-token" content="__ADMIN_TOKEN__" />
+    <title>サケイベ！ 管理画面</title>
+    <style>
+      :root {
+        --bg: #fdfaf7;
+        --beige: #e9e3d3;
+        --brown: #573c1c;
+        --primary: #8b6020;
+        --line: #aaa491;
+        --ink: #2b2118;
+        --ok: #1d5e2e;
+        --ng: #a11d1d;
+        font-family: "Hiragino Sans", "Noto Sans JP", system-ui, sans-serif;
+        color: var(--ink);
+        background: var(--bg);
+        line-height: 1.6;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        background: var(--bg);
+      }
+      header {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem 1.5rem;
+        align-items: center;
+        padding: 0.75rem 1rem;
+        background: var(--brown);
+        color: #fdfaf7;
+        position: sticky;
+        top: 0;
+        z-index: 2;
+      }
+      header h1 {
+        font-size: 1.1rem;
+        margin: 0;
+      }
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.25rem;
+      }
+      nav button {
+        background: transparent;
+        color: #fdfaf7;
+        border: 1px solid transparent;
+        border-radius: 999px;
+        padding: 0.25rem 0.9rem;
+        font: inherit;
+        cursor: pointer;
+      }
+      nav button[aria-current="page"] {
+        border-color: #fdfaf7;
+        font-weight: 700;
+      }
+      main {
+        max-width: 72rem;
+        margin: 0 auto;
+        padding: 1rem;
+      }
+      h2 {
+        color: var(--brown);
+        border-bottom: 1px solid var(--line);
+        padding-bottom: 0.25rem;
+      }
+      :focus-visible {
+        outline: 3px solid #1d6fd8;
+        outline-offset: 2px;
+      }
+      .notice {
+        padding: 0.75rem 1rem;
+        border-radius: 4px;
+        margin: 0.75rem 0;
+      }
+      .notice.ok {
+        background: #e3f1e6;
+        color: var(--ok);
+      }
+      .notice.ng {
+        background: #f8e3e3;
+        color: var(--ng);
+        white-space: pre-wrap;
+      }
+      .card {
+        background: #fff;
+        border: 1px solid var(--line);
+        border-left: 5px solid var(--primary);
+        border-radius: 4px;
+        padding: 1rem;
+        margin: 0 0 1rem;
+      }
+      .card h3 {
+        margin: 0 0 0.25rem;
+        font-size: 1.05rem;
+      }
+      .meta {
+        color: #6b5d48;
+        font-size: 0.85rem;
+      }
+      .badge {
+        display: inline-block;
+        border: 1px solid currentColor;
+        border-radius: 3px;
+        padding: 0 0.4rem;
+        font-size: 0.75rem;
+        margin-right: 0.25rem;
+      }
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        align-items: center;
+        margin-top: 0.75rem;
+      }
+      button,
+      .btn {
+        font: inherit;
+        padding: 0.4rem 1rem;
+        border-radius: 999px;
+        border: 1px solid var(--brown);
+        background: #fff;
+        color: var(--brown);
+        cursor: pointer;
+      }
+      button.primary {
+        background: var(--primary);
+        border-color: var(--primary);
+        color: #fff;
+        font-weight: 700;
+      }
+      button.danger {
+        border-color: var(--ng);
+        color: var(--ng);
+      }
+      button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.85rem;
+        background: #fff;
+      }
+      th,
+      td {
+        border-bottom: 1px solid var(--beige);
+        padding: 0.4rem;
+        text-align: left;
+        vertical-align: top;
+      }
+      th {
+        background: var(--beige);
+      }
+      form.edit {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+        gap: 0.75rem 1rem;
+        background: #fff;
+        padding: 1rem;
+        border: 1px solid var(--line);
+        border-radius: 4px;
+      }
+      .wide {
+        grid-column: 1 / -1;
+      }
+      label {
+        display: flex;
+        flex-direction: column;
+        gap: 0.2rem;
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: var(--brown);
+      }
+      fieldset {
+        border: 1px solid var(--beige);
+        border-radius: 4px;
+      }
+      legend {
+        font-size: 0.85rem;
+        font-weight: 700;
+        color: var(--brown);
+      }
+      fieldset label {
+        flex-direction: row;
+        align-items: center;
+        font-weight: 400;
+        color: var(--ink);
+        display: inline-flex;
+        margin-right: 0.75rem;
+      }
+      input,
+      select,
+      textarea {
+        font: inherit;
+        padding: 0.35rem 0.5rem;
+        border: 1px solid var(--line);
+        border-radius: 3px;
+        background: #fff;
+      }
+      textarea {
+        min-height: 6rem;
+      }
+      textarea.json {
+        font-family: ui-monospace, monospace;
+        font-size: 0.8rem;
+        min-height: 28rem;
+        width: 100%;
+      }
+      .toolbar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        align-items: center;
+        margin: 0.5rem 0 1rem;
+      }
+      .toolbar input {
+        min-width: 16rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>サケイベ！ 管理画面</h1>
+      <nav id="tabs" aria-label="管理メニュー"></nav>
+    </header>
+    <main id="app" tabindex="-1">読み込み中…</main>
+    <script src="/app.js"></script>
+  </body>
+</html>
