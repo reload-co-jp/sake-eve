@@ -3,20 +3,25 @@ import Link from "next/link"
 import { notFound } from "next/navigation"
 import { EventList } from "@/components/EventCard"
 import { ArticleList, ProductList, Related } from "@/components/Lists"
-import { db, getProducerBySlug, producerRelations } from "@/lib/data"
+import {
+  db,
+  getProducerBySlug,
+  producerRelations,
+  staticSlugs,
+} from "@/lib/data"
 import { effectiveStatus } from "@/lib/event"
 import { GENRES, PRODUCER_TYPES } from "@/lib/types"
 
 type Props = { params: Promise<{ slug: string }> }
 
 export const dynamicParams = false
-export const generateStaticParams = () =>
-  db.producers.map((p) => ({ slug: p.slug }))
+export const generateStaticParams = () => staticSlugs(db.producers)
 
 export const generateMetadata = async ({
   params,
 }: Props): Promise<Metadata> => {
-  const p = getProducerBySlug((await params).slug)!
+  const p = getProducerBySlug((await params).slug)
+  if (!p) return {}
   return {
     title: p.name,
     description: `${p.name}（${PRODUCER_TYPES[p.producerType]}・${p.prefecture ?? "所在地不明"}）の参加イベント、商品、記事。`,

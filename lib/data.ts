@@ -106,3 +106,7 @@ export const relatedEvents = (e: Event, limit = 4) =>
     .sort((a, b) => Number(a.ended) - Number(b.ended) || byStartAt(a.o, b.o))
     .slice(0, limit)
     .map(({ o }) => o)
+
+// output: "export" rejects an empty generateStaticParams; the placeholder slug renders notFound().
+export const staticSlugs = (items: { slug: string }[]) =>
+  items.length ? items.map(({ slug }) => ({ slug })) : [{ slug: "_" }]

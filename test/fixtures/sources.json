@@ -1,0 +1,93 @@
+[
+  {
+    "id": "src-sample-0001",
+    "sourceType": "sample",
+    "url": "https://example.com/sample/source-0001",
+    "title": "【サンプル出典】下町クラフトビールフェス 2026 告知",
+    "publisher": "サンプル配信元（架空）",
+    "publishedAt": "2026-10-01T09:00:00+09:00",
+    "fetchedAt": "2026-10-01T09:00:00+09:00",
+    "contentHash": null,
+    "relatedEventIds": ["evt-sample-0001"],
+    "processingStatus": "processed",
+    "extractedFields": null
+  },
+  {
+    "id": "src-sample-0002",
+    "sourceType": "sample",
+    "url": "https://example.com/sample/source-0002",
+    "title": "【サンプル出典】甲府ワイン試飲会 告知",
+    "publisher": "サンプル配信元（架空）",
+    "publishedAt": "2026-10-05T12:00:00+09:00",
+    "fetchedAt": "2026-10-05T12:00:00+09:00",
+    "contentHash": null,
+    "relatedEventIds": ["evt-sample-0002"],
+    "processingStatus": "processed",
+    "extractedFields": null
+  },
+  {
+    "id": "src-sample-0003",
+    "sourceType": "sample",
+    "url": "https://example.com/sample/source-0003",
+    "title": "【サンプル出典】秋の酒蔵開放デー 告知",
+    "publisher": "サンプル配信元（架空）",
+    "publishedAt": "2026-09-20T09:00:00+09:00",
+    "fetchedAt": "2026-09-20T09:00:00+09:00",
+    "contentHash": null,
+    "relatedEventIds": ["evt-sample-0003"],
+    "processingStatus": "processed",
+    "extractedFields": null
+  },
+  {
+    "id": "src-sample-0004",
+    "sourceType": "sample",
+    "url": "https://example.com/sample/source-0004",
+    "title": "【サンプル出典】ウイスキー＆ジン入門セミナー 告知",
+    "publisher": "サンプル配信元（架空）",
+    "publishedAt": "2026-10-08T15:00:00+09:00",
+    "fetchedAt": "2026-10-08T15:00:00+09:00",
+    "contentHash": null,
+    "relatedEventIds": ["evt-sample-0004"],
+    "processingStatus": "processed",
+    "extractedFields": null
+  },
+  {
+    "id": "src-sample-0005",
+    "sourceType": "sample",
+    "url": "https://example.com/sample/source-0005",
+    "title": "【サンプル出典】焼酎・泡盛マーケット（日程未定） 告知",
+    "publisher": "サンプル配信元（架空）",
+    "publishedAt": "2026-10-09T08:00:00+09:00",
+    "fetchedAt": "2026-10-09T08:00:00+09:00",
+    "contentHash": null,
+    "relatedEventIds": ["evt-sample-0005"],
+    "processingStatus": "processed",
+    "extractedFields": null
+  },
+  {
+    "id": "src-sample-0006",
+    "sourceType": "sample",
+    "url": "https://example.com/sample/source-0006",
+    "title": "【サンプル出典】夏のビアガーデン祭り 告知",
+    "publisher": "サンプル配信元（架空）",
+    "publishedAt": "2026-06-15T10:00:00+09:00",
+    "fetchedAt": "2026-06-15T10:00:00+09:00",
+    "contentHash": null,
+    "relatedEventIds": ["evt-sample-0006"],
+    "processingStatus": "processed",
+    "extractedFields": null
+  },
+  {
+    "id": "src-sample-0007",
+    "sourceType": "sample",
+    "url": "https://example.com/sample/source-0007",
+    "title": "【サンプル出典】港町カクテルナイト 告知",
+    "publisher": "サンプル配信元（架空）",
+    "publishedAt": "2026-09-01T10:00:00+09:00",
+    "fetchedAt": "2026-09-01T10:00:00+09:00",
+    "contentHash": null,
+    "relatedEventIds": ["evt-sample-0007"],
+    "processingStatus": "processed",
+    "extractedFields": null
+  }
+]

@@ -10,6 +10,7 @@ import {
   getSources,
   publicEvents,
   relatedEvents,
+  staticSlugs,
 } from "@/lib/data"
 import {
   effectiveStatus,
@@ -29,8 +30,7 @@ import {
 type Props = { params: Promise<{ slug: string }> }
 
 export const dynamicParams = false
-export const generateStaticParams = () =>
-  publicEvents.map((e) => ({ slug: e.slug }))
+export const generateStaticParams = () => staticSlugs(publicEvents)
 
 export const generateMetadata = async ({
   params,

@@ -1,9 +1,9 @@
 import { describe, expect, it } from "vitest"
-import events from "@/data/events.json"
+import events from "@/test/fixtures/events.json"
 import { alignStart, buildTimeline, shiftWindow } from "./timeline"
 import type { Event } from "./types"
 
-const all = (events as unknown as Event[]).filter((e) => e.isSample)
+const all = events as unknown as Event[]
 
 describe("timeline", () => {
   it("aligns window starts", () => {

@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest"
-import events from "@/data/events.json"
+import events from "@/test/fixtures/events.json"
 import { eventJsonLd, jsonLdHtml } from "./seo"
 import type { Event } from "./types"
 

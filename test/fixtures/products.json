@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pdt-sample-0001",
+    "slug": "sample-shitamachi-pale-ale",
+    "name": "【サンプル】下町ペールエール",
+    "producerId": "prd-sample-0001",
+    "genres": ["beer"],
+    "description": "動作確認用のサンプル商品です。実在しません。",
+    "releaseDate": "2026-10-01",
+    "officialUrl": null,
+    "eventIds": ["evt-sample-0001"],
+    "articleIds": [],
+    "sourceIds": [],
+    "isSample": true
+  },
+  {
+    "id": "pdt-sample-0002",
+    "slug": "sample-akiagari-junmai",
+    "name": "【サンプル】秋あがり純米酒",
+    "producerId": "prd-sample-0002",
+    "genres": ["sake"],
+    "description": "動作確認用のサンプル商品です。実在しません。",
+    "releaseDate": "2026-09-15",
+    "officialUrl": null,
+    "eventIds": ["evt-sample-0003"],
+    "articleIds": ["art-sample-0003"],
+    "sourceIds": [],
+    "isSample": true
+  },
+  {
+    "id": "pdt-sample-0003",
+    "slug": "sample-koshu-nouveau-2026",
+    "name": "【サンプル】甲州 新酒 2026",
+    "producerId": "prd-sample-0003",
+    "genres": ["wine"],
+    "description": null,
+    "releaseDate": "2026-11-03",
+    "officialUrl": null,
+    "eventIds": ["evt-sample-0002"],
+    "articleIds": [],
+    "sourceIds": [],
+    "isSample": true
+  }
+]

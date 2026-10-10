@@ -4,14 +4,28 @@ import events from "@/data/events.json"
 import producers from "@/data/producers.json"
 import products from "@/data/products.json"
 import sources from "@/data/sources.json"
+import fxArticles from "@/test/fixtures/articles.json"
+import fxEvents from "@/test/fixtures/events.json"
+import fxProducers from "@/test/fixtures/producers.json"
+import fxProducts from "@/test/fixtures/products.json"
+import fxSources from "@/test/fixtures/sources.json"
 import { validateDb } from "./validate"
 
 const real = { events, sources, articles, producers, products }
-const clone = () => structuredClone(real) as Record<keyof typeof real, any[]> // eslint-disable-line @typescript-eslint/no-explicit-any
+const fixtures = {
+  events: fxEvents,
+  sources: fxSources,
+  articles: fxArticles,
+  producers: fxProducers,
+  products: fxProducts,
+}
+const clone = () =>
+  structuredClone(fixtures) as Record<keyof typeof real, any[]> // eslint-disable-line @typescript-eslint/no-explicit-any
 
 describe("validateDb", () => {
   it("accepts data/*.json", () => {
     expect(validateDb(real)).toEqual([])
+    expect(validateDb(fixtures)).toEqual([])
   })
 
   it.each([

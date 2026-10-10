@@ -3,20 +3,26 @@ import Link from "next/link"
 import { notFound } from "next/navigation"
 import { EventList } from "@/components/EventCard"
 import { ArticleList, Related } from "@/components/Lists"
-import { db, getProducer, getProductBySlug, productRelations } from "@/lib/data"
+import {
+  db,
+  getProducer,
+  getProductBySlug,
+  productRelations,
+  staticSlugs,
+} from "@/lib/data"
 import { formatDateTime } from "@/lib/event"
 import { GENRES, SOURCE_TYPES } from "@/lib/types"
 
 type Props = { params: Promise<{ slug: string }> }
 
 export const dynamicParams = false
-export const generateStaticParams = () =>
-  db.products.map((p) => ({ slug: p.slug }))
+export const generateStaticParams = () => staticSlugs(db.products)
 
 export const generateMetadata = async ({
   params,
 }: Props): Promise<Metadata> => {
-  const p = getProductBySlug((await params).slug)!
+  const p = getProductBySlug((await params).slug)
+  if (!p) return {}
   return {
     title: p.name,
     description: p.description ?? `${p.name}の商品情報と関連イベント・記事。`,

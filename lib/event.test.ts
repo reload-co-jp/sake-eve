@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest"
-import events from "@/data/events.json"
+import events from "@/test/fixtures/events.json"
 import {
   effectiveStatus,
   filterEvents,
@@ -9,8 +9,7 @@ import {
 } from "./event"
 import type { Event } from "./types"
 
-// Only fixtures: collected data in data/events.json changes over time.
-const all = (events as unknown as Event[]).filter((e) => e.isSample)
+const all = events as unknown as Event[]
 const now = new Date("2026-10-10T12:00:00+09:00")
 const slugs = (qs: string) =>
   filterEvents(all, parseQuery(new URLSearchParams(qs)), now).map((e) => e.slug)
