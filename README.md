@@ -154,7 +154,7 @@ pnpm admin   # http://127.0.0.1:4321/
 
 ## 公開URLの設定
 
-canonical・sitemap・構造化データの絶対URLは環境変数 `SITE_URL`（例 `https://sake-eve.example.jp`）から生成。GitHub リポジトリの Variables に `SITE_URL` を設定すると `deploy.yml` のビルドで使われる（未設定時は `http://localhost:3000`）。
+canonical・sitemap・構造化データの絶対URLは `https://sake-eve.reload.co.jp`（`lib/seo.ts` の既定値）。別ドメインでビルドする場合は環境変数 `SITE_URL` で上書き（GitHub リポジトリ Variables の `SITE_URL` が `deploy.yml` で渡される。未設定・空なら既定値）。
 
 ## 地図
 

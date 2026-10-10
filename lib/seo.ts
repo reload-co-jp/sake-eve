@@ -2,9 +2,13 @@ import { effectiveStatus } from "./event"
 import type { Event } from "./types"
 
 /** Site origin for canonical URLs, sitemap and structured data. Set SITE_URL at build time. */
-export const SITE_URL = (
-  process.env.SITE_URL ?? "http://localhost:3000"
-).replace(/\/+$/, "")
+// `||`, not `??`: an unset GitHub Actions variable arrives as an empty string.
+const rawSiteUrl = process.env.SITE_URL?.trim() || "https://sake-eve.reload.co.jp"
+if (!URL.canParse(rawSiteUrl))
+  throw new Error(
+    `SITE_URL が不正なURLです: "${rawSiteUrl}"（例: https://sake-eve.example.jp）`
+  )
+export const SITE_URL = rawSiteUrl.replace(/\/+$/, "")
 
 const STATUS = {
   cancelled: "https://schema.org/EventCancelled",
