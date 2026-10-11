@@ -93,6 +93,13 @@
       ]
     },
     {
+      "id": "ceek_news",
+      "adapter": "ceek_news_rss",
+      "enabled": true,
+      "url": "https://news.ceek.jp/search.cgi?q=%E9%85%92%20%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88&feed=1",
+      "note": "Ceek.jp News 検索RSS（Google News RSSの代替、最新100件）。robots.txtは User-Agent: * に Crawl-Delay: 600 のみ → 1回1リクエスト・毎時実行で範囲内。リンクは元記事。本文は保存せずタイトル・URL・日時・抽出項目のみ保持。"
+    },
+    {
       "id": "google_news",
       "adapter": "google_news_rss",
       "enabled": false,

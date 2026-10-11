@@ -7,7 +7,7 @@ import { normalizeUrl, similarity } from "./dedupe"
 import { extract, isRelevant, type KeywordConfig } from "./extract"
 import { createFetcher, decodeBody, isAllowed, parseRobots } from "./http"
 import { parseFeed } from "./rss"
-import { ADAPTERS } from "./sources"
+import { ADAPTERS, splitCeekTitle } from "./sources"
 import { loadDb, merge, save } from "./store"
 import type { Db } from "../lib/types"
 
@@ -346,5 +346,23 @@ describe("decodeBody", () => {
     expect(decodeBody(html, "text/html")).toContain("ビール")
     expect(decodeBody(sjis, "text/html; charset=Shift_JIS")).toBe("ビール")
     expect(decodeBody(new TextEncoder().encode("ビール"), null)).toBe("ビール")
+  })
+})
+
+describe("ceek_news_rss", () => {
+  const item = {
+    url: "https://ibarakinews.jp/news/1",
+    title: "利き酒、酒蔵見学楽しむ 蔵開きイベント 茨城・古河 (茨城新聞)",
+    summary: "",
+    publisher: null,
+    publishedAt: null,
+  }
+  it("splits the publisher off the title", () => {
+    const r = splitCeekTitle(item)
+    expect(r.title).toBe("利き酒、酒蔵見学楽しむ 蔵開きイベント 茨城・古河")
+    expect(r.publisher).toBe("茨城新聞")
+  })
+  it("keeps titles without a publisher suffix", () => {
+    expect(splitCeekTitle({ ...item, title: "蔵開き" }).title).toBe("蔵開き")
   })
 })

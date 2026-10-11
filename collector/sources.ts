@@ -56,6 +56,12 @@ const fromFeed = (xml: string): RawItem[] =>
     publishedAt: i.publishedAt,
   }))
 
+/** Ceek.jp titles are "Headline (Publisher)"; links already point to the original article. */
+export const splitCeekTitle = (i: RawItem): RawItem => {
+  const m = i.title.match(/^(.*\S)\s*\(([^()]+)\)$/)
+  return m ? { ...i, title: m[1], publisher: i.publisher ?? m[2] } : i
+}
+
 export const ADAPTERS: Record<string, Adapter> = {
   prtimes_rss: {
     sourceType: "prtimes",
@@ -86,6 +92,11 @@ export const ADAPTERS: Record<string, Adapter> = {
       }
       return items
     },
+  },
+  ceek_news_rss: {
+    sourceType: "news",
+    fetchItems: async (source, fetchText) =>
+      fromFeed(await fetchText(source.url!)).map(splitCeekTitle),
   },
   prtimes_search: {
     sourceType: "prtimes",
