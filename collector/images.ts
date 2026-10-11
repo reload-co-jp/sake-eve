@@ -1,20 +1,15 @@
 /**
  * Download hotlinked images of published events into public/images/events/
- * and point imageUrl at the local copy.
+ * as resized WebP and point imageUrl at the local copy.
  *
  *   node collector/images.ts
  */
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import sharp from "sharp"
 import { writeJson } from "./store.ts"
 
-const EXT: Record<string, string> = {
-  "image/jpeg": "jpg",
-  "image/png": "png",
-  "image/webp": "webp",
-  "image/gif": "gif",
-  "image/avif": "avif",
-}
+const WIDTH = 1000
 
 const root = join(import.meta.dirname, "..")
 const config = JSON.parse(
@@ -34,13 +29,12 @@ for (const e of events) {
       headers: { "User-Agent": config.userAgent },
       signal: AbortSignal.timeout(config.timeoutMs),
     })
-    const ext = EXT[res.headers.get("content-type")?.split(";")[0] ?? ""]
-    if (!res.ok || !ext) throw new Error(`HTTP ${res.status} ${ext ?? ""}`)
-    writeFileSync(
-      join(dir, `${e.id}.${ext}`),
-      Buffer.from(await res.arrayBuffer())
-    )
-    e.imageUrl = `/images/events/${e.id}.${ext}`
+    if (!res.ok) throw new Error(`HTTP ${res.status}`)
+    await sharp(Buffer.from(await res.arrayBuffer()))
+      .resize({ width: WIDTH, withoutEnlargement: true })
+      .webp({ quality: 75 })
+      .toFile(join(dir, `${e.id}.webp`))
+    e.imageUrl = `/images/events/${e.id}.webp`
     saved++
   } catch (err) {
     console.error(`${e.id}: ${err}`)
