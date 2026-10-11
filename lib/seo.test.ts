@@ -25,6 +25,9 @@ describe("eventJsonLd", () => {
       },
     })
     expect(ld).not.toHaveProperty("offers")
+    expect(
+      eventJsonLd({ ...real, imageUrl: "https://x.jp/a.jpg" })!.image
+    ).toEqual(["https://x.jp/a.jpg"])
   })
   it("drops times for date-only events and escapes </script>", () => {
     expect(eventJsonLd({ ...real, dateOnly: true })!.startDate).toBe(

@@ -18,7 +18,7 @@ import {
   formatPeriod,
   toMapPoint,
 } from "@/lib/event"
-import { eventJsonLd, jsonLdHtml } from "@/lib/seo"
+import { eventJsonLd, jsonLdHtml, OPEN_GRAPH_BASE } from "@/lib/seo"
 import {
   EVENT_TYPES,
   PRODUCER_TYPES,
@@ -36,14 +36,22 @@ export const generateMetadata = async ({
   params,
 }: Props): Promise<Metadata> => {
   const event = getEventBySlug((await params).slug)
+  const description =
+    `${formatPeriod(event)}／${event.venue.prefecture ?? "開催地未定"}。${event.description ?? ""}`.slice(
+      0,
+      120
+    )
   return {
     title: event.title,
-    description:
-      `${formatPeriod(event)}／${event.venue.prefecture ?? "開催地未定"}。${event.description ?? ""}`.slice(
-        0,
-        120
-      ),
+    description,
     alternates: { canonical: `/events/${event.slug}/` },
+    openGraph: {
+      ...OPEN_GRAPH_BASE,
+      title: event.title,
+      description,
+      url: `/events/${event.slug}/`,
+      ...(event.imageUrl && { images: [event.imageUrl] }),
+    },
   }
 }
 

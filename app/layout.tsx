@@ -2,7 +2,7 @@ import { Metadata } from "next"
 import { Inknut_Antiqua, Zen_Old_Mincho } from "next/font/google"
 import Link from "next/link"
 import { Footer, Header, Main } from "@/components/elements/layout"
-import { SITE_URL } from "@/lib/seo"
+import { OPEN_GRAPH_BASE, SITE_URL } from "@/lib/seo"
 import { GENRES } from "@/lib/types"
 import "./reset.css"
 import "./globals.css"
@@ -27,6 +27,8 @@ export const metadata: Metadata = {
   },
   description:
     "サケイベ！はビール、ワイン、ウイスキー、日本酒などお酒のイベントを探せる情報メディアです。",
+  openGraph: OPEN_GRAPH_BASE,
+  twitter: { card: "summary_large_image" },
 }
 
 const NAV = [

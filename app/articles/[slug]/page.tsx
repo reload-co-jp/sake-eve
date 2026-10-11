@@ -11,6 +11,7 @@ import {
   staticSlugs,
 } from "@/lib/data"
 import { formatDateTime } from "@/lib/event"
+import { OPEN_GRAPH_BASE } from "@/lib/seo"
 import { ARTICLE_TYPES } from "@/lib/types"
 
 type Props = { params: Promise<{ slug: string }> }
@@ -27,6 +28,13 @@ export const generateMetadata = async ({
     title: a.title,
     description: a.summary,
     alternates: { canonical: `/articles/${a.slug}/` },
+    openGraph: {
+      ...OPEN_GRAPH_BASE,
+      type: "article",
+      title: a.title,
+      description: a.summary,
+      url: `/articles/${a.slug}/`,
+    },
   }
 }
 

@@ -3,12 +3,20 @@ import type { Event } from "./types"
 
 /** Site origin for canonical URLs, sitemap and structured data. Set SITE_URL at build time. */
 // `||`, not `??`: an unset GitHub Actions variable arrives as an empty string.
-const rawSiteUrl = process.env.SITE_URL?.trim() || "https://sake-eve.reload.co.jp"
+const rawSiteUrl =
+  process.env.SITE_URL?.trim() || "https://sake-eve.reload.co.jp"
 if (!URL.canParse(rawSiteUrl))
   throw new Error(
     `SITE_URL が不正なURLです: "${rawSiteUrl}"（例: https://sake-eve.example.jp）`
   )
 export const SITE_URL = rawSiteUrl.replace(/\/+$/, "")
+
+/** Next.js replaces (not merges) a parent's openGraph, so pages spread this. */
+export const OPEN_GRAPH_BASE = {
+  siteName: "サケイベ！",
+  locale: "ja_JP",
+  type: "website",
+} as const
 
 const STATUS = {
   cancelled: "https://schema.org/EventCancelled",
@@ -37,6 +45,7 @@ export const eventJsonLd = (e: Event) => {
         : "https://schema.org/EventScheduled",
     eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
     ...(e.description && { description: e.description }),
+    ...(e.imageUrl && { image: [e.imageUrl] }),
     ...((v.name || v.prefecture) && {
       location: {
         "@type": "Place",
