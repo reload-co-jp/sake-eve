@@ -4,7 +4,7 @@ on:
   schedule:
     # Hourly. PR TIMES RSS holds ~200 latest releases (a few hours on weekdays), so this avoids gaps
     # with one feed request per hour.
-    - cron: "17 * * * *"
+    - cron: "0 17 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
