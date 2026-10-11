@@ -8,7 +8,7 @@
       "adapter": "prtimes_rss",
       "enabled": true,
       "url": "https://prtimes.jp/index.rdf",
-      "note": "公式RSS（最新約200件、全カテゴリ）。robots.txtはAllow: /。キーワードはローカルで照合し、検索ページのHTMLは取得しない。本文は保存せずタイトル・URL・日時・抽出項目のみ保持。"
+      "note": "公式RSS（最新約200件、全カテゴリ）。robots.txtはAllow: /。キーワードはローカルで照合し、検索ページのHTMLは取得しない。未取得の候補のみ詳細ページを取得（1回30件まで）。本文は保存せずタイトル・URL・日時・抽出項目のみ保持。"
     },
     {
       "id": "prtimes_search",
@@ -97,7 +97,7 @@
       "adapter": "ceek_news_rss",
       "enabled": true,
       "url": "https://news.ceek.jp/search.cgi?q=%E9%85%92%20%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88&feed=1",
-      "note": "Ceek.jp News 検索RSS（Google News RSSの代替、最新100件）。robots.txtは User-Agent: * に Crawl-Delay: 600 のみ → 1回1リクエスト・毎時実行で範囲内。リンクは元記事。本文は保存せずタイトル・URL・日時・抽出項目のみ保持。"
+      "note": "Ceek.jp News 検索RSS（Google News RSSの代替、最新100件）。robots.txtは User-Agent: * に Crawl-Delay: 600 のみ → 1回1リクエスト・毎時実行で範囲内。リンクは元記事。未取得の候補のみ元記事ページを取得（robots.txt確認、1回30件まで、403/429のサイトはその回スキップ）。本文は保存せずタイトル・URL・日時・抽出項目のみ保持。"
     },
     {
       "id": "google_news",

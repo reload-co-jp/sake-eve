@@ -7,6 +7,7 @@ import type { SourceType } from "../lib/types.ts"
 import { BlockedError, type FetchText } from "./http.ts"
 import { parseRelease, parseSearch, searchUrl } from "./prtimes.ts"
 import { parseFeed } from "./rss.ts"
+import { parseWebPage } from "./web.ts"
 
 export type SourceConfig = {
   id: string
@@ -64,15 +65,83 @@ export const splitCeekTitle = (i: RawItem): RawItem => {
   return m ? { ...i, title: m[1], publisher: i.publisher ?? m[2] } : i
 }
 
+/** PR TIMES releases use their JSON-LD parser; anything else the generic article parser. */
+const parseDetail = (html: string, url: string): RawItem | null => {
+  if (new URL(url).hostname !== "prtimes.jp") return parseWebPage(html, url)
+  const r = parseRelease(html)
+  return r && { url, ...r, summary: r.body }
+}
+
+/**
+ * Replace feed summaries with detail-page text for new candidate items (capped per run).
+ * Feed items are kept as-is when the detail fetch fails, is over the cap, or the origin blocked us.
+ */
+export const withDetails = async (
+  items: RawItem[],
+  source: SourceConfig,
+  fetchText: FetchText,
+  ctx: AdapterContext
+): Promise<RawItem[]> => {
+  let budget = source.maxDetailFetches ?? 30
+  const blocked = new Set<string>()
+  let fetched = 0
+  let failed = 0
+  const out: RawItem[] = []
+  for (const i of items) {
+    const origin = URL.canParse(i.url) ? new URL(i.url).origin : null
+    if (
+      !origin ||
+      blocked.has(origin) ||
+      ctx.isKnown(i.url) ||
+      !ctx.isCandidateTitle(i.title) ||
+      budget <= 0
+    ) {
+      out.push(i)
+      continue
+    }
+    budget--
+    try {
+      const d = parseDetail(await fetchText(i.url), i.url)
+      if (!d) failed++
+      else fetched++
+      out.push(
+        d
+          ? {
+              ...i,
+              summary: d.summary || i.summary,
+              publisher: d.publisher ?? i.publisher,
+              publishedAt: d.publishedAt ?? i.publishedAt,
+              imageUrl: d.imageUrl,
+            }
+          : i
+      )
+    } catch (e) {
+      // Access restricted: no more requests to that site this run.
+      if (e instanceof BlockedError) blocked.add(origin)
+      failed++
+      ctx.log(`詳細取得失敗 ${i.url}: ${(e as Error).message}`)
+      out.push(i)
+    }
+  }
+  if (fetched || failed)
+    ctx.log(`詳細取得${fetched}件` + (failed ? ` / 失敗${failed}件` : ""))
+  return out
+}
+
 export const ADAPTERS: Record<string, Adapter> = {
   prtimes_rss: {
     sourceType: "prtimes",
-    fetchItems: async (source, fetchText) =>
-      fromFeed(await fetchText(source.url!)).map((i) => ({
-        ...i,
-        // Descriptions start with "[Company]"; the publisher is stored separately.
-        summary: i.summary.replace(/^\[[^\]]*\]\s*/, ""),
-      })),
+    fetchItems: async (source, fetchText, ctx) =>
+      withDetails(
+        fromFeed(await fetchText(source.url!)).map((i) => ({
+          ...i,
+          // Descriptions start with "[Company]"; the publisher is stored separately.
+          summary: i.summary.replace(/^\[[^\]]*\]\s*/, ""),
+        })),
+        source,
+        fetchText,
+        ctx
+      ),
   },
   google_news_rss: {
     sourceType: "google_news",
@@ -97,8 +166,13 @@ export const ADAPTERS: Record<string, Adapter> = {
   },
   ceek_news_rss: {
     sourceType: "news",
-    fetchItems: async (source, fetchText) =>
-      fromFeed(await fetchText(source.url!)).map(splitCeekTitle),
+    fetchItems: async (source, fetchText, ctx) =>
+      withDetails(
+        fromFeed(await fetchText(source.url!)).map(splitCeekTitle),
+        source,
+        fetchText,
+        ctx
+      ),
   },
   prtimes_search: {
     sourceType: "prtimes",

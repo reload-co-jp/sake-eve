@@ -390,6 +390,43 @@ describe("merge", () => {
     )
     expect(got[0].summary.startsWith("テスト醸造株式会社（本社")).toBe(true)
   })
+
+  it("rss adapters replace summaries with detail pages for new candidates only", async () => {
+    const feed = `<rss><channel>
+<item><title>新しい酒イベント (テスト新聞)</title><link>https://news.example/a</link><description>短い概要</description></item>
+<item><title>既知の酒イベント (テスト新聞)</title><link>https://news.example/b</link><description>既知</description></item>
+<item><title>無関係 (テスト新聞)</title><link>https://news.example/c</link><description>対象外</description></item>
+</channel></rss>`
+    const page = `<html><head><title>記事</title><meta property="og:image" content="/img.jpg"></head>
+<body><article><p>日時：2026年11月14日</p><p>会場：テスト会館</p></article></body></html>`
+    const fetched: string[] = []
+    const got = await ADAPTERS.ceek_news_rss.fetchItems(
+      {
+        id: "ceek",
+        adapter: "ceek_news_rss",
+        enabled: true,
+        url: "https://feed",
+      },
+      async (url) => {
+        fetched.push(url)
+        return url === "https://feed" ? feed : page
+      },
+      {
+        isKnown: (url) => url.endsWith("/b"),
+        isCandidateTitle: (t) => t.includes("酒"),
+        log: () => {},
+      }
+    )
+    expect(fetched).toEqual(["https://feed", "https://news.example/a"])
+    expect(got).toHaveLength(3)
+    expect(got[0]).toMatchObject({
+      title: "新しい酒イベント",
+      publisher: "テスト新聞",
+      imageUrl: "https://news.example/img.jpg",
+    })
+    expect(got[0].summary).toContain("会場：テスト会館")
+    expect(got[1].summary).toBe("既知")
+  })
 })
 
 describe("save", () => {
