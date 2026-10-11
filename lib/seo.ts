@@ -45,7 +45,7 @@ export const eventJsonLd = (e: Event) => {
         : "https://schema.org/EventScheduled",
     eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
     ...(e.description && { description: e.description }),
-    ...(e.imageUrl && { image: [e.imageUrl] }),
+    ...(e.imageUrl && { image: [new URL(e.imageUrl, SITE_URL).href] }),
     ...((v.name || v.prefecture) && {
       location: {
         "@type": "Place",

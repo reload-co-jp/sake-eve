@@ -35,6 +35,10 @@ jobs:
       - name: Collect
         run: node collector/run.ts ${{ inputs.dry_run && '--dry-run' || '' }} ${{ github.event_name == 'schedule' && '--scheduled' || '' }}
 
+      - name: Save images
+        if: ${{ !inputs.dry_run }}
+        run: pnpm images
+
       - name: Validate data
         run: pnpm validate
 
@@ -43,7 +47,7 @@ jobs:
         # Also commit the run log when collection failed, so errors are recorded in the repo.
         if: ${{ always() && !inputs.dry_run }}
         run: |
-          git add data
+          git add data public/images
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0

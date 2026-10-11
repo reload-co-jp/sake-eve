@@ -44,6 +44,9 @@ const url: Rule = (v) => {
   }
   return "http(s) URLが必要"
 }
+/** Local copy saved by collector/images.ts, or a hotlinked URL. */
+const image: Rule = (v, ids) =>
+  typeof v === "string" && /^\/images\/[\w./-]+$/.test(v) ? null : url(v, ids)
 const num =
   (min: number, max: number): Rule =>
   (v) =>
@@ -94,7 +97,7 @@ const SCHEMA: Record<Collection, Record<string, Rule>> = {
     organizer: nullable(text),
     officialUrl: nullable(url),
     ticketUrl: nullable(url),
-    imageUrl: nullable(url),
+    imageUrl: nullable(image),
     price: nullable(text),
     isFree: nullable(bool),
     reservationRequired: nullable(bool),
