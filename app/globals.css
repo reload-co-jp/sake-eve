@@ -202,28 +202,82 @@ a {
 
 /* Hero */
 .hero {
-  padding: clamp(3rem, 8vw, 6rem) 0 clamp(4rem, 8vw, 6rem);
+  padding: clamp(1.5rem, 4vw, 3rem) 0;
   background:
     radial-gradient(circle at 85% 20%, rgb(233 227 211 / 0.9), transparent 45%),
     var(--bg);
 }
-.hero__en {
-  color: var(--primary);
-  font-family: var(--display);
-  font-size: clamp(1rem, 2.5vw, 1.4rem);
+.feature {
+  display: grid;
+  gap: 1rem;
 }
-.hero__title {
-  margin: 0.5rem 0 1rem;
-  color: var(--brown);
-  font-family: var(--mincho);
-  font-size: clamp(1.9rem, 5.5vw, 3.4rem);
+@media (min-width: 768px) {
+  .feature {
+    grid-template-columns: 2fr 1fr;
+  }
+  .feature > li:first-child {
+    grid-row: span 2;
+  }
+}
+.feature__item {
+  position: relative;
+  display: block;
+  height: 100%;
+  min-height: 14rem;
+  overflow: hidden;
+  border-radius: 3px;
+  background: linear-gradient(135deg, var(--brown), var(--dark));
+  color: #fdfaf7;
+  text-decoration: none;
+}
+.feature > li:first-child .feature__item {
+  min-height: clamp(18rem, 45vw, 30rem);
+}
+.feature__image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s;
+}
+.feature__item:hover .feature__image {
+  transform: scale(1.04);
+}
+.feature__body {
+  position: absolute;
+  inset: auto 0 0;
+  display: grid;
+  gap: 0.35rem;
+  padding: 2.5rem 1.25rem 1rem;
+  background: linear-gradient(transparent, rgb(43 26 11 / 0.9) 45%);
+}
+.feature__date {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
   font-weight: 700;
-  line-height: 1.45;
-  letter-spacing: 0.06em;
 }
-.hero__lead {
-  margin-bottom: 2rem;
-  color: var(--muted);
+.feature__date .status-scheduled {
+  background: var(--surface);
+}
+.feature__title {
+  font-family: var(--mincho);
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+.feature > li:first-child .feature__title {
+  font-size: clamp(1.3rem, 3vw, 1.9rem);
+}
+.feature__item:hover .feature__title {
+  text-decoration: underline;
+}
+.feature__place {
+  font-size: 0.85rem;
+  opacity: 0.85;
 }
 
 /* Search form */

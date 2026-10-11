@@ -28,11 +28,11 @@ export const GenreTags: FC<{ event: Event }> = ({ event }) => (
   </ul>
 )
 
+export const eventPlace = ({ venue }: Event) =>
+  [venue.prefecture, venue.city, venue.name].filter(Boolean).join(" ") ||
+  "会場未定"
+
 export const EventCard: FC<{ event: Event }> = ({ event }) => {
-  const { venue } = event
-  const place = [venue.prefecture, venue.city, venue.name]
-    .filter(Boolean)
-    .join(" ")
   return (
     <article className="card">
       {event.imageUrl && (
@@ -52,7 +52,7 @@ export const EventCard: FC<{ event: Event }> = ({ event }) => {
       <h3 className="card-title">
         <Link href={`/events/${event.slug}/`}>{event.title}</Link>
       </h3>
-      <p className="card-place">{place || "会場未定"}</p>
+      <p className="card-place">{eventPlace(event)}</p>
       <GenreTags event={event} />
       <p className="card-meta">
         情報確認: {VERIFICATION_STATUSES[event.verificationStatus]} ／ 出典

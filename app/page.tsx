@@ -1,11 +1,10 @@
 import { Metadata } from "next"
 import Link from "next/link"
-import { EventCard } from "@/components/EventCard"
-import { SearchForm } from "@/components/SearchForm"
+import { EventCard, StatusBadge, eventPlace } from "@/components/EventCard"
 import { SectionTitle } from "@/components/elements/layout"
 import { ArticleList, ProducerList, ProductList } from "@/components/Lists"
 import { db, publicEvents } from "@/lib/data"
-import { byStartAt, effectiveStatus, jstDate } from "@/lib/event"
+import { byStartAt, effectiveStatus, formatPeriod, jstDate } from "@/lib/event"
 import {
   GENRES,
   GENRES_EN,
@@ -21,7 +20,9 @@ const Page = () => {
   const upcoming = publicEvents
     .filter((e) => ["scheduled", "ongoing"].includes(effectiveStatus(e)))
     .sort(byStartAt)
-    .slice(0, 6)
+  // Ongoing events sort first (earliest start), then the soonest scheduled ones.
+  const featured = upcoming.slice(0, 3)
+  const pickup = upcoming.slice(3, 9)
   const latest = [...publicEvents]
     .sort((a, b) => Date.parse(b.createdAt) - Date.parse(a.createdAt))
     .slice(0, 5)
@@ -38,18 +39,35 @@ const Page = () => {
     <>
       <section className="hero" aria-labelledby="hero-title">
         <div className="container">
-          <p className="hero__en" aria-hidden="true">
-            Find Your Sake Days.
-          </p>
-          <h1 id="hero-title" className="hero__title">
-            お酒のイベントを、
-            <br />
-            探す・知る・訪れる。
+          <h1 id="hero-title" className="visually-hidden">
+            お酒のイベントを、探す・知る・訪れる。
           </h1>
-          <p className="hero__lead">
-            ビール、ワイン、ウイスキー、日本酒など全国のお酒イベント情報をまとめて探せます。
-          </p>
-          <SearchForm />
+          <ul className="feature">
+            {featured.map((e) => (
+              <li key={e.id}>
+                <Link className="feature__item" href={`/events/${e.slug}/`}>
+                  {e.imageUrl && (
+                    <img
+                      className="feature__image"
+                      src={e.imageUrl}
+                      alt=""
+                      referrerPolicy="no-referrer"
+                    />
+                  )}
+                  <span className="feature__body">
+                    <span className="feature__date">
+                      <StatusBadge event={e} />
+                      <time dateTime={e.startAt ?? undefined}>
+                        {formatPeriod(e)}
+                      </time>
+                    </span>
+                    <span className="feature__title">{e.title}</span>
+                    <span className="feature__place">{eventPlace(e)}</span>
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
         </div>
       </section>
 
@@ -86,18 +104,24 @@ const Page = () => {
         </div>
       </section>
 
-      <section className="band band--green" aria-labelledby="pickup-title">
-        <div className="container">
-          <SectionTitle id="pickup-title" en="Pickup" ja="近日開催のイベント" />
-          <ul className="pickup">
-            {upcoming.map((e) => (
-              <li key={e.id}>
-                <EventCard event={e} />
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
+      {pickup.length > 0 && (
+        <section className="band band--green" aria-labelledby="pickup-title">
+          <div className="container">
+            <SectionTitle
+              id="pickup-title"
+              en="Pickup"
+              ja="近日開催のイベント"
+            />
+            <ul className="pickup">
+              {pickup.map((e) => (
+                <li key={e.id}>
+                  <EventCard event={e} />
+                </li>
+              ))}
+            </ul>
+          </div>
+        </section>
+      )}
 
       <section className="band" aria-labelledby="discover-title">
         <div className="container">
