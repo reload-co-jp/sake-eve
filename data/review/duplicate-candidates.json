@@ -34,5 +34,15 @@
       "similar_title"
     ],
     "detectedAt": "2026-10-10T18:43:03.508Z"
+  },
+  {
+    "eventId": "evt-ba1448763adf",
+    "candidateEventId": "evt-b12361691798",
+    "score": 1,
+    "reasons": [
+      "similar_title",
+      "same_start_date"
+    ],
+    "detectedAt": "2026-10-11T08:59:35.186Z"
   }
 ]

@@ -2077,5 +2077,716 @@
       "eventKeywordMatched": false,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-6b4f750b763e",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3004926?display=1",
+    "title": "地酒を心ゆくまで楽しんで“湯田温泉酒まつり\"開催「全部飲む勢いでいく!」1万人が来場 山口",
+    "publisher": "TBSテレビ",
+    "publishedAt": "2026-10-11T08:29:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "b17fb6ac1d16803760bf84ab8fbf6be24ba7683260f66e28c9eef202461fb737",
+    "relatedEventIds": [
+      "evt-6b4f750b763e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6233daecd1df",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1437582",
+    "title": "16日に栃木県庁前県民広場でナイトマルシェ キッチンカーや酒販売",
+    "publisher": "下野新聞",
+    "publishedAt": "2026-10-11T05:00:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "dde18e1149568c7f1f231042509cdd04f0f2e88ae05694793363d0330f2a9dd9",
+    "relatedEventIds": [
+      "evt-6233daecd1df"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "栃木県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d739ff1fdf26",
+    "sourceType": "news",
+    "url": "https://ibarakinews.jp/news/newsdetail.php?f_jun=1791638005086700",
+    "title": "利き酒、酒蔵見学楽しむ 蔵開きイベント 茨城・古河",
+    "publisher": "茨城新聞",
+    "publishedAt": "2026-10-11T00:00:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "9c2b01afef09c9716e6e38c0aad329a1c8df213c44567846e3433690cd322e08",
+    "relatedEventIds": [
+      "evt-d739ff1fdf26"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting",
+        "brewery_open_day",
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d21d6a5cfc8c",
+    "sourceType": "news",
+    "url": "https://www.lmaga.jp/news/2026/10/1107910/",
+    "title": "【2日間だけ】人気の「日本酒祭」が大阪で!全26蔵77種の地酒が集結、グルメ&スイーツも",
+    "publisher": "Lmaga.jp",
+    "publishedAt": "2026-10-10T22:00:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "f197e25c955605d047378fd79508bbef1ab580a163a0522ceaed5431b4f25a1a",
+    "relatedEventIds": [
+      "evt-d21d6a5cfc8c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0e2478b1167d",
+    "sourceType": "news",
+    "url": "https://www.minpo.jp/articles/-/248151",
+    "title": "県産酒飲み比べ楽しむ 福島で立食形式イベント",
+    "publisher": "福島民報",
+    "publishedAt": "2026-10-10T20:49:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "802254b3e0f8739beeb1dfece2a66fc07db26a5903a5eaadf17177e3b5a23cc0",
+    "relatedEventIds": [
+      "evt-0e2478b1167d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9fc88ae70a52",
+    "sourceType": "news",
+    "url": "https://www.chunichi.co.jp/article/1323658",
+    "title": "知られざるワインの街、三重県四日市市へ行こう! 10月17~18日、近鉄四日市駅前商店街でイベント",
+    "publisher": "中日新聞",
+    "publishedAt": "2026-10-10T10:59:52.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "a0852a3d8ad3f88497a4d0d105ef0e133f88fa715d7b54d8812421187b3dc63a",
+    "relatedEventIds": [
+      "evt-9fc88ae70a52"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "三重県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0d1ef6e73339",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3004399?display=1",
+    "title": "ブドウの糖度が高くワインの品質も上々 2026紫波ワインまつり&新酒お披露目会",
+    "publisher": "TBSテレビ",
+    "publishedAt": "2026-10-10T09:41:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "d1f91bf5bb60704bc223d9cde90ded4038a2fbdd9ab92416dc71787bef09efa2",
+    "relatedEventIds": [
+      "evt-0d1ef6e73339"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-5d12f7f620d9",
+    "sourceType": "news",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1805952",
+    "title": "長蛇の列の「パンフェスティバル」が京都市の世界遺産で 抹茶や酒かす、「豪華限定」に「うれしい」の声",
+    "publisher": "京都新聞",
+    "publishedAt": "2026-10-10T08:40:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "9556bdae6dfe1c4a18273ee90a1fc60b76fe39aa785e7fc85315ae7628c43b0f",
+    "relatedEventIds": [
+      "evt-5d12f7f620d9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-47524a0f56ba",
+    "sourceType": "news",
+    "url": "https://www.chugoku-np.co.jp/articles/-/907803",
+    "title": "東広島で酒まつり開幕 全国800蔵の銘酒集結 飲み比べや地元グルメ楽しむ",
+    "publisher": "中国新聞",
+    "publishedAt": "2026-10-10T08:00:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "1294753c548dec8ce174918c6a27ab5297337ab8b7171483348b3d3c6858a003",
+    "relatedEventIds": [
+      "evt-47524a0f56ba"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1cb34e30baad",
+    "sourceType": "news",
+    "url": "https://sumida.keizai.biz/headline/2010/",
+    "title": "錦糸公園「ワカコ酒フェス」に武田梨奈さん来場 トークと特別ライブも",
+    "publisher": "すみだ経済新聞",
+    "publishedAt": "2026-10-10T04:07:22.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "cb58d1866ef2f90de9b51928af5f868e33d1a85d5dbe184567aa69589949d64a",
+    "relatedEventIds": [
+      "evt-1cb34e30baad"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f9a6739ba664",
+    "sourceType": "news",
+    "url": "https://hiroshima.keizai.biz/headline/4734/",
+    "title": "広島で「酒まつり」 全国801蔵の酒を飲み比べ、西条7蔵の限定酒も",
+    "publisher": "広島経済新聞",
+    "publishedAt": "2026-10-09T12:31:38.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "7daf64df8a15dc38dde7707279dccdee2f49558b0168475311f28a171a98abe2",
+    "relatedEventIds": [
+      "evt-f9a6739ba664"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6c51f6f62815",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3002340?display=1",
+    "title": "【目指せ!エンタメ温泉郷】湯けむりめぐってハシゴ酒!夜の温泉街を遊び尽くす「石和ホッピング」開催",
+    "publisher": "TBSテレビ",
+    "publishedAt": "2026-10-09T12:00:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "cc1021af0019510fb52aa1bfcb28df917d1b83667b98666fded2ee3879e1a579",
+    "relatedEventIds": [
+      "evt-6c51f6f62815"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1bb4384f9265",
+    "sourceType": "news",
+    "url": "https://news.ntv.co.jp/category/society/fb0c040ab47f4a43ba87e0d8d3ca891317",
+    "title": "来春の「ふくい桜まつり」 2年ぶりにオープニングイベントを開催 来年3月27日から4月11日までの16日間 好評の酒を味わうイベントは継続開催が決定",
+    "publisher": "日本テレビ",
+    "publishedAt": "2026-10-09T11:26:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "4d27f3acc48331934297119dda169bd9047997483cac4a0a536ecff322ae6957",
+    "relatedEventIds": [
+      "evt-1bb4384f9265"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2027-04-11",
+      "endDate": "2027-04-11",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-75ac98868c35",
+    "sourceType": "news",
+    "url": "https://news.ntv.co.jp/category/life/kk8363e51302f14e12bf6538fd601e656b",
+    "title": "「飲んで、食べて応援」熊本の日本酒とグルメが集結!「秋酒まつり」始まる 被災地からの出店も",
+    "publisher": "日本テレビ",
+    "publishedAt": "2026-10-09T10:30:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "07df35cea51b3e0b780eee47954666105ad5b1f5ab72a16fab6a046668727b45",
+    "relatedEventIds": [
+      "evt-75ac98868c35"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "熊本県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b12361691798",
+    "sourceType": "news",
+    "url": "https://ascii.jp/elem/000/004/440/4440279/",
+    "title": "歌にグラビアにコスプレに酒場まで!? 個性あふれる4人が初参加、「コスマップ撮影会 vol.29」開催",
+    "publisher": "ASCII.jp",
+    "publishedAt": "2026-10-09T10:00:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "a8603b61d3632cd1c427d353c2fa46d44a65a2374a4ff09764895f6a5a17589d",
+    "relatedEventIds": [
+      "evt-b12361691798"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-14",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ba1448763adf",
+    "sourceType": "news",
+    "url": "https://weekly.ascii.jp/elem/000/004/440/4440279/",
+    "title": "歌にグラビアにコスプレに酒場まで!? 個性あふれる4人が初参加、「コスマップ撮影会 vol.29」開催",
+    "publisher": "週アスPLUS",
+    "publishedAt": "2026-10-09T10:00:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "ec14e4ef4fa65cc9cdc49543b23248d162f45d98f1f213c952f7a97f3c6b2263",
+    "relatedEventIds": [
+      "evt-ba1448763adf"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-14",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-b12361691798"
+      ]
+    }
+  },
+  {
+    "id": "src-45e5cecd0b55",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3003125?display=1",
+    "title": "熊本駅前で「熊本秋酒まつり」開幕!県内7蔵元の秋酒を飲み比べ 11日まで",
+    "publisher": "TBSテレビ",
+    "publishedAt": "2026-10-09T09:55:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "82f3fa12f0a0b14fbc2b37f05c8e1b536d622a63499617b5042b29d4025e0418",
+    "relatedEventIds": [
+      "evt-45e5cecd0b55"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "熊本県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-dca734ffa1bc",
+    "sourceType": "news",
+    "url": "https://tetsudo-ch.com/13040825.html",
+    "title": "東京都内のお酒イベントまとめ!スカイツリー・二子玉川・下北沢・銀座など秋のハシゴ酒9選【2026年10月】クラフトビールから日本酒・awa酒まで",
+    "publisher": "鉄道チャンネル",
+    "publishedAt": "2026-10-09T09:30:32.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "129d588157ad5e3627f09c9b8b8ac5424127dfe400f03db6b9a9f92a30518b2a",
+    "relatedEventIds": [
+      "evt-dca734ffa1bc"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-23d3a671c835",
+    "sourceType": "news",
+    "url": "https://shunan.keizai.biz/headline/2244/",
+    "title": "下松駅前で「はしご酒フェス」 地元飲食店の鍋料理と県内9蔵の地酒",
+    "publisher": "周南経済新聞",
+    "publishedAt": "2026-10-09T09:12:45.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "f2ca5bf171e6889131d360ca2ac1fd5ef382e7b00f29be64d8ae1348a96a50ab",
+    "relatedEventIds": [
+      "evt-23d3a671c835"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-48b6045475e7",
+    "sourceType": "news",
+    "url": "https://www.chugoku-np.co.jp/articles/-/907383",
+    "title": "広島県内4信金、17日に広島駅北口でマルシェ ビールやジャーキー並ぶ",
+    "publisher": "中国新聞",
+    "publishedAt": "2026-10-09T08:15:19.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "0ec29452fae2b9944e44d15a5600ffb8a3d097ac1ebf042f694132730db7c018",
+    "relatedEventIds": [
+      "evt-48b6045475e7"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d3a9584b103b",
+    "sourceType": "news",
+    "url": "https://www.jiji.com/jc/article?k=2026100900860&g=soc",
+    "title": "大雨被害に負けず地酒の祭典 千葉市〔地域〕",
+    "publisher": "時事通信",
+    "publishedAt": "2026-10-09T08:08:00.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "10f6b81931090cb8cc2c70958045cbac683243d08fddf0826157020872f4a2dc",
+    "relatedEventIds": [
+      "evt-d3a9584b103b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "千葉県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ad30f6265615",
+    "sourceType": "news",
+    "url": "https://www.walkerplus.com/article/1446705/",
+    "title": "京都・松尾大社で日本酒を楽しむ「酒ハイかるた大会」開催!豪華景品&蔵元の“酒ハイ\"角打ちブース登場",
+    "publisher": "ウォーカープラス",
+    "publishedAt": "2026-10-09T08:00:26.000Z",
+    "fetchedAt": "2026-10-11T08:59:35.186Z",
+    "contentHash": "dddafa000eaa4e6c2ebc3dc24ee1523b8de86b2fabcc5dd12855566b19f5becd",
+    "relatedEventIds": [
+      "evt-ad30f6265615"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
