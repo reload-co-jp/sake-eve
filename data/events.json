@@ -3714,5 +3714,310 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-6ab6ccec19a1",
+    "slug": "e-6ab6ccec19a1",
+    "title": "10月22日（木）13時よりオンライン開催！経営者向け＜財務戦略セミナー＞旅費・役員賞与を活用して「キャッシュを最大化」するには？",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-10-22T00:00:00+09:00",
+    "endAt": "2026-10-22T23:59:00+09:00",
+    "venue": {
+      "name": "オンライン",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://goldonline.co.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/30719/204/30719-204-4a66e36c7fd870964d8dda2847f6fdca-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6ab6ccec19a1"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-d09fb66ae323",
+    "slug": "e-d09fb66ae323",
+    "title": "ラウンドテーブル「『サイレントキラー』非ウイルス性肝炎の重症化を防ぐ政策的アプローチ ～特定健診スクリーニングと『かかりつけ医×専門医』病診連携の最前線～」を開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-09-24T00:00:00+09:00",
+    "endAt": "2026-09-24T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/42181/165/42181-165-750a466bcb25dd25342ef5505f2846b6-680x416.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d09fb66ae323"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-98b4f4334e4c",
+    "slug": "e-98b4f4334e4c",
+    "title": "地酒飲み比べ堪能 湯田温泉酒まつり",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yomiuri.co.jp/media/2026/10/20261011-GYTNI00145-1.jpg?type=ogp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-98b4f4334e4c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6a2cc472bd25",
+    "slug": "e-6a2cc472bd25",
+    "title": "長野の酒・食材を発信、ディナーイベント開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.nna.jp/uploads/article_image/image_with_caption/14884543/large_20261012_hkd_nagano_w.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6a2cc472bd25"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f75bd5878c57",
+    "slug": "e-f75bd5878c57",
+    "title": "東広島の酒まつり閉幕、22万人が満喫 最終日は蔵巡り人気",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://chugoku-np.ismcdn.jp/mwimgs/c/5/-/img_c5a42cbff8741bb6d283d40fb820b4d92580651.png",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f75bd5878c57"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-d2dfd595c3bc",
+    "slug": "e-d2dfd595c3bc",
+    "title": "日本有数の酒どころ東広島市西条で「酒まつり」 2日間で22万人来場 限定酒に酔いしれる 新しい酒の飲み方提案も・広島",
+    "description": null,
+    "genres": [
+      "sake",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/c/9/1200w/img_c97df4cb73c98bb338237cdf0a603beb544322.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d2dfd595c3bc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0b7808979da6",
+    "slug": "e-0b7808979da6",
+    "title": "【2日間だけ】人気の「日本酒祭」が今年も!全26蔵77種の地酒&グルメが集結",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://i.daily.jp/leisure/kansai/2026/10/11/Images/f_20917753.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0b7808979da6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]

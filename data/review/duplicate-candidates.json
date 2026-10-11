@@ -44,5 +44,14 @@
       "same_start_date"
     ],
     "detectedAt": "2026-10-11T08:59:35.186Z"
+  },
+  {
+    "eventId": "evt-0b7808979da6",
+    "candidateEventId": "evt-d21d6a5cfc8c",
+    "score": 0.7,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-10-11T20:52:55.861Z"
   }
 ]

@@ -2788,5 +2788,235 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-6ab6ccec19a1",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000204.000030719.html",
+    "title": "10月22日（木）13時よりオンライン開催！経営者向け＜財務戦略セミナー＞旅費・役員賞与を活用して「キャッシュを最大化」するには？",
+    "publisher": "株式会社ゴールドオンライン",
+    "publishedAt": "2026-10-08T10:10:01+09:00",
+    "fetchedAt": "2026-10-11T20:52:55.861Z",
+    "contentHash": "90dca6f0e43a1824f2f0cc7fccc67b7fd269dd5ca92057031ff56ee7ebc8056e",
+    "relatedEventIds": [
+      "evt-6ab6ccec19a1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "dateSource": "text",
+      "venueName": "オンライン",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://goldonline.co.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d09fb66ae323",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000165.000042181.html",
+    "title": "ラウンドテーブル「『サイレントキラー』非ウイルス性肝炎の重症化を防ぐ政策的アプローチ ～特定健診スクリーニングと『かかりつけ医×専門医』病診連携の最前線～」を開催",
+    "publisher": "一般社団法人 日本パブリックアフェアーズ協会",
+    "publishedAt": "2026-10-08T10:00:02+09:00",
+    "fetchedAt": "2026-10-11T20:52:55.861Z",
+    "contentHash": "8e278f8995c894babeb879e7e7d9651e9f6ae2c0d19a7896846085f1a521596e",
+    "relatedEventIds": [
+      "evt-d09fb66ae323"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-09-24",
+      "endDate": "2026-09-24",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-98b4f4334e4c",
+    "sourceType": "news",
+    "url": "https://www.yomiuri.co.jp/local/yamaguchi/news/20261011-GYTNT00143/",
+    "title": "地酒飲み比べ堪能 湯田温泉酒まつり",
+    "publisher": "読売新聞",
+    "publishedAt": "2026-10-11T20:00:00.000Z",
+    "fetchedAt": "2026-10-11T20:52:55.861Z",
+    "contentHash": "ea73bc9b3b14c7f294bf8c72e8e25a5093cd36381f5bf40f8c881dc2edf77196",
+    "relatedEventIds": [
+      "evt-98b4f4334e4c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6a2cc472bd25",
+    "sourceType": "news",
+    "url": "https://www.nna.jp/news/2975202",
+    "title": "長野の酒・食材を発信、ディナーイベント開催",
+    "publisher": "NNA.ASIA",
+    "publishedAt": "2026-10-11T15:00:00.000Z",
+    "fetchedAt": "2026-10-11T20:52:55.861Z",
+    "contentHash": "6532d3f29cd3ec555e649364d95d290a2e49b1137cf44017ef82aeaaebc919be",
+    "relatedEventIds": [
+      "evt-6a2cc472bd25"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f75bd5878c57",
+    "sourceType": "news",
+    "url": "https://www.chugoku-np.co.jp/articles/-/908059",
+    "title": "東広島の酒まつり閉幕、22万人が満喫 最終日は蔵巡り人気",
+    "publisher": "東広島の酒まつり閉幕、22万人が満喫　最終日は蔵巡り人気 | 中国新聞デジタル",
+    "publishedAt": "2026-10-11T09:32:00.000Z",
+    "fetchedAt": "2026-10-11T20:52:55.861Z",
+    "contentHash": "fb8e4ea250d9ca2ffe38ec97affa73552331c396211e625cccb102dfc50ced3a",
+    "relatedEventIds": [
+      "evt-f75bd5878c57"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d2dfd595c3bc",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3004994?display=1",
+    "title": "日本有数の酒どころ東広島市西条で「酒まつり」 2日間で22万人来場 限定酒に酔いしれる 新しい酒の飲み方提案も・広島",
+    "publisher": "TBS NEWS DIG",
+    "publishedAt": "2026-10-11T09:20:00.000Z",
+    "fetchedAt": "2026-10-11T20:52:55.861Z",
+    "contentHash": "12ac1c737ec188a370e60a7cd5581fa4e6c420555511d88cf0d021b3e8eab36c",
+    "relatedEventIds": [
+      "evt-d2dfd595c3bc"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0b7808979da6",
+    "sourceType": "news",
+    "url": "https://www.daily.co.jp/leisure/kansai/2026/10/11/0020917752.shtml",
+    "title": "【2日間だけ】人気の「日本酒祭」が今年も!全26蔵77種の地酒&グルメが集結",
+    "publisher": "デイリースポーツ online",
+    "publishedAt": "2026-10-10T22:00:00.000Z",
+    "fetchedAt": "2026-10-11T20:52:55.861Z",
+    "contentHash": "3d58fc0495e02eaa8e2c86d1b964ca3dadc648285536f72463916412d0f1b8bc",
+    "relatedEventIds": [
+      "evt-0b7808979da6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-d21d6a5cfc8c"
+      ]
+    }
   }
 ]

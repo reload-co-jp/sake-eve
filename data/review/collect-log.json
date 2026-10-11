@@ -231,5 +231,49 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-10-11T20:48:35.982Z",
+    "finishedAt": "2026-10-11T20:52:55.888Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://www.kanaloco.jp/news/culture/bunka/article-1311126.html: HTTP 307: https://www.kanaloco.jp/news/culture/bunka/article-1311126.html / 詳細取得29件 / 失敗1件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 274,
+      "duplicateUrl": 19,
+      "added": 7,
+      "needsReview": 7,
+      "autoPublished": 0,
+      "duplicateCandidates": 1,
+      "autoHidden": 1,
+      "summarized": 0
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]
