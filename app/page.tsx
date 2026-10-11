@@ -1,10 +1,17 @@
 import { Metadata } from "next"
 import Link from "next/link"
 import { EventCard, StatusBadge, eventPlace } from "@/components/EventCard"
+import { EventMap } from "@/components/EventMap"
 import { SectionTitle } from "@/components/elements/layout"
 import { ArticleList, ProducerList, ProductList } from "@/components/Lists"
 import { db, publicEvents } from "@/lib/data"
-import { byStartAt, effectiveStatus, formatPeriod, jstDate } from "@/lib/event"
+import {
+  byStartAt,
+  effectiveStatus,
+  formatPeriod,
+  jstDate,
+  toMapPoint,
+} from "@/lib/event"
 import {
   GENRES,
   GENRES_EN,
@@ -23,6 +30,7 @@ const Page = () => {
   // Ongoing events sort first (earliest start), then the soonest scheduled ones.
   const featured = upcoming.slice(0, 3)
   const pickup = upcoming.slice(3, 9)
+  const points = upcoming.map(toMapPoint).filter((p) => p !== null)
   const latest = [...publicEvents]
     .sort((a, b) => Date.parse(b.createdAt) - Date.parse(a.createdAt))
     .slice(0, 5)
@@ -130,6 +138,9 @@ const Page = () => {
             en="Discover"
             ja="地図とタイムラインで探す"
           />
+          {points.length > 0 && (
+            <EventMap points={points} label="開催予定イベントの会場の地図" />
+          )}
           <div className="discover">
             <Link className="discover__item" href="/events/map/">
               <span className="discover__en" aria-hidden="true">

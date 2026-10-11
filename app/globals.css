@@ -863,6 +863,7 @@ a {
 .event-map {
   width: 100%;
   height: min(65vh, 560px);
+  margin-bottom: 24px;
   border-radius: 3px;
   box-shadow: 4px 4px 15px rgb(43 26 11 / 0.12);
 }
