@@ -7,5 +7,32 @@
       "same_start_date"
     ],
     "detectedAt": "2026-10-10T13:07:33.836Z"
+  },
+  {
+    "eventId": "evt-2757768f6292",
+    "candidateEventId": "evt-62bb58b2e73e",
+    "score": 0.62,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-10-10T18:43:03.508Z"
+  },
+  {
+    "eventId": "evt-49f4db6e670b",
+    "candidateEventId": "evt-17bceeff3875",
+    "score": 0.67,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-10-10T18:43:03.508Z"
+  },
+  {
+    "eventId": "evt-32560798d1be",
+    "candidateEventId": "evt-e8a8b733690e",
+    "score": 0.74,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-10-10T18:43:03.508Z"
   }
 ]

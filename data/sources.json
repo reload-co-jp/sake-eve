@@ -1059,5 +1059,1023 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-6d9b73822627",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000030.000127299.html",
+    "title": "川崎のカギヤブルワリーが聖蹟桜ヶ丘へ。「せいせき秋のビール祭2026」に10月9日〜11日の3日間出店",
+    "publisher": "株式会社KEY CORPORATION",
+    "publishedAt": "2026-10-05T10:33:58+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "180508b7816b5d7c50e681a6beaee9c4304c0711f213c3865e223adca2b4687c",
+    "relatedEventIds": [
+      "evt-6d9b73822627"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "dateSource": "label",
+      "venueName": "京王聖蹟桜ヶ丘ショッピングセンター A館8階 BBQ場よこ(東京都多摩市関戸1-10-1/京王線「聖蹟桜ヶ丘駅」)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": "https://www.keio-sc.jp/2026autumnbeer/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-bde238d35658",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000006124.000007505.html",
+    "title": "おうちで楽しむ「イオンのオクトーバーフェスト」開催",
+    "publisher": "イオン株式会社",
+    "publishedAt": "2026-09-30T10:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "92b798adc97b6599306f426b09615f5a18b7f153e44926c61ffcad854b2b7263",
+    "relatedEventIds": [
+      "evt-bde238d35658"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-12",
+      "dateSource": "label",
+      "venueName": "イオンモール津田沼South 8階催事場",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://chirashi.otoku.aeonsquare.net/aeonoktoberfest/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4c5392428bb3",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000002346.000095753.html",
+    "title": "京都駅でクラフトビールが楽しめる 「京都駅ビルビアフェスタ２０２６」開催決定！",
+    "publisher": "西日本旅客鉄道株式会社",
+    "publishedAt": "2026-09-29T16:35:39+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "0adc1f919509f8c5557905d59e58804ee2b6400ee1a9f138e0f74e529630e0a8",
+    "relatedEventIds": [
+      "evt-4c5392428bb3"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8b96509c4411",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000012.000139143.html",
+    "title": "下北沢産ホップを使ったビールが登場！10回目を迎える「シモキタ CRAFT BEER FEST 2026 Fall」を10月10日より3日間開催｜下北沢駅前でクラフトビール・古着・フードを満喫",
+    "publisher": "株式会社坂口屋",
+    "publishedAt": "2026-09-28T15:53:10+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "0cfd841a77cd58583e3ea9cf4644550a570bcb3aa6ae9a5d479da533388c5ee8",
+    "relatedEventIds": [
+      "evt-8b96509c4411"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://shimokita-info.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-26fde16bf8de",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000100342.html",
+    "title": "第10回　吉祥寺ワールドビアフェス2026　10月9日(金)より開催！",
+    "publisher": "一般社団法人フラットデザイン",
+    "publishedAt": "2026-09-27T16:34:04+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "09c9df3f0660a7fb9fa4c29066507640edf776b55beebd49992f7ada1c58305a",
+    "relatedEventIds": [
+      "evt-26fde16bf8de"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-18",
+      "dateSource": "label",
+      "venueName": "吉祥寺駅周辺の参加店舗",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-2757768f6292",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000153.000060917.html",
+    "title": "ガチャを回して、推しに投票。「クラフトビール総選挙2026 in 二子玉川」10月8日より開催〜新しい投票スタイルと、4党それぞれのペアリングフードが登場〜",
+    "publisher": "株式会社DREAMBEER",
+    "publishedAt": "2026-09-25T12:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "f12a275e33f29a1cf3c9fd97621fa6793fdab9274263e877eb61e974efea4a1f",
+    "relatedEventIds": [
+      "evt-2757768f6292"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": "二子玉川ライズ 中央広場・スタジオ(東京都世田谷区)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-62bb58b2e73e"
+      ]
+    }
+  },
+  {
+    "id": "src-22f70c0b4ee4",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000120124.html",
+    "title": "OKUTAMA BEER FEST 2026 開催｜国内各地のブルワリーと地域のフード・マルシェが奥多摩に集結",
+    "publisher": "VERTERE株式会社",
+    "publishedAt": "2026-09-24T09:03:33+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "df2cc7bfccd880314a9ebbcf02273eb042ebd663e58e2c02e09adac2b91903b0",
+    "relatedEventIds": [
+      "evt-22f70c0b4ee4"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "tasting",
+        "tour",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": "東京都西多摩郡奥多摩町氷川212〈JR青梅線奥多摩駅より徒歩すぐ〉",
+      "prefecture": "東京都",
+      "city": "西多摩郡",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d9dac0abf94e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000149465.html",
+    "title": "横浜駅直結・NEWoMan横浜のビアガーデンで、横浜のクラフトブルワリー6社が集結する飲み放題イベントを10月3日（土）開催！",
+    "publisher": "横浜ファンカンパニー株式会社",
+    "publishedAt": "2026-09-11T17:53:29+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "9d619028f62af87681a7680e778fb9d621958d37c9dc27a07547c8f9bc7c4b9e",
+    "relatedEventIds": [
+      "evt-d9dac0abf94e"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "東京都文京区千駄木3丁目35-12 3F",
+      "prefecture": "東京都",
+      "city": "文京区",
+      "officialUrl": "http://www.stables.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1983f60aff6f",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000188595.html",
+    "title": "【シルバーウィーク後半は大阪ベイタワーへ！】13ブルワリー集結、食・音楽・ステージの全貌公開「MUGI FES」9/22・23開催",
+    "publisher": "株式会社クラフトネクサス",
+    "publishedAt": "2026-09-10T15:22:49+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "de441f08b016a24cb4882687aeb3d9573cafb8a940a7e4d73594b7dc7a0ead6e",
+    "relatedEventIds": [
+      "evt-1983f60aff6f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ec7a842cf1e6",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000059.000031928.html",
+    "title": "「ベルギービール」と「京都」の食文化が出会う5日間　ベルギービールウィークエンド2026 京都　開催",
+    "publisher": "starbeer productions株式会社",
+    "publishedAt": "2026-09-10T13:10:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "2e2667ba53ff685f96f1ac75bf769ec9c6c9783587347cce2f0aa9bc1bff2827",
+    "relatedEventIds": [
+      "evt-ec7a842cf1e6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-49f4db6e670b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000029.000151165.html",
+    "title": "９月18日（金）～23日（水・祝）「はまテラスクラフトビールフェス」開催",
+    "publisher": "横浜新都市センター株式会社",
+    "publishedAt": "2026-09-09T11:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "4409a4ea0608ef016df2cd68c9bc3b402dc6f07978e329eb4ecda10a6dd669b4",
+    "relatedEventIds": [
+      "evt-49f4db6e670b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-23",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-17bceeff3875"
+      ]
+    }
+  },
+  {
+    "id": "src-fc4f56f04c2b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000175.000137984.html",
+    "title": "9/4（金）～9/6（日）「クラフトビアグランプリ2026 in錦糸公園」に出店中！【富士桜高原麦酒】をはじめ、50種類以上のクラフトビールが楽しめる！！",
+    "publisher": "富士観光開発株式会社",
+    "publishedAt": "2026-09-04T19:30:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "d022c7218859f63a9cceaadeefe00e0a8a5cc97aef49cd033213f317cf6808a1",
+    "relatedEventIds": [
+      "evt-fc4f56f04c2b"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-04",
+      "endDate": "2026-09-06",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "山梨県南都留郡富士河口湖町船津字剣丸尾6663-1",
+      "prefecture": "山梨県",
+      "city": "南都留郡",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-70f72afb0203",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000549.000020740.html",
+    "title": "9月のメッツァビレッジはダンスフェス＆ビアフェス×北欧花火！シルバーウィークは埼玉県内ブルワリーのクラフトビールとフィンランドビールが堪能できる「森と湖のクラフトビールジャーニー」 を開催！",
+    "publisher": "株式会社ムーミン物語",
+    "publishedAt": "2026-08-27T15:00:30+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "95bce543cbc709b3fe194b9206ba3ba74b7ae9f7722b55156d696e65ccfb34f9",
+    "relatedEventIds": [
+      "evt-70f72afb0203"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "dateSource": "label",
+      "venueName": "メッツァアウキオ",
+      "address": null,
+      "prefecture": "埼玉県",
+      "city": null,
+      "officialUrl": "https://metsa-hanno.com/event/46724/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-aa7ce03762d9",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000428.000082705.html",
+    "title": "普段は房総を走る「B.B.BASE」が群馬へ！クラフトビールと地酒を楽しむ特別列車ツアーを発売",
+    "publisher": "株式会社JR東日本びゅうツーリズム＆セールス",
+    "publishedAt": "2026-08-27T14:00:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "955be845a81f784922a0bef9cfd951ec1fd1ba752aa6bfc5c659c0ba6e3be54c",
+    "relatedEventIds": [
+      "evt-aa7ce03762d9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-13c02694f4cb",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000079.000036413.html",
+    "title": "【全情報解禁】全国から15ブルワリー80種類以上のクラフトビールが錦糸公園に集結！「クラフトビアグランプリ2026」9月4日～6日開催",
+    "publisher": "株式会社アドギルド・ジャパン",
+    "publishedAt": "2026-08-27T13:10:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "37732c88c9d79e84987279298dccf9104d3b1061cace4d70f5e72c71da978f13",
+    "relatedEventIds": [
+      "evt-13c02694f4cb"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-e8a8b733690e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000152.000060917.html",
+    "title": "来場者の一票で日本一のビール党が決まる、参加型ビールイベント「クラフトビール総選挙2026 in 武蔵小杉」9月10日より開催〜大好評につきこすぎコアパークで5回目、川崎・武蔵小杉の秋の風物詩へ〜",
+    "publisher": "株式会社DREAMBEER",
+    "publishedAt": "2026-08-27T12:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "a9573a87cc25a934701ebf744e125b0887ae6877c108744f5bf88915aa8aa3bd",
+    "relatedEventIds": [
+      "evt-e8a8b733690e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": "こすぎコアパーク(武蔵小杉駅:神奈川県川崎市中原区)",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9e335f354072",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000024.000074477.html",
+    "title": "【開催迫る！】North Tokyo Craft Beer Festival 2026（9/5・6）開催！",
+    "publisher": "株式会社 ironowa",
+    "publishedAt": "2026-08-24T08:00:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "538922357b2d50ac310ba465797680d80f311488ead3d178962370859be2397f",
+    "relatedEventIds": [
+      "evt-9e335f354072"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-32560798d1be",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000151.000060917.html",
+    "title": "来場者の一票で日本一のビール党が決まる、参加型ビールイベント「クラフトビール総選挙2026 in 御徒町」9月2日より開催〜大好評につきパンダ広場で2回目、上野・御徒町の秋の風物詩へ〜",
+    "publisher": "株式会社DREAMBEER",
+    "publishedAt": "2026-08-21T12:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "c740544111c9e5db3e367e23b77fac716c7d8c153c238887a6c61802276c555e",
+    "relatedEventIds": [
+      "evt-32560798d1be"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": "おかちまちパンダ広場(東京都台東区)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-e8a8b733690e"
+      ]
+    }
+  },
+  {
+    "id": "src-eee1fd1f1120",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000019968.000007006.html",
+    "title": "県内19ブルワリーが集結！クラフトビールを飲み比べる6日間「埼玉・武蔵野ビールフェス in サクラタウン 2026秋 Supported by DREAMBEER」",
+    "publisher": "株式会社KADOKAWA",
+    "publishedAt": "2026-08-21T12:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "47674591b2c29889be6564b7955b7ba6bde20f263619283caa449225dfe01541",
+    "relatedEventIds": [
+      "evt-eee1fd1f1120"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tour"
+      ],
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "dateSource": "label",
+      "venueName": "ところざわサクラタウン 2階 中央広場",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://tokorozawa-sakuratown.com/event_categories/saitama-musashino-beerfes26a.html",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f2a9e4441081",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000178675.html",
+    "title": "ショッピング×クラフトビール。日本最大級のアウトレットでビアフェス初開催!【チバビアフェスト at 三井アウトレットパーク 木更津】2026年 9/20（日）～22（火・休）",
+    "publisher": "チバビアフェスト",
+    "publishedAt": "2026-08-20T18:00:17+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "2ff998cc79143421f0cbb9b6e8cc06eeb71586c961be189ae926ca75f39d12d4",
+    "relatedEventIds": [
+      "evt-f2a9e4441081"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-22",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b2495d540604",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000015.000147653.html",
+    "title": "昨年5万人が来場した大型ビアフェスティバル『BEERS OF JAPAN FESTIVAL 2026福岡』が累計100万人突破記念開催 天神中央公園に9月18日から全国のクラフトビールとグルメが集結！",
+    "publisher": "有限会社ケイズブルーイングカンパニー",
+    "publishedAt": "2026-08-20T12:45:22+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "c42615d01d0fe939b53ca9c6ccdee43ec03ef4d4549680d2c1fa0f5aaff6970e",
+    "relatedEventIds": [
+      "evt-b2495d540604"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-23",
+      "dateSource": "label",
+      "venueName": "会場中央特設ステージ",
+      "address": "〒814-0104 福岡市城南区別府1-19-1",
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-60127a075c0d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000008.000083530.html",
+    "title": "【10月16日から18日開催】クラフトビールの祭典「つくばクラフトビアフェスト2026」 13回目のテーマは「beer meets ***」。ビールと出会う、ビールで出会う3日間へ。",
+    "publisher": "つくばクラフトビアフェスト実行委員会",
+    "publishedAt": "2026-08-20T08:00:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "ae22d741a3e4a4b3a32ad302cd81ff526e3564130f4b401a30668ee356782830",
+    "relatedEventIds": [
+      "evt-60127a075c0d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-94566f472bba",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000127299.html",
+    "title": "神奈川県内14ブルワリーが川崎に集結！川崎市最大級のクラフトビール＆カルチャーフェス「KAWASAKI STYLE PARK」を2026年9月19日・20日にHOTEL ARU KSPで初開催",
+    "publisher": "株式会社KEY CORPORATION",
+    "publishedAt": "2026-08-18T14:57:41+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "19150dff9b5e25d3eaa11e124d13a5a2ae6c8b137988bdceeb3f508432cb0b2b",
+    "relatedEventIds": [
+      "evt-94566f472bba"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3d0fd42ef9cf",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000276.000025081.html",
+    "title": "サンクトガーレン、収穫から24時間以内の摘みたてホップで仕込む「フレッシュホップIPA」を8月26日発売。国産ホップ第1号「かいこがね」使用",
+    "publisher": "サンクトガーレン有限会社",
+    "publishedAt": "2026-08-14T12:50:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "ab4d3188332d9409d37caf0d1527e9d90115c62d80eabcc7c912f9ea0cc9dd39",
+    "relatedEventIds": [
+      "evt-3d0fd42ef9cf"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": "神奈川県厚木市金田1137-1",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "officialUrl": "https://www.sanktgallenbrewery.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-77e3aeb1e5a8",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000144434.html",
+    "title": "ホップの栽培面積国内No.1 ホップの産地で飲んで味わう「遠野ホップ収穫祭２０２６」が８/2２(土)2３(日)に開催 今年は市内醸造所3社が遠野産ホップ使用イベント限定ビールを提供！｜岩手県遠野市",
+    "publisher": "観光マネジメントボード遠野",
+    "publishedAt": "2026-08-14T10:00:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "01a15233b638344d8ee007dd823f26196485a91357f7f6662fb2c39f4754bfb8",
+    "relatedEventIds": [
+      "evt-77e3aeb1e5a8"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tour"
+      ],
+      "startDate": "2026-08-21",
+      "endDate": "2026-08-21",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": "岩手県",
+      "city": null,
+      "officialUrl": "https://japanhopcountry.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c5420451dac6",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000266.000084326.html",
+    "title": "【ベルクラシック姫路】夏の極上ひとときを演出！シェフ特製料理とフリードリンクを楽しむ「夏のビアフェスタ」を8月22日(土)・23日(日)の2日間限定で開催",
+    "publisher": "株式会社ベルコ",
+    "publishedAt": "2026-08-12T12:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "5547ef626705c787d4c2dbd34c1faac8e7bf5c762a9dba1f2feed454a28b1ab8",
+    "relatedEventIds": [
+      "evt-c5420451dac6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": "ベルクラシック姫路(兵庫県姫路市西中島433-17)",
+      "address": "兵庫県姫路市",
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "officialUrl": "https://www.bellclassic.co.jp/kinki/himeji/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1e0ca2d6245d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000083530.html",
+    "title": "【企業パートナー募集】つくばクラフトビアフェスト2026の実証実験・協賛として申込受付8/31まで。",
+    "publisher": "つくばクラフトビアフェスト実行委員会",
+    "publishedAt": "2026-08-07T17:25:40+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "85b2a43d048419cc9f902b7beeba1f2d8c259af73a1cb826fb9b5335d672fa75",
+    "relatedEventIds": [
+      "evt-1e0ca2d6245d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": "つくばセンター広場(つくば市吾妻1-10-1/つくば駅 徒歩5分)",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://tsukuba-craftbeerfest.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c4465401c2c9",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000036.000087487.html",
+    "title": "上野公園の森が10日間限定のビアガーデンに。『ウエノデ.パンダビアフェスタ2026』開催決定！",
+    "publisher": "上野中央通り商店会",
+    "publishedAt": "2026-08-07T13:00:02+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "92a8bfe8c4d734a660af36addbc4ecc99ea6014d6cdfe67bb96259839dcd41f9",
+    "relatedEventIds": [
+      "evt-c4465401c2c9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-08-14",
+      "endDate": "2026-08-23",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d8477e6ea217",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000095.000128409.html",
+    "title": "長野CRAFT BEER＆FOOD Fes.開催のお知らせ",
+    "publisher": "アルピコホールディングス株式会社",
+    "publishedAt": "2026-08-04T12:16:20+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "5d50e498ecfe54304e9987a04f3ac3980e06a2aaa5870c02644a7e58b311a38b",
+    "relatedEventIds": [
+      "evt-d8477e6ea217"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://shinshu-beer-club.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c61810932a00",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000150.000060917.html",
+    "title": "～DREAMBEERで国産クラフトビールを楽しむ6日間～「クラフトビール総選挙2026 in 川崎」8月6日（木）～11日（火・祝）開催！",
+    "publisher": "株式会社DREAMBEER",
+    "publishedAt": "2026-07-27T12:00:01+09:00",
+    "fetchedAt": "2026-10-10T18:43:03.508Z",
+    "contentHash": "ddf32aeadc2dacd84a6fb0f87a4cff6f68d19ada8fca7130070418de9d47e5cf",
+    "relatedEventIds": [
+      "evt-c61810932a00"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": "かわさきフェス広場(川崎ルフロン前/神奈川県川崎市川崎区)",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": "https://marketing.dreambeer.jp/craftbeer_sousenkyo",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-cd3b0fd96c45",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005137.000019470.html",
+    "title": "ＲＥＤ　ＷＡＲＲＩＯＲＳ（レッド・ウォーリアーズ）が、名曲「バラとワイン」のセルフカバーを、新曲「Ａｐｏｌｌｏ　３６９」と共に収録した新録音のシングルＣＤを１２月２日にリリース！",
+    "publisher": "日本コロムビア株式会社",
+    "publishedAt": "2026-10-11T09:45:16+09:00",
+    "fetchedAt": "2026-10-11T01:57:50.570Z",
+    "contentHash": "8a32dae0485b6cfd5844127a6471943afb4bfc15dc774886c9125b64ca95c3d1",
+    "relatedEventIds": [
+      "evt-cd3b0fd96c45"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": false,
+      "duplicateCandidateIds": []
+    }
   }
 ]
