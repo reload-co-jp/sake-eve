@@ -12,7 +12,13 @@ import { join } from "node:path"
 import type { SourceType } from "../lib/types.ts"
 import type { KeywordConfig } from "./extract.ts"
 import { BlockedError, createFetcher } from "./http.ts"
-import { ADAPTERS, type RawItem, type SourceConfig } from "./sources.ts"
+import {
+  ADAPTERS,
+  parseDetail,
+  type RawItem,
+  type SourceConfig,
+} from "./sources.ts"
+import { summarize } from "./summarize.ts"
 import { normalizeUrl } from "./dedupe.ts"
 import { appendAudit } from "../admin/storage.ts"
 import {
@@ -113,9 +119,39 @@ if (!allFailed) {
   const now = new Date().toISOString()
   const result = merge(db, items, config, now)
   const triaged = triage(result.db, now)
-  log.stats = { ...result.stats, autoHidden: triaged.audit.length }
+  // Overviews: new events use the body fetched this run; published ones still missing one re-fetch their source.
+  const bodies = new Map(
+    items.map(({ item }) => [normalizeUrl(item.url), item.summary])
+  )
+  const sourceUrls = new Map(triaged.db.sources.map((s) => [s.id, s.url]))
+  let summarized = 0
+  // ponytail: per-run cap bounds API spend and source requests; the backlog drains over later runs.
+  let budget = dryRun || !process.env.ANTHROPIC_API_KEY ? 0 : 20
+  for (const e of triaged.db.events) {
+    if (budget <= 0) break
+    const url = sourceUrls.get(e.sourceIds[0] ?? "")
+    if (e.description || e.isSample || !url) continue
+    const body = bodies.get(normalizeUrl(url))
+    if (body === undefined && e.publication !== "published") continue
+    budget--
+    try {
+      const text = body ?? parseDetail(await fetchText(url), url)?.summary
+      const d = text && (await summarize(e.title, text))
+      if (d) {
+        e.description = d
+        e.updatedAt = now
+        summarized++
+      }
+    } catch (err) {
+      console.error(`[summary] ${e.slug}: ${(err as Error).message}`)
+    }
+  }
+  log.stats = { ...result.stats, autoHidden: triaged.audit.length, summarized }
   console.log("[stats]", JSON.stringify(log.stats))
-  if (!dryRun && (result.stats.added > 0 || triaged.audit.length > 0)) {
+  if (
+    !dryRun &&
+    (result.stats.added > 0 || triaged.audit.length > 0 || summarized > 0)
+  ) {
     log.validationErrors = save(dataDir, triaged.db, result.candidates)
     log.written = log.validationErrors.length === 0
     for (const err of log.validationErrors) console.error(`[invalid] ${err}`)

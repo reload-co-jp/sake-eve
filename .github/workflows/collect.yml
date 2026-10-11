@@ -33,6 +33,8 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - name: Collect
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node collector/run.ts ${{ inputs.dry_run && '--dry-run' || '' }} ${{ github.event_name == 'schedule' && '--scheduled' || '' }}
 
       - name: Save images

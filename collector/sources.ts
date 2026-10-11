@@ -66,7 +66,7 @@ export const splitCeekTitle = (i: RawItem): RawItem => {
 }
 
 /** PR TIMES releases use their JSON-LD parser; anything else the generic article parser. */
-const parseDetail = (html: string, url: string): RawItem | null => {
+export const parseDetail = (html: string, url: string): RawItem | null => {
   if (new URL(url).hostname !== "prtimes.jp") return parseWebPage(html, url)
   const r = parseRelease(html)
   return r && { url, ...r, summary: r.body }

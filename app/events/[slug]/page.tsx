@@ -131,11 +131,14 @@ const Page = async ({ params }: Props) => {
           これは動作確認用のサンプルデータです。実在のイベントではありません。
         </p>
       )}
-      {event.description ? (
-        <p className="lead">{event.description}</p>
-      ) : (
-        <p className="lead">概要は下記の出典（原典）でご確認ください。</p>
-      )}
+      <section aria-labelledby="summary">
+        <h2 id="summary">概要</h2>
+        {event.description ? (
+          <p className="lead">{event.description}</p>
+        ) : (
+          <p className="lead">概要は下記の出典（原典）でご確認ください。</p>
+        )}
+      </section>
 
       <section aria-labelledby="info">
         <h2 id="info">開催情報</h2>
