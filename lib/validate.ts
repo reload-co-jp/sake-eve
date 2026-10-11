@@ -94,6 +94,7 @@ const SCHEMA: Record<Collection, Record<string, Rule>> = {
     organizer: nullable(text),
     officialUrl: nullable(url),
     ticketUrl: nullable(url),
+    imageUrl: nullable(url),
     price: nullable(text),
     isFree: nullable(bool),
     reservationRequired: nullable(bool),

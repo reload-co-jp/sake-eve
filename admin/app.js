@@ -513,6 +513,7 @@ const NEW_EVENT = () => ({
   organizer: null,
   officialUrl: null,
   ticketUrl: null,
+  imageUrl: null,
   price: null,
   isFree: null,
   reservationRequired: null,
@@ -650,6 +651,7 @@ const eventEditor = (id, draft = null) => {
     text("organizer", "主催者", e.organizer),
     text("officialUrl", "公式サイトURL", e.officialUrl, { type: "url" }),
     text("ticketUrl", "チケットURL", e.ticketUrl, { type: "url" }),
+    text("imageUrl", "画像URL", e.imageUrl, { type: "url" }),
     text("price", "入場料（表示用）", e.price),
     select("isFree", "入場無料", triBool, e.isFree ?? ""),
     select(
@@ -759,6 +761,7 @@ const eventEditor = (id, draft = null) => {
       organizer: str(f.organizer.value),
       officialUrl: str(f.officialUrl.value),
       ticketUrl: str(f.ticketUrl.value),
+      imageUrl: str(f.imageUrl.value),
       price: str(f.price.value),
       isFree: bool(f.isFree.value),
       reservationRequired: bool(f.reservationRequired.value),

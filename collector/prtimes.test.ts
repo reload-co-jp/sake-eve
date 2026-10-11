@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest"
 import { BlockedError } from "./http"
 import { parseRelease, parseSearch, searchUrl } from "./prtimes"
+import { imageOf } from "./web"
 import { ADAPTERS, type AdapterContext } from "./sources"
 
 // Synthetic pages mirroring PR TIMES markup (no real content).
@@ -32,6 +33,16 @@ describe("parseSearch / parseRelease", () => {
     })
     expect(r!.body).toContain("日時：2026年11月14日\n会場：テスト公園")
     expect(parseRelease("<html></html>")).toBeNull()
+  })
+  it("reads og:image as an absolute URL", () => {
+    const html = (c: string) => `<meta property="og:image" content="${c}">`
+    expect(imageOf(html("/img/a.jpg?x=1&amp;y=2"), "https://prtimes.jp")).toBe(
+      "https://prtimes.jp/img/a.jpg?x=1&y=2"
+    )
+    expect(
+      imageOf(html("javascript:alert(1)"), "https://prtimes.jp")
+    ).toBeNull()
+    expect(imageOf("<html></html>", "https://prtimes.jp")).toBeNull()
   })
 })
 

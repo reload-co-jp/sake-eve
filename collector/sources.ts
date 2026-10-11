@@ -36,6 +36,8 @@ export type RawItem = {
   summary: string
   publisher: string | null
   publishedAt: string | null
+  /** og:image of the page, when the adapter fetched one. */
+  imageUrl?: string | null
 }
 
 export type Adapter = {
@@ -126,6 +128,7 @@ export const ADAPTERS: Record<string, Adapter> = {
             summary: r.body,
             publisher: r.publisher ?? h.company,
             publishedAt: r.publishedAt,
+            imageUrl: r.imageUrl,
           })
         } catch (e) {
           // Access restricted: stop immediately instead of retrying other pages.

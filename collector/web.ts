@@ -14,6 +14,18 @@ const meta = (html: string, key: string) => {
   return m ? decode(m[1] ?? m[2]).trim() || null : null
 }
 
+/** og:image (or twitter:image) as an absolute http(s) URL. */
+export const imageOf = (html: string, base: string) => {
+  const src = meta(html, "og:image") ?? meta(html, "twitter:image")
+  if (!src) return null
+  try {
+    const u = new URL(src, base)
+    return u.protocol === "https:" || u.protocol === "http:" ? u.href : null
+  } catch {
+    return null
+  }
+}
+
 const toText = (html: string) =>
   decode(
     html
@@ -126,5 +138,6 @@ export const parseWebPage = (html: string, url: string): RawItem | null => {
         ? article.datePublished
         : null) ?? meta(html, "article:published_time")
     ),
+    imageUrl: imageOf(html, url),
   }
 }

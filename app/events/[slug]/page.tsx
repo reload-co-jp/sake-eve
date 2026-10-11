@@ -109,6 +109,14 @@ const Page = async ({ params }: Props) => {
         <h1 className="page-title">{event.title}</h1>
         <GenreTags event={event} />
       </header>
+      {event.imageUrl && (
+        <img
+          className="detail-image"
+          src={event.imageUrl}
+          alt={`${event.title}の画像（出典より）`}
+          referrerPolicy="no-referrer"
+        />
+      )}
 
       {event.isSample && (
         <p className="note">

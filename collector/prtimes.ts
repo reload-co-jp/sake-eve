@@ -1,5 +1,6 @@
 /** Parsers for PR TIMES search result and release pages (server-rendered HTML). */
 import { decode } from "./rss.ts"
+import { imageOf } from "./web.ts"
 
 const BASE = "https://prtimes.jp"
 
@@ -43,6 +44,7 @@ export type Release = {
   publisher: string | null
   /** Body text for field extraction only; never stored. */
   body: string
+  imageUrl: string | null
 }
 
 /** Release page: NewsArticle JSON-LD for title/date/publisher, <article> text for extraction. */
@@ -77,6 +79,7 @@ export const parseRelease = (html: string): Release | null => {
       : null,
     publisher: (Array.isArray(author) ? author[0]?.name : author?.name) ?? null,
     body: text(main).slice(0, 5000),
+    imageUrl: imageOf(html, BASE),
   }
 }
 

@@ -120,6 +120,8 @@ export type Event = {
   organizer: string | null
   officialUrl: string | null
   ticketUrl: string | null
+  /** Representative image hotlinked from the source page (og:image). */
+  imageUrl: string | null
   /** Admission as stated by the source, e.g. "前売2,000円". */
   price: string | null
   isFree: boolean | null

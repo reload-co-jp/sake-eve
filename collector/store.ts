@@ -134,6 +134,7 @@ export const merge = (
       organizer: null,
       officialUrl: x.officialUrl,
       ticketUrl: null,
+      imageUrl: item.imageUrl ?? null,
       price: null,
       isFree: null,
       reservationRequired: null,

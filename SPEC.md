@@ -196,6 +196,7 @@ JSONを初期の永続データ形式とする。データは画面表示用と�
   "organizer": "主催者名",
   "officialUrl": null,
   "ticketUrl": null,
+  "imageUrl": null,
   "sourceIds": [],
   "producerIds": [],
   "productIds": [],
