@@ -152,7 +152,7 @@
       ]
     }
   ],
-  "requireEventKeyword": false,
+  "requireEventKeyword": true,
   "genreKeywords": {
     "beer": [
       "ビール",

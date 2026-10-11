@@ -8,7 +8,7 @@ import { extract, isRelevant, type KeywordConfig } from "./extract"
 import { createFetcher, decodeBody, isAllowed, parseRobots } from "./http"
 import { parseFeed } from "./rss"
 import { ADAPTERS, splitCeekTitle } from "./sources"
-import { loadDb, merge, save } from "./store"
+import { loadDb, merge, save, triage } from "./store"
 import type { Db } from "../lib/types"
 
 const cfg = config as unknown as KeywordConfig
@@ -95,13 +95,53 @@ describe("robots.txt", () => {
 
 describe("extract", () => {
   const [item] = parseFeed(RDF)
+  it("reads yearless and 令和 dates, skipping the release timestamp", () => {
+    const pub = "2026-10-09T20:00:00+09:00"
+    const body = (s: string) => extract("ビアフェス開催", s, cfg, pub)
+    expect(
+      body("2026年10月9日 20時00分\n日時 :10月16日(金) 17:00~22:00")
+    ).toMatchObject({
+      startDate: "2026-10-16",
+      endDate: "2026-10-16",
+      dateSource: "label",
+    })
+    expect(body("10/17(土)、18(日)開催")).toMatchObject({
+      startDate: "2026-10-17",
+      endDate: "2026-10-18",
+      dateSource: "text",
+    })
+    // Months well before the release roll over to next year.
+    expect(body("会期:1月10日(土)〜12日(月)").startDate).toBe("2027-01-10")
+    expect(body("日程:令和8年10月23日(金)~25日(日)")).toMatchObject({
+      startDate: "2026-10-23",
+      endDate: "2026-10-25",
+    })
+    // Without a publish date a yearless date stays unknown.
+    expect(extract("ビアフェス", "10月16日(金)", cfg).startDate).toBeNull()
+  })
+
+  it("maps 東京 and designated cities in the title to a prefecture", () => {
+    const pref = (t: string) => extract(t, "", cfg).prefecture
+    expect(pref("「神戸クリスマスマーケット2026」開催")).toBe("兵庫県")
+    expect(pref("東京都内でビアフェス")).toBe("東京都")
+    expect(pref("名古屋と大阪でビアフェス")).toBeNull()
+    expect(pref("川崎氏が語るビアフェス")).toBeNull()
+  })
+
+  it("reads 【開催場所】 style labels", () => {
+    const x = extract("ビアフェス", "【開催場所】\n錦糸公園 ふれあい広場", cfg)
+    expect(x.venueName).toBe("錦糸公園 ふれあい広場")
+  })
+
   it("filters by alcohol + event keywords", () => {
     expect(isRelevant(item.title + item.description, cfg)).toBe(true)
     expect(isRelevant("人事のお知らせ 2026年10月1日付", cfg)).toBe(false)
   })
   it("accepts alcohol-only items unless an event keyword is required", () => {
     const launch = "クラフトビール「テストエール」を発売"
-    expect(isRelevant(launch, cfg)).toBe(true)
+    expect(isRelevant(launch, { ...cfg, requireEventKeyword: false })).toBe(
+      true
+    )
     expect(isRelevant(launch, { ...cfg, requireEventKeyword: true })).toBe(
       false
     )
@@ -190,7 +230,8 @@ describe("merge", () => {
       isSample: false,
       description: null,
       verificationStatus: "unverified",
-      publication: "pending",
+      // Labelled date/venue/prefecture, upcoming, no look-alike → auto-published.
+      publication: "published",
     })
     expect(db.sources[0]).toMatchObject({
       relatedEventIds: [e.id],
@@ -213,7 +254,9 @@ describe("merge", () => {
         },
       },
     ]
-    const { db, stats } = merge(emptyDb(), launch, cfg, NOW)
+    expect(merge(emptyDb(), launch, cfg, NOW).stats.irrelevant).toBe(1)
+    const loose = { ...cfg, requireEventKeyword: false }
+    const { db, stats } = merge(emptyDb(), launch, loose, NOW)
     expect(stats.added).toBe(1)
     expect(db.events[0]).toMatchObject({
       verificationStatus: "needs_review",
@@ -222,6 +265,83 @@ describe("merge", () => {
     expect(db.sources[0].extractedFields).toMatchObject({
       eventKeywordMatched: false,
     })
+  })
+
+  it("judges news by the headline only", () => {
+    const news = (title: string) => [
+      {
+        sourceType: "news" as const,
+        item: {
+          url: `https://example.com/${encodeURIComponent(title)}`,
+          title,
+          summary: "飲食ブースではクラフトビールも販売",
+          publisher: null,
+          publishedAt: null,
+        },
+      },
+    ]
+    expect(
+      merge(emptyDb(), news("子育てメッセ開催"), cfg, NOW).stats.irrelevant
+    ).toBe(1)
+    expect(merge(emptyDb(), news("ビアフェス開催"), cfg, NOW).stats.added).toBe(
+      1
+    )
+  })
+
+  it("keeps past events pending and records auto-publish in the audit", () => {
+    const later = merge(emptyDb(), items, cfg, "2026-12-01T00:00:00.000Z")
+    expect(later.db.events[0].publication).toBe("pending")
+    const { db, audit } = merge(emptyDb(), items, cfg, NOW)
+    expect(audit).toEqual([
+      expect.objectContaining({ id: db.events[0].id, action: "published" }),
+    ])
+  })
+
+  it("triage hides pending past, non-event and stale undated items only", () => {
+    const pending = (id: string, startAt: string | null) =>
+      ({
+        id,
+        startAt,
+        publication: "pending",
+        isSample: false,
+        sourceIds: [`s-${id}`],
+      }) as never
+    const src = (id: string, publishedAt: string, matched: boolean) =>
+      ({
+        id: `s-${id}`,
+        publishedAt,
+        extractedFields: { eventKeywordMatched: matched },
+      }) as never
+    const db = {
+      ...emptyDb(),
+      events: [
+        pending("a", null),
+        pending("b", null),
+        pending("c", null),
+        pending("d", "2026-01-01T00:00:00+09:00"),
+        pending("e", "2026-12-01T00:00:00+09:00"),
+      ],
+      sources: [
+        src("a", "2026-10-01T00:00:00Z", false),
+        src("b", "2026-07-01T00:00:00Z", true),
+        src("c", "2026-10-01T00:00:00Z", true),
+        src("d", "2026-07-01T00:00:00Z", true),
+        src("e", "2026-07-01T00:00:00Z", true),
+      ],
+    }
+    const r = triage(db, NOW)
+    expect(r.db.events.map((e) => e.publication)).toEqual([
+      "hidden",
+      "hidden",
+      "pending",
+      "hidden",
+      "pending",
+    ])
+    expect(r.audit.map((a) => [a.id, a.note])).toEqual([
+      ["a", "auto: イベント語なし"],
+      ["b", "auto: 配信60日超で日付不明"],
+      ["d", "auto: 開催終了"],
+    ])
   })
 
   it("skips known URLs and never modifies existing records", () => {

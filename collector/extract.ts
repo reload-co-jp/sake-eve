@@ -41,10 +41,33 @@ const ymd = (y: string, m: string, d: string) => {
 const DATE_RE =
   /(\d{4})\s*[年/.]\s*(\d{1,2})\s*[月/.]\s*(\d{1,2})\s*日?(?:\s*[(（][^)）]{1,6}[)）])?(?:\s*\d{1,2}:\d{2})?(?:\s*[~〜\-–－]\s*(?:(\d{4})\s*[年/.]\s*)?(?:(\d{1,2})\s*[月/.]\s*)?(\d{1,2})\s*日?(?![\d:時分]))?/
 
-const findDate = (text: string) => {
-  const m = text.match(DATE_RE)
-  if (!m) return null
-  const [, y, mo, d, y2, mo2, d2] = m
+// Year omitted: "10月17日(土)〜18日(日)", "10/17(土)、18(日)" (slash form needs a weekday).
+const MD_RE =
+  /(?<![\d年/.])(\d{1,2})\s*(?:月\s*(\d{1,2})\s*日|\/\s*(\d{1,2})(?=\s*[(（]))(?:\s*[(（][^)）]{1,6}[)）])?(?:\s*\d{1,2}:\d{2})?(?:\s*[~〜\-–－・、]\s*(?:(\d{1,2})\s*[月/]\s*)?(\d{1,2})\s*日?(?![\d:時分/]))?/
+
+/** Year for a month/day stated without one: the publish year, or the next if that would be 3+ months past. */
+const inferYear = (mo: string, d: string, ref: string) => {
+  const y = Number(ref.slice(0, 4))
+  const s = ymd(String(y), mo, d)
+  const past = s && Date.parse(ref) - Date.parse(s) > 90 * 864e5
+  return String(past ? y + 1 : y)
+}
+
+const findDate = (text: string, ref: string | null) => {
+  const full = text.match(DATE_RE)
+  const md = ref ? text.match(MD_RE) : null
+  let y, mo, d, y2, mo2, d2
+  let m: RegExpMatchArray
+  if (full && (!md || full.index! <= md.index!)) {
+    m = full
+    ;[, y, mo, d, y2, mo2, d2] = full
+  } else if (md) {
+    m = md
+    ;[, mo, d] = md
+    d ??= md[3]
+    ;[mo2, d2] = [md[4], md[5]]
+    y = inferYear(mo, d, ref!)
+  } else return null
   const start = ymd(y, mo, d)
   if (!start) return null
   let end: string | null = null
@@ -59,18 +82,55 @@ const findDate = (text: string) => {
 const COMPANY_BLOCK =
   /[【■●◆<＜[]?\s*(?:会社概要|企業概要|団体概要|法人概要|会社情報|本件に関する(?:お)?問い?合わせ|お問い?合わせ先)/
 
-const LABEL_DATE_RE = /(?:日時|日程|開催日|開催期間|期間|会期)\s*[:：]?\s*/g
+const LABEL_DATE_RE = /(?:日時|日程|開催日|開催期間|期間|会期)】?\s*[:：]?\s*/g
 
+// PR TIMES pages carry the release timestamp ("2026年10月9日 20時00分") near the top.
+const RELEASE_STAMP = /\d{4}年\d{1,2}月\d{1,2}日\s*\d{1,2}時\d{2}分/g
+
+// "会場：…" or "【開催場所】…"
 const labelled = (text: string, labels: string) => {
   const m = text.match(
-    new RegExp(`(?:${labels})\\s*[:：]\\s*([^\\n。、【】\\[\\]]{2,60})`)
+    new RegExp(
+      `(?:(?:${labels})\\s*[:：]|【[^】\\n]{0,4}(?:${labels})】)\\s*([^\\n。、【】\\[\\]]{2,60})`
+    )
   )
   return m ? m[1].replace(/[\s(（]+$/, "").trim() : null
 }
 
+// Unambiguous place names that imply a prefecture: 東京 and the designated cities.
+// ponytail: fixed list; add cities here when reviews keep filling the same prefecture.
+const ALIASES: [string, (typeof PREFECTURES)[number]][] = [
+  ["東京", "東京都"],
+  ["札幌", "北海道"],
+  ["仙台", "宮城県"],
+  ["さいたま", "埼玉県"],
+  ["千葉", "千葉県"],
+  ["横浜", "神奈川県"],
+  ["川崎", "神奈川県"],
+  ["相模原", "神奈川県"],
+  ["新潟", "新潟県"],
+  ["静岡", "静岡県"],
+  ["浜松", "静岡県"],
+  ["名古屋", "愛知県"],
+  ["京都", "京都府"],
+  ["大阪", "大阪府"],
+  ["堺市", "大阪府"],
+  ["神戸", "兵庫県"],
+  ["岡山", "岡山県"],
+  ["広島", "広島県"],
+  ["北九州", "福岡県"],
+  ["福岡", "福岡県"],
+  ["熊本", "熊本県"],
+]
+// "東京都" contains "京都"; "川崎氏" is a person.
+const ALIAS_RE = ALIASES.map(
+  ([a, p]) => [new RegExp(`(?<!東)${a}(?!氏|さん|様)`), p] as const
+)
+
 const prefectureIn = (s: string | null) => {
   if (!s) return null
   const found = new Set(PREFECTURES.filter((p) => s.includes(p)))
+  if (!found.size) for (const [re, p] of ALIAS_RE) if (re.test(s)) found.add(p)
   return found.size === 1 ? [...found][0] : null
 }
 
@@ -84,12 +144,22 @@ export const isRelevant = (text: string, cfg: KeywordConfig) =>
 export const extract = (
   title: string,
   summary: string,
-  cfg: KeywordConfig
+  cfg: KeywordConfig,
+  /** Publish time; lets dates without a year be read in its year. */
+  publishedAt: string | null = null
 ): Extracted => {
   // Company profile / contact blocks at the end of releases carry the HQ address,
   // which must never be read as the venue.
-  const body = summary.normalize("NFKC").split(COMPANY_BLOCK)[0]
-  const text = `${title}\n${body}`.normalize("NFKC")
+  const body = summary
+    .normalize("NFKC")
+    .split(COMPANY_BLOCK)[0]
+    .replace(RELEASE_STAMP, "")
+  const text = `${title}\n${body}`
+    .normalize("NFKC")
+    .replace(/令和\s*(\d{1,2})\s*年/g, (_, n) => `${2018 + Number(n)}年`)
+  const ref = publishedAt
+    ? new Date(Date.parse(publishedAt) + 9 * 3600e3).toISOString()
+    : null
 
   // Genres from the title when it names one; long bodies mention many drinks in passing.
   const specificIn = (s: string) =>
@@ -108,7 +178,8 @@ export const extract = (
   let dateSource: Extracted["dateSource"] = null
   for (const m of text.matchAll(LABEL_DATE_RE)) {
     const d = findDate(
-      text.slice(m.index! + m[0].length, m.index! + m[0].length + 40)
+      text.slice(m.index! + m[0].length, m.index! + m[0].length + 40),
+      ref
     )
     if (d && d.index === 0) {
       date = d
@@ -117,7 +188,7 @@ export const extract = (
     }
   }
   if (!date) {
-    date = findDate(text)
+    date = findDate(text, ref)
     if (date) dateSource = "text"
   }
 

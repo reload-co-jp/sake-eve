@@ -14,7 +14,15 @@ import type { KeywordConfig } from "./extract.ts"
 import { BlockedError, createFetcher } from "./http.ts"
 import { ADAPTERS, type RawItem, type SourceConfig } from "./sources.ts"
 import { normalizeUrl } from "./dedupe.ts"
-import { appendRunLog, loadDb, merge, save, type RunLog } from "./store.ts"
+import { appendAudit } from "../admin/storage.ts"
+import {
+  appendRunLog,
+  loadDb,
+  merge,
+  save,
+  triage,
+  type RunLog,
+} from "./store.ts"
 
 type Config = KeywordConfig & {
   userAgent: string
@@ -102,13 +110,18 @@ const enabled = log.sources.filter((s) => s.status !== "skipped")
 const allFailed = enabled.length > 0 && enabled.every((s) => s.status !== "ok")
 
 if (!allFailed) {
-  const result = merge(db, items, config, new Date().toISOString())
-  log.stats = result.stats
-  console.log("[stats]", JSON.stringify(result.stats))
-  if (!dryRun && result.stats.added > 0) {
-    log.validationErrors = save(dataDir, result.db, result.candidates)
+  const now = new Date().toISOString()
+  const result = merge(db, items, config, now)
+  const triaged = triage(result.db, now)
+  log.stats = { ...result.stats, autoHidden: triaged.audit.length }
+  console.log("[stats]", JSON.stringify(log.stats))
+  if (!dryRun && (result.stats.added > 0 || triaged.audit.length > 0)) {
+    log.validationErrors = save(dataDir, triaged.db, result.candidates)
     log.written = log.validationErrors.length === 0
     for (const err of log.validationErrors) console.error(`[invalid] ${err}`)
+    if (log.written)
+      for (const a of [...result.audit, ...triaged.audit])
+        appendAudit(dataDir, a)
   }
 }
 

@@ -1,5 +1,6 @@
 import { mkdirSync, readFileSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import type { AuditEntry } from "../admin/api.ts"
 import type { Db, Event, Source, SourceType } from "../lib/types.ts"
 import { validateDb } from "../lib/validate.ts"
 import {
@@ -51,8 +52,13 @@ export type MergeStats = {
   duplicateUrl: number
   added: number
   needsReview: number
+  autoPublished: number
   duplicateCandidates: number
 }
+
+/** YYYY-MM-DD in JST. */
+const jstDay = (iso: string) =>
+  new Date(Date.parse(iso) + 9 * 3600e3).toISOString().slice(0, 10)
 
 /**
  * Append new items to the db. Existing records are never modified or removed:
@@ -69,18 +75,23 @@ export const merge = (
   const next: Db = { ...db, events: [...db.events], sources: [...db.sources] }
   const known = new Set(db.sources.map((s) => normalizeUrl(s.url)))
   const candidates: DuplicateCandidate[] = []
+  const audit: AuditEntry[] = []
   const stats: MergeStats = {
     fetched: items.length,
     irrelevant: 0,
     duplicateUrl: 0,
     added: 0,
     needsReview: 0,
+    autoPublished: 0,
     duplicateCandidates: 0,
   }
 
   for (const { sourceType, item } of items) {
     const text = `${item.title}\n${item.summary}`.normalize("NFKC")
-    if (!opts.skipRelevance && !isRelevant(text, cfg)) {
+    // News snippets mention drinks in passing ("飲食ブースも"); judge them by the headline only.
+    const relevanceText =
+      sourceType === "news" ? item.title.normalize("NFKC") : text
+    if (!opts.skipRelevance && !isRelevant(relevanceText, cfg)) {
       stats.irrelevant++
       continue
     }
@@ -92,13 +103,9 @@ export const merge = (
     known.add(key)
 
     const hash = sha256(key).slice(0, 12)
-    const x = extract(item.title, item.summary, cfg)
+    const x = extract(item.title, item.summary, cfg, item.publishedAt)
     // An unlabelled date equal to the release date is almost always the release date itself.
-    const releaseDay = item.publishedAt
-      ? new Date(Date.parse(item.publishedAt) + 9 * 3600e3)
-          .toISOString()
-          .slice(0, 10)
-      : null
+    const releaseDay = item.publishedAt ? jstDay(item.publishedAt) : null
     if (x.dateSource === "text" && x.startDate === releaseDay) {
       x.startDate = null
       x.endDate = null
@@ -154,6 +161,18 @@ export const merge = (
     if (needsReview) {
       event.verificationStatus = "needs_review"
       stats.needsReview++
+    } else if (x.venueName && x.startDate && x.startDate >= jstDay(now)) {
+      // Labelled date + venue + prefecture, event words, no look-alike, upcoming: safe to show.
+      event.publication = "published"
+      stats.autoPublished++
+      audit.push({
+        at: now,
+        collection: "events",
+        id: event.id,
+        action: "published",
+        changedFields: ["publication"],
+        note: "auto: 収集時の自動公開",
+      })
     }
     const source: Source = {
       id: `src-${hash}`,
@@ -177,7 +196,42 @@ export const merge = (
     stats.added++
   }
   stats.duplicateCandidates = candidates.length
-  return { db: next, stats, candidates }
+  return { db: next, stats, candidates, audit }
+}
+
+/**
+ * Hide pending events that review would reject anyway: already over, no event words
+ * (launches, campaigns), or still undated 60+ days after the source was published.
+ */
+export const triage = (db: Db, now: string, staleDays = 60) => {
+  const sources = new Map(db.sources.map((s) => [s.id, s]))
+  const audit: AuditEntry[] = []
+  const events = db.events.map((e) => {
+    if (e.publication !== "pending" || e.isSample) return e
+    const src = e.sourceIds.map((id) => sources.get(id)).find(Boolean)
+    const last = e.endAt ?? e.startAt
+    const note =
+      last && Date.parse(last) < Date.parse(now)
+        ? "auto: 開催終了"
+        : src?.extractedFields?.eventKeywordMatched === false
+          ? "auto: イベント語なし"
+          : !e.startAt &&
+              src?.publishedAt &&
+              Date.parse(now) - Date.parse(src.publishedAt) > staleDays * 864e5
+            ? `auto: 配信${staleDays}日超で日付不明`
+            : null
+    if (!note) return e
+    audit.push({
+      at: now,
+      collection: "events",
+      id: e.id,
+      action: "hidden",
+      changedFields: ["publication"],
+      note,
+    })
+    return { ...e, publication: "hidden" as const, updatedAt: now }
+  })
+  return { db: { ...db, events }, audit }
 }
 
 export type RunLog = {
@@ -190,7 +244,7 @@ export type RunLog = {
     items: number
     message?: string
   }[]
-  stats: MergeStats | null
+  stats: (MergeStats & { autoHidden: number }) | null
   validationErrors: string[]
   written: boolean
 }
