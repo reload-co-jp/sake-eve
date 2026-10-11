@@ -2045,5 +2045,37 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-cd3b0fd96c45",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005137.000019470.html",
+    "title": "ＲＥＤ　ＷＡＲＲＩＯＲＳ（レッド・ウォーリアーズ）が、名曲「バラとワイン」のセルフカバーを、新曲「Ａｐｏｌｌｏ　３６９」と共に収録した新録音のシングルＣＤを１２月２日にリリース！",
+    "publisher": "日本コロムビア株式会社",
+    "publishedAt": "2026-10-11T09:45:16+09:00",
+    "fetchedAt": "2026-10-11T01:57:50.570Z",
+    "contentHash": "8a32dae0485b6cfd5844127a6471943afb4bfc15dc774886c9125b64ca95c3d1",
+    "relatedEventIds": [
+      "evt-cd3b0fd96c45"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": false,
+      "duplicateCandidateIds": []
+    }
   }
 ]

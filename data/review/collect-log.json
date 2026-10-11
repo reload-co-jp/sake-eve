@@ -156,5 +156,39 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-10-11T01:57:47.044Z",
+    "finishedAt": "2026-10-11T01:57:50.581Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 200,
+      "irrelevant": 199,
+      "duplicateUrl": 0,
+      "added": 1,
+      "needsReview": 1,
+      "duplicateCandidates": 0
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]
