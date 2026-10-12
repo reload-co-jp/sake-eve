@@ -1,6 +1,7 @@
 import { Metadata } from "next"
 import { Inknut_Antiqua, Zen_Old_Mincho } from "next/font/google"
 import Link from "next/link"
+import Script from "next/script"
 import { Footer, Header, Main } from "@/components/elements/layout"
 import { OPEN_GRAPH_BASE, SITE_URL } from "@/lib/seo"
 import { GENRES } from "@/lib/types"
@@ -109,6 +110,10 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
             <p>&copy; サケイベ！</p>
           </div>
         </Footer>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-0MRJHL8ZRE" />
+        <Script id="ga">
+          {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-0MRJHL8ZRE');`}
+        </Script>
       </body>
     </html>
   )
