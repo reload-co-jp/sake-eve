@@ -275,5 +275,49 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-10-12T23:30:22.492Z",
+    "finishedAt": "2026-10-12T23:34:50.397Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://natalie.mu/music/news/693396: HTTP 405: https://natalie.mu/music/news/693396 / 詳細取得29件 / 失敗1件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 274,
+      "duplicateUrl": 15,
+      "added": 11,
+      "needsReview": 11,
+      "autoPublished": 0,
+      "duplicateCandidates": 0,
+      "autoHidden": 2,
+      "summarized": 0
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

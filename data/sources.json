@@ -3018,5 +3018,362 @@
         "evt-d21d6a5cfc8c"
       ]
     }
+  },
+  {
+    "id": "src-0e34443cf4c2",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000158483.html",
+    "title": "長良のクリスマスは、子どもが主役。“子どもたちは私たちの未来”を合言葉に。「長良ファミリークリスマスマーケット」今年も開催！！",
+    "publisher": "豊実精工株式会社",
+    "publishedAt": "2026-10-12T15:44:30+09:00",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "db24b2e4ad9636819d03f919044c9eee57f3639a3df090d463cf4dcbd13eb8f4",
+    "relatedEventIds": [
+      "evt-0e34443cf4c2"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://instagram.com/nagarachristmasmarket12?vrfl=amFzdXk2MDYwMHV1&utm_source=qr",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a4e2adc9b475",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000372.000027681.html",
+    "title": "「壱角家＆油そば総本店 二刀流ハイブリッド130店舗突破記念 全総力大感謝祭」を開催！油そば総本店の複合型ハイブリッド店舗展開数、全国ナンバーワン、限界突破企画！",
+    "publisher": "株式会社ガーデン",
+    "publishedAt": "2026-10-12T10:00:01+09:00",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "a429de1aa926e7fbc5869c8c7b44e2a9d66ac2d11e28ed0d91165b6116bcf310",
+    "relatedEventIds": [
+      "evt-a4e2adc9b475"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-22",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-05efea3380dd",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000388.000068824.html",
+    "title": "ハイボールが水っぽくなりにくい透明な四角い氷が1度に16個。高速製氷機『ALTENA クリアキューブ高速製氷機（ICE-CB01）』がAmazonプライム感謝祭で3,000円OFF・10/13(火)～",
+    "publisher": "三金商事株式会社（MITSUKIN SHOJI Co., Ltd.）",
+    "publishedAt": "2026-10-12T11:15:16+09:00",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "fa3ca2a4513eff654239f4923ff7da3810053c1228fbd52decd25259b9328bd8",
+    "relatedEventIds": [
+      "evt-05efea3380dd"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-cf7f8c3340e9",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3005970?display=1",
+    "title": "蛇口をひねると日本酒やジュース! 銀座で新潟の食と地酒を楽しむ記念イベント『THE NIIGATA』来館者100万人へ",
+    "publisher": "TBS NEWS DIG",
+    "publishedAt": "2026-10-12T10:18:00.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "45afa5940a8a09ec762c0065f8ceb16200b1a3eaa062b5095c21737afe459073",
+    "relatedEventIds": [
+      "evt-cf7f8c3340e9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "新潟県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ad2dc5951bbd",
+    "sourceType": "news",
+    "url": "https://smart-flash.jp/entertainment/entertainment-news/433266/",
+    "title": "ヒコロヒー『オールスター感謝祭』の近影に「どんどん痩せてく」心配の声…本人も明かしていた「酒ばっかりに」な生活",
+    "publisher": "Smart FLASH/スマフラ[光文社週刊誌]",
+    "publishedAt": "2026-10-12T07:10:58.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "4f85729ac659877d10df9279f40ced4f706710a57a0e59f94eb1588cbd825137",
+    "relatedEventIds": [
+      "evt-ad2dc5951bbd"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-06",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-85a367ae2b65",
+    "sourceType": "news",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/921725",
+    "title": "「車懸」今年も準備万端!上越「越後・謙信SAKEまつり」限定酒、酒造関係者がラベル貼り 高田本町商店街で17、18日開催",
+    "publisher": "新潟日報",
+    "publishedAt": "2026-10-12T06:30:00.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "65f0c9215c1458ad8ff10a4d867c877ec2008ade566348a50e9c030ebb6e4e69",
+    "relatedEventIds": [
+      "evt-85a367ae2b65"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3af7f64efd21",
+    "sourceType": "news",
+    "url": "https://www.sanyonews.jp/article/1998599/",
+    "title": "深まる秋にビールいかが 17、18日に岡山市中心部でイベント クラフトビールの飲み比べと飲食店のはしご",
+    "publisher": "山陽新聞デジタル｜さんデジ",
+    "publishedAt": "2026-10-12T04:00:03.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "f132ef530149f8124237ea5535680f2e33d370bacd8726da46dbf3f70c179527",
+    "relatedEventIds": [
+      "evt-3af7f64efd21"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "岡山県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b42c1f15ab13",
+    "sourceType": "news",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/921093",
+    "title": "上越市で「越後よしかわ酒まつり」44都道府県の152銘柄そろう 愛好家ら好みの酒に舌鼓",
+    "publisher": "新潟日報",
+    "publishedAt": "2026-10-12T03:00:00.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "f4c5a8ce966d4efc56897cfeb102f97b65a700f14206134bd5992fe37809efed",
+    "relatedEventIds": [
+      "evt-b42c1f15ab13"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d2934caae098",
+    "sourceType": "news",
+    "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261012-GYS1T00071/",
+    "title": "「湯田温泉酒まつり」山口県産の日本酒飲み比べ…兵庫県から会場近くに宿泊「思う存分楽しめてありがたい」",
+    "publisher": "読売新聞",
+    "publishedAt": "2026-10-12T02:30:00.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "fc770df91543c17320185519eaf665310bc394f9f77aa45b5c5f10fc85faa92d",
+    "relatedEventIds": [
+      "evt-d2934caae098"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d7419871e74f",
+    "sourceType": "news",
+    "url": "https://news.ntv.co.jp/category/society/jr6a61565d5be44f96af1351f787c39626",
+    "title": "地元の飲食店で「はしご酒」 阿南で食べ歩き・飲み歩きイベント【徳島】",
+    "publisher": "JRT NEWS NNN",
+    "publishedAt": "2026-10-12T02:29:00.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "d380c7372d1bf5a04c35d1ad378759b4919db7790d9765e63df84742b653948b",
+    "relatedEventIds": [
+      "evt-d7419871e74f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-656a9eb112ea",
+    "sourceType": "news",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1095959",
+    "title": "がん患者や家族の疑問にお答え 出雲で専門家のトークイベント 「飲酒控えて」「バランスよい食事を」「(余命宣告について)意思表示正解ない」",
+    "publisher": "がん患者や家族の疑問にお答え　出雲で専門家のトークイベント　「飲酒控えて」「バランスよい食事を」「（余命宣告について）意思表示正解ない」 | 山陰中央新報デジタル",
+    "publishedAt": "2026-10-11T19:00:00.000Z",
+    "fetchedAt": "2026-10-12T23:34:50.372Z",
+    "contentHash": "bea4dc7f6fcacce6ca368e887db755175b8d9a21f23d1ba5147764caf68d6563",
+    "relatedEventIds": [
+      "evt-656a9eb112ea"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
