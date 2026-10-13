@@ -12,7 +12,18 @@ minimumReleaseAgeExclude:
   - '@next/swc-win32-arm64-msvc@16.2.10'
   - '@next/swc-win32-x64-msvc@16.2.10'
   - next@16.2.10
-  - '@vitest/mocker@5.0.2'
-  - '@vitest/spy@5.0.2'
-  - vitest@5.0.2
+  - '@vitest/mocker@5.0.2 || 5.0.4'
+  - '@vitest/spy@5.0.2 || 5.0.4'
+  - vitest@5.0.2 || 5.0.4
   - prettier@3.9.10
+  - '@typescript-eslint/eslint-plugin@8.71.2'
+  - '@typescript-eslint/parser@8.71.2'
+  - '@typescript-eslint/project-service@8.71.2'
+  - '@typescript-eslint/scope-manager@8.71.2'
+  - '@typescript-eslint/tsconfig-utils@8.71.2'
+  - '@typescript-eslint/type-utils@8.71.2'
+  - '@typescript-eslint/types@8.71.2'
+  - '@typescript-eslint/typescript-estree@8.71.2'
+  - '@typescript-eslint/utils@8.71.2'
+  - '@typescript-eslint/visitor-keys@8.71.2'
+  - typescript-eslint@8.71.2
