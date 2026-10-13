@@ -319,5 +319,50 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-10-13T21:43:54.191Z",
+    "finishedAt": "2026-10-13T21:48:29.936Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://tetsudo-ch.com/13041149.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13041149.html / 詳細取得失敗 https://ubenippo.co.jp/2026/10/13/7692486/: robots.txtで禁止されているため取得しません: https://ubenippo.co.jp/2026/10/13/7692486/ / 詳細取得失敗 https://natalie.mu/music/news/693396: HTTP 405: https://natalie.mu/music/news/693396 / 詳細取得27件 / 失敗3件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 280,
+      "duplicateUrl": 14,
+      "added": 6,
+      "needsReview": 6,
+      "autoPublished": 0,
+      "duplicateCandidates": 0,
+      "autoHidden": 2,
+      "summarized": 0,
+      "geocoded": 0
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

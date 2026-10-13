@@ -1880,5 +1880,25 @@
       "publication"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-13T21:48:29.908Z",
+    "collection": "events",
+    "id": "evt-308a21f62b48",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-13T21:48:29.908Z",
+    "collection": "events",
+    "id": "evt-96a0e6023f0e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 配信60日超で日付不明"
   }
 ]

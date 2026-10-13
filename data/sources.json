@@ -3375,5 +3375,201 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-28fc25193075",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005142.000019470.html",
+    "title": "小田原市出身の歌手・門松みゆき、地元を彩る「第３５回小田原ちょうちんまつり」に出演！圧巻のステージで観客を魅了",
+    "publisher": "日本コロムビア株式会社",
+    "publishedAt": "2026-10-12T23:33:19+09:00",
+    "fetchedAt": "2026-10-13T21:48:29.908Z",
+    "contentHash": "711259ea63a657bb8065a005470dcd7e072b32de3dbdf53ab05b5e3b5fe2ab73",
+    "relatedEventIds": [
+      "evt-28fc25193075"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1f4dd9d54e9a",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000099858.html",
+    "title": "こうべアグリパークにて、「KOBE the CRAFT 2026」の開催",
+    "publisher": "TisTa株式会社",
+    "publishedAt": "2026-10-13T11:00:14+09:00",
+    "fetchedAt": "2026-10-13T21:48:29.908Z",
+    "contentHash": "b85ce97a3231673f0d428ad4c4b5fb5af82189d0baa6890733956e83788a6a4c",
+    "relatedEventIds": [
+      "evt-1f4dd9d54e9a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine",
+        "whisky",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "market"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://kobeagripark.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-308a21f62b48",
+    "sourceType": "news",
+    "url": "https://ryukyushimpo.jp/news/entry-5553480.html",
+    "title": "ビールになった「金麦」を100円で!琉球新報あじまーるにて体験イベント開催【16日まで】",
+    "publisher": "琉球新報デジタル",
+    "publishedAt": "2026-10-13T10:06:03.000Z",
+    "fetchedAt": "2026-10-13T21:48:29.908Z",
+    "contentHash": "e757f2bd4decadae1b862a6f63b87f8ee504be6fc903f7943aa89dfd134da1a7",
+    "relatedEventIds": [
+      "evt-308a21f62b48"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-13",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-83b9207afe5e",
+    "sourceType": "news",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/923270",
+    "title": "味噌や酒かす、華麗な味わい 新潟の醸造・発酵文化を新潟大生らが発信 新潟市中央区で試食イベント",
+    "publisher": "新潟日報",
+    "publishedAt": "2026-10-13T06:00:00.000Z",
+    "fetchedAt": "2026-10-13T21:48:29.908Z",
+    "contentHash": "7124bdaef3f2670d07a2e330719ee766ebeabcb35a1a6469976204f1b87b83b2",
+    "relatedEventIds": [
+      "evt-83b9207afe5e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "新潟県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9a8dde91f58e",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1439314",
+    "title": "18日に小山・まちの駅でビアガーデン クラフトビールとおばんざい",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-10-13T05:00:00.000Z",
+    "fetchedAt": "2026-10-13T21:48:29.908Z",
+    "contentHash": "7bad37da99153ab28c90262825a902dc860e68336916f9e3f735d62af7872878",
+    "relatedEventIds": [
+      "evt-9a8dde91f58e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-96a0e6023f0e",
+    "sourceType": "news",
+    "url": "https://www.nagasaki-np.co.jp/kijis/?kijiid=1482555712018350419",
+    "title": "西郷隆盛の書を特別公開! 全国放送番組で本物と判明…長崎・南島原の酒蔵、蔵開きイベントで",
+    "publisher": "長崎新聞社",
+    "publishedAt": "1970-01-01T00:00:00.000Z",
+    "fetchedAt": "2026-10-13T21:48:29.908Z",
+    "contentHash": "07bc68151e145e10c659c0ddf737ef9738978767d3b2d1d1fd6f9ad334bba982",
+    "relatedEventIds": [
+      "evt-96a0e6023f0e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "brewery_open_day"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

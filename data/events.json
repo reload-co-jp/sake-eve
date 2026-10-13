@@ -4174,7 +4174,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/9/c/1200w/img_9ce49755853091313d46dd869b5c12c4129065.jpg",
+    "imageUrl": "/images/events/evt-cf7f8c3340e9.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -4260,7 +4260,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://niigata-nippo.ismcdn.jp/mwimgs/3/1/1200m/img_3155905845302914a0181e33d6e13b2c169900.jpg?rd=202610071709",
+    "imageUrl": "/images/events/evt-85a367ae2b65.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -4349,7 +4349,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://niigata-nippo.ismcdn.jp/mwimgs/4/a/1200m/img_4ac93203f42571b738687ca2a9acf89f158787.jpg?rd=202610071709",
+    "imageUrl": "/images/events/evt-b42c1f15ab13.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -4494,6 +4494,268 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
     "updatedAt": "2026-10-13T08:27:03.536Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-28fc25193075",
+    "slug": "e-28fc25193075",
+    "title": "小田原市出身の歌手・門松みゆき、地元を彩る「第３５回小田原ちょうちんまつり」に出演！圧巻のステージで観客を魅了",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/19470/5142/19470-5142-ef70bb994af3beb72c533d8e20ed99ee-1567x1045.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-28fc25193075"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-13T21:48:29.908Z",
+    "updatedAt": "2026-10-13T21:48:29.908Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1f4dd9d54e9a",
+    "slug": "e-1f4dd9d54e9a",
+    "title": "こうべアグリパークにて、「KOBE the CRAFT 2026」の開催",
+    "description": null,
+    "genres": [
+      "wine",
+      "whisky",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-11-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://kobeagripark.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/99858/5/99858-5-179dc6503588562b80f9c779b7c536fe-672x951.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1f4dd9d54e9a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-13T21:48:29.908Z",
+    "updatedAt": "2026-10-13T21:48:29.908Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-308a21f62b48",
+    "slug": "e-308a21f62b48",
+    "title": "ビールになった「金麦」を100円で!琉球新報あじまーるにて体験イベント開催【16日まで】",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-13T00:00:00+09:00",
+    "endAt": "2026-10-13T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://ryukyushimpo.jp/tachyon/2026/10/NE20261013G02495000200_00-scaled.jpg?resize=1200%2C630&gravity&crop_strategy=smart",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-308a21f62b48"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-13T21:48:29.908Z",
+    "updatedAt": "2026-10-13T21:48:29.908Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-83b9207afe5e",
+    "slug": "e-83b9207afe5e",
+    "title": "味噌や酒かす、華麗な味わい 新潟の醸造・発酵文化を新潟大生らが発信 新潟市中央区で試食イベント",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "新潟県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://niigata-nippo.ismcdn.jp/mwimgs/e/b/1200m/img_eb707f24618c29b03a0293b9980f31db149559.jpg?rd=202610071709",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-83b9207afe5e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-13T21:48:29.908Z",
+    "updatedAt": "2026-10-13T21:48:29.908Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9a8dde91f58e",
+    "slug": "e-9a8dde91f58e",
+    "title": "18日に小山・まちの駅でビアガーデン クラフトビールとおばんざい",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-18T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/a/4/1200wm/img_a4f366153970c7e90467d419dc0dd8ac290480.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9a8dde91f58e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-13T21:48:29.908Z",
+    "updatedAt": "2026-10-13T21:48:29.908Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-96a0e6023f0e",
+    "slug": "e-96a0e6023f0e",
+    "title": "西郷隆盛の書を特別公開! 全国放送番組で本物と判明…長崎・南島原の酒蔵、蔵開きイベントで",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "brewery_open_day"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.nagasaki-np.co.jp/rs/images/nagasakishimbun_ogp.png",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-96a0e6023f0e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-13T21:48:29.908Z",
+    "updatedAt": "2026-10-13T21:48:29.908Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
