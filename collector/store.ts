@@ -245,7 +245,13 @@ export type RunLog = {
     items: number
     message?: string
   }[]
-  stats: (MergeStats & { autoHidden: number; summarized?: number }) | null
+  stats:
+    | (MergeStats & {
+        autoHidden: number
+        summarized?: number
+        geocoded?: number
+      })
+    | null
   validationErrors: string[]
   written: boolean
 }

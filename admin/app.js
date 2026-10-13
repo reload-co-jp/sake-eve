@@ -629,7 +629,23 @@ const eventEditor = (id, draft = null) => {
       type: e.dateOnly ? "date" : "datetime-local",
     }),
     text("venueName", "会場名", e.venue.name),
-    text("address", "住所", e.venue.address),
+    text("address", "住所（入力で緯度経度が空なら自動取得）", e.venue.address, {
+      onchange: async () => {
+        const q = f.address.value.replace(/〒?\s*\d{3}[-－−‐]\d{4}/, "").trim()
+        if (!q || f.latitude.value || f.longitude.value) return
+        try {
+          const res = await fetch(
+            `https://msearch.gsi.go.jp/address-search/AddressSearch?q=${encodeURIComponent(q)}`
+          )
+          const [lng, lat] = (await res.json())[0]?.geometry?.coordinates ?? []
+          if (lat === undefined || f.latitude.value || f.longitude.value) return
+          f.latitude.value = lat
+          f.longitude.value = lng
+        } catch {
+          // Offline or no hit: coordinates stay manual.
+        }
+      },
+    }),
     select(
       "prefecture",
       "都道府県",

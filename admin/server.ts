@@ -81,7 +81,7 @@ const send = (
     "Cache-Control": "no-store",
     "X-Content-Type-Options": "nosniff",
     "Content-Security-Policy":
-      "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'",
+      "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; connect-src 'self' https://msearch.gsi.go.jp; frame-ancestors 'none'",
   })
   res.end(type === "application/json" ? JSON.stringify(body) : String(body))
 }

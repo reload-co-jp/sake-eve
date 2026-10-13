@@ -19,6 +19,7 @@ import {
   type SourceConfig,
 } from "./sources.ts"
 import { summarize } from "./summarize.ts"
+import { geocode } from "./geocode.ts"
 import { normalizeUrl } from "./dedupe.ts"
 import { appendAudit } from "../admin/storage.ts"
 import {
@@ -146,11 +147,39 @@ if (!allFailed) {
       console.error(`[summary] ${e.slug}: ${(err as Error).message}`)
     }
   }
-  log.stats = { ...result.stats, autoHidden: triaged.audit.length, summarized }
+  // Coordinates from the address (GSI). Failures stay null and retry next run.
+  let geocoded = 0
+  // ponytail: per-run cap keeps request count polite; the backlog drains over later runs.
+  let geoBudget = dryRun ? 0 : 30
+  for (const e of triaged.db.events) {
+    if (geoBudget <= 0) break
+    const v = e.venue
+    if (!v.address || v.latitude !== null || v.longitude !== null) continue
+    geoBudget--
+    try {
+      const c = await geocode(fetchText, v.address)
+      if (c) {
+        Object.assign(v, c)
+        e.updatedAt = now
+        geocoded++
+      }
+    } catch (err) {
+      console.error(`[geocode] ${e.slug}: ${(err as Error).message}`)
+    }
+  }
+  log.stats = {
+    ...result.stats,
+    autoHidden: triaged.audit.length,
+    summarized,
+    geocoded,
+  }
   console.log("[stats]", JSON.stringify(log.stats))
   if (
     !dryRun &&
-    (result.stats.added > 0 || triaged.audit.length > 0 || summarized > 0)
+    (result.stats.added > 0 ||
+      triaged.audit.length > 0 ||
+      summarized > 0 ||
+      geocoded > 0)
   ) {
     log.validationErrors = save(dataDir, triaged.db, result.candidates)
     log.written = log.validationErrors.length === 0
