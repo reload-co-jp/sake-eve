@@ -103,8 +103,8 @@
       "address": "広島県広島市中区本通8-33 本通アサヒビル2F",
       "prefecture": "広島県",
       "city": "広島市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.392811,
+      "longitude": 132.459869
     },
     "organizer": null,
     "officialUrl": null,
@@ -123,7 +123,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T04:51:32.000Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -148,8 +148,8 @@
       "address": "兵庫県神戸市中央区北野町1-4-3",
       "prefecture": "兵庫県",
       "city": "神戸市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.703526,
+      "longitude": 135.192978
     },
     "organizer": null,
     "officialUrl": null,
@@ -168,7 +168,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:26:41.516Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -235,8 +235,8 @@
       "address": "東京都墨田区錦糸4-15-1",
       "prefecture": "東京都",
       "city": "墨田区",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.698021,
+      "longitude": 139.815079
     },
     "organizer": null,
     "officialUrl": null,
@@ -255,7 +255,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:34:22.732Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -366,8 +366,8 @@
       "address": "兵庫県神戸市北区山田町小部 字妙賀11-1",
       "prefecture": "兵庫県",
       "city": "神戸市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.73518,
+      "longitude": 135.160309
     },
     "organizer": null,
     "officialUrl": null,
@@ -386,7 +386,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:46:14.713Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -453,8 +453,8 @@
       "address": "大阪府泉佐野市 運営:三菱地所・サイモン株式会社)は",
       "prefecture": "大阪府",
       "city": "泉佐野市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.406837,
+      "longitude": 135.327362
     },
     "organizer": null,
     "officialUrl": null,
@@ -473,7 +473,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T04:53:59.400Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -582,8 +582,8 @@
       "address": "〒656-2302 兵庫県淡路市大磯6番地",
       "prefecture": "兵庫県",
       "city": "淡路市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.554249,
+      "longitude": 135.00293
     },
     "organizer": null,
     "officialUrl": null,
@@ -602,7 +602,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:46:18.474Z",
+    "updatedAt": "2026-10-13T08:40:09.002Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -625,8 +625,8 @@
       "address": "東京都目黒区緑が丘2-25-7 ラ・クール自由が丘 2~3F",
       "prefecture": "東京都",
       "city": "目黒区",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.607716,
+      "longitude": 139.671631
     },
     "organizer": null,
     "officialUrl": "https://www.agriko.net/",
@@ -645,7 +645,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -712,8 +712,8 @@
       "address": "香川県高松市",
       "prefecture": "香川県",
       "city": "高松市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.342758,
+      "longitude": 134.046524
     },
     "organizer": null,
     "officialUrl": "https://camp-fire.jp/projects/986780/view",
@@ -732,7 +732,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:28:23.241Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
@@ -756,8 +756,8 @@
       "address": "〒160-0022 東京都新宿区新宿3丁目12−1 佐藤ビル 3階",
       "prefecture": "東京都",
       "city": "新宿区",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.691643,
+      "longitude": 139.706055
     },
     "organizer": null,
     "officialUrl": "https://www.romanbeer.com/whisky/",
@@ -776,7 +776,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:46:20.758Z",
+    "updatedAt": "2026-10-13T08:40:09.002Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -937,8 +937,8 @@
       "address": "東京都千代田区神田三崎町1-1-16",
       "prefecture": "東京都",
       "city": "千代田区",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.700695,
+      "longitude": 139.756653
     },
     "organizer": null,
     "officialUrl": null,
@@ -957,7 +957,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:29:26.917Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1075,8 +1075,8 @@
       "address": "東京都港区",
       "prefecture": "東京都",
       "city": "港区",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.658054,
+      "longitude": 139.751663
     },
     "organizer": null,
     "officialUrl": "https://www.royalpines.co.jp/",
@@ -1095,7 +1095,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -1207,8 +1207,8 @@
       "address": "千葉県香取市西田部738",
       "prefecture": "千葉県",
       "city": "香取市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.793392,
+      "longitude": 140.509949
     },
     "organizer": null,
     "officialUrl": null,
@@ -1227,7 +1227,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-10-11T13:54:00+09:00",
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T04:55:28.932Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1254,8 +1254,8 @@
       "address": "栃木県宇都宮市)は",
       "prefecture": "栃木県",
       "city": "宇都宮市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.555115,
+      "longitude": 139.882599
     },
     "organizer": null,
     "officialUrl": null,
@@ -1274,7 +1274,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -1692,8 +1692,8 @@
       "address": "東京都西多摩郡奥多摩町氷川212〈JR青梅線奥多摩駅より徒歩すぐ〉",
       "prefecture": "東京都",
       "city": "西多摩郡",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.823605,
+      "longitude": 139.093445
     },
     "organizer": null,
     "officialUrl": null,
@@ -1712,7 +1712,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T05:07:04.882Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1735,8 +1735,8 @@
       "address": "東京都文京区千駄木3丁目35-12 3F",
       "prefecture": "東京都",
       "city": "文京区",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.725174,
+      "longitude": 139.762314
     },
     "organizer": null,
     "officialUrl": "http://www.stables.jp/",
@@ -1755,7 +1755,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
@@ -1908,8 +1908,8 @@
       "address": "山梨県南都留郡富士河口湖町船津字剣丸尾6663-1",
       "prefecture": "山梨県",
       "city": "南都留郡",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.475739,
+      "longitude": 138.758514
     },
     "organizer": null,
     "officialUrl": null,
@@ -1928,7 +1928,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
@@ -2305,8 +2305,8 @@
       "address": "〒814-0104 福岡市城南区別府1-19-1",
       "prefecture": null,
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 33.575333,
+      "longitude": 130.372757
     },
     "organizer": null,
     "officialUrl": null,
@@ -2325,7 +2325,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T08:40:09.002Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
@@ -2435,8 +2435,8 @@
       "address": "神奈川県厚木市金田1137-1",
       "prefecture": "神奈川県",
       "city": "厚木市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.458401,
+      "longitude": 139.371765
     },
     "organizer": null,
     "officialUrl": "https://www.sanktgallenbrewery.com/",
@@ -2455,7 +2455,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -2522,8 +2522,8 @@
       "address": "兵庫県姫路市",
       "prefecture": "兵庫県",
       "city": "姫路市",
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.815277,
+      "longitude": 134.685562
     },
     "organizer": null,
     "officialUrl": "https://www.bellclassic.co.jp/kinki/himeji/",
@@ -2542,7 +2542,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T08:39:36.076Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
