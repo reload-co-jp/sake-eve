@@ -141,13 +141,13 @@
       "festival",
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-17T00:00:00+09:00",
+    "endAt": "2026-12-28T23:59:00+09:00",
     "venue": {
       "name": "展望プラザ",
-      "address": null,
-      "prefecture": null,
-      "city": null,
+      "address": "兵庫県神戸市中央区北野町1-4-3",
+      "prefecture": "兵庫県",
+      "city": "神戸市",
       "latitude": null,
       "longitude": null
     },
@@ -165,13 +165,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:26:41.516Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-e5cdc2a0f63c",
@@ -211,10 +211,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:32:51.488Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-df105e19047d",
@@ -228,13 +228,13 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
       "name": "すみだオクトーバーフェスト飲食特設ステージ",
-      "address": null,
-      "prefecture": null,
-      "city": null,
+      "address": "東京都墨田区錦糸4-15-1",
+      "prefecture": "東京都",
+      "city": "墨田区",
       "latitude": null,
       "longitude": null
     },
@@ -252,13 +252,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:34:22.732Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-ea4f91ee8d17",
@@ -278,8 +278,8 @@
     "venue": {
       "name": "袋町商店街(きさいやロード内)",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "愛媛県",
+      "city": "宇和島市",
       "latitude": null,
       "longitude": null
     },
@@ -297,13 +297,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:35:34.132Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-b0a9b6e499a9",
@@ -732,10 +732,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:28:23.241Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-227a764df1f5",
@@ -930,13 +930,13 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-14T23:59:00+09:00",
     "venue": {
       "name": "「日本料理 縁」 庭のホテル 東京 1階",
-      "address": null,
-      "prefecture": null,
-      "city": null,
+      "address": "東京都千代田区神田三崎町1-1-16",
+      "prefecture": "東京都",
+      "city": "千代田区",
       "latitude": null,
       "longitude": null
     },
@@ -954,13 +954,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T08:29:26.917Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-39c85e31532b",
@@ -4493,9 +4493,9 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T08:27:03.536Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   }
 ]
