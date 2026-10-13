@@ -37,10 +37,10 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-10-11T13:48:00+09:00",
     "createdAt": "2026-10-09T16:27:41.907Z",
-    "updatedAt": "2026-10-11T04:50:43.066Z",
+    "updatedAt": "2026-10-13T20:23:11.030Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "published"
+    "publication": "hidden"
   },
   {
     "id": "evt-8279c7611bc6",
@@ -123,10 +123,10 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-13T20:23:22.750Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "published"
+    "publication": "hidden"
   },
   {
     "id": "evt-0337b5740a02",
@@ -316,15 +316,15 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-21T00:00:00+09:00",
+    "endAt": "2026-10-24T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "お台場・シンボルプロムナード公園　夢の広場",
+      "address": "東京都江東区青海１　お台場・シンボルプロムナード公園　夢の広場",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "latitude": 35.625057,
+      "longitude": 139.778732
     },
     "organizer": null,
     "officialUrl": null,
@@ -340,13 +340,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T19:59:56.938Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-865827dfcb6e",
@@ -430,10 +430,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T20:00:24.778Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c43183b07e48",
@@ -645,10 +645,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-13T20:00:51.109Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-71ed4640f133",
@@ -795,12 +795,12 @@
       "seminar",
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-23T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
       "name": null,
       "address": null,
-      "prefecture": null,
+      "prefecture": "東京都",
       "city": null,
       "latitude": null,
       "longitude": null
@@ -819,13 +819,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T20:02:58.423Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-31aec02ffc75",
@@ -841,23 +841,23 @@
       "tasting",
       "seminar"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-12T00:00:00+09:00",
+    "endAt": "2026-11-12T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "ウイスキー文化研究所",
+      "address": "東京都渋谷区広尾1-10-5 テック広尾ビル2F",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "latitude": 35.648605,
+      "longitude": 139.716934
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "5,500円",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-31aec02ffc75"
     ],
@@ -865,13 +865,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T20:04:35.759Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-18c8c0ad1de9",
@@ -912,10 +912,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T20:05:05.644Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ddb90b80f093",
@@ -1000,10 +1000,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T20:04:52.807Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-e4d0bc6e0eca",
@@ -1021,22 +1021,22 @@
       "festival",
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-06T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "久宝寺緑地 陸上競技場",
+      "address": "大阪府八尾市西久宝寺323",
+      "prefecture": "大阪府",
+      "city": "八尾市",
+      "latitude": 34.631413,
+      "longitude": 135.578796
     },
     "organizer": null,
     "officialUrl": "https://yaoyorozu-fes.jp/",
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-e4d0bc6e0eca"
@@ -1045,13 +1045,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T20:06:36.803Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-a5754d24e37b",
@@ -1095,10 +1095,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-13T20:06:54.489Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-dc4a701a5383",
@@ -1274,10 +1274,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-13T20:07:00.975Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-5fc29c0eba2d",
@@ -1336,15 +1336,15 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-21T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
       "name": "サンキタ広場(兵庫県神戸市中央区)",
-      "address": null,
+      "address": "兵庫県神戸市中央区加納町4丁目2地先",
       "prefecture": "兵庫県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.69405,
+      "longitude": 135.193619
     },
     "organizer": null,
     "officialUrl": null,
@@ -1360,13 +1360,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:07:33.836Z",
+    "updatedAt": "2026-10-13T20:14:54.739Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-17bceeff3875",
@@ -1553,15 +1553,15 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-12T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "下北沢駅前広場",
+      "address": "東京都世田谷区北沢2丁目24-3",
+      "prefecture": "東京都",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.661991,
+      "longitude": 139.667435
     },
     "organizer": null,
     "officialUrl": "https://shimokita-info.com/",
@@ -1577,13 +1577,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:08:01.938Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-26fde16bf8de",
@@ -1640,22 +1640,22 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-08T00:00:00+09:00",
+    "endAt": "2026-10-12T23:59:00+09:00",
     "venue": {
       "name": "二子玉川ライズ 中央広場・スタジオ(東京都世田谷区)",
-      "address": null,
+      "address": "東京都世田谷区玉川２丁目２１－１",
       "prefecture": "東京都",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "世田谷区",
+      "latitude": 35.611366,
+      "longitude": 139.628525
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-2757768f6292"
@@ -1664,13 +1664,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:16:07.043Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-22f70c0b4ee4",
@@ -1799,10 +1799,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:08:16.489Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ec7a842cf1e6",
@@ -2019,10 +2019,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:08:35.160Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-13c02694f4cb",
@@ -2037,15 +2037,15 @@
       "tasting",
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-09-04T00:00:00+09:00",
+    "endAt": "2026-09-06T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "錦糸公園",
+      "address": "東京都墨田区錦糸4-1-1",
+      "prefecture": "東京都",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.69669,
+      "longitude": 139.815186
     },
     "organizer": null,
     "officialUrl": null,
@@ -2061,13 +2061,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:10:53.923Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-e8a8b733690e",
@@ -2080,22 +2080,22 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-09-10T00:00:00+09:00",
+    "endAt": "2026-09-13T23:59:00+09:00",
     "venue": {
       "name": "こすぎコアパーク(武蔵小杉駅:神奈川県川崎市中原区)",
-      "address": null,
+      "address": "神奈川県川崎市中原区小杉町3-1302",
       "prefecture": "神奈川県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.574684,
+      "longitude": 139.657257
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-e8a8b733690e"
@@ -2104,13 +2104,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:17:04.270Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-9e335f354072",
@@ -2123,22 +2123,22 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-09-05T00:00:00+09:00",
+    "endAt": "2026-09-06T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "大塚駅南口 駅前広場「TRAMパル大塚」",
+      "address": "東京都豊島区南大塚3-53-8",
+      "prefecture": "東京都",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.730789,
+      "longitude": 139.728485
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-9e335f354072"
@@ -2147,13 +2147,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:18:13.712Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-32560798d1be",
@@ -2166,15 +2166,15 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-09-02T00:00:00+09:00",
+    "endAt": "2026-09-06T23:59:00+09:00",
     "venue": {
       "name": "おかちまちパンダ広場(東京都台東区)",
-      "address": null,
+      "address": "東京都台東区上野3丁目26-9",
       "prefecture": "東京都",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.706696,
+      "longitude": 139.774353
     },
     "organizer": null,
     "officialUrl": null,
@@ -2190,13 +2190,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:19:59.807Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-eee1fd1f1120",
@@ -2344,12 +2344,12 @@
     "startAt": "2026-10-16T00:00:00+09:00",
     "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "つくばセンター広場",
+      "address": "茨城県つくば市吾妻1-10-1",
+      "prefecture": "茨城県",
+      "city": "つくば市",
+      "latitude": 36.081463,
+      "longitude": 140.114151
     },
     "organizer": null,
     "officialUrl": null,
@@ -2365,13 +2365,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-10T18:43:03.508Z",
+    "updatedAt": "2026-10-13T20:09:37.057Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-94566f472bba",
@@ -2455,10 +2455,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-13T20:18:22.857Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-77e3aeb1e5a8",
@@ -2802,10 +2802,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:11:25.464Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6233daecd1df",
@@ -2820,15 +2820,15 @@
     "eventTypes": [
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-16T00:00:00+09:00",
+    "endAt": "2026-10-16T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "栃木県庁本庁舎前県民広場",
+      "address": "栃木県宇都宮市塙田１丁目１−２０",
       "prefecture": "栃木県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.564575,
+      "longitude": 139.883392
     },
     "organizer": null,
     "officialUrl": null,
@@ -2844,13 +2844,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:21:03.741Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-d739ff1fdf26",
@@ -2892,10 +2892,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:22:29.246Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d21d6a5cfc8c",
@@ -2908,18 +2908,18 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "なんばカーニバルモール",
+      "address": "大阪府大阪市浪速区難波中2丁目10-70",
       "prefecture": "大阪府",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "大阪市",
+      "latitude": 34.662411,
+      "longitude": 135.501251
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://cocolo.jp/site/pickup_detail/2924",
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
@@ -2932,13 +2932,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:25:03.918Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-0e2478b1167d",
@@ -2978,10 +2978,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:19:00.944Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-9fc88ae70a52",
@@ -2994,15 +2994,15 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "近鉄四日市駅前商店街",
+      "address": "三重県四日市市諏訪栄町3-12",
       "prefecture": "三重県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.966522,
+      "longitude": 136.621994
     },
     "organizer": null,
     "officialUrl": null,
@@ -3018,13 +3018,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:26:56.654Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-0d1ef6e73339",
@@ -3064,10 +3064,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:25:39.416Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-5d12f7f620d9",
@@ -3107,10 +3107,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:27:08.831Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-47524a0f56ba",
@@ -3123,12 +3123,12 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-11T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "JR西条駅",
       "address": null,
-      "prefecture": null,
+      "prefecture": "広島県",
       "city": null,
       "latitude": null,
       "longitude": null
@@ -3147,13 +3147,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:30:36.212Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-1cb34e30baad",
@@ -3193,10 +3193,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:11:58.833Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-f9a6739ba664",
@@ -3209,15 +3209,15 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-11T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "JR西条駅",
+      "address": "広島県東広島市西条栄町",
       "prefecture": "広島県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.427708,
+      "longitude": 132.742935
     },
     "organizer": null,
     "officialUrl": null,
@@ -3233,13 +3233,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:30:07.760Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-6c51f6f62815",
@@ -3295,15 +3295,15 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": "2027-04-11T00:00:00+09:00",
+    "startAt": "2027-03-27T00:00:00+09:00",
     "endAt": "2027-04-11T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "足羽川桜並木",
+      "address": "福井県福井市つくも１丁目１１−１１",
+      "prefecture": "福井県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.061764,
+      "longitude": 136.211899
     },
     "organizer": null,
     "officialUrl": null,
@@ -3319,13 +3319,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:36:07.222Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-75ac98868c35",
@@ -3338,15 +3338,15 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-09T00:00:00+09:00",
+    "endAt": "2026-10-11T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "JR熊本駅前",
+      "address": "熊本県熊本市西区春日３丁目１５−１",
       "prefecture": "熊本県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 32.788967,
+      "longitude": 130.688232
     },
     "organizer": null,
     "officialUrl": null,
@@ -3362,13 +3362,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:33:27.988Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-b12361691798",
@@ -3494,10 +3494,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:32:03.959Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-dca734ffa1bc",
@@ -3538,10 +3538,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:13:32.581Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-23d3a671c835",
@@ -3554,15 +3554,15 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-18T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "JR下松駅南口",
+      "address": "山口県下松市駅南1丁目",
+      "prefecture": "山口県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.010143,
+      "longitude": 131.86615
     },
     "organizer": null,
     "officialUrl": null,
@@ -3578,13 +3578,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:39:09.872Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-48b6045475e7",
@@ -3597,15 +3597,15 @@
     "eventTypes": [
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-17T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "JR広島駅北口イベントスペース",
+      "address": "広島県広島市南区松原町２番３７号",
       "prefecture": "広島県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.397057,
+      "longitude": 132.474991
     },
     "organizer": null,
     "officialUrl": null,
@@ -3621,13 +3621,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:40:30.576Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-d3a9584b103b",
@@ -3667,10 +3667,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:18:50.015Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ad30f6265615",
@@ -3683,15 +3683,15 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-17T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "松尾大社 大広間",
+      "address": "京都府京都市西京区嵐山宮町3",
       "prefecture": "京都府",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.000652,
+      "longitude": 135.682739
     },
     "organizer": null,
     "officialUrl": null,
@@ -3707,13 +3707,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-13T20:31:40.508Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-6ab6ccec19a1",
@@ -3753,10 +3753,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T20:52:55.861Z",
-    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-13T20:33:36.556Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d09fb66ae323",
@@ -3840,10 +3840,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T20:52:55.861Z",
-    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-13T20:36:29.559Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6a2cc472bd25",
@@ -3883,10 +3883,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T20:52:55.861Z",
-    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-13T20:33:52.661Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-f75bd5878c57",
@@ -3926,10 +3926,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T20:52:55.861Z",
-    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-13T20:33:55.508Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d2dfd595c3bc",
@@ -3970,10 +3970,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T20:52:55.861Z",
-    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-13T20:34:00.641Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0b7808979da6",
@@ -4015,10 +4015,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T20:52:55.861Z",
-    "updatedAt": "2026-10-11T20:52:55.861Z",
+    "updatedAt": "2026-10-13T20:40:50.030Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0e34443cf4c2",
@@ -4059,10 +4059,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:34:11.540Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-a4e2adc9b475",
@@ -4102,10 +4102,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:34:15.140Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-05efea3380dd",
@@ -4145,10 +4145,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:34:19.074Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-cf7f8c3340e9",
@@ -4161,15 +4161,15 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-11T00:00:00+09:00",
+    "endAt": "2026-10-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": "新潟県",
+      "name": "THE NIIGATA",
+      "address": "東京都中央区銀座5-6-7",
+      "prefecture": "東京都",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.670982,
+      "longitude": 139.763962
     },
     "organizer": null,
     "officialUrl": null,
@@ -4185,13 +4185,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:38:06.358Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-ad2dc5951bbd",
@@ -4247,15 +4247,15 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "高田本町商店街",
+      "address": "新潟県上越市本町４丁目２",
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "latitude": 37.112499,
+      "longitude": 138.245087
     },
     "organizer": null,
     "officialUrl": null,
@@ -4271,13 +4271,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:41:42.972Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-3af7f64efd21",
@@ -4319,10 +4319,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:44:02.711Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-b42c1f15ab13",
@@ -4336,15 +4336,15 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-04T00:00:00+09:00",
+    "endAt": "2026-10-04T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "道の駅よしかわ杜氏の郷 緑地広場",
+      "address": "新潟県上越市吉川区杜氏の郷1番地",
+      "prefecture": "新潟県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 37.241566,
+      "longitude": 138.37674
     },
     "organizer": null,
     "officialUrl": null,
@@ -4360,13 +4360,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:43:02.072Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-d2934caae098",
@@ -4407,10 +4407,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:43:29.539Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d7419871e74f",
@@ -4450,10 +4450,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-12T23:34:50.372Z",
+    "updatedAt": "2026-10-13T20:43:19.528Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-656a9eb112ea",
