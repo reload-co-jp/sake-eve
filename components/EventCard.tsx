@@ -35,16 +35,14 @@ export const eventPlace = ({ venue }: Event) =>
 export const EventCard: FC<{ event: Event }> = ({ event }) => {
   return (
     <article className="card">
-      {event.imageUrl && (
-        // Hotlinked source image; alt is empty because the title follows.
-        <img
-          className="card-image"
-          src={event.imageUrl}
-          alt=""
-          loading="lazy"
-          referrerPolicy="no-referrer"
-        />
-      )}
+      {/* Hotlinked source image; alt is empty because the title follows. */}
+      <img
+        className="card-image"
+        src={event.imageUrl ?? "/images/placeholder.png"}
+        alt=""
+        loading="lazy"
+        referrerPolicy="no-referrer"
+      />
       <p className="card-date">
         <StatusBadge event={event} />
         <time dateTime={event.startAt ?? undefined}>{formatPeriod(event)}</time>

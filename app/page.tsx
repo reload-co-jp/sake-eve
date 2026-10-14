@@ -54,14 +54,12 @@ const Page = () => {
             {featured.map((e) => (
               <li key={e.id}>
                 <Link className="feature__item" href={`/events/${e.slug}/`}>
-                  {e.imageUrl && (
-                    <img
-                      className="feature__image"
-                      src={e.imageUrl}
-                      alt=""
-                      referrerPolicy="no-referrer"
-                    />
-                  )}
+                  <img
+                    className="feature__image"
+                    src={e.imageUrl ?? "/images/placeholder.png"}
+                    alt=""
+                    referrerPolicy="no-referrer"
+                  />
                   <span className="feature__body">
                     <span className="feature__date">
                       <StatusBadge event={e} />
