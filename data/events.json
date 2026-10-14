@@ -4568,7 +4568,7 @@
     "organizer": null,
     "officialUrl": "https://kobeagripark.jp/",
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/99858/5/99858-5-179dc6503588562b80f9c779b7c536fe-672x951.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-1f4dd9d54e9a.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -4698,7 +4698,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://soon.ismcdn.jp/mwimgs/a/4/1200wm/img_a4f366153970c7e90467d419dc0dd8ac290480.jpg",
+    "imageUrl": "/images/events/evt-9a8dde91f58e.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -4759,5 +4759,95 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-24eb289abad8",
+    "slug": "e-24eb289abad8",
+    "title": "調布銀座の「鉄板酒場三八」が3周年 生ビール1杯目38円など感謝祭も",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/chofu_keizai/headline/1791939118_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-24eb289abad8"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-14T20:32:48.609Z",
+    "updatedAt": "2026-10-14T20:32:48.609Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c48852c83798",
+    "slug": "e-c48852c83798",
+    "title": "大雨被害に負けず地酒の祭典 千葉市",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "千葉県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.jiji.com/news2/kiji_photos/202610/20261009bo02_o.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c48852c83798"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-14T20:32:48.609Z",
+    "updatedAt": "2026-10-14T20:32:48.609Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]

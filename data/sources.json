@@ -3571,5 +3571,75 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-24eb289abad8",
+    "sourceType": "news",
+    "url": "https://chofu.keizai.biz/headline/4990/",
+    "title": "調布銀座の「鉄板酒場三八」が3周年 生ビール1杯目38円など感謝祭も",
+    "publisher": "調布経済新聞",
+    "publishedAt": "2026-10-14T02:30:00.000Z",
+    "fetchedAt": "2026-10-14T20:32:48.609Z",
+    "contentHash": "a8ebb8ffc1039010b759b063459291ee6a1f74859fd3b122d52b23977156bca1",
+    "relatedEventIds": [
+      "evt-24eb289abad8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c48852c83798",
+    "sourceType": "news",
+    "url": "https://www.jiji.com/jc/article?k=2026101300590&g=jfn",
+    "title": "大雨被害に負けず地酒の祭典 千葉市",
+    "publisher": "時事ドットコム",
+    "publishedAt": "2026-10-13T23:00:00.000Z",
+    "fetchedAt": "2026-10-14T20:32:48.609Z",
+    "contentHash": "f0ded29c286030cfece0d86700b5e62e51780eb1c28e92f46e579449ab523bd6",
+    "relatedEventIds": [
+      "evt-c48852c83798"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "千葉県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-d3a9584b103b"
+      ]
+    }
   }
 ]
