@@ -124,14 +124,17 @@ if (!allFailed) {
   const bodies = new Map(
     items.map(({ item }) => [normalizeUrl(item.url), item.summary])
   )
-  const sourceUrls = new Map(triaged.db.sources.map((s) => [s.id, s.url]))
+  const sourceById = new Map(triaged.db.sources.map((s) => [s.id, s]))
   let summarized = 0
   // ponytail: per-run cap bounds API spend and source requests; the backlog drains over later runs.
   let budget = dryRun || !process.env.ANTHROPIC_API_KEY ? 0 : 20
   for (const e of triaged.db.events) {
     if (budget <= 0) break
-    const url = sourceUrls.get(e.sourceIds[0] ?? "")
-    if (e.description || e.isSample || !url) continue
+    const src = sourceById.get(e.sourceIds[0] ?? "")
+    const url = src?.url
+    // A title still equal to the source headline has not been named yet (admin edits differ, so they stay).
+    const unnamed = e.title === src?.title
+    if ((e.description && !unnamed) || e.isSample || !url) continue
     const body = bodies.get(normalizeUrl(url))
     if (body === undefined && e.publication !== "published") continue
     budget--
@@ -139,7 +142,8 @@ if (!allFailed) {
       const text = body ?? parseDetail(await fetchText(url), url)?.summary
       const d = text && (await summarize(e.title, text))
       if (d) {
-        e.description = d
+        if (unnamed) e.title = d.name
+        e.description ??= d.description
         e.updatedAt = now
         summarized++
       }

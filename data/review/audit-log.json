@@ -1900,5 +1900,145 @@
       "publication"
     ],
     "note": "auto: 配信60日超で日付不明"
+  },
+  {
+    "at": "2026-10-14T08:04:50.380Z",
+    "collection": "events",
+    "id": "evt-0337b5740a02",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:05:30.244Z",
+    "collection": "events",
+    "id": "evt-df105e19047d",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:05:50.810Z",
+    "collection": "events",
+    "id": "evt-ea4f91ee8d17",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:06:21.626Z",
+    "collection": "events",
+    "id": "evt-b0a9b6e499a9",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:07:31.114Z",
+    "collection": "events",
+    "id": "evt-865827dfcb6e",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "imageUrl",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:08:04.560Z",
+    "collection": "events",
+    "id": "evt-c43183b07e48",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "imageUrl",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:08:25.944Z",
+    "collection": "events",
+    "id": "evt-28fc25193075",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:10:01.588Z",
+    "collection": "events",
+    "id": "evt-1f4dd9d54e9a",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:10:02.405Z",
+    "collection": "events",
+    "id": "evt-1f4dd9d54e9a",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:11:45.618Z",
+    "collection": "events",
+    "id": "evt-9a8dde91f58e",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:11:49.007Z",
+    "collection": "events",
+    "id": "evt-9a8dde91f58e",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-14T08:12:07.010Z",
+    "collection": "events",
+    "id": "evt-83b9207afe5e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
   }
 ]
