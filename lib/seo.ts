@@ -1,5 +1,5 @@
 import { effectiveStatus } from "./event"
-import type { Event } from "./types"
+import type { Article, Event } from "./types"
 
 /** Site origin for canonical URLs, sitemap and structured data. Set SITE_URL at build time. */
 // `||`, not `??`: an unset GitHub Actions variable arrives as an empty string.
@@ -75,3 +75,19 @@ export const eventJsonLd = (e: Event) => {
 /** Safe to embed in <script type="application/ld+json">. */
 export const jsonLdHtml = (data: object) =>
   JSON.stringify(data).replace(/</g, "\\u003c")
+
+/** schema.org Article. Returns null for sample data. */
+export const articleJsonLd = (a: Article) => {
+  if (a.isSample) return null
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: a.title,
+    description: a.summary,
+    url: `${SITE_URL}/articles/${a.slug}/`,
+    datePublished: a.publishedAt,
+    dateModified: a.updatedAt,
+    ...(a.thumbnail && { image: [new URL(a.thumbnail, SITE_URL).href] }),
+    publisher: { "@type": "Organization", name: "サケイベ！", url: SITE_URL },
+  }
+}

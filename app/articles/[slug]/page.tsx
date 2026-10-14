@@ -11,7 +11,7 @@ import {
   staticSlugs,
 } from "@/lib/data"
 import { formatDateTime } from "@/lib/event"
-import { OPEN_GRAPH_BASE } from "@/lib/seo"
+import { OPEN_GRAPH_BASE, articleJsonLd, jsonLdHtml } from "@/lib/seo"
 import { ARTICLE_TYPES } from "@/lib/types"
 
 type Props = { params: Promise<{ slug: string }> }
@@ -34,6 +34,9 @@ export const generateMetadata = async ({
       title: a.title,
       description: a.summary,
       url: `/articles/${a.slug}/`,
+      publishedTime: a.publishedAt,
+      modifiedTime: a.updatedAt,
+      ...(a.thumbnail && { images: [a.thumbnail] }),
     },
   }
 }
@@ -43,8 +46,15 @@ const Page = async ({ params }: Props) => {
   if (!a) notFound()
   const { events, producers, products } = articleRelations(a)
   const sources = getSources(a.sourceIds)
+  const jsonLd = articleJsonLd(a)
   return (
     <article className="container page detail">
+      {jsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: jsonLdHtml(jsonLd) }}
+        />
+      )}
       <p>
         <Link href="/articles/">← 記事一覧へ</Link>
       </p>

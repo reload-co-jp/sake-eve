@@ -9,6 +9,10 @@ export const dynamic = "force-static"
 const sitemap = (): MetadataRoute.Sitemap => {
   const withEvents = new Set(publicEvents.map((e) => e.venue.prefecture))
   const genresWithEvents = new Set(publicEvents.flatMap((e) => e.genres))
+  const lastModified = new Map<string, string>([
+    ...publicEvents.map((e) => [`/events/${e.slug}/`, e.updatedAt] as const),
+    ...db.articles.map((a) => [`/articles/${a.slug}/`, a.updatedAt] as const),
+  ])
   const paths = [
     "/",
     "/events/",
@@ -28,7 +32,10 @@ const sitemap = (): MetadataRoute.Sitemap => {
       .filter((g) => genresWithEvents.has(g as never))
       .map((g) => `/genres/${g}/`),
   ]
-  return paths.map((p) => ({ url: `${SITE_URL}${p}` }))
+  return paths.map((p) => ({
+    url: `${SITE_URL}${p}`,
+    lastModified: lastModified.get(p),
+  }))
 }
 
 export default sitemap
