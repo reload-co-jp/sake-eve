@@ -43,13 +43,13 @@ export const TimelineView: FC<{
 
   return (
     <>
+      <ViewTabs current={PATH} params={params} />
       <SearchForm
         key={params.toString()}
         defaults={query}
         action={PATH}
         hidden={{ scale }}
       />
-      <ViewTabs current={PATH} params={params} />
       <div className="timeline-controls">
         <nav aria-label="表示単位" className="seg">
           {(Object.keys(SCALES) as Scale[]).map((s) => (

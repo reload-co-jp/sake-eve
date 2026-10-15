@@ -19,8 +19,8 @@ export const MapView: FC<{
   const mapped = new Set(points.map((p) => p.id))
   return (
     <>
-      <SearchForm key={key} defaults={query} action="/events/map/" />
       <ViewTabs current="/events/map/" params={params} />
+      <SearchForm key={key} defaults={query} action="/events/map/" />
       <h2 aria-live="polite">
         地図に表示 {points.length}件
         <small className="sub-count">

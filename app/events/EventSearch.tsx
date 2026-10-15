@@ -23,9 +23,9 @@ export const EventSearch: FC<{
   const points = results.map(toMapPoint).filter((p) => p !== null)
   return (
     <>
+      <ViewTabs current="/events/" params={params} />
       {/* key resets defaultValues on back/forward navigation */}
       <SearchForm key={params.toString()} defaults={query} />
-      <ViewTabs current="/events/" params={params} />
       <h2 aria-live="polite">検索結果 {results.length}件</h2>
       {points.length > 0 && (
         <EventMap points={points} label="検索結果のイベント会場の地図" />
