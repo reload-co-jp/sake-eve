@@ -2040,5 +2040,25 @@
       "publication"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-15T07:48:21.214Z",
+    "collection": "events",
+    "id": "evt-24eb289abad8",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-15T07:48:36.437Z",
+    "collection": "events",
+    "id": "evt-c48852c83798",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
   }
 ]
