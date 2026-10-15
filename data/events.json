@@ -4849,5 +4849,306 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-b95e5caff504",
+    "slug": "e-b95e5caff504",
+    "title": "【11/11開催】出身地や地域との縁をきっかけに経営者同士が交流｜「地方出身経営者会」をスイセイと共催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-11T00:00:00+09:00",
+    "endAt": "2026-11-11T23:59:00+09:00",
+    "venue": {
+      "name": "恵比寿",
+      "address": "東京都港区赤坂一丁目14番14号 第35興和ビル515",
+      "prefecture": "東京都",
+      "city": "港区",
+      "latitude": 35.666683,
+      "longitude": 139.742157
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/15335/458/15335-458-b0103f3144768b99ed3f06a0cab9fa1e-1730x909.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b95e5caff504"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ba35fa3d4700",
+    "slug": "e-ba35fa3d4700",
+    "title": "京都の名勝で開催するお月見の会「渉成園十三夜」にて、ザ・サウザンド京都の特製カクテル、ピーカンナッツをご提供",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-23T00:00:00+09:00",
+    "endAt": "2026-10-23T23:59:00+09:00",
+    "venue": {
+      "name": "渉成園(枳殻邸(きこくてい))〈東本願寺飛地境内〉",
+      "address": "〒600-8216京都市下京区東塩小路町570番",
+      "prefecture": "京都府",
+      "city": null,
+      "latitude": 34.986465,
+      "longitude": 135.761749
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/83761/729/83761-729-687fcc91e3b6e6637a7d68e05e4d915c-1986x946.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ba35fa3d4700"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-cf7bba47fb01",
+    "slug": "e-cf7bba47fb01",
+    "title": "海底で熟成した酒“まろやかさ\"増す 水温一定で光届かず、波の揺らぎ効果も 今庄駅のイベントで提供",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://image.gallery.play.jp/fbc-news/articles/1371180952194ca9a4ee537a5c16b3df/76c94a9c-c406-414b-a834-eed1d7098679.jpg?w=1200",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-cf7bba47fb01"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-403cdb84aef0",
+    "slug": "e-403cdb84aef0",
+    "title": "晩酌用のビール、箱買いするなら今! 「サッポロ生ビール 黒ラベル」24本がプライム感謝祭先行セールでお得",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://ascii.jp/img/2026/10/14/4538520/l/739509465c14d259.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-403cdb84aef0"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ad9eef28e410",
+    "slug": "e-ad9eef28e410",
+    "title": "晩酌用のビール、箱買いするなら今! 「サッポロ生ビール 黒ラベル」24本がプライム感謝祭先行セールでお得",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://ascii.jp/img/2026/10/14/4538520/xl/739509465c14d259.jpg?20200122",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ad9eef28e410"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c8b2ddcf3bfc",
+    "slug": "e-c8b2ddcf3bfc",
+    "title": "31日にワインなど魅力触れるウォーキングイベント 那須塩原",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "tour"
+    ],
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-10-31T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/5/e/1200wm/img_5e34d654db02fc0ff97411f54a94b72f450933.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c8b2ddcf3bfc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-4a400703a3ba",
+    "slug": "e-4a400703a3ba",
+    "title": "京都市西京区の松尾大社で「酒ハイ」イベント開催へ 地元酒蔵の飲み比べ企画",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://kyoto-np.ismcdn.jp/mwimgs/b/5/1200wm/img_b596b89331b1203bbfc1e62945242d9941015.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4a400703a3ba"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
