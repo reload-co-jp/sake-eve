@@ -2230,5 +2230,45 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-16T15:00:46.528Z",
+    "collection": "events",
+    "id": "evt-3862c47eb4ad",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "重複: evt-4c9b6b2f648e と同一（東京クリスマスマーケット2026）"
+  },
+  {
+    "at": "2026-10-16T15:00:46.528Z",
+    "collection": "events",
+    "id": "evt-90c80cc92072",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "重複: evt-4c5392428bb3 と同一（京都駅ビルビアフェスタ2026）"
+  },
+  {
+    "at": "2026-10-16T15:00:46.528Z",
+    "collection": "events",
+    "id": "evt-ad9eef28e410",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "イベントではない（商品セール告知）"
+  },
+  {
+    "at": "2026-10-16T15:00:46.528Z",
+    "collection": "events",
+    "id": "evt-403cdb84aef0",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "イベントではない（商品セール告知）"
   }
 ]
