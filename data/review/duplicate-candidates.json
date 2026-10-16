@@ -36,16 +36,6 @@
     "detectedAt": "2026-10-10T18:43:03.508Z"
   },
   {
-    "eventId": "evt-ba1448763adf",
-    "candidateEventId": "evt-b12361691798",
-    "score": 1,
-    "reasons": [
-      "similar_title",
-      "same_start_date"
-    ],
-    "detectedAt": "2026-10-11T08:59:35.186Z"
-  },
-  {
     "eventId": "evt-0b7808979da6",
     "candidateEventId": "evt-d21d6a5cfc8c",
     "score": 0.7,
@@ -63,27 +53,6 @@
       "same_prefecture"
     ],
     "detectedAt": "2026-10-14T20:32:48.609Z"
-  },
-  {
-    "eventId": "evt-3862c47eb4ad",
-    "candidateEventId": "evt-4c9b6b2f648e",
-    "score": 1,
-    "reasons": [
-      "similar_title",
-      "same_start_date",
-      "same_prefecture"
-    ],
-    "detectedAt": "2026-10-16T14:39:14.287Z"
-  },
-  {
-    "eventId": "evt-90c80cc92072",
-    "candidateEventId": "evt-4c5392428bb3",
-    "score": 0.55,
-    "reasons": [
-      "same_start_date",
-      "same_prefecture"
-    ],
-    "detectedAt": "2026-10-16T14:39:14.287Z"
   },
   {
     "eventId": "evt-a1ce237d7d5c",

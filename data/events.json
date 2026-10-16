@@ -1527,7 +1527,8 @@
     "isFree": null,
     "reservationRequired": null,
     "sourceIds": [
-      "src-4c5392428bb3"
+      "src-4c5392428bb3",
+      "src-90c80cc92072"
     ],
     "producerIds": [],
     "productIds": [],
@@ -1536,7 +1537,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T05:03:51.815Z",
+    "updatedAt": "2026-10-16T15:39:33.884Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3399,49 +3400,7 @@
     "isFree": null,
     "reservationRequired": null,
     "sourceIds": [
-      "src-b12361691798"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "hidden"
-  },
-  {
-    "id": "evt-ba1448763adf",
-    "slug": "e-ba1448763adf",
-    "title": "コスマップ撮影会 vol.29",
-    "description": null,
-    "genres": [
-      "other"
-    ],
-    "eventTypes": [
-      "other"
-    ],
-    "startAt": "2026-09-14T00:00:00+09:00",
-    "endAt": "2026-09-14T23:59:00+09:00",
-    "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
-    },
-    "organizer": null,
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
+      "src-b12361691798",
       "src-ba1448763adf"
     ],
     "producerIds": [],
@@ -3451,7 +3410,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-11T08:59:35.186Z",
+    "updatedAt": "2026-10-16T15:39:33.884Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
@@ -5053,7 +5012,8 @@
     "isFree": null,
     "reservationRequired": null,
     "sourceIds": [
-      "src-4c9b6b2f648e"
+      "src-4c9b6b2f648e",
+      "src-3862c47eb4ad"
     ],
     "producerIds": [],
     "productIds": [],
@@ -5062,54 +5022,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:39:33.884Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
-  },
-  {
-    "id": "evt-3862c47eb4ad",
-    "slug": "e-3862c47eb4ad",
-    "title": "【APAMAN】新豊洲初開催「東京クリスマスマーケット2026」注目グルメを公開！",
-    "description": null,
-    "genres": [
-      "beer",
-      "wine"
-    ],
-    "eventTypes": [
-      "market"
-    ],
-    "startAt": "2026-11-20T00:00:00+09:00",
-    "endAt": "2026-12-25T23:59:00+09:00",
-    "venue": {
-      "name": "芝公園(御成門駅前広場)",
-      "address": null,
-      "prefecture": "東京都",
-      "city": null,
-      "latitude": null,
-      "longitude": null
-    },
-    "organizer": null,
-    "officialUrl": "https://tokyochristmas.net/",
-    "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49635/449/49635-449-9840625f228c14093df9693933c7a34d-1491x1055.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-3862c47eb4ad"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:00:46.528Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "hidden"
   },
   {
     "id": "evt-b2092722d533",
@@ -5284,49 +5200,6 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
-  },
-  {
-    "id": "evt-90c80cc92072",
-    "slug": "e-90c80cc92072",
-    "title": "京都駅でクラフトビールが楽しめる！「京都駅ビルビアフェスタ2026」参加ブルワリー決定",
-    "description": null,
-    "genres": [
-      "beer"
-    ],
-    "eventTypes": [
-      "festival"
-    ],
-    "startAt": "2026-11-13T00:00:00+09:00",
-    "endAt": "2026-11-13T23:59:00+09:00",
-    "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": "京都府",
-      "city": null,
-      "latitude": null,
-      "longitude": null
-    },
-    "organizer": null,
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/95753/2407/95753-2407-4324d94c809577c05ac4fc4a0f330866-817x1146.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-90c80cc92072"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:00:46.528Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "hidden"
   },
   {
     "id": "evt-3116ef14cd71",

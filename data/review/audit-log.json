@@ -2270,5 +2270,35 @@
       "publication"
     ],
     "note": "イベントではない（商品セール告知）"
+  },
+  {
+    "at": "2026-10-16T15:39:33.884Z",
+    "collection": "events",
+    "id": "evt-4c9b6b2f648e",
+    "action": "update",
+    "changedFields": [
+      "sourceIds"
+    ],
+    "note": "同内容の evt-3862c47eb4ad を統合"
+  },
+  {
+    "at": "2026-10-16T15:39:33.884Z",
+    "collection": "events",
+    "id": "evt-4c5392428bb3",
+    "action": "update",
+    "changedFields": [
+      "sourceIds"
+    ],
+    "note": "同内容の evt-90c80cc92072 を統合"
+  },
+  {
+    "at": "2026-10-16T15:39:33.884Z",
+    "collection": "events",
+    "id": "evt-b12361691798",
+    "action": "update",
+    "changedFields": [
+      "sourceIds"
+    ],
+    "note": "同内容の evt-ba1448763adf を統合"
   }
 ]
