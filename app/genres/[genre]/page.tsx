@@ -16,11 +16,15 @@ export const generateMetadata = async ({
   params,
 }: Props): Promise<Metadata> => {
   const { genre } = await params
+  const events = eventsOf(genre)
+  const prefs = [
+    ...new Set(events.map((e) => e.venue.prefecture).filter(Boolean)),
+  ]
   return {
-    title: `${GENRES[genre]}のイベント`,
-    description: `${GENRES[genre]}に関するイベント・試飲会・フェスの一覧。`,
+    title: `${GENRES[genre]}イベント・試飲会・フェス情報`,
+    description: `${GENRES[genre]}のイベント・試飲会・フェス${events.length}件を掲載${prefs.length ? `（${prefs.slice(0, 5).join("・")}など）` : ""}。日程・会場を一覧で確認できます。`,
     alternates: { canonical: `/genres/${genre}/` },
-    robots: eventsOf(genre).length ? undefined : { index: false },
+    robots: events.length ? undefined : { index: false },
   }
 }
 

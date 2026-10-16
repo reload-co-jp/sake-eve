@@ -409,5 +409,50 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-10-16T14:32:36.868Z",
+    "finishedAt": "2026-10-16T14:39:46.142Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得25件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "ok",
+        "items": 30,
+        "message": "検索ヒット576件 / 未取得530件 / 候補384件 / 詳細取得30件 / 次回へ繰越354件"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://www.kanaloco.jp/news/life/article-1313071.html: HTTP 307: https://www.kanaloco.jp/news/life/article-1313071.html / 詳細取得失敗 https://www.wwdjapan.com/articles/2527043: アクセス制限 (HTTP 403) のため中止: https://www.wwdjapan.com/articles/2527043 / 詳細取得28件 / 失敗2件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 330,
+      "irrelevant": 293,
+      "duplicateUrl": 0,
+      "added": 37,
+      "needsReview": 19,
+      "autoPublished": 10,
+      "duplicateCandidates": 4,
+      "autoHidden": 7,
+      "summarized": 0,
+      "geocoded": 10
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

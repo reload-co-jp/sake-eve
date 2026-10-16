@@ -1,7 +1,7 @@
 import { Metadata } from "next"
 import Link from "next/link"
 import { notFound } from "next/navigation"
-import { EventList, GenreTags, StatusBadge } from "@/components/EventCard"
+import { EventList, StatusBadge } from "@/components/EventCard"
 import { EventMap } from "@/components/EventMap"
 import { ArticleList, ProductList, Related } from "@/components/Lists"
 import {
@@ -21,6 +21,8 @@ import {
 import { eventJsonLd, jsonLdHtml, OPEN_GRAPH_BASE } from "@/lib/seo"
 import {
   EVENT_TYPES,
+  GENRES,
+  PREFECTURE_SLUGS,
   PRODUCER_TYPES,
   SOURCE_TYPES,
   VERIFICATION_STATUSES,
@@ -115,7 +117,13 @@ const Page = async ({ params }: Props) => {
           </time>
         </p>
         <h1 className="page-title">{event.title}</h1>
-        <GenreTags event={event} />
+        <ul className="tags" aria-label="酒類ジャンル">
+          {event.genres.map((g) => (
+            <li key={g} className={`tag genre-${g}`}>
+              <Link href={`/genres/${g}/`}>{GENRES[g]}</Link>
+            </li>
+          ))}
+        </ul>
       </header>
       {event.imageUrl && (
         <img
@@ -147,7 +155,16 @@ const Page = async ({ params }: Props) => {
           <Row label="会場">{venue.name}</Row>
           <Row label="住所">{venue.address}</Row>
           <Row label="エリア">
-            {[venue.prefecture, venue.city].filter(Boolean).join(" ") || null}
+            {venue.prefecture && PREFECTURE_SLUGS[venue.prefecture] ? (
+              <>
+                <Link href={`/areas/${PREFECTURE_SLUGS[venue.prefecture]}/`}>
+                  {venue.prefecture}
+                </Link>
+                {venue.city && ` ${venue.city}`}
+              </>
+            ) : (
+              [venue.prefecture, venue.city].filter(Boolean).join(" ") || null
+            )}
           </Row>
           <Row label="イベント形式">
             {event.eventTypes.map((t) => EVENT_TYPES[t]).join("、")}
