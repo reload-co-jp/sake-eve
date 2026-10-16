@@ -3643,6 +3643,102 @@
     }
   },
   {
+    "id": "src-b95e5caff504",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000458.000015335.html",
+    "title": "【11/11開催】出身地や地域との縁をきっかけに経営者同士が交流｜「地方出身経営者会」をスイセイと共催",
+    "publisher": "株式会社オンリーストーリー",
+    "publishedAt": "2026-10-15T09:40:15+09:00",
+    "fetchedAt": "2026-10-15T20:15:36.888Z",
+    "contentHash": "f6b5dd8c5eb75aa01888efb8a27d988c68e97e837d34fe5489b36bb2751dc01d",
+    "relatedEventIds": [
+      "evt-b95e5caff504"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "dateSource": "text",
+      "venueName": "恵比寿",
+      "address": "東京都港区赤坂一丁目14番14号 第35興和ビル515",
+      "prefecture": "東京都",
+      "city": "港区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ba35fa3d4700",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000729.000083761.html",
+    "title": "京都の名勝で開催するお月見の会「渉成園十三夜」にて、ザ・サウザンド京都の特製カクテル、ピーカンナッツをご提供",
+    "publisher": "京阪ホテルズ＆リゾーツ株式会社",
+    "publishedAt": "2026-10-15T14:00:02+09:00",
+    "fetchedAt": "2026-10-15T20:15:36.888Z",
+    "contentHash": "5a3385c84e0563299042d13537ce8e27ec57069d8e506cf82e1951b91318f72d",
+    "relatedEventIds": [
+      "evt-ba35fa3d4700"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "cocktail"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "dateSource": "text",
+      "venueName": "渉成園(枳殻邸(きこくてい))〈東本願寺飛地境内〉",
+      "address": "〒600-8216京都市下京区東塩小路町570番",
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4a400703a3ba",
+    "sourceType": "news",
+    "url": "https://www.kyoto-np.co.jp/articles/-/1808076",
+    "title": "京都市西京区の松尾大社で「酒ハイ」イベント開催へ 地元酒蔵の飲み比べ企画",
+    "publisher": "京都新聞デジタル",
+    "publishedAt": "2026-10-14T20:22:00.000Z",
+    "fetchedAt": "2026-10-15T20:15:36.888Z",
+    "contentHash": "82a4620bd56ad948b5aaa538b38e6d7faf585903784e4d6603d62e557bd110eb",
+    "relatedEventIds": [
+      "evt-4a400703a3ba"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
     "id": "src-98100a7cb2a9",
     "sourceType": "prtimes",
     "url": "https://prtimes.jp/main/html/rd/p/000000420.000007828.html",

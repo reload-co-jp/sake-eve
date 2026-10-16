@@ -411,6 +411,51 @@
     "written": true
   },
   {
+    "startedAt": "2026-10-15T20:10:54.250Z",
+    "finishedAt": "2026-10-15T20:15:44.198Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://www.gamer.ne.jp/news/202610150066/: アクセス制限 (HTTP 403) のため中止: https://www.gamer.ne.jp/news/202610150066/ / 詳細取得失敗 https://www.sanyonews.jp/article/2002269/: robots.txtで禁止されているため取得しません: https://www.sanyonews.jp/article/2002269/ / 詳細取得失敗 https://tetsudo-ch.com/13041439.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13041439.html / 詳細取得失敗 https://natalie.mu/eiga/news/693673: HTTP 405: https://natalie.mu/eiga/news/693673 / 詳細取得26件 / 失敗4件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 292,
+      "duplicateUrl": 1,
+      "added": 7,
+      "needsReview": 7,
+      "autoPublished": 0,
+      "duplicateCandidates": 1,
+      "autoHidden": 0,
+      "summarized": 0,
+      "geocoded": 2
+    },
+    "validationErrors": [],
+    "written": true
+  },
+  {
     "startedAt": "2026-10-16T14:32:36.868Z",
     "finishedAt": "2026-10-16T14:39:46.142Z",
     "dryRun": false,
