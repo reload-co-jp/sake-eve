@@ -438,7 +438,7 @@
   {
     "id": "evt-c43183b07e48",
     "slug": "e-c43183b07e48",
-    "title": "クラフトビールを通じた地域連携の第一歩 「RINKU SEASIDE CRAFT BEER DAYS」",
+    "title": "「RINKU SEASIDE CRAFT BEER DAYS」",
     "description": "クラフトビールを通じた地域連携の第一歩 「RINKU SEASIDE CRAFT BEER DAYS」を初開催　泉佐野市に根差す2事業者と地域を味わう機会を創出",
     "genres": [
       "beer"
@@ -473,7 +473,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-14T08:08:04.560Z",
+    "updatedAt": "2026-10-16T15:52:25.826Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -4847,16 +4847,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-15T20:15:36.888Z",
-    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-16T15:45:17.728Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ba35fa3d4700",
     "slug": "e-ba35fa3d4700",
-    "title": "京都の名勝で開催するお月見の会「渉成園十三夜」にて、ザ・サウザンド京都の特製カクテル、ピーカンナッツをご提供",
-    "description": null,
+    "title": "京都の名勝で開催するお月見の会「渉成園十三夜」",
+    "description": "京都の名勝で開催するお月見の会「渉成園十三夜」にて、ザ・サウザンド京都の特製カクテル、ピーカンナッツをご提供",
     "genres": [
       "cocktail"
     ],
@@ -4877,8 +4877,8 @@
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/83761/729/83761-729-687fcc91e3b6e6637a7d68e05e4d915c-1986x946.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "大人 1,000 円、中高生 500 円 ※小学生以下無料",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-ba35fa3d4700"
@@ -4887,19 +4887,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-15T20:15:36.888Z",
-    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-16T15:52:55.681Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-4a400703a3ba",
     "slug": "e-4a400703a3ba",
-    "title": "京都市西京区の松尾大社で「酒ハイ」イベント開催へ 地元酒蔵の飲み比べ企画",
-    "description": null,
+    "title": "「酒ハイ」地元酒蔵の飲み比べ",
+    "description": "京都市西京区の松尾大社で「酒ハイ」イベント開催へ 地元酒蔵の飲み比べ企画",
     "genres": [
       "sake"
     ],
@@ -4933,16 +4933,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-15T20:15:36.888Z",
-    "updatedAt": "2026-10-15T20:15:36.888Z",
+    "updatedAt": "2026-10-16T15:59:39.064Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-98100a7cb2a9",
     "slug": "e-98100a7cb2a9",
-    "title": "ダイヤゲート池袋で開催されるイベント「つながる行きつけ～夜市～」に協力、星空観望会を行います",
-    "description": null,
+    "title": "「つながる行きつけ～夜市～」",
+    "description": "ダイヤゲート池袋で開催されるイベント「つながる行きつけ～夜市～」に協力、星空観望会を行います",
     "genres": [
       "cocktail"
     ],
@@ -4953,19 +4953,19 @@
     "startAt": "2026-10-21T00:00:00+09:00",
     "endAt": "2026-10-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "ダイヤゲート池袋",
+      "address": "東京都豊島区南池袋１丁目１６−１５",
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "latitude": 35.72678,
+      "longitude": 139.710983
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/7828/420/7828-420-0e6700243d2112a20bea8a0f7f46ba2d-549x366.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-98100a7cb2a9"
@@ -4974,19 +4974,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:53:28.991Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-4c9b6b2f648e",
     "slug": "e-4c9b6b2f648e",
-    "title": "新豊洲初開催「東京クリスマスマーケット2026」注目グルメを公開！",
-    "description": null,
+    "title": "東京クリスマスマーケット2026",
+    "description": "新豊洲初開催「東京クリスマスマーケット2026」注目グルメを公開！",
     "genres": [
       "beer",
       "wine"
@@ -5022,7 +5022,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:39:33.884Z",
+    "updatedAt": "2026-10-16T15:53:56.275Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5030,8 +5030,8 @@
   {
     "id": "evt-b2092722d533",
     "slug": "e-b2092722d533",
-    "title": "[イベント開催]「OSAKA FOOD JOURNEY The Origin/大阪『食の原点』へ」",
-    "description": null,
+    "title": "「OSAKA FOOD JOURNEY The Origin/大阪『食の原点』へ」",
+    "description": "[イベント開催]「OSAKA FOOD JOURNEY The Origin/大阪『食の原点』へ」",
     "genres": [
       "beer",
       "sake"
@@ -5041,21 +5041,21 @@
       "market"
     ],
     "startAt": "2026-10-24T00:00:00+09:00",
-    "endAt": "2026-10-24T23:59:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "なんば広場  なんさん通り",
+      "address": "大阪府大阪市中央区難波5丁目",
       "prefecture": "大阪府",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.664261,
+      "longitude": 135.501404
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/192489/5/192489-5-64a7a3ce5992aaa9dd17825b120227e4-1200x634.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-b2092722d533"
@@ -5064,13 +5064,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:54:13.955Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-5820ad4abb71",
@@ -5118,8 +5118,8 @@
   {
     "id": "evt-d664773e91d0",
     "slug": "e-d664773e91d0",
-    "title": "【富山・魚津】鮮度抜群の紅ズワイガニがまるまる1杯食べられる大人気イベント「魚津蟹騒動」。今年はスケールアップして11月14・15日に「魚津蟹大騒動」として開催！毎年完売のアツアツ蒸し蟹の予約受付中",
-    "description": null,
+    "title": "魚津蟹大騒動",
+    "description": "【富山・魚津】鮮度抜群の紅ズワイガニがまるまる1杯食べられる大人気イベント「魚津蟹騒動」。今年はスケールアップして11月14・15日に「魚津蟹大騒動」として開催！毎年完売のアツアツ蒸し蟹の予約受付中",
     "genres": [
       "beer"
     ],
@@ -5130,11 +5130,11 @@
     "endAt": "2026-11-14T23:59:00+09:00",
     "venue": {
       "name": "海の駅蜃気楼・イベントスペース(富山県魚津市村木定坊割2500-2)",
-      "address": null,
+      "address": "富山県魚津市村木町 定坊割2500-2",
       "prefecture": "富山県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.820759,
+      "longitude": 137.401581
     },
     "organizer": null,
     "officialUrl": null,
@@ -5150,19 +5150,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:01:01.203Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-3235d466c229",
     "slug": "e-3235d466c229",
-    "title": "「酒蔵レストラン宝」で味わう、気仙沼×三陸の秋のごちそう　東北の人気キャラクター「ホヤぼーや」と過ごす“大人のハロウィン”",
-    "description": null,
+    "title": "東北の人気キャラクター「ホヤぼーや」と過ごす“大人のハロウィン”",
+    "description": "「酒蔵レストラン宝」で味わう、気仙沼×三陸の秋のごちそう　東北の人気キャラクター「ホヤぼーや」と過ごす“大人のハロウィン”",
     "genres": [
       "sake"
     ],
@@ -5196,7 +5196,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:54:33.923Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5204,8 +5204,8 @@
   {
     "id": "evt-3116ef14cd71",
     "slug": "e-3116ef14cd71",
-    "title": "【11月10日（火）開催】お酒の楽しみ方を発信する「のもらぼ」、初のリアルイベント「漬け込み酒を飲み比べる夜。」を東京・神田で開催",
-    "description": null,
+    "title": "「漬け込み酒を飲み比べる夜。」",
+    "description": "【11月10日（火）開催】お酒の楽しみ方を発信する「のもらぼ」、初のリアルイベント「漬け込み酒を飲み比べる夜。」を東京・神田で開催",
     "genres": [
       "beer",
       "wine",
@@ -5242,7 +5242,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:55:01.674Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5250,8 +5250,8 @@
   {
     "id": "evt-a8610b099c0e",
     "slug": "e-a8610b099c0e",
-    "title": "横浜駅きた西口でグルメや音楽、体験イベントを楽しもう！「SMILE GARDEN 2026」10月25日（日）開催",
-    "description": null,
+    "title": "「SMILE GARDEN 2026」",
+    "description": "横浜駅きた西口でグルメや音楽、体験イベントを楽しもう！「SMILE GARDEN 2026」10月25日（日）開催",
     "genres": [
       "beer"
     ],
@@ -5263,18 +5263,18 @@
     "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
       "name": "横浜駅きた西口タクシー乗り場(交通広場)",
-      "address": null,
+      "address": "神奈川県横浜市神奈川区鶴屋町1丁目41",
       "prefecture": "神奈川県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "横浜市",
+      "latitude": 35.468845,
+      "longitude": 139.624023
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/44572/89/44572-89-31c10d17873479fec89e02badf85b18f-613x409.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-a8610b099c0e"
@@ -5283,19 +5283,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:55:17.224Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-19dbf4954850",
     "slug": "e-19dbf4954850",
-    "title": "【福岡・警固】秋のカイタックスクエアガーデンはイベントが満載！！",
-    "description": null,
+    "title": "秋のカイタックスクエアガーデン",
+    "description": "【福岡・警固】秋のカイタックスクエアガーデンはイベントが満載！！",
     "genres": [
       "beer"
     ],
@@ -5330,7 +5330,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:55:38.588Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5338,8 +5338,8 @@
   {
     "id": "evt-bf6fdc6a046f",
     "slug": "e-bf6fdc6a046f",
-    "title": "カギヤブルワリーが「第5回 川崎夜市」の川崎ソウルフード屋台に出店。10月23日（金）〜25日（日）、ラ チッタデッラで川崎のクラフトビールを",
-    "description": null,
+    "title": "「第5回 川崎夜市」",
+    "description": "カギヤブルワリーが「第5回 川崎夜市」の川崎ソウルフード屋台に出店。10月23日（金）〜25日（日）、ラ チッタデッラで川崎のクラフトビールを",
     "genres": [
       "beer"
     ],
@@ -5373,7 +5373,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:56:03.859Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5381,8 +5381,8 @@
   {
     "id": "evt-58d96445c0b7",
     "slug": "e-58d96445c0b7",
-    "title": "TOWER RECORDS BEER新作コラボビール発売記念 愛知・ワイマーケット&千葉・リオブルーイングの人気銘柄を楽しむDJイベントを渋谷店で11/7開催",
-    "description": null,
+    "title": "愛知・ワイマーケット&千葉・リオブルーイングの人気銘柄を楽しむDJイベント",
+    "description": "TOWER RECORDS BEER新作コラボビール発売記念 愛知・ワイマーケット&千葉・リオブルーイングの人気銘柄を楽しむDJイベントを渋谷店で11/7開催",
     "genres": [
       "beer"
     ],
@@ -5417,7 +5417,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:56:30.866Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5462,16 +5462,16 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:56:46.009Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "published"
+    "publication": "hidden"
   },
   {
     "id": "evt-9389d84c4594",
     "slug": "e-9389d84c4594",
-    "title": "横浜ビアバイク5周年を記念したオリジナルビール誕生！11月1日（日）の5周年感謝ツアーも開催！",
-    "description": null,
+    "title": "横浜ビアバイク5周年感謝ツアー",
+    "description": "横浜ビアバイク5周年を記念したオリジナルビール誕生！11月1日（日）の5周年感謝ツアーも開催！",
     "genres": [
       "beer"
     ],
@@ -5483,12 +5483,12 @@
     "startAt": "2026-11-01T00:00:00+09:00",
     "endAt": "2026-11-01T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "NUMBER NINE BREWERY",
+      "address": "神奈川県横浜市中区新港２丁目14−１ 横浜ハンマーヘッド 1F",
       "prefecture": "神奈川県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.455051,
+      "longitude": 139.63855
     },
     "organizer": null,
     "officialUrl": null,
@@ -5504,19 +5504,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "unverified",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:57:22.175Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-f78152ed5431",
     "slug": "e-f78152ed5431",
-    "title": "祝・開園3周年！みんなでつくる！「明治公園祭2026」開催決定！〜地域とつながる2日間、多彩なステージパフォーマンスやブース出店で公園が賑わう〜",
-    "description": null,
+    "title": "明治公園祭2026",
+    "description": "祝・開園3周年！みんなでつくる！「明治公園祭2026」開催決定！〜地域とつながる2日間、多彩なステージパフォーマンスやブース出店で公園が賑わう〜",
     "genres": [
       "beer",
       "wine",
@@ -5533,7 +5533,7 @@
     "startAt": "2026-10-24T00:00:00+09:00",
     "endAt": "2026-10-24T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "都立明治公園",
       "address": "東京都新宿区",
       "prefecture": "東京都",
       "city": "新宿区",
@@ -5545,7 +5545,7 @@
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/160986/23/160986-23-e4cc0f151fc9e856b3b50ba59a371252-1312x816.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-f78152ed5431"
@@ -5554,19 +5554,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "unverified",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:01:49.949Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-88461b4a3021",
     "slug": "e-88461b4a3021",
-    "title": "11月1日（日）より「シャンパンハイティー　～Bubbles at Night～」を新発売",
-    "description": null,
+    "title": "「シャンパンハイティー　～Bubbles at Night～」",
+    "description": "11月1日（日）より「シャンパンハイティー　～Bubbles at Night～」を新発売",
     "genres": [
       "wine"
     ],
@@ -5600,7 +5600,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:57:40.089Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5645,16 +5645,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:02:03.758Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-a4de50f9bbc5",
     "slug": "e-a4de50f9bbc5",
-    "title": "毎年2万人超を動員する茨城県最大規模のまちおこしフェスランド「IBARAKI DREAM LAND 2026」今週末、笠間市でいよいよ開幕！エンタメ✖️地域活性化の新たなモデル確立へ！",
-    "description": null,
+    "title": "「IBARAKI DREAM LAND 2026」",
+    "description": "毎年2万人超を動員する茨城県最大規模のまちおこしフェスランド「IBARAKI DREAM LAND 2026」今週末、笠間市でいよいよ開幕！エンタメ✖️地域活性化の新たなモデル確立へ！",
     "genres": [
       "beer",
       "sake",
@@ -5691,7 +5691,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:57:57.930Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5699,8 +5699,8 @@
   {
     "id": "evt-a1ce237d7d5c",
     "slug": "e-a1ce237d7d5c",
-    "title": "11月7日（土）8日（日）開催 「クラフトビール ジャパンホップ フェスト2026 in SVB東京」 イベント詳細",
-    "description": null,
+    "title": "クラフトビール ジャパンホップ フェスト2026 in SVB東京",
+    "description": "11月7日（土）8日（日）開催 「クラフトビール ジャパンホップ フェスト2026 in SVB東京」 イベント詳細",
     "genres": [
       "beer"
     ],
@@ -5708,22 +5708,22 @@
       "festival"
     ],
     "startAt": "2026-11-07T00:00:00+09:00",
-    "endAt": "2026-11-07T23:59:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "スプリングバレーブルワリー東京",
+      "address": "東京都渋谷区代官山町１３−１ ログロード代官山 内",
       "prefecture": "東京都",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "渋谷区",
+      "latitude": 35.64986,
+      "longitude": 139.704742
     },
-    "organizer": null,
+    "organizer": "スプリングバレーブルワリー株式会社",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/128728/24/128728-24-a079fe7ce3b3115dc20407cb35f2c228-2000x1600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-a1ce237d7d5c"
     ],
@@ -5731,13 +5731,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:06:34.215Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-cbdfd080f37c",
@@ -5779,16 +5779,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:02:28.492Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-a13ceddb7bc5",
     "slug": "e-a13ceddb7bc5",
-    "title": "千葉県八千代市のあられ工場で「新米おかきフェア 秋の東マルシェ」10月17日（土）開催　工場直売でしか食べられない新米揚げたておかきを販売",
-    "description": null,
+    "title": "「新米おかきフェア 秋の東マルシェ」",
+    "description": "千葉県八千代市のあられ工場で「新米おかきフェア 秋の東マルシェ」10月17日（土）開催　工場直売でしか食べられない新米揚げたておかきを販売",
     "genres": [
       "beer"
     ],
@@ -5823,7 +5823,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T15:58:15.573Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5866,16 +5866,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:06:46.547Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-26b37ab0972d",
     "slug": "e-26b37ab0972d",
-    "title": "【いよいよ今週末開催！】沖縄グルメなど約40ブースが舞鶴公園に大集合！D-51、きいやま商店ら全13組の無料ライブも！『ハイサイ！琉球まんぷくFES 2026 in 福岡』10月17日・18日開催！",
-    "description": null,
+    "title": "ハイサイ！琉球まんぷくFES 2026 in 福岡",
+    "description": "【いよいよ今週末開催！】沖縄グルメなど約40ブースが舞鶴公園に大集合！D-51、きいやま商店ら全13組の無料ライブも！『ハイサイ！琉球まんぷくFES 2026 in 福岡』10月17日・18日開催！",
     "genres": [
       "beer",
       "sake"
@@ -5886,20 +5886,20 @@
     "startAt": "2026-10-17T00:00:00+09:00",
     "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": "福岡市中央区 舞鶴公園 三ノ丸広場",
-      "address": null,
+      "name": "舞鶴公園 三ノ丸広場",
+      "address": "福岡市中央区 舞鶴公園 三ノ丸広場",
       "prefecture": "福岡県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "福岡市",
+      "latitude": 33.592686,
+      "longitude": 130.393585
     },
-    "organizer": null,
+    "organizer": "ハイサイ！琉球まんぷくFES実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/189451/9/189451-9-68b6caa80b0fd270bbdc5a10c647c3dc-1910x2700.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "isFree": true,
+    "reservationRequired": false,
     "sourceIds": [
       "src-26b37ab0972d"
     ],
@@ -5907,13 +5907,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:08:07.665Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-00068a1a93af",
@@ -5954,10 +5954,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:08:28.354Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-88a2886f4b91",
@@ -6226,25 +6226,25 @@
   {
     "id": "evt-bb4d0159bee6",
     "slug": "e-bb4d0159bee6",
-    "title": "横須賀で全国の梅酒を飲み比べ ヴェルニー公園でまつり、10月18日まで",
-    "description": null,
+    "title": "全国梅酒まつりｉｎ横須賀",
+    "description": "横須賀で全国の梅酒を飲み比べ ヴェルニー公園でまつり、10月18日まで",
     "genres": [
       "sake"
     ],
     "eventTypes": [
       "festival"
     ],
-    "startAt": "2026-10-18T00:00:00+09:00",
+    "startAt": "2026-10-16T00:00:00+09:00",
     "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "ヴェルニー公園",
+      "address": "横須賀市汐入町１丁目",
+      "prefecture": "神奈川県",
+      "city": "横須賀市",
+      "latitude": 35.28318,
+      "longitude": 139.658295
     },
-    "organizer": null,
+    "organizer": "一般社団法人梅酒研究会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -6258,13 +6258,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:10:13.745Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-b5607c1968ab",
@@ -6304,10 +6304,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:10:24.758Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-cf7bba47fb01",
@@ -6347,10 +6347,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:10:46.108Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-403cdb84aef0",
@@ -6441,8 +6441,8 @@
   {
     "id": "evt-c8b2ddcf3bfc",
     "slug": "e-c8b2ddcf3bfc",
-    "title": "31日にワインなど魅力触れるウォーキングイベント 那須塩原",
-    "description": null,
+    "title": "第７回ONSEN・ガストロノミーウォーキングin那須塩原2026",
+    "description": "31日にワインなど魅力触れるウォーキングイベント 那須塩原",
     "genres": [
       "wine"
     ],
@@ -6452,19 +6452,19 @@
     "startAt": "2026-11-30T00:00:00+09:00",
     "endAt": "2026-11-30T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "JR那須塩原駅",
+      "address": "栃木県那須塩原市大原間",
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
+      "latitude": 36.927586,
+      "longitude": 140.020355
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-c8b2ddcf3bfc"
@@ -6473,12 +6473,12 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T14:39:14.287Z",
+    "updatedAt": "2026-10-16T16:04:22.431Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   }
 ]
