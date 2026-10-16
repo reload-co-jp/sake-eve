@@ -114,6 +114,10 @@ const RootLayout = ({ children }: { children: React.ReactNode }) => {
         <Script id="ga">
           {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-0MRJHL8ZRE');`}
         </Script>
+        <Script
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6542845006087970"
+          crossOrigin="anonymous"
+        />
       </body>
     </html>
   )
