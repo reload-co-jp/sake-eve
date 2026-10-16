@@ -4967,5 +4967,40 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-25f1393dc624",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000033.000165043.html",
+    "title": "【イベントレポート２.】「第43回全国都市緑化フェアin京都丹波」｜京都丹波を舞台に、食や環境、国際交流、ニュースポーツなど五感で学び味わい、心豊かになる参加型イベントを開催",
+    "publisher": "第43回全国都市緑化フェアin京都丹波実行委員会",
+    "publishedAt": "2026-10-16T10:00:01+09:00",
+    "fetchedAt": "2026-10-16T19:52:51.145Z",
+    "contentHash": "d496e7b8413ab999457f1d503e4915191c63421ac9843c772389a7ffc6afe4fb",
+    "relatedEventIds": [
+      "evt-25f1393dc624"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
