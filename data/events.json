@@ -222,7 +222,7 @@
     "id": "evt-df105e19047d",
     "slug": "e-df105e19047d",
     "title": "ドラマ「ワカコ酒」フェス",
-    "description": "10/17(土)、18(日)開催！ドラマ「ワカコ酒」フェス武田梨奈トークショーなどイベント情報や参加酒造の情報をお届け！",
+    "description": "BSテレ東のドラマ「ワカコ酒」の特設ブースで、Season1〜9の劇中に登場した全国の酒造の日本酒やビール、焼酎などをチケット制で試飲できる。主演・武田梨奈のトークショーや劇中音楽のスペシャルライブ、オリジナルグッズの販売もある。",
     "genres": [
       "sake"
     ],
@@ -230,10 +230,10 @@
       "festival",
       "tasting"
     ],
-    "startAt": "2026-10-17T00:00:00+09:00",
-    "endAt": "2026-10-18T23:59:00+09:00",
+    "startAt": "2026-10-17T10:00:00+09:00",
+    "endAt": "2026-10-18T20:00:00+09:00",
     "venue": {
-      "name": "すみだオクトーバーフェスト飲食特設ステージ",
+      "name": "錦糸公園ふれあい広場",
       "address": "東京都墨田区錦糸4-15-1",
       "prefecture": "東京都",
       "city": "墨田区",
@@ -241,7 +241,7 @@
       "longitude": 139.815079
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://sumida-jazz.jp/sj/SOOF_GIBIER.html",
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
@@ -259,8 +259,8 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-14T08:05:30.244Z",
-    "dateOnly": true,
+    "updatedAt": "2026-10-17T00:46:02.946Z",
+    "dateOnly": false,
     "isSample": false,
     "publication": "published"
   },
@@ -268,7 +268,7 @@
     "id": "evt-ea4f91ee8d17",
     "slug": "e-ea4f91ee8d17",
     "title": "宇和島文化祭",
-    "description": "宇和島ゆかりの人やお店が大集合。UCC「宇和島文化祭」開催",
+    "description": "宇和島に住む人や出身者、ゆかりのある店が集まり、クラフトビールやワインなどの飲食、雑貨のポップアップ、ライブを楽しめる文化祭だ。ギャグ漫画家・和田ラヂヲさんを囲む写生大会とトーク、宇和島産の木で小物をつくるワークショップもある。",
     "genres": [
       "beer",
       "wine",
@@ -306,7 +306,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-14T08:05:50.810Z",
+    "updatedAt": "2026-10-17T00:22:58.866Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -315,7 +315,7 @@
     "id": "evt-b0a9b6e499a9",
     "slug": "e-b0a9b6e499a9",
     "title": "＜TOYOTA ARENA TOKYO＞ 「AOMI Beer Garden」",
-    "description": "＜TOYOTA ARENA TOKYO＞アリーナ開業1周年記念特別イベント「AOMI Beer Garden」詳細決定！",
+    "description": "TOYOTA ARENA TOKYOの開業1周年記念イベントで、様々なクラフトビールを記念カップで飲み比べられる。DJの音楽や日替わりキッチンカーのグルメ、フリースローチャレンジ、アルバルク東京戦のパブリックビューイングも楽しめる。",
     "genres": [
       "beer"
     ],
@@ -351,7 +351,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-14T08:06:21.626Z",
+    "updatedAt": "2026-10-17T00:23:13.018Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -494,7 +494,7 @@
     "id": "evt-dde8f4c13607",
     "slug": "e-dde8f4c13607",
     "title": "TACHIKAWA JAZZ NIGHT 2026 Final",
-    "description": null,
+    "description": "7〜9月に開かれたジャズイベントのアンコール版で、生演奏のジャズを聴きながらTACHIHIビールなどのお酒や施設内店舗のテイクアウト料理を楽しめる。yaonの楽器セッションや、ジャズとワールドミュージックを中心にした中古レコードの販売もある。",
     "genres": [
       "beer"
     ],
@@ -530,7 +530,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-10-11T14:00:00+09:00",
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T05:00:12.168Z",
+    "updatedAt": "2026-10-17T00:23:27.428Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -539,7 +539,7 @@
     "id": "evt-688470ed9f67",
     "slug": "e-688470ed9f67",
     "title": "ベルギーフェア（あべのハルカス近鉄本店）",
-    "description": null,
+    "description": "日本とベルギーの外交関係樹立160周年を記念し、百貨店の館内各所でベルギーの食と文化を紹介する催しだ。樽生を含むベルギービールや王室御用達のショコラ、フリッツなどの本場グルメに加え、絵画展や写真展、特別演奏も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -575,7 +575,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T04:52:50.533Z",
+    "updatedAt": "2026-10-17T00:23:40.316Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -584,7 +584,7 @@
     "id": "evt-a628feb7e604",
     "slug": "e-a628feb7e604",
     "title": "淡路サービスエリア お客様感謝デー",
-    "description": null,
+    "description": "淡路サービスエリア下り線で、日頃の利用客への感謝を込めて開かれる家族向けイベントだ。淡路島産玉ねぎの重さ当てクイズや缶バッジ作り、はたらく車の見学のほか、中学生の淡路人形浄瑠璃や高校生の和太鼓演奏も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -620,7 +620,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:40:09.002Z",
+    "updatedAt": "2026-10-17T00:23:49.186Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -672,7 +672,7 @@
     "id": "evt-71ed4640f133",
     "slug": "e-71ed4640f133",
     "title": "湘南クラフトビールフェス 第6弾（鵠沼海浜公園）",
-    "description": null,
+    "description": "湘南の情報誌「海の近く」編集部が企画する海辺のクラフトビールイベントで、横浜や三島などからの初出店を含む14のブルワリーが集まる。ビールに合う料理を出す16店舗のフードに加え、地元アーティストを中心とした音楽やダンスのステージも楽しめる。",
     "genres": [
       "beer"
     ],
@@ -709,7 +709,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-10T13:46:19.708Z",
+    "updatedAt": "2026-10-17T00:24:03.497Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -761,7 +761,7 @@
     "id": "evt-227a764df1f5",
     "slug": "e-227a764df1f5",
     "title": "長濱ウイスキー特別テイスティングセミナー",
-    "description": null,
+    "description": "長濱蒸溜所チーフブレンダーの屋久佑輔氏らを迎え、シークレットボトル3種を含むウイスキー全5種を飲み比べるセミナーだ。近日発売予定の1本を一般発売前に味わえ、参加者には系列バー4店舗でチャージ無料になるテイスティングノートが贈られる。",
     "genres": [
       "whisky"
     ],
@@ -798,7 +798,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:40:09.002Z",
+    "updatedAt": "2026-10-17T00:24:29.943Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -807,7 +807,7 @@
     "id": "evt-54376a1ab07d",
     "slug": "e-54376a1ab07d",
     "title": "東京味わいフェスタ2026 ～TASTE of TOKYO～",
-    "description": null,
+    "description": "丸の内・有楽町・日比谷・豊洲の4エリアで、東京産の農林水産物を味わい、その魅力を体験できる食のイベントだ。東京産食材を使ったキッチンカーの限定メニューや東京産ビール、日本各地の地酒が楽しめ、収穫体験や丸太切りなどのワークショップもある。",
     "genres": [
       "beer",
       "sake"
@@ -846,7 +846,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T20:02:58.423Z",
+    "updatedAt": "2026-10-17T00:24:41.701Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -855,7 +855,7 @@
     "id": "evt-31aec02ffc75",
     "slug": "e-31aec02ffc75",
     "title": "ロッホローモンドスペシャルセミナー",
-    "description": null,
+    "description": "ロッホローモンド蒸溜所のマスターブレンダー、マイケル・ヘンリー氏が初来日し、講師を務めるウイスキーセミナーだ。4タイプのスチルで多彩な原酒を造る同蒸溜所の12年から22年、日本限定シングルカスクまでの6種をテイスティングできる。",
     "genres": [
       "beer",
       "whisky"
@@ -894,7 +894,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T20:04:35.759Z",
+    "updatedAt": "2026-10-17T00:24:50.316Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -947,7 +947,7 @@
     "id": "evt-ddb90b80f093",
     "slug": "e-ddb90b80f093",
     "title": "「彩の国・埼玉」の食と酒を味わう特別イベント（庭のホテル 東京）",
-    "description": null,
+    "description": "庭のホテル 東京の日本料理 縁が、日本各地の食と酒を巡るシリーズの第4回を開く。今回のテーマは埼玉県である。狭山茶や草加煎餅など県内の名産を使った会席料理と、北西酒造の「彩來」を含む日本酒5種の飲み放題を、蔵からのゲストが語る酒造りの話とともに味わえる。",
     "genres": [
       "beer",
       "wine",
@@ -985,7 +985,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-17T00:25:02.270Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1037,7 +1037,7 @@
     "id": "evt-e4d0bc6e0eca",
     "slug": "e-e4d0bc6e0eca",
     "title": "YAOYOROZU FESTIVAL 26",
-    "description": null,
+    "description": "VTuberや歌い手によるスペシャルライブと、関西各地の酒や八尾の地域グルメを一つの会場で楽しめるフェスである。ビールや日本酒、ウイスキー、ワインなどから好みの一杯を探せるほか、一部出演者と八尾の名所を巡る動画を撮影できる企画もある。",
     "genres": [
       "beer",
       "wine",
@@ -1078,7 +1078,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T20:06:36.803Z",
+    "updatedAt": "2026-10-17T00:25:17.183Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1134,7 +1134,7 @@
     "id": "evt-dc4a701a5383",
     "slug": "e-dc4a701a5383",
     "title": "太陽の広場まつり（東急百貨店吉祥寺店）",
-    "description": null,
+    "description": "東急百貨店吉祥寺店の屋上芝生広場で初めて開かれる秋のまつりで、長野をはじめ各地の酒やおやきなどの軽食を富士山を眺めながら味わえる。VR体験会や成蹊大学管弦楽団の弦楽四重奏、射的やヨーヨー釣りなどのミニ縁日もあり、家族で楽しめる。",
     "genres": [
       "beer",
       "wine",
@@ -1172,7 +1172,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-10-11T13:55:00+09:00",
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T04:55:58.465Z",
+    "updatedAt": "2026-10-17T00:25:31.091Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1181,7 +1181,7 @@
     "id": "evt-f49dc2bce459",
     "slug": "e-f49dc2bce459",
     "title": "小田原・箱根 クラフトビールフェス 2026",
-    "description": null,
+    "description": "小田原・箱根を中心とする神奈川県西エリアから5つのブルワリーが集まる、初開催のクラフトビールの祭典だ。限定デザインのリユースカップを手に各ブルワリーのビールを飲み比べ、かまぼこをはじめとする食との組み合わせも楽しめる。",
     "genres": [
       "beer"
     ],
@@ -1218,7 +1218,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T05:01:17.235Z",
+    "updatedAt": "2026-10-17T00:25:41.556Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1227,7 +1227,7 @@
     "id": "evt-1d81b175185d",
     "slug": "e-1d81b175185d",
     "title": "WINE JAZZ NIGHT 2026",
-    "description": null,
+    "description": "農園リゾートTHE FARMで開かれる、ワインとジャズの生演奏を楽しむ夜のイベントだ。解禁したてのボジョレー・ヌーヴォーをはじめ世界のワイン10種以上を飲み比べられ、DJやレゲエサウンド、スカイランタンの演出も加わる。",
     "genres": [
       "wine"
     ],
@@ -1263,7 +1263,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": "2026-10-11T13:54:00+09:00",
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-17T00:25:54.459Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1319,7 +1319,7 @@
     "id": "evt-5fc29c0eba2d",
     "slug": "e-5fc29c0eba2d",
     "title": "北九州市フェアin東京交通会館",
-    "description": null,
+    "description": "北九州市の食と酒を集めた物産フェアで、門司港の酒屋が案内する角打ちブースでビールや焼酎、日本酒、ワインを味わえる。資さんうどんやぬか炊き、シュガーロードゆかりの菓子などの物販に加え、観光PRや肌年齢チェック、ガチャガチャのコーナーもある。",
     "genres": [
       "beer",
       "wine",
@@ -1358,7 +1358,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T05:02:19.401Z",
+    "updatedAt": "2026-10-17T00:26:07.556Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1367,7 +1367,7 @@
     "id": "evt-62bb58b2e73e",
     "slug": "e-62bb58b2e73e",
     "title": "クラフトビール総選挙2026 in 神戸",
-    "description": null,
+    "description": "来場者の投票で一番人気のビール党を決める、参加型のクラフトビールイベントである。味わいで分かれた4つの党の銘柄を飲み比べ、ハズレなしのガチャで出たカプセルを推しの党へ投じて投票できる。",
     "genres": [
       "beer"
     ],
@@ -1403,7 +1403,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-13T20:14:54.739Z",
+    "updatedAt": "2026-10-17T00:26:18.991Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1412,7 +1412,7 @@
     "id": "evt-17bceeff3875",
     "slug": "e-17bceeff3875",
     "title": "はまテラスクラフトビールフェス（10月）",
-    "description": null,
+    "description": "横浜や横須賀などから厳選したブルワリーが集まり、多彩なクラフトビールを味わえるビールフェスだ。かき氷やケバブ、カラアゲなどのフードもそろい、みなとみらいSTREET MUSICのライブも同時に楽しめる。",
     "genres": [
       "beer"
     ],
@@ -1448,7 +1448,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T13:07:33.836Z",
-    "updatedAt": "2026-10-11T05:04:48.216Z",
+    "updatedAt": "2026-10-17T00:26:37.964Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1457,7 +1457,7 @@
     "id": "evt-6d9b73822627",
     "slug": "e-6d9b73822627",
     "title": "せいせき秋のビール祭2026",
-    "description": null,
+    "description": "聖蹟桜ヶ丘のショッピングセンターで開かれる秋のビール祭りで、川崎のカギヤブルワリーが出店する日程には計11の醸造所が集う。ふだん一度に味わう機会の少ない醸造所のクラフトビールを、買い物ついでや仲間との乾杯で気軽に飲み比べられる。",
     "genres": [
       "beer"
     ],
@@ -1493,7 +1493,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T05:05:35.082Z",
+    "updatedAt": "2026-10-17T00:26:51.652Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1546,7 +1546,7 @@
     "id": "evt-4c5392428bb3",
     "slug": "e-4c5392428bb3",
     "title": "京都駅ビルビアフェスタ2026",
-    "description": null,
+    "description": "全国の人気ブルワリーが自慢のクラフトビールを持ち寄り、飲み比べを楽しめるビールイベントである。ビールに合うフードもあり、WESTERアプリ会員には各ブルワリーのノベルティが贈られる企画も同時に行われる。",
     "genres": [
       "beer"
     ],
@@ -1583,7 +1583,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-16T15:39:33.884Z",
+    "updatedAt": "2026-10-17T00:27:03.172Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1592,7 +1592,7 @@
     "id": "evt-8b96509c4411",
     "slug": "e-8b96509c4411",
     "title": "シモキタ CRAFT BEER FEST 2026 Fall",
-    "description": null,
+    "description": "下北沢ゆかりのブルワリーを中心に、全国の実力派が集まる10回目のビアフェスだ。屋上で育てた下北沢産ホップの限定ビール「Hop on the Roof」が初めて登場し、地元の人気店のフードや古着ショップの出店も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -1629,7 +1629,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T20:08:01.938Z",
+    "updatedAt": "2026-10-17T00:27:17.064Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1638,7 +1638,7 @@
     "id": "evt-26fde16bf8de",
     "slug": "e-26fde16bf8de",
     "title": "第10回 吉祥寺ワールドビアフェス2026",
-    "description": null,
+    "description": "ハモニカ横丁など吉祥寺の30店舗を巡り、世界のビールやクラフトビールを各店のペアリングフードと味わう飲み歩きイベントである。スタンプの数に応じて景品がもらえるスタンプラリーや、端田晶さん監修の数量限定「VICビール」も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -1675,7 +1675,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T05:03:23.130Z",
+    "updatedAt": "2026-10-17T00:27:29.445Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1684,7 +1684,7 @@
     "id": "evt-2757768f6292",
     "slug": "e-2757768f6292",
     "title": "クラフトビール総選挙2026 in 二子玉川",
-    "description": null,
+    "description": "来場者の投票で人気No.1のビール党を決める参加型イベントで、味わいで4つの党に分かれた全国のクラフトビールを飲み比べられる。ガチャで引いたカプセルがそのまま投票用紙になる新方式を採用し、各党に合わせたペアリングフードも味わえる。",
     "genres": [
       "beer"
     ],
@@ -1720,7 +1720,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T20:16:07.043Z",
+    "updatedAt": "2026-10-17T00:27:41.483Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1729,7 +1729,7 @@
     "id": "evt-22f70c0b4ee4",
     "slug": "e-22f70c0b4ee4",
     "title": "OKUTAMA BEER FEST 2026",
-    "description": null,
+    "description": "奥多摩のクラフトビールメーカーVERTEREが自社醸造所の敷地で開くビールフェスで、国内各地のブルワリーが集まる。京都や奈良、静岡などのクラフトビールやジンを味わえるほか、地域のフードトラックやマルシェも楽しめる。",
     "genres": [
       "beer"
     ],
@@ -1767,7 +1767,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T08:39:36.076Z",
+    "updatedAt": "2026-10-17T00:27:52.514Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -1863,7 +1863,7 @@
     "id": "evt-ec7a842cf1e6",
     "slug": "e-ec7a842cf1e6",
     "title": "ベルギービールウィークエンド2026 京都",
-    "description": null,
+    "description": "ベルギーと京都の食文化が出会うビールイベントで、97種のベルギービールと、シリーズ初登場となる京都醸造のクラフトビールを飲み比べられる。フリッツやムール貝などのベルギー料理に加え、京菓子や京つけものとビールの組み合わせも楽しめる。",
     "genres": [
       "beer"
     ],
@@ -1899,7 +1899,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T04:59:28.131Z",
+    "updatedAt": "2026-10-17T00:28:05.215Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2085,7 +2085,7 @@
     "id": "evt-13c02694f4cb",
     "slug": "e-13c02694f4cb",
     "title": "クラフトビアグランプリ2026",
-    "description": null,
+    "description": "全国15ブルワリーのクラフトビールを飲み比べられるビアフェスで、飲むシーン別に専門家が選んだ金賞ビールを味わえるほか、来場者による人気投票もある。グルメバーガーや墨田区の地元グルメ、ステージ、子ども向けのふわふわ遊具もそろい、家族で楽しめる。",
     "genres": [
       "beer"
     ],
@@ -2123,7 +2123,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T20:10:53.923Z",
+    "updatedAt": "2026-10-17T00:28:18.227Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2132,7 +2132,7 @@
     "id": "evt-e8a8b733690e",
     "slug": "e-e8a8b733690e",
     "title": "クラフトビール総選挙2026 in 武蔵小杉",
-    "description": null,
+    "description": "厳選された20銘柄のクラフトビールが味わい別の4つの党に分かれて立候補し、来場者が1杯ごとに1票を投じて人気の党を決める参加型イベントだ。飲み比べで好みの系統を探せるほか、投票者向けの「開票くじ」やビールサーバーでの無料試飲も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -2168,7 +2168,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T20:17:04.270Z",
+    "updatedAt": "2026-10-17T00:28:32.458Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2177,7 +2177,7 @@
     "id": "evt-9e335f354072",
     "slug": "e-9e335f354072",
     "title": "North Tokyo Craft Beer Festival 2026",
-    "description": null,
+    "description": "豊島区・板橋区・文京区から実力派ブリュワリー8社が集まる、東京北部のクラフトビールフェスである。つくり手が自ら注ぐ限定ビールや海外のクラフトビールを飲み比べられ、ビールに合うフードや生演奏も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -2213,7 +2213,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T20:18:13.712Z",
+    "updatedAt": "2026-10-17T00:28:42.423Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2222,7 +2222,7 @@
     "id": "evt-32560798d1be",
     "slug": "e-32560798d1be",
     "title": "クラフトビール総選挙2026 in 御徒町",
-    "description": null,
+    "description": "全国から選んだクラフトビール20銘柄が味わい別の4党に分かれて立候補し、来場者が1杯ごとに1票を投じて人気No.1の党を決める参加型のビールイベントだ。飲み比べて好みの系統を探せるうえ、投票した人が引ける「開票くじ」やビールサーバーの無料試飲もある。",
     "genres": [
       "beer"
     ],
@@ -2258,7 +2258,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T20:19:59.807Z",
+    "updatedAt": "2026-10-17T00:28:59.068Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2399,7 +2399,7 @@
     "id": "evt-60127a075c0d",
     "slug": "e-60127a075c0d",
     "title": "つくばクラフトビアフェスト2026",
-    "description": null,
+    "description": "全国40ブルワリーの200種以上のクラフトビールが集まる、13回目のビールの祭典である。「beer meets ***」をテーマに、フードやステージ、体験企画とビールの出会いを楽しめ、マイグラス持ち込みや手話対応の案内も用意される。",
     "genres": [
       "beer"
     ],
@@ -2435,7 +2435,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-13T20:09:37.057Z",
+    "updatedAt": "2026-10-17T00:29:15.298Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2661,7 +2661,7 @@
     "id": "evt-c4465401c2c9",
     "slug": "e-c4465401c2c9",
     "title": "ウエノデ.パンダビアフェスタ2026",
-    "description": null,
+    "description": "都心の公園の緑を活かした、都市型のビアフェスである。約50店舗のビールとグルメに加え、初登場の森のエリア「into the wood」での木陰の乾杯や木育教室、毎日のステージ、最終日のGirls²とLakiのライブも楽しめる。",
     "genres": [
       "beer"
     ],
@@ -2698,7 +2698,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T04:56:54.586Z",
+    "updatedAt": "2026-10-17T00:29:32.775Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2750,7 +2750,7 @@
     "id": "evt-c61810932a00",
     "slug": "e-c61810932a00",
     "title": "クラフトビール総選挙2026 in 川崎",
-    "description": null,
+    "description": "DREAMBEERが全国のクラフトビールから選んだ20銘柄を、ダブルタップサーバーで提供するビールイベントだ。北海道から沖縄までの銘柄を飲み比べて推しビールに投票できるほか、家庭用ビールサーバーで自分で注ぐ無料試飲も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -2787,7 +2787,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-10T18:43:03.508Z",
-    "updatedAt": "2026-10-11T04:57:52.069Z",
+    "updatedAt": "2026-10-17T00:29:44.437Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2882,7 +2882,7 @@
     "id": "evt-6233daecd1df",
     "slug": "e-6233daecd1df",
     "title": "栃木県庁前 ナイトマルシェ",
-    "description": null,
+    "description": "県庁周辺のにぎわいづくりを目的に開かれる夜のマルシェで、酒蔵やブルワリー、ワイナリーが日本酒・クラフトビール・ワインを販売する。キッチンカーの料理のほか、光るハロウィンランタン作りや大学生によるライブ演奏も楽しめる。",
     "genres": [
       "beer",
       "wine",
@@ -2920,7 +2920,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:21:03.741Z",
+    "updatedAt": "2026-10-17T00:30:01.953Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -2974,7 +2974,7 @@
     "id": "evt-d21d6a5cfc8c",
     "slug": "e-d21d6a5cfc8c",
     "title": "日本酒祭（大阪）",
-    "description": null,
+    "description": "関西2府4県の26蔵が持ち寄った77銘柄の地酒を試飲できる日本酒イベントである。たこ焼きや天ぷらなど6店舗のフードや酒粕パフェもそろい、ステージではFM802のDJ6名が会場を盛り上げる。",
     "genres": [
       "sake"
     ],
@@ -3010,7 +3010,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:25:03.918Z",
+    "updatedAt": "2026-10-17T00:30:17.793Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3062,7 +3062,7 @@
     "id": "evt-9fc88ae70a52",
     "slug": "e-9fc88ae70a52",
     "title": "四日市ワインイベント（近鉄四日市駅前商店街）",
-    "description": null,
+    "description": "ワインの街としての四日市を発信するイベントで、ワインバー6店が出店し、欧州をはじめ世界各国のワインを味わえる。レストラン6店も参加し、牛すじの赤ワイン煮込みやパエリアなどの料理を、すぐ横で開かれるジャズフェスの生演奏とともに楽しめる。",
     "genres": [
       "wine"
     ],
@@ -3098,7 +3098,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:26:56.654Z",
+    "updatedAt": "2026-10-17T00:30:33.480Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3279,7 +3279,7 @@
     "id": "evt-f9a6739ba664",
     "slug": "e-f9a6739ba664",
     "title": "酒まつり（東広島・西条）",
-    "description": null,
+    "description": "1990年に始まり、今年で37回目となる日本酒の祭典である。全国801蔵の酒を飲み比べられる「酒ひろば」のほか、酒蔵めぐりや郷土料理の美酒鍋、西条7蔵の酒をブレンドした限定酒「7蔵の神龍」、小柳ゆきさんのステージが楽しめる。",
     "genres": [
       "sake"
     ],
@@ -3315,7 +3315,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:30:07.760Z",
+    "updatedAt": "2026-10-17T00:30:50.486Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3367,7 +3367,7 @@
     "id": "evt-1bb4384f9265",
     "slug": "e-1bb4384f9265",
     "title": "ふくい桜まつり",
-    "description": null,
+    "description": "福井で桜の季節に開かれる恒例のまつりで、今回が42回目となる。2年ぶりにオープニングイベントが復活し、好評だった福井の酒を味わうイベントも引き続き行われる。",
     "genres": [
       "other"
     ],
@@ -3403,7 +3403,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:36:07.222Z",
+    "updatedAt": "2026-10-17T00:31:07.980Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3412,7 +3412,7 @@
     "id": "evt-75ac98868c35",
     "slug": "e-75ac98868c35",
     "title": "秋酒まつり（熊本）",
-    "description": null,
+    "description": "熊本県内の7つの酒蔵が集まり、個性豊かな熊本の日本酒を味わえるイベントだ。県内14店舗の飲食ブースでは酒に合うおつまみも楽しめ、地震で被害を受けた日奈久の蒲鉾店も出店しており、売り上げの一部は被災地へ寄付される。",
     "genres": [
       "sake"
     ],
@@ -3448,7 +3448,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:33:27.988Z",
+    "updatedAt": "2026-10-17T00:31:17.455Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3588,7 +3588,7 @@
     "id": "evt-23d3a671c835",
     "slug": "e-23d3a671c835",
     "title": "はしご酒フェス（下松）",
-    "description": null,
+    "description": "下松の飲食店やキッチンカーが出店する飲食イベントで、今回が2回目になる。各店自慢の鍋料理を山口県内9蔵の地酒とあわせて味わえる。飲み放題には大吟醸やこのイベント限定の酒も用意され、ステージでのバンド演奏や芸人による店の紹介も楽しめる。",
     "genres": [
       "sake"
     ],
@@ -3624,7 +3624,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:39:09.872Z",
+    "updatedAt": "2026-10-17T00:31:32.292Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3633,7 +3633,7 @@
     "id": "evt-48b6045475e7",
     "slug": "e-48b6045475e7",
     "title": "広島県内4信金 マルシェ（広島駅北口）",
-    "description": null,
+    "description": "広島県内の4つの信用金庫が合同で開くマルシェで、各信金の取引先企業が手がける酒やつまみを販売する。ビールやジャーキーなどが並び、取引先企業の商品を買って楽しめる。",
     "genres": [
       "beer"
     ],
@@ -3669,7 +3669,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:40:30.576Z",
+    "updatedAt": "2026-10-17T00:31:44.186Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -3721,7 +3721,7 @@
     "id": "evt-ad30f6265615",
     "slug": "e-ad30f6265615",
     "title": "酒ハイかるた大会",
-    "description": null,
+    "description": "酒の神様として信仰される松尾大社で、蔵元の想いを五・七・五に込めた「酒ハイかるた」をチームで取り合う、気軽なかるた大会だ。日本酒を炭酸で割る「酒ハイ」を複数の蔵元の角打ちブースで飲み比べたり、蔵元と話したりもできる。",
     "genres": [
       "sake"
     ],
@@ -3757,7 +3757,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-13T20:31:40.508Z",
+    "updatedAt": "2026-10-17T00:32:02.976Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -4201,7 +4201,7 @@
     "id": "evt-cf7f8c3340e9",
     "slug": "e-cf7f8c3340e9",
     "title": "THE NIIGATA 来館者100万人記念イベント",
-    "description": null,
+    "description": "東京・銀座にある新潟県のアンテナショップ「THE NIIGATA」の来館者が100万人に届きそうなことを祝うイベントだ。県内4つのエリアの食と地酒を日替わりで味わえ、ひねると日本酒やジュースが出てくる蛇口もある。",
     "genres": [
       "sake"
     ],
@@ -4237,7 +4237,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-13T20:38:06.358Z",
+    "updatedAt": "2026-10-17T00:32:17.570Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -4289,7 +4289,7 @@
     "id": "evt-85a367ae2b65",
     "slug": "e-85a367ae2b65",
     "title": "越後・謙信SAKEまつり",
-    "description": null,
+    "description": "日本酒のまつりで、県酒造組合高田支部に加盟する15の酒蔵が毎年交代で仕込む限定酒「車懸」を会場で販売する。今年の車懸はよしかわ杜氏の郷が地元の酒米と尾神岳の湧き水で造ったもので、この催しでしか手に入らない。",
     "genres": [
       "sake"
     ],
@@ -4325,7 +4325,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-13T20:41:42.972Z",
+    "updatedAt": "2026-10-17T00:32:34.052Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -4379,7 +4379,7 @@
     "id": "evt-b42c1f15ab13",
     "slug": "e-b42c1f15ab13",
     "title": "越後よしかわ酒まつり",
-    "description": null,
+    "description": "地元のまちづくり団体などの実行委員会が開く日本酒イベントで、今回が29回目になる。北海道から鹿児島まで44都道府県の152銘柄が会場に集まり、試飲会で全国の酒を飲み比べられる。",
     "genres": [
       "sake"
     ],
@@ -4416,7 +4416,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-13T20:43:02.072Z",
+    "updatedAt": "2026-10-17T00:32:45.064Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -4598,7 +4598,7 @@
     "id": "evt-1f4dd9d54e9a",
     "slug": "e-1f4dd9d54e9a",
     "title": "KOBE the CRAFT 2026",
-    "description": null,
+    "description": "神戸の里山を舞台に、ワインやオリーブ、バーベキュー、ウイスキーなどのつくり手と来場者が出会うフュージョン型フェスである。神戸ワインの新酒まつりや巨大パエリアとハイボール、ウイスキーの学び舎、西区グルメ祭りなど5つの企画を楽しめる。",
     "genres": [
       "wine",
       "whisky",
@@ -4637,7 +4637,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-13T21:48:29.908Z",
-    "updatedAt": "2026-10-14T08:10:02.405Z",
+    "updatedAt": "2026-10-17T00:32:58.796Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -4733,7 +4733,7 @@
     "id": "evt-9a8dde91f58e",
     "slug": "e-9a8dde91f58e",
     "title": "小山・まちの駅でビアガーデン クラフトビールとおばんざい",
-    "description": "18日に小山・まちの駅でビアガーデン クラフトビールとおばんざい",
+    "description": "小山駅西口一帯の秋祭り「西口まつり」に合わせて、まちの駅「思季彩館」で開かれるビアガーデンだ。小山市の808ブルワリーが地元の米や桑の実などで造るクラフトビール4種と、地元の女性グループが手作りしたおばんざいや豚汁などが味わえる。",
     "genres": [
       "beer"
     ],
@@ -4769,7 +4769,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-13T21:48:29.908Z",
-    "updatedAt": "2026-10-14T08:11:49.007Z",
+    "updatedAt": "2026-10-17T00:33:12.648Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -4954,7 +4954,7 @@
     "id": "evt-ba35fa3d4700",
     "slug": "e-ba35fa3d4700",
     "title": "京都の名勝で開催するお月見の会「渉成園十三夜」",
-    "description": "京都の名勝で開催するお月見の会「渉成園十三夜」にて、ザ・サウザンド京都の特製カクテル、ピーカンナッツをご提供",
+    "description": "東本願寺の飛地境内にある名勝庭園・渉成園で毎年秋に開かれるお月見の会で、普段は公開されていない夜の庭園を月明かりの下で散策できる。近隣ホテルが出す軽食やドリンク、非公開茶室でのお茶会があり、園内の梅を使ったカクテルも味わえる。",
     "genres": [
       "cocktail"
     ],
@@ -4990,7 +4990,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-15T20:15:36.888Z",
-    "updatedAt": "2026-10-16T15:52:55.681Z",
+    "updatedAt": "2026-10-17T00:33:23.068Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5042,7 +5042,7 @@
     "id": "evt-98100a7cb2a9",
     "slug": "e-98100a7cb2a9",
     "title": "「つながる行きつけ～夜市～」",
-    "description": "ダイヤゲート池袋で開催されるイベント「つながる行きつけ～夜市～」に協力、星空観望会を行います",
+    "description": "ダイヤゲート池袋の線路上空にある広場「ダイヤデッキ」で、池袋や西武線沿線の食と文化を紹介する夜市だ。望遠鏡や双眼鏡で星空を眺める観望会のほか、オリジナルカクテルを味わいながら研究者やプラネタリウム解説員と宇宙を語り合うラウンジもある。",
     "genres": [
       "cocktail"
     ],
@@ -5079,7 +5079,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:53:28.991Z",
+    "updatedAt": "2026-10-17T00:33:36.703Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5088,7 +5088,7 @@
     "id": "evt-4c9b6b2f648e",
     "slug": "e-4c9b6b2f648e",
     "title": "東京クリスマスマーケット2026",
-    "description": "新豊洲初開催「東京クリスマスマーケット2026」注目グルメを公開！",
+    "description": "湾岸エリアで初めて開かれる東京クリスマスマーケットで、水辺の会場でドイツやヨーロッパの食文化に触れられる。3色のグリューワインやベルリン発のBRLOのビール、巨大プレッツェルやランゴス、サンタをかたどったスイーツなどを味わえる。",
     "genres": [
       "beer",
       "wine"
@@ -5126,7 +5126,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:53:56.275Z",
+    "updatedAt": "2026-10-17T00:33:48.769Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5135,7 +5135,7 @@
     "id": "evt-b2092722d533",
     "slug": "e-b2092722d533",
     "title": "「OSAKA FOOD JOURNEY The Origin/大阪『食の原点』へ」",
-    "description": "[イベント開催]「OSAKA FOOD JOURNEY The Origin/大阪『食の原点』へ」",
+    "description": "大阪府が大阪産(もん)を通して、府内各地の食と地域の魅力を伝えるイベントだ。市町村ごとの自慢のグルメや特産品が並び、阪南市の日本酒やクラフトビール、生ビールが味わえるほか、升づくり体験やステージ企画も楽しめる。",
     "genres": [
       "beer",
       "sake"
@@ -5173,7 +5173,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:54:13.955Z",
+    "updatedAt": "2026-10-17T00:33:59.992Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5270,7 +5270,7 @@
     "id": "evt-3235d466c229",
     "slug": "e-3235d466c229",
     "title": "東北の人気キャラクター「ホヤぼーや」と過ごす“大人のハロウィン”",
-    "description": "「酒蔵レストラン宝」で味わう、気仙沼×三陸の秋のごちそう　東北の人気キャラクター「ホヤぼーや」と過ごす“大人のハロウィン”",
+    "description": "気仙沼の観光キャラクター「ホヤぼーや」とふれあえる1日限りのハロウィンイベントだ。気仙沼の鮮魚やほや、秋刀魚、気仙沼ホルモンなどの限定料理を、男山本店の日本酒やBLACK TIDE BREWINGのビールと飲み比べながら楽しめる。",
     "genres": [
       "sake"
     ],
@@ -5306,7 +5306,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:54:33.923Z",
+    "updatedAt": "2026-10-17T00:34:15.302Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5315,7 +5315,7 @@
     "id": "evt-3116ef14cd71",
     "slug": "e-3116ef14cd71",
     "title": "「漬け込み酒を飲み比べる夜。」",
-    "description": "【11月10日（火）開催】お酒の楽しみ方を発信する「のもらぼ」、初のリアルイベント「漬け込み酒を飲み比べる夜。」を東京・神田で開催",
+    "description": "SNSメディア「のもらぼ」が初めて開くリアルイベントで、これまで紹介してきたレシピから選んだ漬け込み酒を飲み比べられる。特製漬け込み酒3杯に店のオリジナルおつまみ3種と限定ステッカーが付き、追加注文で店舗オリジナルの漬け込み酒も味わえる。",
     "genres": [
       "beer",
       "wine",
@@ -5354,7 +5354,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:55:01.674Z",
+    "updatedAt": "2026-10-17T00:34:29.630Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5363,7 +5363,7 @@
     "id": "evt-a8610b099c0e",
     "slug": "e-a8610b099c0e",
     "title": "「SMILE GARDEN 2026」",
-    "description": "横浜駅きた西口でグルメや音楽、体験イベントを楽しもう！「SMILE GARDEN 2026」10月25日（日）開催",
+    "description": "岩崎学園の学園祭と同じ日に、横浜駅前の公共空間で開かれる地域交流イベントだ。クラフトビールなどのグルメ、ピスケ＆うさぎとの写真撮影、B-ROSEのチアダンス、夕方からのDJライブ、学生による体験企画などが楽しめる。",
     "genres": [
       "beer"
     ],
@@ -5400,7 +5400,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:55:17.224Z",
+    "updatedAt": "2026-10-17T00:34:41.167Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5409,7 +5409,7 @@
     "id": "evt-19dbf4954850",
     "slug": "e-19dbf4954850",
     "title": "秋のカイタックスクエアガーデン",
-    "description": "【福岡・警固】秋のカイタックスクエアガーデンはイベントが満載！！",
+    "description": "福岡・警固の商業施設CAITAC SQUARE GARDENで、秋に続けて開かれるイベントシリーズだ。アーバンスポーツや岡垣町の旬の味覚、立ち飲み店の出店、タコスとビール、愛犬との体験、ダンスバトルなどが楽しめる。",
     "genres": [
       "beer"
     ],
@@ -5446,7 +5446,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:55:38.588Z",
+    "updatedAt": "2026-10-17T00:34:52.926Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5455,7 +5455,7 @@
     "id": "evt-bf6fdc6a046f",
     "slug": "e-bf6fdc6a046f",
     "title": "「第5回 川崎夜市」",
-    "description": "カギヤブルワリーが「第5回 川崎夜市」の川崎ソウルフード屋台に出店。10月23日（金）〜25日（日）、ラ チッタデッラで川崎のクラフトビールを",
+    "description": "5周年を迎えて過去最大級の規模で開かれる、川崎の夜のフードイベントだ。老舗から新店まで川崎の名物店が「川崎ソウルフード屋台」に並び、カギヤブルワリーのヘイジーIPA「MELLOW YELLOW」など川崎で醸造したクラフトビールを屋台料理と一緒に味わえる。",
     "genres": [
       "beer"
     ],
@@ -5491,7 +5491,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:56:03.859Z",
+    "updatedAt": "2026-10-17T00:35:05.615Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5500,7 +5500,7 @@
     "id": "evt-58d96445c0b7",
     "slug": "e-58d96445c0b7",
     "title": "愛知・ワイマーケット&千葉・リオブルーイングの人気銘柄を楽しむDJイベント",
-    "description": "TOWER RECORDS BEER新作コラボビール発売記念 愛知・ワイマーケット&千葉・リオブルーイングの人気銘柄を楽しむDJイベントを渋谷店で11/7開催",
+    "description": "愛知のY.MARKET BREWING、千葉のRIO BREWING & CO.と造ったコラボビール2種の発売を記念するイベントだ。新作に加えて両ブルワリーの人気銘柄も飲め、DJの演奏とともにクラフトビールを楽しめるほか、豪華景品が当たる抽選会も予定している。",
     "genres": [
       "beer"
     ],
@@ -5537,7 +5537,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:56:30.866Z",
+    "updatedAt": "2026-10-17T00:35:17.985Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5591,7 +5591,7 @@
     "id": "evt-9389d84c4594",
     "slug": "e-9389d84c4594",
     "title": "横浜ビアバイク5周年感謝ツアー",
-    "description": "横浜ビアバイク5周年を記念したオリジナルビール誕生！11月1日（日）の5周年感謝ツアーも開催！",
+    "description": "ビールを飲みながらペダルを漕ぎ、横浜のブルワリーを巡るビアバイクの5周年を記念した特別ツアーだ。パートナーや演奏メンバーの名を冠した便でブルワリー見学とレストランを回り、乾杯用に5周年記念の白麹サワーIPAなどの缶ビールが付く。",
     "genres": [
       "beer"
     ],
@@ -5629,7 +5629,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:57:22.175Z",
+    "updatedAt": "2026-10-17T00:35:33.072Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5638,7 +5638,7 @@
     "id": "evt-f78152ed5431",
     "slug": "e-f78152ed5431",
     "title": "明治公園祭2026",
-    "description": "祝・開園3周年！みんなでつくる！「明治公園祭2026」開催決定！〜地域とつながる2日間、多彩なステージパフォーマンスやブース出店で公園が賑わう〜",
+    "description": "都立明治公園の開園3周年を記念して、地域の団体や学校が参加してつくる公園祭である。高校生の演奏やダンス、五輪選手のステージが楽しめるほか、近くのワインショップやバー、酒店が出店し、ワインや日本酒、ウイスキーも味わえる。",
     "genres": [
       "beer",
       "wine",
@@ -5681,7 +5681,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T16:01:49.949Z",
+    "updatedAt": "2026-10-17T00:35:43.020Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5690,7 +5690,7 @@
     "id": "evt-88461b4a3021",
     "slug": "e-88461b4a3021",
     "title": "「シャンパンハイティー　～Bubbles at Night～」",
-    "description": "11月1日（日）より「シャンパンハイティー　～Bubbles at Night～」を新発売",
+    "description": "アフタヌーンティーの華やかさとバーのくつろぎを合わせた大人向けの夜のハイティーで、モエ・エ・シャンドンやワイン、ハイボールなどが飲み放題となる。お酒との相性を考えて仕立てた季節替わりのセイボリー9種とスイーツ3種を味わえる。",
     "genres": [
       "wine"
     ],
@@ -5726,7 +5726,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T15:57:40.089Z",
+    "updatedAt": "2026-10-17T00:35:55.375Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5828,7 +5828,7 @@
     "id": "evt-a1ce237d7d5c",
     "slug": "e-a1ce237d7d5c",
     "title": "クラフトビール ジャパンホップ フェスト2026 in SVB東京",
-    "description": "11月7日（土）8日（日）開催 「クラフトビール ジャパンホップ フェスト2026 in SVB東京」 イベント詳細",
+    "description": "日本産ホップにこだわる全国18ブルワリーのクラフトビールを最大20種そろえ、生産者や醸造家のトークも開かれるビールの祭典だ。寿司職人が握る寿司や和太鼓・津軽三味線などのステージ、ホップの香りを嗅ぎ比べる「利きホップ」体験も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -5864,7 +5864,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T16:06:34.215Z",
+    "updatedAt": "2026-10-17T00:36:09.741Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -6576,7 +6576,7 @@
     "id": "evt-c8b2ddcf3bfc",
     "slug": "e-c8b2ddcf3bfc",
     "title": "第７回ONSEN・ガストロノミーウォーキングin那須塩原2026",
-    "description": "31日にワインなど魅力触れるウォーキングイベント 那須塩原",
+    "description": "東那須野エリアを歩いて巡り、農業や酪農・畜産、地場産ワインなど地域の食文化に触れるウォーキングイベントだ。道中の公園や店では焼きたてパンやクラフトビール、那須ワイン、巻狩鍋、地酒などを、醸造家の解説や開拓史の話とともに味わえる。",
     "genres": [
       "wine"
     ],
@@ -6612,7 +6612,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-16T16:04:22.431Z",
+    "updatedAt": "2026-10-17T00:45:54.203Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
