@@ -5002,5 +5002,399 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-c54dac75d6d9",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000684.000071247.html",
+    "title": "『荒野行動』9周年！話題の「モナキ」コラボ、賞品総額1,000万円のキャンペーンなど豪華イベントが続々登場！",
+    "publisher": "NetEase Interactive Entertainment Pte. Ltd",
+    "publishedAt": "2026-10-17T12:00:02+09:00",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "d5007eb4f8751e9aa34bfa33e9d983d2118f5033362ab391371ad77d53630f7d",
+    "relatedEventIds": [
+      "evt-c54dac75d6d9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-17",
+      "endDate": "2026-11-17",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://www.knivesout.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b1ec5abb1b3c",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000155.000145570.html",
+    "title": "白州12年・響 JAPANESE HARMONYも！1,000円で必ず当たる「プレミアムウイスキーガチャ」が新登場！偶然の出会いも楽しめる「HIGHBALL SALON」10/25(日) 新宿で開催！",
+    "publisher": "株式会社ロイヤルマイル",
+    "publishedAt": "2026-10-17T11:58:11+09:00",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "3612dad6c0e71288ad6b59d6333ef8355221f48bf1dc6c8255e27196cf798c02",
+    "relatedEventIds": [
+      "evt-b1ec5abb1b3c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25",
+      "dateSource": "text",
+      "venueName": "BAR 新宿 ウイスキーサロン",
+      "address": "東京都新宿区新宿3丁目12-1 佐藤ビル3階 Google map",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1d944b7bafbf",
+    "sourceType": "news",
+    "url": "https://www.the-miyanichi.co.jp/today/topic/1180631.html",
+    "title": "県産新酒ワインが一斉解禁 宮崎市でPRイベント",
+    "publisher": "宮崎日日新聞DIGITAL",
+    "publishedAt": "2026-10-17T10:17:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "2a76b75495ff3d84d5a7be317efd0b68a8a807a471cd9a777ca8bde51472e4d6",
+    "relatedEventIds": [
+      "evt-1d944b7bafbf"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1673aa4c01c4",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3019755?display=1",
+    "title": "みやざきワイン 新酒解禁イベント",
+    "publisher": "TBS NEWS DIG",
+    "publishedAt": "2026-10-17T09:13:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "c744781ca9a840983711408c16069e1dd0c7874257dfc434a9f47209e6adc1a4",
+    "relatedEventIds": [
+      "evt-1673aa4c01c4"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7d6fed238d11",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1134751",
+    "title": "甘く香りの良い芋焼酎の新酒を堪能 いちき串木野市で「新酒まつり」",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-10-17T09:00:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "fc5f73224598707a35ce5d061d368eca53b823c0f98788ddd1d4b563c0680713",
+    "relatedEventIds": [
+      "evt-7d6fed238d11"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3aff01fd0f08",
+    "sourceType": "news",
+    "url": "https://www.kts-tv.co.jp/news/29054/",
+    "title": "甘く香りの良い芋焼酎の新酒を堪能 いちき串木野市で「新酒まつり」",
+    "publisher": "ＫＴＳ鹿児島テレビ　Kagoshima　Television　for　Smile",
+    "publishedAt": "2026-10-17T09:00:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "27f1dc0c060c2bffdc9a34b2a740901f298b4ed84de695d385c581a17bd26ff2",
+    "relatedEventIds": [
+      "evt-3aff01fd0f08"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-7d6fed238d11"
+      ]
+    }
+  },
+  {
+    "id": "src-9a8aac264339",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1134775",
+    "title": "秋晴れの下ほろ酔い気分 地元のフードと酒を楽しむ「酔いフェス」 日本酒、クラフトビール、ワイン、シードルなど飲み比べ",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-10-17T08:28:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "d5dadb90a4a56b42147454c47cf3a48ca7f59a6d539da5783a2c6c4bf4594658",
+    "relatedEventIds": [
+      "evt-9a8aac264339"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-aa10c15bf794",
+    "sourceType": "news",
+    "url": "https://www.niigata-nippo.co.jp/articles/-/926163",
+    "title": "日本酒やワイン飲み比べ!恒例「越後・謙信SAKEまつり」、18日まで上越市の高田本町商店街",
+    "publisher": "新潟日報",
+    "publishedAt": "2026-10-17T08:00:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "3419a34cc828418152a3194773478c1394fe9989721b53987dfee9d194e0d969",
+    "relatedEventIds": [
+      "evt-aa10c15bf794"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a4d82947a1fc",
+    "sourceType": "news",
+    "url": "https://www.hokkoku.co.jp/articles/-/2262060",
+    "title": "発酵食料理や菓子ずらり 金沢・しいのき緑地でフェスタ開幕 こんか漬けのおにぎり、酒かすとチーズのキッシュ…",
+    "publisher": "北國新聞",
+    "publishedAt": "2026-10-17T07:00:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "b460b23d538f6b21d8b6beabd2256c64450f5e5303503c44ede717108eeea1ae",
+    "relatedEventIds": [
+      "evt-a4d82947a1fc"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3b2a3b6c9404",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1441664",
+    "title": "24、25日に那須町でチーズとワインの祭典開催 「GOOD NEWS NEIGHBORS」(那須町高久乙)",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-10-17T05:00:00.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "21a6407524c4123672624c6e4b9b44428b5caba8109dd40b548e633bf6c2207a",
+    "relatedEventIds": [
+      "evt-3b2a3b6c9404"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-cde3dc02bf3c",
+    "sourceType": "news",
+    "url": "https://tetsudo-ch.com/13040325.html",
+    "title": "新幹線駅【那須塩原】から徒歩でまち歩き!地元ワイン・巻狩鍋・温泉を満喫する秋の「ガストロノミーウォーキング」10/31開催、予約受付中",
+    "publisher": "鉄道チャンネル",
+    "publishedAt": "2026-10-17T00:30:35.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "3f082678eea3dc66283bf328b0d5c07dd07798ef2108af5e024b13994791362a",
+    "relatedEventIds": [
+      "evt-cde3dc02bf3c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6df0dc6e8db3",
+    "sourceType": "news",
+    "url": "https://www.sankei.com/article/20261017-NQY44YNPENO27HLIJDRJFFTZFI/",
+    "title": "「奈良のふゆ酒」や果物を使ったサイダー味わって 11月3日に近鉄奈良駅前でイベント",
+    "publisher": "産経新聞：産経ニュース",
+    "publishedAt": "2026-10-16T23:29:49.000Z",
+    "fetchedAt": "2026-10-17T19:06:14.297Z",
+    "contentHash": "1451b376a0aa13cb0fb05f5937f693237179b7894a42a27ddfbc7316c4f19f05",
+    "relatedEventIds": [
+      "evt-6df0dc6e8db3"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

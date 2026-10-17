@@ -6662,5 +6662,529 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-c54dac75d6d9",
+    "slug": "e-c54dac75d6d9",
+    "title": "『荒野行動』9周年！話題の「モナキ」コラボ、賞品総額1,000万円のキャンペーンなど豪華イベントが続々登場！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-11-17T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.knivesout.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/71247/684/71247-684-6ce6db09fe98afe349680ba74934a2e3-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c54dac75d6d9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b1ec5abb1b3c",
+    "slug": "e-b1ec5abb1b3c",
+    "title": "白州12年・響 JAPANESE HARMONYも！1,000円で必ず当たる「プレミアムウイスキーガチャ」が新登場！偶然の出会いも楽しめる「HIGHBALL SALON」10/25(日) 新宿で開催！",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-10-25T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
+    "venue": {
+      "name": "BAR 新宿 ウイスキーサロン",
+      "address": "東京都新宿区新宿3丁目12-1 佐藤ビル3階 Google map",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "latitude": 35.691643,
+      "longitude": 139.706055
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/145570/155/145570-155-0709517158e723b155e5116a5b9d21d7-1350x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b1ec5abb1b3c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1d944b7bafbf",
+    "slug": "e-1d944b7bafbf",
+    "title": "県産新酒ワインが一斉解禁 宮崎市でPRイベント",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.the-miyanichi.co.jp/contents/wp-content/uploads/2026/10/CNTS2026101703096_191804.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1d944b7bafbf"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1673aa4c01c4",
+    "slug": "e-1673aa4c01c4",
+    "title": "みやざきワイン 新酒解禁イベント",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/c/7/1200w/img_c773dc34e679f7f64891c4c332ba43d0218534.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1673aa4c01c4"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-7d6fed238d11",
+    "slug": "e-7d6fed238d11",
+    "title": "甘く香りの良い芋焼酎の新酒を堪能 いちき串木野市で「新酒まつり」",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/f/4/600/img_f490c069b634e8802d9d40224ca104d730282.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7d6fed238d11"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3aff01fd0f08",
+    "slug": "e-3aff01fd0f08",
+    "title": "甘く香りの良い芋焼酎の新酒を堪能 いちき串木野市で「新酒まつり」",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.kts-tv.co.jp/news/data/29054/image.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3aff01fd0f08"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9a8aac264339",
+    "slug": "e-9a8aac264339",
+    "title": "秋晴れの下ほろ酔い気分 地元のフードと酒を楽しむ「酔いフェス」 日本酒、クラフトビール、ワイン、シードルなど飲み比べ",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/0/c/600/img_0cf8d76267b3b731e6d940860eda7d8372266.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9a8aac264339"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-aa10c15bf794",
+    "slug": "e-aa10c15bf794",
+    "title": "日本酒やワイン飲み比べ!恒例「越後・謙信SAKEまつり」、18日まで上越市の高田本町商店街",
+    "description": null,
+    "genres": [
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://niigata-nippo.ismcdn.jp/mwimgs/7/b/1200m/img_7b1f256cb0ae4045787d31fc57a933dd163425.jpg?rd=202610141744",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-aa10c15bf794"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a4d82947a1fc",
+    "slug": "e-a4d82947a1fc",
+    "title": "発酵食料理や菓子ずらり 金沢・しいのき緑地でフェスタ開幕 こんか漬けのおにぎり、酒かすとチーズのキッシュ…",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://hokkoku.ismcdn.jp/mwimgs/9/e/1200wm/img_9e96d5dbe3f739a595391d62763c89ca220970.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a4d82947a1fc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3b2a3b6c9404",
+    "slug": "e-3b2a3b6c9404",
+    "title": "24、25日に那須町でチーズとワインの祭典開催 「GOOD NEWS NEIGHBORS」(那須町高久乙)",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/c/4/1200wm/img_c4f0a2edf88cde4b3ae6ce0609d4a09345894.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3b2a3b6c9404"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-cde3dc02bf3c",
+    "slug": "e-cde3dc02bf3c",
+    "title": "新幹線駅【那須塩原】から徒歩でまち歩き!地元ワイン・巻狩鍋・温泉を満喫する秋の「ガストロノミーウォーキング」10/31開催、予約受付中",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-cde3dc02bf3c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6df0dc6e8db3",
+    "slug": "e-6df0dc6e8db3",
+    "title": "「奈良のふゆ酒」や果物を使ったサイダー味わって 11月3日に近鉄奈良駅前でイベント",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-03T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.sankei.com/resizer/v2/RRJJQG3K5ZOQHFSHZIZWONBXFM.jpg?auth=ecb5440de1ee8394d2ee5641e3ab2ab358c1860f38c0420da34f64123e2f9513&quality=50&focal=1179%2C2198&width=1200&height=675",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6df0dc6e8db3"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
