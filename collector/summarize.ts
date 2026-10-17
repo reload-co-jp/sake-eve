@@ -34,14 +34,22 @@ export const summarize = async (
     messages: [{ role: "user", content: `タイトル: ${title}\n\n${body}` }],
   })
   if (res.stop_reason !== "end_turn") return null
-  const [name = "", ...rest] = res.content
-    .flatMap((b) => (b.type === "text" ? [b.text] : []))
-    .join("")
-    .trim()
-    .split("\n")
+  return parseSummary(
+    res.content.flatMap((b) => (b.type === "text" ? [b.text] : [])).join("")
+  )
+}
+
+const parseSummary = (text: string) => {
+  const [name = "", ...rest] = text.trim().split("\n")
   const description = rest.join("").trim()
   return name.trim() && description ? { name: name.trim(), description } : null
 }
+
+/** summarize() on the local Claude Code CLI, for rewriting overviews without an API key. */
+export const summarizeLocal = async (title: string, body: string) =>
+  body.trim()
+    ? parseSummary(await claudeCli(SYSTEM, `タイトル: ${title}\n\n${body}`))
+    : null
 
 const ARTICLE_SYSTEM = `お酒のイベント情報サイトのライターとして、プレスリリースや記事の本文からイベント紹介記事を書く。
 - 1行目は記事タイトル。イベント名を入れ、30字程度で読みたくなるものにする。【】や日付は付けない。
@@ -89,6 +97,16 @@ export const parseArticle = (
  */
 export const writeArticle = async (eventName: string, body: string) => {
   if (!body.trim()) return null
+  const stdout = await claudeCli(
+    ARTICLE_SYSTEM,
+    `イベント名: ${eventName}\n\n${body}`
+  )
+  const article = parseArticle(stdout)
+  if (!article) console.error(stdout)
+  return article
+}
+
+const claudeCli = async (system: string, input: string) => {
   const run = execFile(
     "claude",
     [
@@ -96,16 +114,13 @@ export const writeArticle = async (eventName: string, body: string) => {
       "--model",
       "opus",
       "--system-prompt",
-      ARTICLE_SYSTEM,
+      system,
       "--tools",
       "",
       "--no-session-persistence",
     ],
     { maxBuffer: 10 * 1024 * 1024, timeout: 300_000 }
   )
-  run.child.stdin?.end(`イベント名: ${eventName}\n\n${body}`)
-  const { stdout } = await run
-  const article = parseArticle(stdout)
-  if (!article) console.error(stdout)
-  return article
+  run.child.stdin?.end(input)
+  return (await run).stdout
 }

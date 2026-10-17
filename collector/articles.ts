@@ -5,6 +5,8 @@
  *   node collector/articles.ts --dry-run   # generate + print only
  *   node collector/articles.ts --limit 3
  *
+ * Also rewrites short overviews (empty or a copied headline) of published events, same budget.
+ *
  * Runs on the local Claude Code CLI (`claude` logged in); no API key needed.
  */
 import { readFileSync } from "node:fs"
@@ -14,7 +16,7 @@ import type { Article } from "../lib/types.ts"
 import { createFetcher } from "./http.ts"
 import { parseDetail } from "./sources.ts"
 import { loadDb, writeJson } from "./store.ts"
-import { writeArticle } from "./summarize.ts"
+import { summarizeLocal, writeArticle } from "./summarize.ts"
 
 const dataDir = join(import.meta.dirname, "..", "data")
 const args = process.argv.slice(2)
@@ -76,6 +78,30 @@ for (const e of db.events) {
   }
 }
 
+// ponytail: length threshold as the "too short" heuristic; the prompt targets ~120 chars, copied headlines run shorter.
+for (const e of db.events) {
+  if (budget <= 0) break
+  if (e.publication !== "published" || e.isSample) continue
+  if ((e.description?.length ?? 0) >= 80) continue
+  const url = sourceById.get(e.sourceIds[0] ?? "")?.url
+  if (!url) continue
+  budget--
+  try {
+    const text = parseDetail(await fetchText(url), url)?.summary
+    const d = text && (await summarizeLocal(e.title, text))
+    if (!d) {
+      console.error(`[summary] ${e.slug}: no output`)
+      continue
+    }
+    console.log(`\n=== ${e.slug}\n${e.description ?? ""}\n→ ${d.description}`)
+    e.description = d.description
+    e.updatedAt = new Date().toISOString()
+    written++
+  } catch (err) {
+    console.error(`[summary] ${e.slug}: ${(err as Error).message}`)
+  }
+}
+
 if (!dryRun && written) {
   const errors = validateDb(db)
   if (errors.length) {
@@ -86,5 +112,5 @@ if (!dryRun && written) {
   writeJson(join(dataDir, "events.json"), db.events)
 }
 console.log(
-  `\n${written} article(s) ${dryRun ? "generated (dry run)" : "written"}`
+  `\n${written} article(s)/overview(s) ${dryRun ? "generated (dry run)" : "written"}`
 )
