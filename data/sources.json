@@ -5396,5 +5396,69 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-7990c55fbd51",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1441676",
+    "title": "24、25日にクラフトビールイベント アークタウン宇都宮で初開催",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-10-18T05:00:00.000Z",
+    "fetchedAt": "2026-10-18T19:18:18.607Z",
+    "contentHash": "130047696ac61a9524a0ede21e2378b7d1539132d43bafea0d7a6e161ef4c65b",
+    "relatedEventIds": [
+      "evt-7990c55fbd51"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-06d5f79b9fe5",
+    "sourceType": "news",
+    "url": "https://tetsudo-ch.com/13041388.html",
+    "title": "線路上で電車を見下ろして乾杯!ダイヤゲート池袋「夜市」で西武線沿線グルメと限定ビールを堪能(10/21〜23開催)",
+    "publisher": "鉄道チャンネル",
+    "publishedAt": "2026-10-18T00:00:39.000Z",
+    "fetchedAt": "2026-10-18T19:18:18.607Z",
+    "contentHash": "2f2dab66a7d0ad446b824119c5897b32ce57de861420855dd03fc634769e2185",
+    "relatedEventIds": [
+      "evt-06d5f79b9fe5"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

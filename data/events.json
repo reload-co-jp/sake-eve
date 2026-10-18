@@ -7186,5 +7186,91 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-7990c55fbd51",
+    "slug": "e-7990c55fbd51",
+    "title": "24、25日にクラフトビールイベント アークタウン宇都宮で初開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/9/d/1200wm/img_9d4821f51b2471dcfce50496d8055de5117524.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7990c55fbd51"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-18T19:18:18.607Z",
+    "updatedAt": "2026-10-18T19:18:18.607Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-06d5f79b9fe5",
+    "slug": "e-06d5f79b9fe5",
+    "title": "線路上で電車を見下ろして乾杯!ダイヤゲート池袋「夜市」で西武線沿線グルメと限定ビールを堪能(10/21〜23開催)",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-06d5f79b9fe5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-18T19:18:18.607Z",
+    "updatedAt": "2026-10-18T19:18:18.607Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
