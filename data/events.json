@@ -4291,10 +4291,12 @@
     "title": "越後・謙信SAKEまつり",
     "description": "日本酒のまつりで、県酒造組合高田支部に加盟する15の酒蔵が毎年交代で仕込む限定酒「車懸」を会場で販売する。今年の車懸はよしかわ杜氏の郷が地元の酒米と尾神岳の湧き水で造ったもので、この催しでしか手に入らない。",
     "genres": [
-      "sake"
+      "sake",
+      "wine"
     ],
     "eventTypes": [
-      "festival"
+      "festival",
+      "tasting"
     ],
     "startAt": "2026-10-17T00:00:00+09:00",
     "endAt": "2026-10-18T23:59:00+09:00",
@@ -4311,10 +4313,11 @@
     "ticketUrl": null,
     "imageUrl": "/images/events/evt-85a367ae2b65.webp",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
-      "src-85a367ae2b65"
+      "src-85a367ae2b65",
+      "src-aa10c15bf794"
     ],
     "producerIds": [],
     "productIds": [],
@@ -4325,7 +4328,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-12T23:34:50.372Z",
-    "updatedAt": "2026-10-17T00:32:34.052Z",
+    "updatedAt": "2026-10-19T09:35:36.450Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -6963,51 +6966,6 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
     "updatedAt": "2026-10-19T07:14:13.060Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "published"
-  },
-  {
-    "id": "evt-aa10c15bf794",
-    "slug": "e-aa10c15bf794",
-    "title": "越後・謙信SAKEまつり",
-    "description": null,
-    "genres": [
-      "wine",
-      "sake"
-    ],
-    "eventTypes": [
-      "festival",
-      "tasting"
-    ],
-    "startAt": "2026-10-17T00:00:00+09:00",
-    "endAt": "2026-10-18T23:59:00+09:00",
-    "venue": {
-      "name": "高田本町商店街",
-      "address": "上越市高田本町商店街",
-      "prefecture": "長野県",
-      "city": "上越市",
-      "latitude": 37.092911,
-      "longitude": 138.2453
-    },
-    "organizer": null,
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "https://niigata-nippo.ismcdn.jp/mwimgs/7/b/1200m/img_7b1f256cb0ae4045787d31fc57a933dd163425.jpg?rd=202610141744",
-    "price": null,
-    "isFree": true,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-aa10c15bf794"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "unknown",
-    "verificationStatus": "verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-19T07:16:03.731Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"

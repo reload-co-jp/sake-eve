@@ -3199,5 +3199,19 @@
       "publication"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-19T09:35:36.450Z",
+    "collection": "events",
+    "id": "evt-85a367ae2b65",
+    "action": "merge",
+    "changedFields": [
+      "genres",
+      "eventTypes",
+      "isFree",
+      "sourceIds",
+      "updatedAt"
+    ],
+    "note": "統合して削除: evt-aa10c15bf794（越後・謙信SAKEまつり）"
   }
 ]
