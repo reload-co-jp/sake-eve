@@ -6742,7 +6742,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-b1ec5abb1b3c"
+    ],
     "status": "scheduled",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
@@ -6872,7 +6874,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-7d6fed238d11"
+    ],
     "status": "unknown",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
@@ -6960,7 +6964,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-9a8aac264339"
+    ],
     "status": "unknown",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
@@ -7004,7 +7010,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-a4d82947a1fc"
+    ],
     "status": "unknown",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
@@ -7048,7 +7056,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-3b2a3b6c9404"
+    ],
     "status": "unknown",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
@@ -7135,7 +7145,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-6df0dc6e8db3"
+    ],
     "status": "scheduled",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
@@ -7178,7 +7190,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-7990c55fbd51"
+    ],
     "status": "unknown",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
