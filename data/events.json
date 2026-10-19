@@ -6712,7 +6712,7 @@
   {
     "id": "evt-b1ec5abb1b3c",
     "slug": "e-b1ec5abb1b3c",
-    "title": "白州12年・響 JAPANESE HARMONYも！1,000円で必ず当たる「プレミアムウイスキーガチャ」が新登場！偶然の出会いも楽しめる「HIGHBALL SALON」10/25(日) 新宿で開催！",
+    "title": "HIGHBALL SALON",
     "description": null,
     "genres": [
       "whisky"
@@ -6749,7 +6749,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-19T06:58:58.779Z",
+    "updatedAt": "2026-10-19T11:46:31.626Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -7205,7 +7205,7 @@
   {
     "id": "evt-06d5f79b9fe5",
     "slug": "e-06d5f79b9fe5",
-    "title": "線路上で電車を見下ろして乾杯!ダイヤゲート池袋「夜市」で西武線沿線グルメと限定ビールを堪能(10/21〜23開催)",
+    "title": "ダイヤゲート池袋夜市～つながる行きつけ～",
     "description": null,
     "genres": [
       "beer"
@@ -7228,7 +7228,7 @@
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-06d5f79b9fe5"
@@ -7240,7 +7240,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-18T19:18:18.607Z",
-    "updatedAt": "2026-10-19T06:58:14.862Z",
+    "updatedAt": "2026-10-19T11:46:10.133Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"

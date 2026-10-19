@@ -3213,5 +3213,28 @@
       "updatedAt"
     ],
     "note": "統合して削除: evt-aa10c15bf794（越後・謙信SAKEまつり）"
+  },
+  {
+    "at": "2026-10-19T11:46:10.133Z",
+    "collection": "events",
+    "id": "evt-06d5f79b9fe5",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "isFree",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-19T11:46:31.626Z",
+    "collection": "events",
+    "id": "evt-b1ec5abb1b3c",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "updatedAt"
+    ],
+    "note": null
   }
 ]
