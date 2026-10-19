@@ -1,4 +1,4 @@
-/* global window, document, location, fetch, structuredClone, confirm */
+/* global window, document, location, fetch, structuredClone, confirm, sessionStorage */
 // Admin UI. Plain DOM: every value from data (incl. collected titles) goes through textContent.
 const TOKEN = document.querySelector('meta[name="admin-token"]').content
 const app = document.getElementById("app")
@@ -406,18 +406,27 @@ const queueView = () => {
 }
 
 // ---- lists ----
-const searchBox = (onInput, placeholder) =>
+const searchBox = (onInput, placeholder, value = "") =>
   h("input", {
     type: "search",
     placeholder,
     "aria-label": placeholder,
+    value,
     oninput: (ev) => onInput(ev.target.value),
   })
 
 const eventList = () => {
   const tbody = h("tbody")
-  let q = ""
-  let pub = ""
+  // ページ遷移・リロードでも検索ワードと公開状態フィルタを保持する
+  const savedFilter = sessionStorage.getItem("admin:events:filter")
+  const saved = savedFilter ? JSON.parse(savedFilter) : {}
+  let q = saved.q ?? ""
+  let pub = saved.pub ?? ""
+  const saveFilter = () =>
+    sessionStorage.setItem(
+      "admin:events:filter",
+      JSON.stringify({ q, pub })
+    )
   const fill = () =>
     tbody.replaceChildren(
       ...state.db.events
@@ -451,16 +460,29 @@ const eventList = () => {
     h(
       "div",
       { class: "toolbar" },
-      searchBox((v) => ((q = v), fill()), "タイトル・IDで絞り込み"),
+      searchBox(
+        (v) => {
+          q = v
+          saveFilter()
+          fill()
+        },
+        "タイトル・IDで絞り込み",
+        q
+      ),
       h(
         "select",
         {
           "aria-label": "公開状態",
-          onchange: (ev) => ((pub = ev.target.value), fill()),
+          value: pub,
+          onchange: (ev) => {
+            pub = ev.target.value
+            saveFilter()
+            fill()
+          },
         },
         h("option", { value: "" }, "すべての公開状態"),
         Object.entries(state.enums.publicationStatuses).map(([k, v]) =>
-          h("option", { value: k }, v)
+          h("option", { value: k, selected: k === pub }, v)
         )
       ),
       h(
