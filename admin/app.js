@@ -47,6 +47,15 @@ const localToIso = (v) => (v ? `${v}:00+09:00` : null)
 const fmt = (iso) => (iso ? isoToLocal(iso).replace("T", " ") : "—")
 const nowIso = () => localToIso(isoToLocal(new Date().toISOString()))
 
+// 開始日時を入力したとき、終了日時が未入力なら自動補う既定オフセット（時間）
+const DEFAULT_END_OFFSET_HOURS = 2
+const addHours = (local, hours) => {
+  if (!local) return ""
+  const d = new Date(`${local}:00`)
+  d.setMinutes(d.getMinutes() + hours * 60)
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}T${pad(d.getHours())}:${pad(d.getMinutes())}`
+}
+
 const period = (e) => {
   if (!e.startAt) return "日程未定"
   const s = fmt(e.startAt)
@@ -659,6 +668,14 @@ const eventEditor = (id, draft = null) => {
     })(),
     text("startAt", "開始（JST）", dateInput(e.startAt), {
       type: e.dateOnly ? "date" : "datetime-local",
+      onchange: () => {
+        // 終了が未入力のときだけ、開始に連動して終了を自動入力する
+        if (!f.endAt.value) {
+          f.endAt.value = e.dateOnly
+            ? f.startAt.value
+            : addHours(f.startAt.value, DEFAULT_END_OFFSET_HOURS)
+        }
+      },
     }),
     text("endAt", "終了（JST）", dateInput(e.endAt), {
       type: e.dateOnly ? "date" : "datetime-local",
