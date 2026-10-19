@@ -6701,10 +6701,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T06:55:35.780Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-b1ec5abb1b3c",
@@ -6731,8 +6731,8 @@
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/145570/155/145570-155-0709517158e723b155e5116a5b9d21d7-1350x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "4000円",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-b1ec5abb1b3c"
@@ -6741,13 +6741,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T06:58:58.779Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-1d944b7bafbf",
@@ -6787,10 +6787,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:00:05.974Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-1673aa4c01c4",
@@ -6830,16 +6830,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:00:07.093Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-7d6fed238d11",
     "slug": "e-7d6fed238d11",
-    "title": "甘く香りの良い芋焼酎の新酒を堪能 いちき串木野市で「新酒まつり」",
-    "description": null,
+    "title": "いちき串木野市「新酒まつり」",
+    "description": "甘く香りの良い芋焼酎の新酒を堪能",
     "genres": [
       "shochu"
     ],
@@ -6847,22 +6847,22 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-17T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "焼酎蔵 薩州濵田屋伝兵衛",
+      "address": "鹿児島県いちき串木野市湊町4丁目1番地",
+      "prefecture": "鹿児島県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 31.691851,
+      "longitude": 130.293976
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://note.hamadasyuzou.co.jp/p/shinshu2026",
     "ticketUrl": null,
     "imageUrl": "https://fnn.ismcdn.jp/mwimgs/f/4/600/img_f490c069b634e8802d9d40224ca104d730282.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-7d6fed238d11"
@@ -6871,13 +6871,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:02:38.196Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-3aff01fd0f08",
@@ -6917,15 +6917,15 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:01:49.412Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-9a8aac264339",
     "slug": "e-9a8aac264339",
-    "title": "秋晴れの下ほろ酔い気分 地元のフードと酒を楽しむ「酔いフェス」 日本酒、クラフトビール、ワイン、シードルなど飲み比べ",
+    "title": "飯田酔いフェス2026秋の陣",
     "description": null,
     "genres": [
       "beer",
@@ -6935,22 +6935,22 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "アイパーク",
+      "address": "飯田駅",
+      "prefecture": "長野県",
+      "city": "飯田市",
+      "latitude": 40.67598,
+      "longitude": 140.469223
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://kaneshigefarm.wixsite.com/iidayoiyoifes",
     "ticketUrl": null,
     "imageUrl": "https://fnn.ismcdn.jp/mwimgs/0/c/600/img_0cf8d76267b3b731e6d940860eda7d8372266.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-9a8aac264339"
@@ -6959,18 +6959,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:14:13.060Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-aa10c15bf794",
     "slug": "e-aa10c15bf794",
-    "title": "日本酒やワイン飲み比べ!恒例「越後・謙信SAKEまつり」、18日まで上越市の高田本町商店街",
+    "title": "越後・謙信SAKEまつり",
     "description": null,
     "genres": [
       "wine",
@@ -6980,22 +6980,22 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "高田本町商店街",
+      "address": "上越市高田本町商店街",
+      "prefecture": "長野県",
+      "city": "上越市",
+      "latitude": 37.092911,
+      "longitude": 138.2453
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://niigata-nippo.ismcdn.jp/mwimgs/7/b/1200m/img_7b1f256cb0ae4045787d31fc57a933dd163425.jpg?rd=202610141744",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-aa10c15bf794"
@@ -7004,18 +7004,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:16:03.731Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-a4d82947a1fc",
     "slug": "e-a4d82947a1fc",
-    "title": "発酵食料理や菓子ずらり 金沢・しいのき緑地でフェスタ開幕 こんか漬けのおにぎり、酒かすとチーズのキッシュ…",
+    "title": "カナザワおいしいフェスタ",
     "description": null,
     "genres": [
       "sake"
@@ -7024,18 +7024,18 @@
       "festival",
       "seminar"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-17T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
       "name": null,
-      "address": null,
-      "prefecture": null,
+      "address": "石川県金沢市広坂２丁目１−１",
+      "prefecture": "石川県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.563732,
+      "longitude": 136.657104
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://gokan-gochisou-kanazawa.jp/kanazawa-syokubunka-event/%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF2026",
     "ticketUrl": null,
     "imageUrl": "https://hokkoku.ismcdn.jp/mwimgs/9/e/1200wm/img_9e96d5dbe3f739a595391d62763c89ca220970.jpg",
     "price": null,
@@ -7048,18 +7048,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:19:52.645Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-3b2a3b6c9404",
     "slug": "e-3b2a3b6c9404",
-    "title": "24、25日に那須町でチーズとワインの祭典開催 「GOOD NEWS NEIGHBORS」(那須町高久乙)",
+    "title": "チーズとホエイの祭典　vol.4",
     "description": null,
     "genres": [
       "wine"
@@ -7068,22 +7068,22 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-24T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "GOOD　NEWS　NEIGHBORS",
+      "address": "栃木県那須郡那須町高久乙２４−１",
+      "prefecture": "栃木県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 37.029434,
+      "longitude": 140.027344
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://soon.ismcdn.jp/mwimgs/c/4/1200wm/img_c4f0a2edf88cde4b3ae6ce0609d4a09345894.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-3b2a3b6c9404"
@@ -7092,18 +7092,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:21:46.531Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-cde3dc02bf3c",
     "slug": "e-cde3dc02bf3c",
-    "title": "新幹線駅【那須塩原】から徒歩でまち歩き!地元ワイン・巻狩鍋・温泉を満喫する秋の「ガストロノミーウォーキング」10/31開催、予約受付中",
+    "title": "第7回ONSEN・ガストロノミーウォーキング in 那須塩原2026・東那須野",
     "description": null,
     "genres": [
       "wine"
@@ -7111,22 +7111,22 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-10-31T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "那須塩原駅周辺",
+      "address": "那須塩原駅",
+      "prefecture": "栃木県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.961666,
+      "longitude": 140.046127
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
-    "isFree": null,
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-cde3dc02bf3c"
@@ -7135,19 +7135,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:10:45.452Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-6df0dc6e8db3",
     "slug": "e-6df0dc6e8db3",
-    "title": "「奈良のふゆ酒」や果物を使ったサイダー味わって 11月3日に近鉄奈良駅前でイベント",
-    "description": null,
+    "title": "奈良酒祭り",
+    "description": "奈良の酒蔵が手掛ける日本酒を飲み比べできる",
     "genres": [
       "sake"
     ],
@@ -7158,19 +7158,19 @@
     "startAt": "2026-11-03T00:00:00+09:00",
     "endAt": "2026-11-03T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "近鉄奈良駅前",
+      "address": "奈良県奈良市 東向中町29",
+      "prefecture": "奈良県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.683727,
+      "longitude": 135.828827
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.sankei.com/resizer/v2/RRJJQG3K5ZOQHFSHZIZWONBXFM.jpg?auth=ecb5440de1ee8394d2ee5641e3ab2ab358c1860f38c0420da34f64123e2f9513&quality=50&focal=1179%2C2198&width=1200&height=675",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-6df0dc6e8db3"
@@ -7179,18 +7179,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-17T19:06:14.297Z",
+    "updatedAt": "2026-10-19T07:06:01.393Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-7990c55fbd51",
     "slug": "e-7990c55fbd51",
-    "title": "24、25日にクラフトビールイベント アークタウン宇都宮で初開催",
+    "title": "TOCHIGI　CRAFT　BEER　SATURDAY＆SUNDAY",
     "description": null,
     "genres": [
       "beer"
@@ -7198,22 +7198,22 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-24T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "アークタウン宇都宮",
+      "address": "栃木県宇都宮市下平出町２９４５−１",
       "prefecture": null,
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.557888,
+      "longitude": 139.948151
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://soon.ismcdn.jp/mwimgs/9/d/1200wm/img_9d4821f51b2471dcfce50496d8055de5117524.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-7990c55fbd51"
@@ -7222,13 +7222,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-18T19:18:18.607Z",
-    "updatedAt": "2026-10-18T19:18:18.607Z",
+    "updatedAt": "2026-10-19T07:04:20.447Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-06d5f79b9fe5",
@@ -7241,17 +7241,17 @@
     "eventTypes": [
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-21T00:00:00+09:00",
+    "endAt": "2026-10-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "ダイヤゲート池袋 ダイヤデッキ",
+      "address": "東京都豊島区南池袋１丁目１６−１５",
       "prefecture": null,
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.72678,
+      "longitude": 139.710983
     },
-    "organizer": null,
+    "organizer": "株式会社西武不動産",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -7265,12 +7265,12 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-18T19:18:18.607Z",
-    "updatedAt": "2026-10-18T19:18:18.607Z",
+    "updatedAt": "2026-10-19T06:58:14.862Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   }
 ]
