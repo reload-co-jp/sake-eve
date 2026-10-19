@@ -19,11 +19,13 @@ import { appendAudit, loadReview } from "./storage.ts"
 import {
   checkImportUrl,
   importPage,
+  mergeEvents,
   setPublication,
   upsert,
   type Result,
 } from "./api.ts"
 import { createFetcher } from "../collector/http.ts"
+import { scanDuplicates } from "../collector/dedupe.ts"
 import { loadDb, save, writeJson } from "../collector/store.ts"
 import {
   ARTICLE_TYPES,
@@ -114,7 +116,8 @@ const tokenOk = (req: IncomingMessage) => {
 const persist = (res: ServerResponse, result: Result) => {
   if ("errors" in result)
     return send(res, result.status, { errors: result.errors })
-  writeJson(join(dataDir, `${result.changed}.json`), result.db[result.changed])
+  for (const c of [result.changed].flat())
+    writeJson(join(dataDir, `${c}.json`), result.db[c])
   appendAudit(dataDir, result.audit)
   send(res, 200, { ok: true, audit: result.audit })
 }
@@ -161,6 +164,8 @@ const server = createServer(async (req, res) => {
         enums: ENUMS,
         newsQueries: NEWS_QUERIES,
         ...loadReview(dataDir),
+        // Live scan so published look-alikes and stale/merged pairs are always current.
+        duplicates: scanDuplicates(db.events, now),
       })
 
     if (req.method === "POST" && parts[0] === "import" && parts.length === 1) {
@@ -204,6 +209,15 @@ const server = createServer(async (req, res) => {
           now
         )
       )
+    }
+    if (
+      req.method === "POST" &&
+      parts[0] === "events" &&
+      parts[2] === "merge" &&
+      parts.length === 3
+    ) {
+      const body = (await readBody(req)) as { dropId?: string }
+      return persist(res, mergeEvents(db, parts[1], String(body?.dropId), now))
     }
     if ((req.method === "PUT" || req.method === "POST") && parts.length === 2) {
       const body = (await readBody(req)) as Record<string, unknown>

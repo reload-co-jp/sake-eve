@@ -52,6 +52,13 @@ export type DuplicateCandidate = {
 
 const day = (iso: string | null) => iso?.slice(0, 10) ?? null
 
+/** Known date ranges that never meet: a series held on other days (e.g. "… in 川崎" / "… in 神戸"). */
+const apart = (a: Event, b: Event) =>
+  !!a.startAt &&
+  !!b.startAt &&
+  (day(a.endAt ?? a.startAt)! < day(b.startAt)! ||
+    day(b.endAt ?? b.startAt)! < day(a.startAt)!)
+
 /**
  * Possible duplicates of `e` among `others`. Never decides identity on its own:
  * results are recorded for human review and events are never merged automatically.
@@ -85,3 +92,24 @@ export const findDuplicateCandidates = (
         ]
       : []
   })
+
+/**
+ * Every look-alike pair among events not yet hidden (each pair once), recomputed on demand.
+ * Stricter than the collect-time check (which also gates auto-publishing): a touring series
+ * ("… in 川崎" / "… in 神戸") on other days or in another prefecture is not listed.
+ */
+export const scanDuplicates = (events: Event[], now: string) => {
+  const live = events.filter((e) => e.publication !== "hidden")
+  const byId = new Map(live.map((e) => [e.id, e]))
+  return live
+    .flatMap((e, i) => findDuplicateCandidates(e, live.slice(i + 1), now))
+    .filter((d) => {
+      const a = byId.get(d.eventId)!
+      const b = byId.get(d.candidateEventId)!
+      const otherPref =
+        !!a.venue.prefecture &&
+        !!b.venue.prefecture &&
+        a.venue.prefecture !== b.venue.prefecture
+      return !apart(a, b) && (!otherPref || d.score >= 0.9)
+    })
+}

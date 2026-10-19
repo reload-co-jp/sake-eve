@@ -17,13 +17,13 @@ export type AuditEntry = {
   at: string
   collection: string
   id: string
-  action: "create" | "update" | PublicationStatus
+  action: "create" | "update" | "merge" | PublicationStatus
   changedFields: string[]
   note: string | null
 }
 
 export type Result =
-  | { ok: true; db: Db; audit: AuditEntry; changed: Editable }
+  | { ok: true; db: Db; audit: AuditEntry; changed: Editable | Editable[] }
   | { ok: false; status: number; errors: string[] }
 
 const fail = (status: number, ...errors: string[]): Result => ({
@@ -128,6 +128,79 @@ export const setPublication = (
       action: publication,
       changedFields: ["publication"],
       note: note?.trim() || null,
+    },
+  }
+}
+
+const union = (...lists: string[][]) => [...new Set(lists.flat())]
+
+/**
+ * Fold the duplicate `dropId` into `keepId`: keep's values win, its empty fields are
+ * filled from drop, links are united, every reference is repointed and drop is removed.
+ */
+export const mergeEvents = (
+  db: Db,
+  keepId: string,
+  dropId: string,
+  now: string
+): Result => {
+  if (keepId === dropId) return fail(400, "同じイベント同士は統合できません")
+  const keep = db.events.find((e) => e.id === keepId)
+  const drop = db.events.find((e) => e.id === dropId)
+  if (!keep || !drop)
+    return fail(404, `存在しないイベント: ${keepId} / ${dropId}`)
+  if (drop.publication === "published" && keep.publication !== "published")
+    return fail(422, "公開中のイベントを統合先にしてください")
+  // ponytail: drop's /events/<slug> URL 404s after merge; add a redirect table if old links matter.
+  const fill = <T extends object>(a: T, b: T) =>
+    Object.fromEntries(
+      Object.entries(a).map(([k, v]) => [k, v ?? b[k as keyof T]])
+    ) as T
+  const merged = {
+    ...fill(keep, drop),
+    venue: fill(keep.venue, drop.venue),
+    genres: union(keep.genres, drop.genres) as typeof keep.genres,
+    eventTypes: union(
+      keep.eventTypes,
+      drop.eventTypes
+    ) as typeof keep.eventTypes,
+    sourceIds: union(keep.sourceIds, drop.sourceIds),
+    producerIds: union(keep.producerIds, drop.producerIds),
+    productIds: union(keep.productIds, drop.productIds),
+    articleIds: union(keep.articleIds, drop.articleIds),
+    updatedAt: now,
+  }
+  const repoint = (ids: string[]) =>
+    union(ids.map((id) => (id === dropId ? keepId : id)))
+  const nextDb: Db = {
+    ...db,
+    events: db.events
+      .filter((e) => e.id !== dropId)
+      .map((e) => (e.id === keepId ? merged : e)),
+    sources: db.sources.map((s) => ({
+      ...s,
+      relatedEventIds: repoint(s.relatedEventIds),
+    })),
+    articles: db.articles.map((x) => ({ ...x, eventIds: repoint(x.eventIds) })),
+    producers: db.producers.map((x) => ({
+      ...x,
+      eventIds: repoint(x.eventIds),
+    })),
+    products: db.products.map((x) => ({ ...x, eventIds: repoint(x.eventIds) })),
+  }
+  const errors = validateDb(nextDb as never)
+  if (errors.length) return fail(422, ...errors)
+  return {
+    ok: true,
+    db: nextDb,
+    changed: ["events", "sources", "articles", "producers", "products"],
+    audit: {
+      at: now,
+      collection: "events",
+      id: keepId,
+      action: "merge",
+      changedFields: changedFields(keep, merged),
+      note: `統合して削除: ${dropId}（${drop.title}）`,
     },
   }
 }

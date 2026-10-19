@@ -1,4 +1,4 @@
-/* global window, document, location, fetch, structuredClone */
+/* global window, document, location, fetch, structuredClone, confirm */
 // Admin UI. Plain DOM: every value from data (incl. collected titles) goes through textContent.
 const TOKEN = document.querySelector('meta[name="admin-token"]').content
 const app = document.getElementById("app")
@@ -142,6 +142,38 @@ const act = async (fn, okText) => {
 }
 
 // ---- approval ----
+const dupesOf = (e) =>
+  state.duplicates.filter(
+    (d) => d.eventId === e.id || d.candidateEventId === e.id
+  )
+
+/** Fold `drop` into `keep` (server keeps keep's values, unites sources/links, deletes drop). */
+const mergeButton = (keepId, dropId) =>
+  h(
+    "button",
+    {
+      type: "button",
+      onclick: () => {
+        const keep = byId("events", keepId)
+        const drop = byId("events", dropId)
+        if (
+          !confirm(
+            `「${drop.title}」を「${keep.title}」に統合し、削除します。よろしいですか？`
+          )
+        )
+          return
+        act(
+          () =>
+            api("POST", `events/${encodeURIComponent(keepId)}/merge`, {
+              dropId,
+            }),
+          `統合しました: ${keep.title}`
+        ).then(() => go("events", keepId))
+      },
+    },
+    `「${byId("events", keepId)?.title ?? keepId}」に統合`
+  )
+
 const publicationButtons = (e) => {
   const note = h("input", {
     type: "text",
@@ -171,7 +203,12 @@ const publicationButtons = (e) => {
         title: blocked
           ? "確認状態を「要確認」以外にしてから公開してください"
           : null,
-        onclick: () => set("published", `公開しました: ${e.title}`),
+        onclick: () =>
+          (!dupesOf(e).length ||
+            confirm(
+              "重複候補があります。重複でないことを確認して公開しますか？"
+            )) &&
+          set("published", `公開しました: ${e.title}`),
       },
       "公開する"
     ),
@@ -206,9 +243,7 @@ const publicationButtons = (e) => {
 
 const eventCard = (e) => {
   const sources = e.sourceIds.map((id) => byId("sources", id)).filter(Boolean)
-  const dupes = state.duplicates.filter(
-    (d) => d.eventId === e.id || d.candidateEventId === e.id
-  )
+  const dupes = dupesOf(e)
   return h(
     "article",
     { class: "card" },
@@ -264,7 +299,7 @@ const eventCard = (e) => {
             return h(
               "a",
               { href: `#events/${encodeURIComponent(other)}` },
-              `${byId("events", other)?.title ?? other}（類似度 ${d.score}） `
+              `${byId("events", other)?.title ?? other}（${label("publicationStatuses", byId("events", other)?.publication)}・類似度 ${d.score}） `
             )
           })
         )
@@ -1081,19 +1116,31 @@ const duplicatesView = () =>
     h(
       "p",
       { class: "meta" },
-      "自動統合はしません。同一なら片方を非公開にし、出典を残す側の出典に追加してください。"
+      "現在のデータから毎回検出（非公開は対象外）。自動統合はしません。同一なら統合先を選んでください。統合先の値が優先され、空欄・出典・関連は統合元から引き継ぎ、統合元は削除されます。"
     ),
     table(
-      ["検出日時", "イベント", "候補", "類似度", "理由"],
-      [...state.duplicates]
-        .reverse()
-        .map((d) => [
-          fmt(d.detectedAt),
-          eventLink(d.eventId),
-          eventLink(d.candidateEventId),
+      ["イベント", "候補", "類似度", "理由", "統合"],
+      state.duplicates.map((d) => {
+        const pub = (id) =>
+          label("publicationStatuses", byId("events", id).publication)
+        return [
+          h("span", {}, eventLink(d.eventId), ` (${pub(d.eventId)})`),
+          h(
+            "span",
+            {},
+            eventLink(d.candidateEventId),
+            ` (${pub(d.candidateEventId)})`
+          ),
           String(d.score),
           d.reasons.join(", "),
-        ])
+          h(
+            "span",
+            {},
+            mergeButton(d.eventId, d.candidateEventId),
+            mergeButton(d.candidateEventId, d.eventId)
+          ),
+        ]
+      })
     )
   )
 

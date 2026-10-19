@@ -15,7 +15,6 @@ const read = <T>(path: string, fallback: T): T => {
 
 /** Review files written by the collector and the admin UI. */
 export const loadReview = (dataDir: string) => ({
-  duplicates: read(join(dataDir, "review", "duplicate-candidates.json"), []),
   collectLog: read(join(dataDir, "review", "collect-log.json"), []),
   audit: read<AuditEntry[]>(join(dataDir, "review", "audit-log.json"), []),
 })

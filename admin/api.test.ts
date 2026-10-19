@@ -7,7 +7,14 @@ import sources from "@/test/fixtures/sources.json"
 import type { Db, Event } from "../lib/types"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { checkImportUrl, importPage, setPublication, upsert } from "./api"
+import {
+  checkImportUrl,
+  importPage,
+  mergeEvents,
+  setPublication,
+  upsert,
+} from "./api"
+import { scanDuplicates } from "../collector/dedupe"
 
 const NOW = "2026-10-10T12:00:00.000Z"
 const fresh = () =>
@@ -178,5 +185,54 @@ describe("URL import (Google News discovery)", () => {
       status: 409,
       eventId: first.eventId,
     })
+  })
+})
+
+describe("duplicates", () => {
+  it("flags same-name events on the same dates, not a series held elsewhere on other days", () => {
+    const db = fresh()
+    const base = ev(db, "evt-sample-0001")
+    const same = {
+      ...base,
+      id: "dup",
+      venue: { ...base.venue, prefecture: null },
+    }
+    const tour = {
+      ...base,
+      id: "tour",
+      startAt: "2026-12-01T11:00:00+09:00",
+      endAt: null,
+    }
+    const pairs = scanDuplicates([base, same, tour], NOW)
+    expect(pairs.map((d) => [d.eventId, d.candidateEventId])).toEqual([
+      [base.id, "dup"],
+    ])
+  })
+
+  it("merges drop into keep: unites links, repoints references, removes drop", () => {
+    const r = mergeEvents(fresh(), "evt-sample-0001", "evt-sample-0003", NOW)
+    expect(r.ok).toBe(true)
+    if (!r.ok) return
+    expect(r.db.events.some((e) => e.id === "evt-sample-0003")).toBe(false)
+    expect(ev(r.db, "evt-sample-0001")).toMatchObject({
+      sourceIds: ["src-sample-0001", "src-sample-0003"],
+      articleIds: ["art-sample-0001", "art-sample-0003"],
+      updatedAt: NOW,
+    })
+    const refs = JSON.stringify([
+      r.db.sources,
+      r.db.articles,
+      r.db.producers,
+      r.db.products,
+    ])
+    expect(refs).not.toContain("evt-sample-0003")
+    expect(r.audit).toMatchObject({ action: "merge", id: "evt-sample-0001" })
+  })
+
+  it("refuses to fold a published event into an unpublished one", () => {
+    const db = fresh()
+    ev(db, "evt-sample-0001").publication = "pending"
+    const r = mergeEvents(db, "evt-sample-0001", "evt-sample-0003", NOW)
+    expect(r).toMatchObject({ ok: false, status: 422 })
   })
 })
