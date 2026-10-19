@@ -6733,7 +6733,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/145570/155/145570-155-0709517158e723b155e5116a5b9d21d7-1350x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-b1ec5abb1b3c.webp",
     "price": "4000円",
     "isFree": false,
     "reservationRequired": null,
@@ -6865,7 +6865,7 @@
     "organizer": null,
     "officialUrl": "https://note.hamadasyuzou.co.jp/p/shinshu2026",
     "ticketUrl": null,
-    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/f/4/600/img_f490c069b634e8802d9d40224ca104d730282.jpg",
+    "imageUrl": "/images/events/evt-7d6fed238d11.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -6955,7 +6955,7 @@
     "organizer": null,
     "officialUrl": "https://kaneshigefarm.wixsite.com/iidayoiyoifes",
     "ticketUrl": null,
-    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/0/c/600/img_0cf8d76267b3b731e6d940860eda7d8372266.jpg",
+    "imageUrl": "/images/events/evt-9a8aac264339.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -7001,7 +7001,7 @@
     "organizer": null,
     "officialUrl": "https://gokan-gochisou-kanazawa.jp/kanazawa-syokubunka-event/%E3%81%8A%E3%81%84%E3%81%97%E3%81%84%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF2026",
     "ticketUrl": null,
-    "imageUrl": "https://hokkoku.ismcdn.jp/mwimgs/9/e/1200wm/img_9e96d5dbe3f739a595391d62763c89ca220970.jpg",
+    "imageUrl": "/images/events/evt-a4d82947a1fc.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -7047,7 +7047,7 @@
     "organizer": null,
     "officialUrl": "https://gooooodnews.com/news/2026/08/17/5071",
     "ticketUrl": null,
-    "imageUrl": "https://soon.ismcdn.jp/mwimgs/c/4/1200wm/img_c4f0a2edf88cde4b3ae6ce0609d4a09345894.jpg",
+    "imageUrl": "/images/events/evt-3b2a3b6c9404.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -7136,7 +7136,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://www.sankei.com/resizer/v2/RRJJQG3K5ZOQHFSHZIZWONBXFM.jpg?auth=ecb5440de1ee8394d2ee5641e3ab2ab358c1860f38c0420da34f64123e2f9513&quality=50&focal=1179%2C2198&width=1200&height=675",
+    "imageUrl": "/images/events/evt-6df0dc6e8db3.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -7181,7 +7181,7 @@
     "organizer": null,
     "officialUrl": "https://www.utsunomiya-cvb.org/event/detail_30182.html",
     "ticketUrl": null,
-    "imageUrl": "https://soon.ismcdn.jp/mwimgs/9/d/1200wm/img_9d4821f51b2471dcfce50496d8055de5117524.jpg",
+    "imageUrl": "/images/events/evt-7990c55fbd51.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -7244,5 +7244,179 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
+  },
+  {
+    "id": "evt-f05524837a71",
+    "slug": "e-f05524837a71",
+    "title": "「サッポロ ＧＯＬＤ ＳＴＡＲ」「サッポロ 麦とホップ」新ジャンル（発泡酒２.）からビールへ品目変更",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-20T00:00:00+09:00",
+    "endAt": "2026-10-20T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/12361/3256/12361-3256-07af7f8655f1d2e2ce9717a283520eaa-1413x1245.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f05524837a71"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b9ddba11ea46",
+    "slug": "e-b9ddba11ea46",
+    "title": "10月31日（土）11時よりオンライン開催！Bar投資「お酒の美術館」の全貌を解説！飲食業界未経験からオーナーに",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-10-31T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b9ddba11ea46"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-498e42202a90",
+    "slug": "e-498e42202a90",
+    "title": "札幌・中島公園で焼き芋イベント 道内各地の品種を食べ比べ、限定ビールも",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "北海道",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/sapporo_keizai/headline/1792397129_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-498e42202a90"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f719cadc311a",
+    "slug": "e-f719cadc311a",
+    "title": "劇団かもめんたるをより身近に感じられるトークライブ開催、ゲストに酒井若菜",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f719cadc311a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]

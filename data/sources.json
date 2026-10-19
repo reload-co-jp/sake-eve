@@ -5460,5 +5460,135 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-f05524837a71",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000003256.000012361.html",
+    "title": "「サッポロ ＧＯＬＤ ＳＴＡＲ」「サッポロ 麦とホップ」新ジャンル（発泡酒２.）からビールへ品目変更",
+    "publisher": "サッポロビール株式会社",
+    "publishedAt": "2026-10-19T10:00:02+09:00",
+    "fetchedAt": "2026-10-19T21:25:16.441Z",
+    "contentHash": "3fe39707b299c67d9ad11d3e1338f95c3a2ad1d8b960541094c294668905a058",
+    "relatedEventIds": [
+      "evt-f05524837a71"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-20",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b9ddba11ea46",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000209.000030719.html",
+    "title": "10月31日（土）11時よりオンライン開催！Bar投資「お酒の美術館」の全貌を解説！飲食業界未経験からオーナーに",
+    "publisher": "株式会社ゴールドオンライン",
+    "publishedAt": "2026-10-20T00:40:02+09:00",
+    "fetchedAt": "2026-10-19T21:25:16.441Z",
+    "contentHash": "0a8b7817015d6618c2e5112bed023af2838bf3983c0771057d98056ae7b7c86c",
+    "relatedEventIds": [
+      "evt-b9ddba11ea46"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-498e42202a90",
+    "sourceType": "news",
+    "url": "https://sapporo.keizai.biz/headline/5241/",
+    "title": "札幌・中島公園で焼き芋イベント 道内各地の品種を食べ比べ、限定ビールも",
+    "publisher": "札幌経済新聞",
+    "publishedAt": "2026-10-19T09:04:16.000Z",
+    "fetchedAt": "2026-10-19T21:25:16.441Z",
+    "contentHash": "b0193ce2292b8fe96bbe5e5f43f05e6a162c6960a9651ac60edce1ed8ffa6c8c",
+    "relatedEventIds": [
+      "evt-498e42202a90"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "北海道",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f719cadc311a",
+    "sourceType": "news",
+    "url": "https://natalie.mu/owarai/news/694333",
+    "title": "劇団かもめんたるをより身近に感じられるトークライブ開催、ゲストに酒井若菜",
+    "publisher": "ナタリー",
+    "publishedAt": "2026-10-19T09:00:00.000Z",
+    "fetchedAt": "2026-10-19T21:25:16.441Z",
+    "contentHash": "13e96ac31e85824f32ec6d011c876aab6f6bf26d7e2784fce7577ec059b755e6",
+    "relatedEventIds": [
+      "evt-f719cadc311a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
