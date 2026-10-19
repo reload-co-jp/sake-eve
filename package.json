@@ -16,6 +16,7 @@
     "admin": "node admin/server.ts",
     "collect": "node collector/run.ts",
     "collect:dry": "node collector/run.ts --dry-run",
+    "official-urls": "node collector/official-urls.ts",
     "articles": "node collector/articles.ts",
     "images": "node collector/images.ts",
     "test:watch": "vitest"

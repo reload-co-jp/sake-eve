@@ -61,6 +61,7 @@ pnpm dev          # http://localhost:3000
 | `data/producers.json`                   | 事業者（酒蔵・ブルワリー等）                         |
 | `data/products.json`                    | 商品                                                 |
 | `data/review/duplicate-candidates.json` | 重複候補（人が確認する）                             |
+| `data/review/official-url-candidates.json` | 公式URLが見つからない公開イベントの候補（人が確認する） |
 | `data/review/collect-log.json`          | 収集ログ（書き込み・失敗があった回のみ、最新100件）  |
 | `data/review/audit-log.json`            | 管理画面の変更履歴（作成・更新・公開・非公開とメモ） |
 
@@ -100,6 +101,7 @@ pnpm collect       # data/events.json, data/sources.json に追記
 | `collector/extract.ts`  | 項目抽出（推測しない）                                                                       |
 | `collector/dedupe.ts`   | URL正規化、タイトル類似度、重複候補判定                                                      |
 | `collector/store.ts`    | 追記マージ、検証、原子的書き込み、ログ                                                       |
+| `collector/official-urls.ts` | 公開中イベントの「公式サイト」候補の収集と検証（下記）                                      |
 
 ### 情報源と利用条件（2026-10-10 確認）
 
@@ -108,6 +110,23 @@ pnpm collect       # data/events.json, data/sources.json に追記
 | PR TIMES 公式RSS `https://prtimes.jp/index.rdf`                | 有効               | robots.txt `Allow: /`。利用規約上ゲストは私的使用・引用の範囲で利用可、大量アクセス禁止 → RSSを1時間に1回取得し、未取得かつタイトルに酒類/イベント語を含むものだけ詳細ページを取得（1回30件まで、超過分はRSS概要のみで抽出）。タイトル・URL・配信日時・抽出項目・og:image URLだけ保存（本文は抽出にのみ使用し保存しない）。キーワード別RSSが無いため全件RSSをローカルで絞り込み、検索ページHTMLは取得しない                                     |
 | PR TIMES 検索ページ `/main/action.php?run=html&page=searchkey` | 有効（6時間ごと）  | robots.txt で許可。利用規約は大量アクセスを禁止 → 仕様書3.2のイベント系キーワード（`config.json` の `prtimes_search.queries`）ごとに新着1ページのみ取得。未取得かつ一覧タイトルに酒類/イベント語を含むものだけ詳細ページを取得（1回30件まで、残りは次回）。詳細ページの JSON-LD から正式タイトル・配信日時・配信元、本文は抽出にのみ使用し保存しない。403/429 で即中止                                                                          |
 | Google News RSS                                                | **自動取得は無効** | フィードの copyright に「personal feed reader での個人的・非商用利用専用、その他の利用は禁止」と明記。robots.txt も `/rss` を許可していない。代わりに管理画面の「ニュースから探す」で、編集者が自分のブラウザで Google ニュースを検索し（設定済みキーワードのリンクを表示）、元記事のURLを「URLから取り込む」に貼る。取得するのはその元記事ページ1件だけ（robots.txt 確認、本文は保存しない、`sourceType: "news"`）。Google ニュースのURLは拒否 |
+
+### 公開イベントの「公式サイト」の補完
+
+公開中イベントで `officialUrl` が空のものの、公式サイトを探す。
+
+```bash
+pnpm official-urls                                  # 候補の抽出と検証（書込なし）
+pnpm official-urls -- --only evt-xxxx              # 1件だけ
+pnpm official-urls -- --candidates candidates.json # 編集者が選んだ候補を検証（--apply で書き込み）
+```
+
+1. イベントが出典ページ（PR TIMES リリース、ニュース記事）を取得し、そこにあるリンクを候補にする（PR TIMES の「関連リンク」と「◯◯公式サイトはこちら」のリンクを優先。チケット販売・SNS・会社ＵＲＬは除く）
+2. 候補がない場合、出典がリンクする主催者・会場のサイトを開き、イベント名のリンクを探して候補にする
+3. 候補を実際に取得し、ページタイトル・本文にイベント名・開催地・年が含まれるかを確認して採用する（推測で埋めない）
+4. `--apply` を付けると検証を通った候補だけを `data/events.json` に書き込む（`officialUrl` と `updatedAt` のみ変更）
+
+検索エンジンや新华社の本文は取得しない（robots.txt と利用条件のため）。公式URLが見つからないイベントは `null` のまま残す。
 
 ### 処理の流れ
 
