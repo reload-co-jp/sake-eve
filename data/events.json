@@ -7359,7 +7359,7 @@
     "organizer": null,
     "officialUrl": "https://sapporo-yakiimoterrace.com/",
     "ticketUrl": null,
-    "imageUrl": "https://images.keizai.biz/sapporo_keizai/headline/1792397129_photo.jpg",
+    "imageUrl": "/images/events/evt-498e42202a90.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -7422,5 +7422,309 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-e4a6b1df3354",
+    "slug": "e-e4a6b1df3354",
+    "title": "一般社団法人日本パーソナルブランディング戦略機構（JPBS）が設立レセプションを開催｜発起人の桑田龍征・入江巨之・山本智也が登壇し、約70名が出席",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-10-07T00:00:00+09:00",
+    "endAt": "2026-10-07T23:59:00+09:00",
+    "venue": {
+      "name": "神田明神文化交流館 EDOCCO STUDIO(〒101-0021 東京都千代田区外神田2-16-2 神田明神文化交流館",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/192837/1/192837-1-5ceaa2b80bae3301a1e220c6e987edc9-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e4a6b1df3354"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-d25f20b7894e",
+    "slug": "e-d25f20b7894e",
+    "title": "秋のうたげ楽しもう、輪西飲食店組合 30日、日本酒&ビール祭り",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.muromin.jp/img/common/ogimg.png",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d25f20b7894e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c92155d12515",
+    "slug": "e-c92155d12515",
+    "title": "輪島の酒・漆器 名産品ずらり、21日から阪神百貨店梅田本店で輪島の食祭",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.sankei.com/resizer/v2/R4IYIQ6W6FJTDATNAPSNFY23S4.jpg?auth=1491259069d463f1b446021ee15df9641d87c14caec00b929d03c6e391ee67f7&quality=50&focal=1238%2C839&width=1200&height=675",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c92155d12515"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6ab34b6dfcd5",
+    "slug": "e-6ab34b6dfcd5",
+    "title": "《電波 ✕ 酒 ✕ 東京タワー》アライアンスアーツ注目2作品のコラボイベントが11/11より開催決定【PUKEY GODDESS SHOT TRICK】",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-11T00:00:00+09:00",
+    "endAt": "2026-11-19T23:59:00+09:00",
+    "venue": {
+      "name": "東京タワーフットタウン2階 Co・LabーTOKYOー",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-6ab34b6dfcd5.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6ab34b6dfcd5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-7f9a3b8c8923",
+    "slug": "e-7f9a3b8c8923",
+    "title": "庄内風と内陸風、食べ比べ楽しむ 酒田・駅前芋煮会、フラダンスなどステージイベントも",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-10-21T00:00:00+09:00",
+    "endAt": "2026-10-21T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yamagata-np.jp/news/202610/20/img_2026102000478.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7f9a3b8c8923"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-098600c6a393",
+    "slug": "e-098600c6a393",
+    "title": "全国の酒蔵が集結する「SAKE PARK」が渋谷・MIYASHITA PARKで11月13日から3日間開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-13T23:59:00+09:00",
+    "venue": {
+      "name": "MIYASHITA PARK 屋上 渋谷区立宮下公園 芝生ひろば (東京都渋谷区神宮前6丁目20-10)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-098600c6a393.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-098600c6a393"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-c69df4aeb77e",
+    "slug": "e-c69df4aeb77e",
+    "title": "山形の美酒「次の10年」へ飽くなき追求 GI指定10年を記念してイベント",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c69df4aeb77e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]

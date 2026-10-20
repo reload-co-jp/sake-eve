@@ -5590,5 +5590,232 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-e4a6b1df3354",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000192837.html",
+    "title": "一般社団法人日本パーソナルブランディング戦略機構（JPBS）が設立レセプションを開催｜発起人の桑田龍征・入江巨之・山本智也が登壇し、約70名が出席",
+    "publisher": "一般社団法人日本パーソナルブランディング戦略機構",
+    "publishedAt": "2026-10-20T14:45:12+09:00",
+    "fetchedAt": "2026-10-20T20:22:43.623Z",
+    "contentHash": "1c6eb67a0dc01007d02b4a8b2dd4e913b576520839141d234751efdaf9178fac",
+    "relatedEventIds": [
+      "evt-e4a6b1df3354"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-07",
+      "dateSource": "label",
+      "venueName": "神田明神文化交流館 EDOCCO STUDIO(〒101-0021 東京都千代田区外神田2-16-2 神田明神文化交流館",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d25f20b7894e",
+    "sourceType": "news",
+    "url": "https://www.muromin.jp/news.php?id=151612",
+    "title": "秋のうたげ楽しもう、輪西飲食店組合 30日、日本酒&ビール祭り",
+    "publisher": "室蘭民報社 電子版",
+    "publishedAt": "2026-10-20T14:00:00.000Z",
+    "fetchedAt": "2026-10-20T20:22:43.623Z",
+    "contentHash": "4ec82b46aa9e5713452cabf9a0160f125eaa04b63eec808e459c2258399a63f1",
+    "relatedEventIds": [
+      "evt-d25f20b7894e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c92155d12515",
+    "sourceType": "news",
+    "url": "https://www.sankei.com/article/20261020-7QPRZL7ZGVNTDLMAUF3LI3RAGU/",
+    "title": "輪島の酒・漆器 名産品ずらり、21日から阪神百貨店梅田本店で輪島の食祭",
+    "publisher": "産経新聞：産経ニュース",
+    "publishedAt": "2026-10-20T12:05:34.000Z",
+    "fetchedAt": "2026-10-20T20:22:43.623Z",
+    "contentHash": "d3162f88fbc1ea8495c32277d98d449c37edc01ed52f34208c35841ebaa45856",
+    "relatedEventIds": [
+      "evt-c92155d12515"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6ab34b6dfcd5",
+    "sourceType": "news",
+    "url": "https://dengekionline.com/article/202610/91525",
+    "title": "《電波 ✕ 酒 ✕ 東京タワー》アライアンスアーツ注目2作品のコラボイベントが11/11より開催決定【PUKEY GODDESS SHOT TRICK】",
+    "publisher": "電撃オンライン",
+    "publishedAt": "2026-10-20T09:32:00.000Z",
+    "fetchedAt": "2026-10-20T20:22:43.623Z",
+    "contentHash": "7e9784138a791ab57b6d0ab772493f938956f252af0c5ae9c0d2787845eaabce",
+    "relatedEventIds": [
+      "evt-6ab34b6dfcd5"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-19",
+      "dateSource": "label",
+      "venueName": "東京タワーフットタウン2階 Co・LabーTOKYOー",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7f9a3b8c8923",
+    "sourceType": "news",
+    "url": "https://www.yamagata-np.jp/news/202610/20/kj_2026102000466.php",
+    "title": "庄内風と内陸風、食べ比べ楽しむ 酒田・駅前芋煮会、フラダンスなどステージイベントも",
+    "publisher": "やまがたニュースオンライン",
+    "publishedAt": "2026-10-20T04:54:00.000Z",
+    "fetchedAt": "2026-10-20T20:22:43.623Z",
+    "contentHash": "85011bdbcba03febfe0691c8d039b394d1cce4f715478a033df704e0b476114d",
+    "relatedEventIds": [
+      "evt-7f9a3b8c8923"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-098600c6a393",
+    "sourceType": "news",
+    "url": "https://eyescream.jp/other/168375/",
+    "title": "全国の酒蔵が集結する「SAKE PARK」が渋谷・MIYASHITA PARKで11月13日から3日間開催",
+    "publisher": "EYESCREAM",
+    "publishedAt": "2026-10-20T02:30:41.000Z",
+    "fetchedAt": "2026-10-20T20:22:43.623Z",
+    "contentHash": "3d3142971e7d9288064cd1402480b6ad474d14fa284d12c848e6193fb8f9d726",
+    "relatedEventIds": [
+      "evt-098600c6a393"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "dateSource": "label",
+      "venueName": "MIYASHITA PARK 屋上 渋谷区立宮下公園 芝生ひろば (東京都渋谷区神宮前6丁目20-10)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c69df4aeb77e",
+    "sourceType": "news",
+    "url": "https://kahoku.news/articles/JY6YD2UXI2KHN.html",
+    "title": "山形の美酒「次の10年」へ飽くなき追求 GI指定10年を記念してイベント",
+    "publisher": "河北新報",
+    "publishedAt": "2026-10-19T23:00:00.000Z",
+    "fetchedAt": "2026-10-20T20:22:43.623Z",
+    "contentHash": "08edd72938a4344e62c79191670613397bf749d0678190ef485e59daa87bf2ed",
+    "relatedEventIds": [
+      "evt-c69df4aeb77e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
