@@ -5,6 +5,10 @@ const app = document.getElementById("app")
 const tabs = document.getElementById("tabs")
 let state = null
 let notice = null
+/** Events filled from their source pages, waiting to be shown in the editor. */
+const fetchedDrafts = new Map()
+/** Result of the last source fetch (shown in the editor). */
+let fetchNote = null
 
 const h = (tag, attrs = {}, ...children) => {
   const el = document.createElement(tag)
@@ -151,6 +155,30 @@ const act = async (fn, okText) => {
 }
 
 // ---- approval ----
+/**
+ * Read the event's source pages and fill its empty fields.
+ * Nothing is saved here: the editor checks the result and saves it.
+ */
+const fetchSource = async (e, { sourceId, draft } = {}) => {
+  const r = await api(
+    "POST",
+    `events/${encodeURIComponent(e.id)}/fetch-source`,
+    {
+      sourceId,
+      draft,
+    }
+  )
+  fetchedDrafts.set(e.id, r.event)
+  fetchNote = {
+    id: e.id,
+    text: r.filled.length
+      ? `ソースから取得しました: ${r.filled.join("、")}`
+      : "出典に新しい情報はありませんでした",
+    notes: r.notes ?? [],
+  }
+  return r
+}
+
 const dupesOf = (e) =>
   state.duplicates.filter(
     (d) => d.eventId === e.id || d.candidateEventId === e.id
@@ -320,6 +348,27 @@ const eventCard = (e) => {
         "button",
         { type: "button", onclick: () => go("events", e.id) },
         "編集・確認"
+      ),
+      h(
+        "button",
+        {
+          type: "button",
+          onclick: async (ev) => {
+            const btn = ev.currentTarget
+            btn.disabled = true
+            btn.textContent = "取得中…"
+            try {
+              await fetchSource(e)
+              await load()
+              go("events", e.id)
+            } catch (err) {
+              btn.disabled = false
+              btn.textContent = "ソースから取得"
+              flash(false, err.message)
+            }
+          },
+        },
+        "ソースから取得"
       )
     ),
     publicationButtons(e)
@@ -599,8 +648,12 @@ const NEW_EVENT = () => ({
 
 const eventEditor = (id, draft = null) => {
   const isNew = id === "__new__"
-  const e =
-    draft ?? (isNew ? NEW_EVENT() : structuredClone(byId("events", id) ?? null))
+  // Values fetched from the source pages take precedence over the stored record.
+  const stored = isNew
+    ? null
+    : (fetchedDrafts.get(id) ?? byId("events", id) ?? null)
+  if (stored) fetchedDrafts.delete(id)
+  const e = draft ?? (isNew ? NEW_EVENT() : structuredClone(stored))
   if (!e) return h("p", {}, `イベントが見つかりません: ${id}`)
   const f = {}
   const text = (key, labelText, value, attrs = {}) => {
@@ -880,16 +933,69 @@ const eventEditor = (id, draft = null) => {
   const wrap = h("section", {})
   // Switching date-only changes input types; rebuild with the unsaved values.
   const rerenderForm = () => wrap.replaceWith(eventEditor(id, e))
+
+  /** Read the source pages and fill the empty fields of the form. */
+  const fetchPanel = () => {
+    const status = h("span", { class: "meta", role: "status" })
+    const sources = e.sourceIds.map((id) => byId("sources", id)).filter(Boolean)
+    const run = async (sourceId) => {
+      status.textContent = "取得中…"
+      try {
+        const r = await fetchSource(e, { sourceId, draft: collect() })
+        // Rebuild the form with the filled values; the editor still saves them.
+        wrap.replaceWith(eventEditor(id, r.event))
+      } catch (err) {
+        status.textContent = err.message
+      }
+    }
+    return h(
+      "section",
+      {},
+      h("h2", {}, "ソースから取得して埋める"),
+      h(
+        "p",
+        { class: "meta" },
+        "未入力の項目（日程・会場・住所・都道府県・市区町村・ジャンル・形式・公式サイト・画像）を、出典のページから取得して埋めます。入力済みの値は上書きしません。取得後は内容を確認してから保存してください。"
+      ),
+      h(
+        "div",
+        { class: "actions" },
+        h(
+          "button",
+          { type: "button", class: "primary", onclick: () => run(null) },
+          "すべての出典から取得"
+        ),
+        sources.map((s) =>
+          h(
+            "button",
+            { type: "button", onclick: () => run(s.id) },
+            `「${s.title.slice(0, 24)}」から取得`
+          )
+        ),
+        status
+      )
+    )
+  }
+
   wrap.append(
     h("h2", {}, isNew ? "新規イベント" : "イベント編集"),
     !isNew && e.isSample
       ? h("p", { class: "meta" }, "サンプルデータです。")
       : "",
+    fetchNote && fetchNote.id === id
+      ? h(
+          "p",
+          { class: "meta", role: "status" },
+          fetchNote.text,
+          fetchNote.notes.length ? `（${fetchNote.notes.join(" / ")}）` : ""
+        )
+      : "",
     form,
     isNew
       ? ""
       : h("section", {}, h("h2", {}, "公開承認"), publicationButtons(e)),
-    isNew ? "" : sourceDetails(e)
+    isNew ? "" : sourceDetails(e),
+    isNew ? "" : fetchPanel()
   )
   return wrap
 }

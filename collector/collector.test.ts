@@ -183,6 +183,21 @@ describe("extract", () => {
     const x = extract("ビールフェス", "2026年12月30日〜1月2日", cfg)
     expect([x.startDate, x.endDate]).toEqual(["2026-12-30", "2026-12-30"])
   })
+  it("prefers a month/day mention over the article's own date", () => {
+    const pub = "2026-10-19T09:00:00+09:00"
+    expect(
+      extract(
+        "焼き芋イベント",
+        "2026.10.19\n焼き芋テラスが10月23日、中島公園で始まる。",
+        cfg,
+        pub
+      )
+    ).toMatchObject({ startDate: "2026-10-23", dateSource: "text" })
+    // A labelled date is kept even when it is the release day itself.
+    expect(
+      extract("ビアフェス", "日時：2026年10月19日", cfg, pub)
+    ).toMatchObject({ startDate: "2026-10-19", dateSource: "label" })
+  })
 })
 
 describe("dedupe", () => {

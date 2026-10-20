@@ -3367,7 +3367,7 @@
     "id": "evt-1bb4384f9265",
     "slug": "e-1bb4384f9265",
     "title": "ふくい桜まつり",
-    "description": "福井で桜の季節に開かれる恒例のまつりで、今回が42回目となる。2年ぶりにオープニングイベントが復活し、好評だった福井の酒を味わうイベントも引き続き行われる。",
+    "description": "県外からも人を呼ぼうと、2年ぶりにオープニングイベントを開く春の桜まつりだ。好評だった福井の酒を味わう催しも続けて開かれる。",
     "genres": [
       "other"
     ],
@@ -3403,7 +3403,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-11T08:59:35.186Z",
-    "updatedAt": "2026-10-19T16:19:05.263Z",
+    "updatedAt": "2026-10-20T00:01:13.541Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5921,7 +5921,7 @@
     "id": "evt-a13ceddb7bc5",
     "slug": "e-a13ceddb7bc5",
     "title": "「新米おかきフェア 秋の東マルシェ」",
-    "description": "千葉県八千代市のあられ工場で「新米おかきフェア 秋の東マルシェ」10月17日（土）開催　工場直売でしか食べられない新米揚げたておかきを販売",
+    "description": "東あられ本鋪が毎年秋に自社工場で開くマルシェで、山形県中山町の契約農家が育てた特別栽培米ヒメノモチの新米おかきが主役だ。工場でしか買えない揚げたておかきや当日限定セットのほか、つきたて餅や地元ブルワリーのビール、野菜なども楽しめる。",
     "genres": [
       "beer"
     ],
@@ -5958,7 +5958,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-19T16:19:05.263Z",
+    "updatedAt": "2026-10-20T00:01:28.324Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -6713,7 +6713,7 @@
     "id": "evt-b1ec5abb1b3c",
     "slug": "e-b1ec5abb1b3c",
     "title": "HIGHBALL SALON",
-    "description": null,
+    "description": "日本のウイスキーブランドを中心に20銘柄をハイボールで飲み比べ、知識がなくても自分好みの「推しハイボール」を探せる体験型イベントだ。山崎12年や白州12年、響など10銘柄のどれかが必ず当たる「プレミアムウイスキーガチャ」も新しく加わった。",
     "genres": [
       "whisky"
     ],
@@ -6749,7 +6749,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-19T11:46:31.626Z",
+    "updatedAt": "2026-10-20T00:01:40.565Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -6844,7 +6844,7 @@
     "id": "evt-7d6fed238d11",
     "slug": "e-7d6fed238d11",
     "title": "いちき串木野市「新酒まつり」",
-    "description": "甘く香りの良い芋焼酎の新酒を堪能",
+    "description": "蒸留したばかりの芋焼酎の新酒を味わえる祭りで、新酒ができる時期に毎年酒蔵で開かれている。試飲コーナーやイベント限定焼酎の販売があり、芋の出来が良かった今年は甘く香り高い新酒が楽しめる。",
     "genres": [
       "shochu"
     ],
@@ -6881,7 +6881,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-19T07:02:38.196Z",
+    "updatedAt": "2026-10-20T00:01:55.618Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -6933,7 +6933,7 @@
     "id": "evt-9a8aac264339",
     "slug": "e-9a8aac264339",
     "title": "飯田酔いフェス2026秋の陣",
-    "description": null,
+    "description": "長野県飯田市で、地元の酒造メーカーや飲食店25社がテントを並べるお酒の飲み比べイベントである。日本酒やクラフトビール、ワイン、シードルなどを、焼肉をはじめとする地元のグルメと一緒に楽しめる。",
     "genres": [
       "beer",
       "wine",
@@ -6971,7 +6971,7 @@
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-17T19:06:14.297Z",
-    "updatedAt": "2026-10-19T07:14:13.060Z",
+    "updatedAt": "2026-10-20T00:02:08.666Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -7235,7 +7235,9 @@
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-06d5f79b9fe5"
+    ],
     "status": "unknown",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
@@ -7283,10 +7285,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-19T21:25:16.441Z",
-    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T23:55:25.553Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-b9ddba11ea46",
@@ -7326,15 +7328,15 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-19T21:25:16.441Z",
-    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T23:55:35.068Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-498e42202a90",
     "slug": "e-498e42202a90",
-    "title": "札幌・中島公園で焼き芋イベント 道内各地の品種を食べ比べ、限定ビールも",
+    "title": "さっぽろ焼き芋テラス2026",
     "description": null,
     "genres": [
       "beer"
@@ -7344,37 +7346,39 @@
       "tasting",
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-23T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "中島公園 南9条広場",
+      "address": "北海道札幌市中央区中島公園１",
       "prefecture": "北海道",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 43.045193,
+      "longitude": 141.3517
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://sapporo-yakiimoterrace.com/",
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/sapporo_keizai/headline/1792397129_photo.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-498e42202a90"
     ],
     "producerIds": [],
     "productIds": [],
-    "articleIds": [],
+    "articleIds": [
+      "art-498e42202a90"
+    ],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-19T21:25:16.441Z",
-    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T23:57:55.453Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-f719cadc311a",
@@ -7414,9 +7418,9 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-19T21:25:16.441Z",
-    "updatedAt": "2026-10-19T21:25:16.441Z",
+    "updatedAt": "2026-10-19T23:58:02.785Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   }
 ]

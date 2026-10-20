@@ -53,8 +53,8 @@ const inferYear = (mo: string, d: string, ref: string) => {
   return String(past ? y + 1 : y)
 }
 
-const findDate = (text: string, ref: string | null) => {
-  const full = text.match(DATE_RE)
+const findDate = (text: string, ref: string | null, onlyMonthDay = false) => {
+  const full = onlyMonthDay ? null : text.match(DATE_RE)
   const md = ref ? text.match(MD_RE) : null
   let y, mo, d, y2, mo2, d2
   let m: RegExpMatchArray
@@ -189,7 +189,15 @@ export const extract = (
   }
   if (!date) {
     date = findDate(text, ref)
-    if (date) dateSource = "text"
+    if (date) {
+      dateSource = "text"
+      // A date equal to the release day is the article's own date: a month/day
+      // mention ("10月23日") is more likely the event date.
+      if (ref && date.start === ref.slice(0, 10)) {
+        const monthDay = findDate(text, ref, true)
+        if (monthDay) date = monthDay
+      }
+    }
   }
 
   const venueName = labelled(text, "会場|場所|開催場所")

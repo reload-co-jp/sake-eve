@@ -37,7 +37,9 @@ import {
   PUBLICATION_STATUSES,
   SOURCE_TYPES,
   VERIFICATION_STATUSES,
+  type Event,
 } from "../lib/types.ts"
+import { enrichFromSources, FIELD_LABELS } from "./enrich.ts"
 
 const PORT = Number(process.env.ADMIN_PORT ?? 4321)
 const HOSTS = new Set([`127.0.0.1:${PORT}`, `localhost:${PORT}`])
@@ -209,6 +211,51 @@ const server = createServer(async (req, res) => {
           now
         )
       )
+    }
+    if (
+      req.method === "POST" &&
+      parts[0] === "events" &&
+      parts[2] === "fetch-source" &&
+      parts.length === 3
+    ) {
+      const body = ((await readBody(req)) ?? {}) as {
+        draft?: Event
+        sourceId?: string
+      }
+      const event = db.events.find((e) => e.id === parts[1])
+      if (!event)
+        return send(res, 404, { errors: ["イベントが見つかりません"] })
+      // The editor may have unsaved edits: fill those, not the stored record.
+      const base = body.draft && body.draft.id === event.id ? body.draft : event
+      const ids = body.sourceId
+        ? [body.sourceId]
+        : (body.draft?.sourceIds ?? event.sourceIds)
+      const sources = db.sources.filter((s) => ids.includes(s.id))
+      if (!sources.length)
+        return send(res, 400, { errors: ["対象の出典がありません"] })
+      const r = await enrichFromSources(
+        base,
+        sources,
+        fetchPage,
+        collectorConfig
+      )
+      if (!r.extracted)
+        return send(res, 502, {
+          errors: r.errors.length
+            ? r.errors
+            : ["出典から情報を取得できませんでした"],
+        })
+      // Nothing is written here: the editor checks the result and saves it.
+      return send(res, 200, {
+        ok: true,
+        event: r.event,
+        filled: r.filled.map((f) => FIELD_LABELS[f]),
+        fieldIds: r.filled,
+        notes: r.notes,
+        extracted: r.extracted,
+        pages: r.pages,
+        errors: r.errors,
+      })
     }
     if (
       req.method === "POST" &&

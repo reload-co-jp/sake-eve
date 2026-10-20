@@ -3236,5 +3236,62 @@
       "updatedAt"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-19T23:55:25.553Z",
+    "collection": "events",
+    "id": "evt-f05524837a71",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-19T23:55:35.068Z",
+    "collection": "events",
+    "id": "evt-b9ddba11ea46",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-19T23:57:54.034Z",
+    "collection": "events",
+    "id": "evt-498e42202a90",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "officialUrl",
+      "isFree",
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-19T23:57:55.453Z",
+    "collection": "events",
+    "id": "evt-498e42202a90",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-19T23:58:02.785Z",
+    "collection": "events",
+    "id": "evt-f719cadc311a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
   }
 ]
