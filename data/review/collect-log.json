@@ -724,5 +724,50 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-10-21T20:27:18.081Z",
+    "finishedAt": "2026-10-21T20:31:22.525Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得27件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://asahikawa.keizai.biz/headline/472/: robots.txtで禁止されているため取得しません: https://asahikawa.keizai.biz/headline/472/ / 詳細取得失敗 https://www.shibukei.com/headline/20227/: robots.txtで禁止されているため取得しません: https://www.shibukei.com/headline/20227/ / 詳細取得失敗 https://roppongi.keizai.biz/headline/5145/: HTTP 404: https://roppongi.keizai.biz/headline/5145/ / 詳細取得失敗 https://umeda.keizai.biz/headline/4706/: HTTP 404: https://umeda.keizai.biz/headline/4706/ / 詳細取得失敗 https://takadanobaba.keizai.biz/headline/1738/: HTTP 404: https://takadanobaba.keizai.biz/headline/1738/ / 詳細取得失敗 https://asakusa.keizai.biz/headline/1108/: robots.txtで禁止されているため取得しません: https://asakusa.keizai.biz/headline/1108/ / 詳細取得失敗 https://jp.wsj.com/articles/youve-heard-of-fashion-week-this-is-dog-week-dbf5b47c: robots.txtで禁止されているため取得しません: https://jp.wsj.com/articles/youve-heard-of-fashion-week-this-is-dog-week-dbf5b47c / 詳細取得失敗 http://spice.eplus.jp/articles/349778: アクセス制限 (HTTP 403) のため中止: http://spice.eplus.jp/articles/349778 / 詳細取得失敗 https://chofu.keizai.biz/headline/4999/: robots.txtで禁止されているため取得しません: https://chofu.keizai.biz/headline/4999/ / 詳細取得失敗 https://www.wwdjapan.com/articles/2529720: アクセス制限 (HTTP 403) のため中止: https://www.wwdjapan.com/articles/2529720 / 詳細取得失敗 https://shimoda.keizai.biz/headline/1251/: robots.txtで禁止されているため取得しません: https://shimoda.keizai.biz/headline/1251/ / 詳細取得失敗 https://hachinohe.keizai.biz/headline/2749/: robots.txtで禁止されているため取得しません: https://hachinohe.keizai.biz/headline/2749/ / 詳細取得失敗 https://www.kochinews.co.jp/article/detail/1055713: アクセス制限 (HTTP 403) のため中止: https://www.kochinews.co.jp/article/detail/1055713 / 詳細取得失敗 https://nishitama.keizai.biz/headline/2135/: HTTP 404: https://nishitama.keizai.biz/headline/2135/ / 詳細取得16件 / 失敗14件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 290,
+      "duplicateUrl": 5,
+      "added": 5,
+      "needsReview": 4,
+      "autoPublished": 1,
+      "duplicateCandidates": 0,
+      "autoHidden": 1,
+      "summarized": 0,
+      "geocoded": 0
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

@@ -3423,5 +3423,25 @@
       "publication"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-21T20:31:22.491Z",
+    "collection": "events",
+    "id": "evt-baee5c2b3933",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-10-21T20:31:22.491Z",
+    "collection": "events",
+    "id": "evt-af5b6fbd3479",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

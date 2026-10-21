@@ -5817,5 +5817,169 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-2af3af4bdbc0",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3029349?display=1",
+    "title": "ビール酒造組合が11月のイベント開催を見送りへ メーカー各社に“カルテル疑惑\"の中…「諸般の状況を総合的に勘案」",
+    "publisher": "TBS NEWS DIG",
+    "publishedAt": "2026-10-21T12:11:23.000Z",
+    "fetchedAt": "2026-10-21T20:31:22.491Z",
+    "contentHash": "c56152b14cd0654393ff3f3808b244bc0c5b4071e7eda8a098f0fdd33d85e0be",
+    "relatedEventIds": [
+      "evt-2af3af4bdbc0"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-63fed797a3cf",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1444565",
+    "title": "24、25日にアークタウン宇都宮でクラフトビールイベント 全8ブルワリーの一押しビール紹介",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-10-21T11:30:00.000Z",
+    "fetchedAt": "2026-10-21T20:31:22.491Z",
+    "contentHash": "b5c18507b30e3252f1567bff3492a7ebd31344d9455ecb6e2ea112e1101a285c",
+    "relatedEventIds": [
+      "evt-63fed797a3cf"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-baee5c2b3933",
+    "sourceType": "news",
+    "url": "https://www.tokyoheadline.com/875764/",
+    "title": "秋空の川越で美味しいビールとご飯『おとなり麦酒市 2026 秋』10.31開催",
+    "publisher": "TOKYO HEADLINE",
+    "publishedAt": "2026-10-21T09:24:52.000Z",
+    "fetchedAt": "2026-10-21T20:31:22.491Z",
+    "contentHash": "08f310bf8331a333a3c2a3971d296f2b902822bfee860d2912f8f18fb2a7f409",
+    "relatedEventIds": [
+      "evt-baee5c2b3933"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "dateSource": "label",
+      "venueName": "川越市産業観光館 小江戸蔵里 KOEDO KURARI(埼玉県川越市新富町 1-10-1)",
+      "address": null,
+      "prefecture": "埼玉県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-af5b6fbd3479",
+    "sourceType": "news",
+    "url": "https://getnews.jp/archives/3750020",
+    "title": "日本酒香るコーヒーから水素焙煎まで! 日本最大級のコーヒーの祭典「SCAJ2026」体験レポ",
+    "publisher": "ガジェット通信 GetNews",
+    "publishedAt": "2026-10-21T04:00:50.000Z",
+    "fetchedAt": "2026-10-21T20:31:22.491Z",
+    "contentHash": "8a2dda7d8eb1eb92f32386a8c1d0b8eec7eb65aa487d93dcb0fb8080fcf74366",
+    "relatedEventIds": [
+      "evt-af5b6fbd3479"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4f05e969051c",
+    "sourceType": "news",
+    "url": "https://shimoda.keizai.biz/headline/1251/",
+    "title": "日本初飲の地・下田で「ウイスキーフェス」開催へ 海底熟成酒や歴史展示も",
+    "publisher": "伊豆下田経済新聞",
+    "publishedAt": "2026-10-21T00:09:18.000Z",
+    "fetchedAt": "2026-10-21T20:31:22.491Z",
+    "contentHash": "b5b70d2f51bf921ecb4881b468ca4a154135586a6a9c27b6cd00c6ca198edbc9",
+    "relatedEventIds": [
+      "evt-4f05e969051c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

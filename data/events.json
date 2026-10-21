@@ -7491,7 +7491,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://www.muromin.jp/img/common/ogimg.png",
+    "imageUrl": "/images/events/evt-d25f20b7894e.webp",
     "price": "3300円",
     "isFree": false,
     "reservationRequired": null,
@@ -7534,7 +7534,7 @@
     "organizer": null,
     "officialUrl": "https://web.hh-online.jp/hanshin/contents/str/20261021.html",
     "ticketUrl": null,
-    "imageUrl": "https://www.sankei.com/resizer/v2/R4IYIQ6W6FJTDATNAPSNFY23S4.jpg?auth=1491259069d463f1b446021ee15df9641d87c14caec00b929d03c6e391ee67f7&quality=50&focal=1238%2C839&width=1200&height=675",
+    "imageUrl": "/images/events/evt-c92155d12515.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -7622,7 +7622,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://www.yamagata-np.jp/news/202610/20/img_2026102000478.jpg",
+    "imageUrl": "/images/events/evt-7f9a3b8c8923.webp",
     "price": null,
     "isFree": true,
     "reservationRequired": null,
@@ -7726,5 +7726,224 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-2af3af4bdbc0",
+    "slug": "e-2af3af4bdbc0",
+    "title": "ビール酒造組合が11月のイベント開催を見送りへ メーカー各社に“カルテル疑惑\"の中…「諸般の状況を総合的に勘案」",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/3/7/1200w/img_370d885fcb510de11847fbd2e7094bc1191711.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-2af3af4bdbc0"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-63fed797a3cf",
+    "slug": "e-63fed797a3cf",
+    "title": "24、25日にアークタウン宇都宮でクラフトビールイベント 全8ブルワリーの一押しビール紹介",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/b/f/1200wm/img_bfeee7772c903bd4840099e83dda43b043509.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-63fed797a3cf"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-baee5c2b3933",
+    "slug": "e-baee5c2b3933",
+    "title": "秋空の川越で美味しいビールとご飯『おとなり麦酒市 2026 秋』10.31開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar"
+    ],
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-10-31T23:59:00+09:00",
+    "venue": {
+      "name": "川越市産業観光館 小江戸蔵里 KOEDO KURARI(埼玉県川越市新富町 1-10-1)",
+      "address": null,
+      "prefecture": "埼玉県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-baee5c2b3933.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-baee5c2b3933"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-af5b6fbd3479",
+    "slug": "e-af5b6fbd3479",
+    "title": "日本酒香るコーヒーから水素焙煎まで! 日本最大級のコーヒーの祭典「SCAJ2026」体験レポ",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-10-14T00:00:00+09:00",
+    "endAt": "2026-10-14T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://getnews.jp/img/archives/2026/10/67e30084d7691a076322e1a8d7705621-1024x1000.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-af5b6fbd3479"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-4f05e969051c",
+    "slug": "e-4f05e969051c",
+    "title": "日本初飲の地・下田で「ウイスキーフェス」開催へ 海底熟成酒や歴史展示も",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-10-24T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4f05e969051c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
