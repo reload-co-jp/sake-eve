@@ -7469,7 +7469,7 @@
   {
     "id": "evt-d25f20b7894e",
     "slug": "e-d25f20b7894e",
-    "title": "秋のうたげ楽しもう、輪西飲食店組合 30日、日本酒&ビール祭り",
+    "title": "第４７回日本酒＆ビール祭り",
     "description": null,
     "genres": [
       "beer",
@@ -7478,22 +7478,22 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-30T00:00:00+09:00",
+    "endAt": "2026-10-30T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "わにホール市民会館",
+      "address": "室蘭市輪西町2丁目5番1号",
+      "prefecture": "北海道",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 42.334496,
+      "longitude": 141.012497
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.muromin.jp/img/common/ogimg.png",
-    "price": null,
-    "isFree": null,
+    "price": "3300円",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-d25f20b7894e"
@@ -7502,18 +7502,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-20T20:22:43.623Z",
-    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-21T18:49:31.051Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-c92155d12515",
     "slug": "e-c92155d12515",
-    "title": "輪島の酒・漆器 名産品ずらり、21日から阪神百貨店梅田本店で輪島の食祭",
+    "title": "にっぽん食むすび〝輪島の食祭〟輪島がいまできること",
     "description": null,
     "genres": [
       "sake"
@@ -7521,22 +7521,22 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-21T00:00:00+09:00",
+    "endAt": "2026-10-26T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "阪神百貨店梅田本店",
+      "address": "大阪府大阪市北区梅田１丁目１３−１３",
+      "prefecture": "大阪府",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.700691,
+      "longitude": 135.497528
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://web.hh-online.jp/hanshin/contents/str/20261021.html",
     "ticketUrl": null,
     "imageUrl": "https://www.sankei.com/resizer/v2/R4IYIQ6W6FJTDATNAPSNFY23S4.jpg?auth=1491259069d463f1b446021ee15df9641d87c14caec00b929d03c6e391ee67f7&quality=50&focal=1238%2C839&width=1200&height=675",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-c92155d12515"
@@ -7545,13 +7545,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-20T20:22:43.623Z",
-    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-21T18:47:14.070Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-6ab34b6dfcd5",
@@ -7599,7 +7599,7 @@
   {
     "id": "evt-7f9a3b8c8923",
     "slug": "e-7f9a3b8c8923",
-    "title": "庄内風と内陸風、食べ比べ楽しむ 酒田・駅前芋煮会、フラダンスなどステージイベントも",
+    "title": "酒田・駅前芋煮会2026",
     "description": null,
     "genres": [
       "other"
@@ -7609,22 +7609,22 @@
       "seminar",
       "tour"
     ],
-    "startAt": "2026-10-21T00:00:00+09:00",
-    "endAt": "2026-10-21T23:59:00+09:00",
+    "startAt": "2026-10-18T00:00:00+09:00",
+    "endAt": "2026-10-18T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "ミライニ広場",
+      "address": "山形県酒田市幸町１丁目１０−１",
       "prefecture": null,
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 38.920998,
+      "longitude": 139.844711
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.yamagata-np.jp/news/202610/20/img_2026102000478.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-7f9a3b8c8923"
@@ -7633,13 +7633,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-20T20:22:43.623Z",
-    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-21T18:44:30.717Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-098600c6a393",
@@ -7722,9 +7722,9 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-20T20:22:43.623Z",
-    "updatedAt": "2026-10-20T20:22:43.623Z",
+    "updatedAt": "2026-10-21T18:42:22.096Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   }
 ]

@@ -3323,5 +3323,105 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-21T18:42:22.096Z",
+    "collection": "events",
+    "id": "evt-c69df4aeb77e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-21T18:44:29.941Z",
+    "collection": "events",
+    "id": "evt-7f9a3b8c8923",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "isFree",
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-21T18:44:30.717Z",
+    "collection": "events",
+    "id": "evt-7f9a3b8c8923",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-21T18:47:11.317Z",
+    "collection": "events",
+    "id": "evt-c92155d12515",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "officialUrl",
+      "isFree",
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-21T18:47:12.112Z",
+    "collection": "events",
+    "id": "evt-c92155d12515",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-21T18:47:14.070Z",
+    "collection": "events",
+    "id": "evt-c92155d12515",
+    "action": "update",
+    "changedFields": [
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-21T18:49:30.159Z",
+    "collection": "events",
+    "id": "evt-d25f20b7894e",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-21T18:49:31.051Z",
+    "collection": "events",
+    "id": "evt-d25f20b7894e",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
   }
 ]
