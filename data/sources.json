@@ -5981,5 +5981,103 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-98ff8cbe8c11",
+    "sourceType": "news",
+    "url": "https://www.fukuishimbun.co.jp/articles/-/2728579",
+    "title": "近江牛バーガー、黒豚焼き小籠包、能登の地酒…全国ご当地グルメ、小浜に集結 10月24、25日に「食のまつり」 福井県",
+    "publisher": "福井新聞ONLINE",
+    "publishedAt": "2026-10-22T07:00:00.000Z",
+    "fetchedAt": "2026-10-22T20:29:56.335Z",
+    "contentHash": "32399c61f145590d2648aac3869189b7894cfa4be26f7f5bc8c1b679c9119917",
+    "relatedEventIds": [
+      "evt-98ff8cbe8c11"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "福井県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-282b50f43476",
+    "sourceType": "news",
+    "url": "https://smart-flash.jp/entertainment/entertainment-news/434766/",
+    "title": "武田梨奈『ワカコ酒』フェスで観客殺到も笑顔の神対応!“ソロ活\"ドラマ大人気の秘密",
+    "publisher": "Smart FLASH/スマフラ[光文社週刊誌]",
+    "publishedAt": "2026-10-22T05:15:15.000Z",
+    "fetchedAt": "2026-10-22T20:29:56.335Z",
+    "contentHash": "0bce310b4fcf53fd69b40ae6f68e4461bcb30f59574fc82a00377c6339874e64",
+    "relatedEventIds": [
+      "evt-282b50f43476"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-514e3b59566b",
+    "sourceType": "news",
+    "url": "https://news.mynavi.jp/article/20261022-5167652/",
+    "title": "「ホヤぼーや」が東京・有楽町にやってくる! 気仙沼サンマやホヤ、地酒を楽しむハロウィンイベント開催",
+    "publisher": "マイナビニュース",
+    "publishedAt": "2026-10-21T22:15:00.000Z",
+    "fetchedAt": "2026-10-22T20:29:56.335Z",
+    "contentHash": "7929adb008ded6ba657dd89b5755270e0ff5a2222f009800b905bf969e19f784",
+    "relatedEventIds": [
+      "evt-514e3b59566b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

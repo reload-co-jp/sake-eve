@@ -7945,5 +7945,136 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-98ff8cbe8c11",
+    "slug": "e-98ff8cbe8c11",
+    "title": "近江牛バーガー、黒豚焼き小籠包、能登の地酒…全国ご当地グルメ、小浜に集結 10月24、25日に「食のまつり」 福井県",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-23T00:00:00+09:00",
+    "endAt": "2026-10-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "福井県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fki.ismcdn.jp/mwimgs/7/c/-/img_7c4c469316f6ccf3626daec1cce1495a92557.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-98ff8cbe8c11"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-22T20:29:56.335Z",
+    "updatedAt": "2026-10-22T20:29:56.335Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-282b50f43476",
+    "slug": "e-282b50f43476",
+    "title": "武田梨奈『ワカコ酒』フェスで観客殺到も笑顔の神対応!“ソロ活\"ドラマ大人気の秘密",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-03T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://data.smart-flash.jp/wp-content/uploads/2026/10/22135735/takeda_rina1_thumb.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-282b50f43476"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-22T20:29:56.335Z",
+    "updatedAt": "2026-10-22T20:29:56.335Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-514e3b59566b",
+    "slug": "e-514e3b59566b",
+    "title": "「ホヤぼーや」が東京・有楽町にやってくる! 気仙沼サンマやホヤ、地酒を楽しむハロウィンイベント開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-10-31T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://news.mynavi.jp/article/20261022-5167652/ogp_images/ogp.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-514e3b59566b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-22T20:29:56.335Z",
+    "updatedAt": "2026-10-22T20:29:56.335Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
