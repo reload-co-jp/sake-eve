@@ -6079,5 +6079,300 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-bd24947dcb92",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000019.000140615.html",
+    "title": "こんにちハロー、ドバイのポップカルチャーイベント「FNDM Dubai 2026」に参加",
+    "publisher": "株式会社こんにちハロー",
+    "publishedAt": "2026-10-23T10:00:02+09:00",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "0ddebead33521a05340c9b0e66cb4861c1776936756fcec972b8b67fcdd65549",
+    "relatedEventIds": [
+      "evt-bd24947dcb92"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "dateSource": "label",
+      "venueName": "The Concourse Convention Center, Dubai Outlet Mall",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://www.mefcc.com/fndm-dubai/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-bae8b7ad0ae3",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000234.000145472.html",
+    "title": "【第2弾】\"響21年”が登場。ウイスキーくじ最新弾が10月23日より販売開始",
+    "publisher": "株式会社アップライジング",
+    "publishedAt": "2026-10-23T15:00:02+09:00",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "11883dc16afe4816ba4bb1f5dda13b81f573395a050d565787b18b73cb73635f",
+    "relatedEventIds": [
+      "evt-bae8b7ad0ae3"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": "・タチバナE酒販 本店",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-360f14c0f28c",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1138807",
+    "title": "福島デンソーエアリービーズ ホーム開幕戦で“開幕祭り\" 地元グルメや地酒 郡山一色のイベント開催",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-10-23T10:22:00.000Z",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "97e0f16b2ff1c31fc1afdffe4a1db1098619d1cb4189061fcbe9442e63dcfb09",
+    "relatedEventIds": [
+      "evt-360f14c0f28c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-463ae5a257a4",
+    "sourceType": "news",
+    "url": "https://semba.keizai.biz/headline/2634/",
+    "title": "船場で日本酒飲み歩きイベント 全国30の酒蔵が集結、ペアリング料理提供",
+    "publisher": "船場経済新聞",
+    "publishedAt": "2026-10-23T09:00:00.000Z",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "e0f64a78a34250d3d4e180043960fa36581aedb8fb1e5b2f3730904393eeef43",
+    "relatedEventIds": [
+      "evt-463ae5a257a4"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-fafca1f97056",
+    "sourceType": "news",
+    "url": "https://www.oricon.co.jp/news/2488356/full/",
+    "title": "山崎貴監督、『ゴジラ-0.0』公開日に「ゴジラ・フェス」参加へ 恒例「居酒屋ゴジラ」でトーク",
+    "publisher": "オリコンニュース（ORICON NEWS）",
+    "publishedAt": "2026-10-23T05:14:00.000Z",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "b962a85b304a1ede277461c2c23ddbf4f242935164f7fcff4e68a47c3bd41c97",
+    "relatedEventIds": [
+      "evt-fafca1f97056"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d44df2e35517",
+    "sourceType": "news",
+    "url": "https://www.yamagata-np.jp/news/202610/23/kj_2026102300533.php",
+    "title": "わが社のイチ押し-らじょうもん(山形) えり抜きの日本酒を販売、イベント企画も",
+    "publisher": "やまがたニュースオンライン",
+    "publishedAt": "2026-10-23T03:55:00.000Z",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "2796427526f52ece1a0b45a8a811ec200ef7a9d2275724651e652544c1384608",
+    "relatedEventIds": [
+      "evt-d44df2e35517"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-e66dca6dbb16",
+    "sourceType": "news",
+    "url": "https://www.rbbtoday.com/article/2026/10/23/254867.html",
+    "title": "世界の蒸留酒が横浜に集結、試飲フェスを2027年4月開催",
+    "publisher": "RBB TODAY",
+    "publishedAt": "2026-10-23T02:58:59.000Z",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "817f078a9e3f8dc2460cd7449b9dc1f7c43199afd2288e2cd20fa040c42ffbe7",
+    "relatedEventIds": [
+      "evt-e66dca6dbb16"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky",
+        "shochu",
+        "awamori"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d234e8a5b18a",
+    "sourceType": "news",
+    "url": "https://news.mynavi.jp/article/20261023-5163696/",
+    "title": "お台場で「世界のお酒フェス」開催--世界の定番酒から珍しいお酒、お酒にぴったりな絶品グルメまで大集合",
+    "publisher": "マイナビニュース",
+    "publishedAt": "2026-10-23T01:54:48.000Z",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "b7172b4414b107269a5b51839b591767fdccbf2eaf6fd4dbf731f5b2ed54179f",
+    "relatedEventIds": [
+      "evt-d234e8a5b18a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0d305470b1d1",
+    "sourceType": "news",
+    "url": "https://www.chugoku-np.co.jp/articles/-/913478",
+    "title": "広島市中区のタカノ橋商店街で「はしご酒祭」 11月11、12日 寿司や鉄板焼き21店飲み歩き",
+    "publisher": "広島市中区のタカノ橋商店街で「はしご酒祭」 11月11、12日　寿司や鉄板焼き21店飲み歩き | 中国新聞デジタル",
+    "publishedAt": "2026-10-23T01:29:00.000Z",
+    "fetchedAt": "2026-10-23T20:16:39.758Z",
+    "contentHash": "4cd92d6bf94f04142d4b1a09228759a968c107fa8d4e8afe8dc4b7885c1ff652",
+    "relatedEventIds": [
+      "evt-0d305470b1d1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
