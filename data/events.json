@@ -7766,15 +7766,15 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-21T20:31:22.491Z",
-    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-23T09:00:05.304Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-63fed797a3cf",
     "slug": "e-63fed797a3cf",
-    "title": "24、25日にアークタウン宇都宮でクラフトビールイベント 全8ブルワリーの一押しビール紹介",
+    "title": "とちぎクラフトビアSat＆Sun",
     "description": null,
     "genres": [
       "beer"
@@ -7782,18 +7782,18 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-24T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "アークタウン宇都宮",
+      "address": "栃木県宇都宮市下平出町2945-1",
+      "prefecture": "栃木県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 36.557888,
+      "longitude": 139.948151
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://www.utsunomiya-cvb.org/event/detail_30182.html",
     "ticketUrl": null,
     "imageUrl": "https://soon.ismcdn.jp/mwimgs/b/f/1200wm/img_bfeee7772c903bd4840099e83dda43b043509.jpg",
     "price": null,
@@ -7806,13 +7806,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-21T20:31:22.491Z",
-    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-23T09:04:19.708Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-baee5c2b3933",
@@ -7905,7 +7905,7 @@
   {
     "id": "evt-4f05e969051c",
     "slug": "e-4f05e969051c",
-    "title": "日本初飲の地・下田で「ウイスキーフェス」開催へ 海底熟成酒や歴史展示も",
+    "title": "SHIMODAウイスキーフェス2026",
     "description": null,
     "genres": [
       "whisky"
@@ -7917,15 +7917,15 @@
     "startAt": "2026-10-24T00:00:00+09:00",
     "endAt": "2026-10-25T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "下田市民文化会館",
+      "address": "下田市四丁目",
+      "prefecture": "静岡県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.674534,
+      "longitude": 138.940811
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://shimoda-whisky.com/",
     "ticketUrl": null,
     "imageUrl": null,
     "price": null,
@@ -7938,18 +7938,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-21T20:31:22.491Z",
-    "updatedAt": "2026-10-21T20:31:22.491Z",
+    "updatedAt": "2026-10-23T09:05:38.428Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-98ff8cbe8c11",
     "slug": "e-98ff8cbe8c11",
-    "title": "近江牛バーガー、黒豚焼き小籠包、能登の地酒…全国ご当地グルメ、小浜に集結 10月24、25日に「食のまつり」 福井県",
+    "title": "OBAMA 食のまつり",
     "description": null,
     "genres": [
       "sake"
@@ -7960,19 +7960,19 @@
     "startAt": "2026-10-23T00:00:00+09:00",
     "endAt": "2026-10-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "小浜市川崎 特設会場",
+      "address": "福井県小浜市川崎３丁目４−４",
       "prefecture": "福井県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.501396,
+      "longitude": 135.737686
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://obama-shokunomatsuri.jp/",
     "ticketUrl": null,
     "imageUrl": "https://fki.ismcdn.jp/mwimgs/7/c/-/img_7c4c469316f6ccf3626daec1cce1495a92557.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-98ff8cbe8c11"
@@ -7981,13 +7981,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-22T20:29:56.335Z",
-    "updatedAt": "2026-10-22T20:29:56.335Z",
+    "updatedAt": "2026-10-23T09:07:26.923Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-282b50f43476",
@@ -8029,16 +8029,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-22T20:29:56.335Z",
-    "updatedAt": "2026-10-22T20:29:56.335Z",
+    "updatedAt": "2026-10-23T09:00:19.977Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-514e3b59566b",
     "slug": "e-514e3b59566b",
-    "title": "「ホヤぼーや」が東京・有楽町にやってくる! 気仙沼サンマやホヤ、地酒を楽しむハロウィンイベント開催",
-    "description": null,
+    "title": "ホヤぼーやとハロウィンパーティ in 宝",
+    "description": "「ホヤぼーや」が東京・有楽町にやってくる! 気仙沼サンマやホヤ、地酒を楽しむハロウィンイベント開催",
     "genres": [
       "sake"
     ],
@@ -8048,12 +8048,12 @@
     "startAt": "2026-10-31T00:00:00+09:00",
     "endAt": "2026-10-31T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "酒蔵レストラン宝（東京国際フォーラム）",
+      "address": "東京都千代田区丸の内３丁目５−１",
       "prefecture": "東京都",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.676849,
+      "longitude": 139.76387
     },
     "organizer": null,
     "officialUrl": null,
@@ -8069,12 +8069,12 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-22T20:29:56.335Z",
-    "updatedAt": "2026-10-22T20:29:56.335Z",
+    "updatedAt": "2026-10-23T09:01:51.891Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   }
 ]
