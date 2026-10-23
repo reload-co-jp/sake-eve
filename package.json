@@ -26,7 +26,7 @@
   "license": "ISC",
   "packageManager": "pnpm@12.11.2",
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.133.0",
+    "@anthropic-ai/sdk": "^0.135.0",
     "maplibre-gl": "^5.24.0",
     "next": "^16.4.0",
     "react": "^19.3.0",
