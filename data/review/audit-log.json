@@ -3573,5 +3573,45 @@
       "publication"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-24T19:20:12.226Z",
+    "collection": "events",
+    "id": "evt-360f14c0f28c",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-24T19:20:12.226Z",
+    "collection": "events",
+    "id": "evt-d44df2e35517",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-24T19:20:12.226Z",
+    "collection": "events",
+    "id": "evt-756ddea21058",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-24T19:20:12.226Z",
+    "collection": "events",
+    "id": "evt-5108a6031c4a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

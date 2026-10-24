@@ -8201,10 +8201,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-463ae5a257a4",
@@ -8334,10 +8334,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-e66dca6dbb16",
@@ -8470,5 +8470,264 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-c8af476528b4",
+    "slug": "e-c8af476528b4",
+    "title": "津南醸造、「地方銀行フードセレクション2026」で純米大吟醸「郷（GO）GRANDCLASS 魚沼コシヒカリEdition」を紹介　株式会社Food-Xの出展ブースで食品バイヤーへ",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-11-10T00:00:00+09:00",
+    "endAt": "2026-11-10T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.food-selection.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54865/190/54865-190-04698b797ac319212f3bd63ee11c3668-1024x724.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c8af476528b4"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-28da4cdf72c3",
+    "slug": "e-28da4cdf72c3",
+    "title": "津久見市で30日に「おとなハロウィン」開催 居酒屋やスナックなど26店舗参加",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar",
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.oita-press.co.jp/-/media/Images/oita-press/2026/10/26/JDC2026102202479_01_42189.ashx",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-28da4cdf72c3"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-8359d6fbca69",
+    "slug": "e-8359d6fbca69",
+    "title": "「日本酒を愛してやまない」ABCテレビの女性アナウンサー3人がプロデュース! “日本酒を楽しむ\"イベントが大阪市福島区で開催中 30日まで",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.asahi.co.jp/webnews/pages/img/data_file/20261024/63236/0/01a16e31-744b-763c-b3ec-0ddbcca421a4.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8359d6fbca69"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-756ddea21058",
+    "slug": "e-756ddea21058",
+    "title": "県産本格焼酎出荷量日本一で飲み比べイベント 宮崎",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-22T00:00:00+09:00",
+    "endAt": "2026-10-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64909/20261024de64909_E0000107389_1_l.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-756ddea21058"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-b34f19fe7035",
+    "slug": "e-b34f19fe7035",
+    "title": "大津市で「ウナギと地酒」両方を堪能できるグルメイベント 10店がブース、10月25日まで",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-25T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://kyoto-np.ismcdn.jp/mwimgs/1/1/1200wm/img_111846688abf334089d27ba18051775f414275.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b34f19fe7035"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-5108a6031c4a",
+    "slug": "e-5108a6031c4a",
+    "title": "認知症、酒席で語ろう 仙台で交流イベント「クロスオレンジバー」 県主催80人参加",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-20T00:00:00+09:00",
+    "endAt": "2026-10-20T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "宮城県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://kahoku.news/images/2026/10/23/JY6YJP0BJMKHN/001_size7.jpg?timestamp=20261025041848",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5108a6031c4a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
   }
 ]
