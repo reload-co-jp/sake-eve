@@ -6567,5 +6567,198 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-912eb2f38e7b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000120299.html",
+    "title": "関西最大級のカクテルイベント「OSAKA COCKTAIL PARTY 2026」をグラングリーン大阪で11/15（日）に開催！世界レベルのカクテルを気軽に飲み比べ",
+    "publisher": "株式会社千雅",
+    "publishedAt": "2026-10-22T10:26:03+09:00",
+    "fetchedAt": "2026-10-25T19:31:49.325Z",
+    "contentHash": "6a08761b641fd50568f3381bba055f31d4698e8c63009f289beb2a34c7ee83f7",
+    "relatedEventIds": [
+      "evt-912eb2f38e7b"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "dateSource": "label",
+      "venueName": "GRAND GREEN OSAKA ロートハートスクエアうめきた(大阪市・梅田)※雨天決行",
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "officialUrl": "https://osakacocktailparty.com/ocp2026/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8a0d2664e476",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000191.000054865.html",
+    "title": "津南醸造、Webメタバース「metatell」のコミュニティイベント「metatell night」で登壇。雪国の酒蔵の挑戦、メタバース「月面酒蔵」、純米大吟醸「郷（GO）GRANDCLASS」を紹介",
+    "publisher": "津南醸造株式会社",
+    "publishedAt": "2026-10-24T23:50:01+09:00",
+    "fetchedAt": "2026-10-25T19:31:49.325Z",
+    "contentHash": "f60e0ae5ccfdcb2fe89a8831153500366e40060aae24c81a7357dac0be89f57e",
+    "relatedEventIds": [
+      "evt-8a0d2664e476"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://tsunan-sake.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7524d0833ba6",
+    "sourceType": "news",
+    "url": "https://www.the-miyanichi.co.jp/today/topic/1200434.html",
+    "title": "宮崎ワイン首都圏でPR 都内で「ヌーヴォー」イベント",
+    "publisher": "宮崎日日新聞DIGITAL",
+    "publishedAt": "2026-10-25T08:00:00.000Z",
+    "fetchedAt": "2026-10-25T19:31:49.325Z",
+    "contentHash": "a6d8dd68f37bba7bd32183aabeba6d7a315cc123ddd986cf8109c402d4d7e0be",
+    "relatedEventIds": [
+      "evt-7524d0833ba6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ac587296514e",
+    "sourceType": "news",
+    "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261025-GYS1T00101/",
+    "title": "「鹿島はしご酒2026」日本酒飲み歩きイベント、11月7日に…蔵元とタッグ組み居酒屋などがおつまみ提供",
+    "publisher": "読売新聞",
+    "publishedAt": "2026-10-25T06:30:00.000Z",
+    "fetchedAt": "2026-10-25T19:31:49.325Z",
+    "contentHash": "bd37c2b6943204a50d94c1ebc6d3bc217d1d8785fc940a022352090a9e084693",
+    "relatedEventIds": [
+      "evt-ac587296514e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f470fbd666d5",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3036274?display=1",
+    "title": "「香住鶴」新酒の仕込み始まる 「秋の蔵祭」で地元の酒をPR 兵庫・香美町",
+    "publisher": "TBS NEWS DIG",
+    "publishedAt": "2026-10-25T01:39:24.000Z",
+    "fetchedAt": "2026-10-25T19:31:49.325Z",
+    "contentHash": "5628f15d4a857603c13c67c22f8dd6f0a2f125a716fd232069c9ba8b80aeff05",
+    "relatedEventIds": [
+      "evt-f470fbd666d5"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a880020cf066",
+    "sourceType": "news",
+    "url": "https://news.yahoo.co.jp/expert/articles/62c8079692db050ae121ea607ae016be8ef949ad",
+    "title": "今しか食べられない!九州のグルメイベントで提供された「よかばいラーメン」が、まさかの居酒屋に!",
+    "publisher": "Yahoo!ニュース",
+    "publishedAt": "2026-10-24T21:31:08.000Z",
+    "fetchedAt": "2026-10-25T19:31:49.325Z",
+    "contentHash": "9274665a4d586f750607a41c1b53fd3b5b3c1545df81c5f1295da8fbb8aa4eeb",
+    "relatedEventIds": [
+      "evt-a880020cf066"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

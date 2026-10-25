@@ -8682,10 +8682,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-24T19:20:12.226Z",
-    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-25T19:31:49.325Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-5108a6031c4a",
@@ -8729,5 +8729,264 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-912eb2f38e7b",
+    "slug": "e-912eb2f38e7b",
+    "title": "関西最大級のカクテルイベント「OSAKA COCKTAIL PARTY 2026」をグラングリーン大阪で11/15（日）に開催！世界レベルのカクテルを気軽に飲み比べ",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-15T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
+    "venue": {
+      "name": "GRAND GREEN OSAKA ロートハートスクエアうめきた(大阪市・梅田)※雨天決行",
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://osakacocktailparty.com/ocp2026/",
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-912eb2f38e7b.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-912eb2f38e7b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-8a0d2664e476",
+    "slug": "e-8a0d2664e476",
+    "title": "津南醸造、Webメタバース「metatell」のコミュニティイベント「metatell night」で登壇。雪国の酒蔵の挑戦、メタバース「月面酒蔵」、純米大吟醸「郷（GO）GRANDCLASS」を紹介",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-08T00:00:00+09:00",
+    "endAt": "2026-10-08T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://tsunan-sake.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54865/191/54865-191-e7d4675ec839cf1fd075a28c14972e56-3900x2405.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8a0d2664e476"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-7524d0833ba6",
+    "slug": "e-7524d0833ba6",
+    "title": "宮崎ワイン首都圏でPR 都内で「ヌーヴォー」イベント",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.the-miyanichi.co.jp/contents/wp-content/uploads/2026/10/6add743d576ae-CNTS2026102301693_121141.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7524d0833ba6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ac587296514e",
+    "slug": "e-ac587296514e",
+    "title": "「鹿島はしご酒2026」日本酒飲み歩きイベント、11月7日に…蔵元とタッグ組み居酒屋などがおつまみ提供",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yomiuri.co.jp/media/2026/10/20261025-GYS1I00104-1.jpg?type=ogpw",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ac587296514e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f470fbd666d5",
+    "slug": "e-f470fbd666d5",
+    "title": "「香住鶴」新酒の仕込み始まる 「秋の蔵祭」で地元の酒をPR 兵庫・香美町",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/2/f/1200w/img_2fd0292a6bb55f8d17b295b59cb23d8b392070.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f470fbd666d5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a880020cf066",
+    "slug": "e-a880020cf066",
+    "title": "今しか食べられない!九州のグルメイベントで提供された「よかばいラーメン」が、まさかの居酒屋に!",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/ramentaroshin/02748074/title-1792555560900.jpeg?exp=10800",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a880020cf066"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
