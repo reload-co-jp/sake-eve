@@ -8988,5 +8988,223 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-9d78492260ec",
+    "slug": "e-9d78492260ec",
+    "title": "株式会社クロスワン、FCチャンネルのFC「池袋」第5回交流会を開催　参加者同士が事業や店舗運営について情報交換",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-23T00:00:00+09:00",
+    "endAt": "2026-10-23T23:59:00+09:00",
+    "venue": {
+      "name": "居酒屋いくなら俺んち来る? ~宴会部~ 池袋店",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/162890/195/162890-195-6fc4205bc1af3791fa8c12c14cde082f-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9d78492260ec"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-eb63c3b213c6",
+    "slug": "e-eb63c3b213c6",
+    "title": "老舗酒造会社・千代菊で蔵開き 来場者新酒堪能 羽島",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting",
+      "brewery_open_day"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yomiuri.co.jp/media/2026/10/20261026-GYTNI00171-1.jpg?type=ogp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-eb63c3b213c6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-efe13b66cf4f",
+    "slug": "e-efe13b66cf4f",
+    "title": "「引退馬を救う地ビール」佐賀競馬場でお披露目…堆肥で育てたコメが副原料、佐賀バルーンフェスタでも販売",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yomiuri.co.jp/media/2026/10/20261026-GYS1I00121-1.jpg?type=ogp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-efe13b66cf4f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-4053e2b16c53",
+    "slug": "e-4053e2b16c53",
+    "title": "30日から3日間、30周年創業祭 那須高原ビール(那須町)",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-30T00:00:00+09:00",
+    "endAt": "2026-11-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/a/6/1200wm/img_a6df8b6050fb372bed8b4005833953d8132709.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4053e2b16c53"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-8c10551ca4da",
+    "slug": "e-8c10551ca4da",
+    "title": "飛騨の地酒をテイスティング 高山市で利き酒大会、銘柄当てに挑戦",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-21T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://gifu-np.ismcdn.jp/mwimgs/4/c/-/img_4c373ff75f00d58485688da2381e78c7463791.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8c10551ca4da"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]

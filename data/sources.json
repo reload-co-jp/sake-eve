@@ -6760,5 +6760,168 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-9d78492260ec",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000195.000162890.html",
+    "title": "株式会社クロスワン、FCチャンネルのFC「池袋」第5回交流会を開催　参加者同士が事業や店舗運営について情報交換",
+    "publisher": "株式会社クロスワン",
+    "publishedAt": "2026-10-26T11:00:02+09:00",
+    "fetchedAt": "2026-10-26T21:26:23.300Z",
+    "contentHash": "9839cf038f2afb0c186e0a66e968f5aac28e8856d674b312e755ead45601a9db",
+    "relatedEventIds": [
+      "evt-9d78492260ec"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "dateSource": "text",
+      "venueName": "居酒屋いくなら俺んち来る? ~宴会部~ 池袋店",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-eb63c3b213c6",
+    "sourceType": "news",
+    "url": "https://www.yomiuri.co.jp/local/gifu/news/20261026-GYTNT00170/",
+    "title": "老舗酒造会社・千代菊で蔵開き 来場者新酒堪能 羽島",
+    "publisher": "読売新聞",
+    "publishedAt": "2026-10-26T20:00:00.000Z",
+    "fetchedAt": "2026-10-26T21:26:23.300Z",
+    "contentHash": "8b6c811ae2ab474b22317540cbbd59e6ce44429eb81283fab681b623a9468680",
+    "relatedEventIds": [
+      "evt-eb63c3b213c6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting",
+        "brewery_open_day"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-efe13b66cf4f",
+    "sourceType": "news",
+    "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261026-GYS1T00120/",
+    "title": "「引退馬を救う地ビール」佐賀競馬場でお披露目…堆肥で育てたコメが副原料、佐賀バルーンフェスタでも販売",
+    "publisher": "読売新聞",
+    "publishedAt": "2026-10-26T05:33:00.000Z",
+    "fetchedAt": "2026-10-26T21:26:23.300Z",
+    "contentHash": "aa3c87d4fa8430e09ecfc67d7fc8615461a3d2ae3b62ff31a99e2c8bc1a4bcd4",
+    "relatedEventIds": [
+      "evt-efe13b66cf4f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4053e2b16c53",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1446093",
+    "title": "30日から3日間、30周年創業祭 那須高原ビール(那須町)",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-10-26T05:00:00.000Z",
+    "fetchedAt": "2026-10-26T21:26:23.300Z",
+    "contentHash": "d93f0117bb530a104716252b51acd7d25a94db02bef9378124d7c1abc8887786",
+    "relatedEventIds": [
+      "evt-4053e2b16c53"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8c10551ca4da",
+    "sourceType": "news",
+    "url": "https://www.gifu-np.co.jp/articles/-/789542",
+    "title": "飛騨の地酒をテイスティング 高山市で利き酒大会、銘柄当てに挑戦",
+    "publisher": "飛騨の地酒をテイスティング　高山市で利き酒大会、銘柄当てに挑戦 | 岐阜新聞デジタル",
+    "publishedAt": "2026-10-25T23:17:00.000Z",
+    "fetchedAt": "2026-10-26T21:26:23.300Z",
+    "contentHash": "ac1690ff6e2b7aff376caff3c261763ff6160f1bde3e1bac6847d2d92cd4e19c",
+    "relatedEventIds": [
+      "evt-8c10551ca4da"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

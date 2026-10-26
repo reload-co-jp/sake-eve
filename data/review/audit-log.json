@@ -3643,5 +3643,15 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-26T21:26:23.300Z",
+    "collection": "events",
+    "id": "evt-9d78492260ec",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]
