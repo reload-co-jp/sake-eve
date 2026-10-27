@@ -3653,5 +3653,45 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-10-27T21:12:04.400Z",
+    "collection": "events",
+    "id": "evt-dfd62d6d427e",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-10-27T21:12:04.400Z",
+    "collection": "events",
+    "id": "evt-ce055a696b68",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-10-27T21:12:04.400Z",
+    "collection": "events",
+    "id": "evt-cbe7bcf3b88b",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-10-27T21:12:04.400Z",
+    "collection": "events",
+    "id": "evt-73a04a082912",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

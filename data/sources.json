@@ -6923,5 +6923,264 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-dfd62d6d427e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000022.000026467.html",
+    "title": "11/5（木）ホーチミンで、ベトナム進出済み企業向けのビジネス×デザインセミナー「その経営課題、デザインと無関係だと思っていませんか？」を開催",
+    "publisher": "株式会社ニード",
+    "publishedAt": "2026-10-27T10:10:01+09:00",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "f7b13204b93fbe3f60140605e5f1b22eb07de26c65bb6443a221d5fb7a61dc9a",
+    "relatedEventIds": [
+      "evt-dfd62d6d427e"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "dateSource": "label",
+      "venueName": "kochi(コチ)/vina nide運営のカフェ&バー",
+      "address": "東京都中央区",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-73a04a082912",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000029.000144029.html",
+    "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に",
+    "publisher": "かもめエンジニアリング株式会社",
+    "publishedAt": "2026-10-27T10:10:01+09:00",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "8a9f3282e8497900621237e823c73450224bc585f5fae1db7e3aab8bdb123b00",
+    "relatedEventIds": [
+      "evt-73a04a082912"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ce055a696b68",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000078.000163340.html",
+    "title": "FOOD STYLE JAPAN 2026 ＜九州＞　食ビジネスの未来を切り拓くセミナーを開催",
+    "publisher": "株式会社イノベント",
+    "publishedAt": "2026-10-27T10:00:02+09:00",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "f8b215ae8e151d0d5552809ef30a0c41035aa40d38914cdb785d8a31d433d1bf",
+    "relatedEventIds": [
+      "evt-ce055a696b68"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "dateSource": "label",
+      "venueName": "マリンメッセ福岡 A館・B館",
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "officialUrl": "https://foodstyle.jp/kyushu/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-cbe7bcf3b88b",
+    "sourceType": "news",
+    "url": "https://thetv.jp/news/detail/1452183/",
+    "title": "居酒屋探訪家・太田和彦と神奈川・小田原の老舗で乾杯 「新・居酒屋百選」連動イベント第3弾が開催決定",
+    "publisher": "WEBザテレビジョン",
+    "publishedAt": "2026-10-27T03:34:50.000Z",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "1c7972ad4cd8766b3e9afda8994ad6c85128cc02f5e300615e6f5f0a2bc7a9e0",
+    "relatedEventIds": [
+      "evt-cbe7bcf3b88b"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "label",
+      "venueName": "だるま料理店(神奈川県小田原市本町2丁目1番30号)",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8beed58a9f37",
+    "sourceType": "news",
+    "url": "http://spice.eplus.jp/articles/349816",
+    "title": "<東京・山梨・沖縄>2026年11月のおすすめお酒イベント【一期一会の良い酔いを】",
+    "publisher": "SPICE",
+    "publishedAt": "2026-10-27T03:00:00.000Z",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "f6003826faa77123d0da6db58810815949954402c3b7956af627f3a8789b594b",
+    "relatedEventIds": [
+      "evt-8beed58a9f37"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3cfc40610729",
+    "sourceType": "news",
+    "url": "https://www.chugoku-np.co.jp/articles/-/913400",
+    "title": "呉の牡蠣小屋「オイスターランド」が常設に 20店舗参加の「酒めぐり」イベントも",
+    "publisher": "呉の牡蠣小屋「オイスターランド」が常設に　20店舗参加の「酒めぐり」イベントも | 中国新聞デジタル",
+    "publishedAt": "2026-10-27T01:35:55.000Z",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "c6c8a07449fc30caf7ab61cb6a243503339a98eb327b61c1994d80e9855a12e4",
+    "relatedEventIds": [
+      "evt-3cfc40610729"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c6081a9b7648",
+    "sourceType": "news",
+    "url": "https://www.minyu-net.com/news/detail/2026102709023956502",
+    "title": "「郡山の魅力」楽しんで! 郡山駅西口広場でイベント、観光や地酒…地元企業ブース",
+    "publisher": "福島民友新聞社",
+    "publishedAt": "2026-10-26T23:50:00.000Z",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "b10a64e74bba28ff684d1e408b9293f25222caaf0af1d0e11dc0f626027a65bd",
+    "relatedEventIds": [
+      "evt-c6081a9b7648"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ac4e8eafc4e6",
+    "sourceType": "news",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1104662",
+    "title": "熱々の芋煮と地酒堪能 津和野 郷土料理味わうイベントに1500人",
+    "publisher": "熱々の芋煮と地酒堪能　津和野　郷土料理味わうイベントに１５００人 | 山陰中央新報デジタル",
+    "publishedAt": "2026-10-26T19:00:00.000Z",
+    "fetchedAt": "2026-10-27T21:12:04.400Z",
+    "contentHash": "3b6ff12475471012f9a41c5e2cb3d7671001b89e4fa172de2d21d56f3c74ea99",
+    "relatedEventIds": [
+      "evt-ac4e8eafc4e6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

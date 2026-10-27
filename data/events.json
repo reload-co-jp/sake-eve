@@ -9206,5 +9206,352 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-dfd62d6d427e",
+    "slug": "e-dfd62d6d427e",
+    "title": "11/5（木）ホーチミンで、ベトナム進出済み企業向けのビジネス×デザインセミナー「その経営課題、デザインと無関係だと思っていませんか？」を開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-05T00:00:00+09:00",
+    "endAt": "2026-11-05T23:59:00+09:00",
+    "venue": {
+      "name": "kochi(コチ)/vina nide運営のカフェ&バー",
+      "address": "東京都中央区",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "latitude": 35.670601,
+      "longitude": 139.772003
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-dfd62d6d427e.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-dfd62d6d427e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-73a04a082912",
+    "slug": "e-73a04a082912",
+    "title": "国産SASE「KAMOME SASE」、経済産業省所管のセキュリティ専門機関IPAによる「SASEおよびSSE製品検証」の候補製品に",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-22T00:00:00+09:00",
+    "endAt": "2026-10-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/144029/29/144029-29-307ece7e0f27d06f4b9b0435077529da-1024x576.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-73a04a082912"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-ce055a696b68",
+    "slug": "e-ce055a696b68",
+    "title": "FOOD STYLE JAPAN 2026 ＜九州＞　食ビジネスの未来を切り拓くセミナーを開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-18T00:00:00+09:00",
+    "endAt": "2026-11-19T23:59:00+09:00",
+    "venue": {
+      "name": "マリンメッセ福岡 A館・B館",
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://foodstyle.jp/kyushu/",
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-ce055a696b68.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ce055a696b68"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-cbe7bcf3b88b",
+    "slug": "e-cbe7bcf3b88b",
+    "title": "居酒屋探訪家・太田和彦と神奈川・小田原の老舗で乾杯 「新・居酒屋百選」連動イベント第3弾が開催決定",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-22T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": "だるま料理店(神奈川県小田原市本町2丁目1番30号)",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-cbe7bcf3b88b.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-cbe7bcf3b88b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-8beed58a9f37",
+    "slug": "e-8beed58a9f37",
+    "title": "<東京・山梨・沖縄>2026年11月のおすすめお酒イベント【一期一会の良い酔いを】",
+    "description": null,
+    "genres": [
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8beed58a9f37"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3cfc40610729",
+    "slug": "e-3cfc40610729",
+    "title": "呉の牡蠣小屋「オイスターランド」が常設に 20店舗参加の「酒めぐり」イベントも",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://chugoku-np.ismcdn.jp/mwimgs/1/0/-/img_1077aabd3d1faef1ce28e3eef9c1d6d72968270.png",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3cfc40610729"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c6081a9b7648",
+    "slug": "e-c6081a9b7648",
+    "title": "「郡山の魅力」楽しんで! 郡山駅西口広場でイベント、観光や地酒…地元企業ブース",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.minyu-net.com/common/news/2026102709023956502_0.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c6081a9b7648"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ac4e8eafc4e6",
+    "slug": "e-ac4e8eafc4e6",
+    "title": "熱々の芋煮と地酒堪能 津和野 郷土料理味わうイベントに1500人",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://sanin-chuo.ismcdn.jp/mwimgs/2/3/1200m/img_23590833c0a88a2ab9822829f36833194799647.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ac4e8eafc4e6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
