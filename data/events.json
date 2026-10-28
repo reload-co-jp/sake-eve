@@ -8115,10 +8115,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-28T00:18:15.485Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-bae8b7ad0ae3",
@@ -8158,10 +8158,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-28T00:18:45.906Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-360f14c0f28c",
@@ -8984,10 +8984,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-25T19:31:49.325Z",
-    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-28T00:19:34.790Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-9d78492260ec",
@@ -9071,10 +9071,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-26T21:26:23.300Z",
-    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-28T00:19:58.785Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-efe13b66cf4f",
@@ -9114,10 +9114,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-26T21:26:23.300Z",
-    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-28T00:19:39.898Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-4053e2b16c53",
@@ -9549,9 +9549,9 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-27T21:12:04.400Z",
-    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-28T00:20:31.708Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   }
 ]
