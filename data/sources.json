@@ -7182,5 +7182,297 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-e779e7417d62",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000992.000006410.html",
+    "title": "【11/5（木）福岡開催】全国のWEBマーケターが集う交流会「第7回 裏ひよこの会」に『Discovery DSP』が協賛！参加者募集中！",
+    "publisher": "バイドゥ株式会社",
+    "publishedAt": "2026-10-28T12:02:54+09:00",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "a25edde963aafd1a500a4ffb0eb0d31b0fe2ad13b36801a5833766d9a8f2000b",
+    "relatedEventIds": [
+      "evt-e779e7417d62"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "officialUrl": "https://discovery.popin.cc/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0d7f39ce0e15",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000024.000185738.html",
+    "title": "11月25日金沢開催┃容器包装リサイクル法の義務、ご存じですか？「容器包装リサイクル制度説明会・個別相談会」",
+    "publisher": "金沢商工会議所",
+    "publishedAt": "2026-10-28T12:00:02+09:00",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "7f6e4fc76056d2aa84f620b416dbf65ac400ccbe791a46ba05b01123b5dc7c71",
+    "relatedEventIds": [
+      "evt-0d7f39ce0e15"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6017b636bf4c",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000226.000056349.html",
+    "title": "スパイラル、ホワイトハッカー登壇のエンジニア向けオンラインセミナーを11月5日（木）に開催「設計は人、開発はAI。エンジニアがAI時代にSPIRAL PLUSで見出す価値」",
+    "publisher": "スパイラル株式会社",
+    "publishedAt": "2026-10-28T11:05:50+09:00",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "209970b77cde8faa1e7515dfbe88a6efb7a465cc79a69f040850de486a52ae29",
+    "relatedEventIds": [
+      "evt-6017b636bf4c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "dateSource": "text",
+      "venueName": null,
+      "address": "東京都港区赤坂2-9-11 オリックス赤坂2丁目ビル",
+      "prefecture": "東京都",
+      "city": "港区",
+      "officialUrl": "https://www.spiral-platform.co.jp/event/spiral-plus_20261105/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-939a75b6ee6e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000395.000015060.html",
+    "title": "TWOSTONE&SonsグループのTWOSTONE AIvita、11月18日開催の「BRAND STRATEGY 2026」に登壇",
+    "publisher": "株式会社TWOSTONE&Sons",
+    "publishedAt": "2026-10-28T11:00:02+09:00",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "e95c7f7a55caa28f41f78079e83b913cac89acf4f03cf5d1a1116037def7cc63",
+    "relatedEventIds": [
+      "evt-939a75b6ee6e"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "東京都渋谷区",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": "https://materialdigital.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7df3a4324881",
+    "sourceType": "news",
+    "url": "https://kawaguchi.keizai.biz/headline/313/",
+    "title": "川口・キュポラ広場でクラフトビールイベント 9ブルワリーのビールが一堂に",
+    "publisher": "川口経済新聞",
+    "publishedAt": "2026-10-28T11:18:32.000Z",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "566d907447cac2e44e09e6a245b3e3e6db4f6a8fde8f497c44a90a75f294bcd4",
+    "relatedEventIds": [
+      "evt-7df3a4324881"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-20cd686eb185",
+    "sourceType": "news",
+    "url": "https://www.iwate-np.co.jp/article/2026/10/28/198109",
+    "title": "大船渡で29日、はしご酒イベント キャッセン周辺で 「この日しか食べられないつまみもある」",
+    "publisher": "岩手日報",
+    "publishedAt": "2026-10-28T02:55:00.000Z",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "00e6f452ae5056dd2520f35cd49b3632a3a376e01f1b35f568d88f40ecfd346e",
+    "relatedEventIds": [
+      "evt-20cd686eb185"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f73edfd6a535",
+    "sourceType": "news",
+    "url": "https://www.yomiuri.co.jp/local/kyushu/news/20261028-GYS1T00080/",
+    "title": "公務で参加したイベント会場で飲酒、町に写真がメールで送られてきて発覚…課長ら3人を懲戒処分",
+    "publisher": "読売新聞",
+    "publishedAt": "2026-10-28T02:47:00.000Z",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "dbe2697b5fda4aaecedfd7303b34f20757408fcbd082b77f69987a2fda97d615",
+    "relatedEventIds": [
+      "evt-f73edfd6a535"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6dba36ac8291",
+    "sourceType": "news",
+    "url": "https://www.saga-s.co.jp/articles/-/1818743",
+    "title": "吉野ヶ里町、公務の県外イベントで飲酒の課長ら4人を減給などの懲戒処分",
+    "publisher": "佐賀新聞",
+    "publishedAt": "2026-10-27T22:15:00.000Z",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "833631a90fcd0865beed1b19350d7727951add8eca8b08d84cd29369cce84c5b",
+    "relatedEventIds": [
+      "evt-6dba36ac8291"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-de5d7f19612f",
+    "sourceType": "news",
+    "url": "https://nakano.keizai.biz/headline/3435/",
+    "title": "境内で音楽×酒×食を楽しむ秋フェス「宮ソニック」、鷺宮八幡神社で開催へ",
+    "publisher": "中野経済新聞",
+    "publishedAt": "2026-10-27T21:36:08.000Z",
+    "fetchedAt": "2026-10-28T21:34:49.174Z",
+    "contentHash": "462d89420283a99466686557f2a843f4c1cb7390be6f51d36c58e02b2105c896",
+    "relatedEventIds": [
+      "evt-de5d7f19612f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

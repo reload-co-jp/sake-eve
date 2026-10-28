@@ -9553,5 +9553,396 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-e779e7417d62",
+    "slug": "e-e779e7417d62",
+    "title": "【11/5（木）福岡開催】全国のWEBマーケターが集う交流会「第7回 裏ひよこの会」に『Discovery DSP』が協賛！参加者募集中！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-05T00:00:00+09:00",
+    "endAt": "2026-11-05T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://discovery.popin.cc/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/6410/992/6410-992-e48476a21b291fa84ac7be655c847b83-1671x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e779e7417d62"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0d7f39ce0e15",
+    "slug": "e-0d7f39ce0e15",
+    "title": "11月25日金沢開催┃容器包装リサイクル法の義務、ご存じですか？「容器包装リサイクル制度説明会・個別相談会」",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-25T00:00:00+09:00",
+    "endAt": "2026-11-25T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/185738/24/185738-24-1737b05add61d747d9dc9c8d216478dc-1040x640.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0d7f39ce0e15"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6017b636bf4c",
+    "slug": "e-6017b636bf4c",
+    "title": "スパイラル、ホワイトハッカー登壇のエンジニア向けオンラインセミナーを11月5日（木）に開催「設計は人、開発はAI。エンジニアがAI時代にSPIRAL PLUSで見出す価値」",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-05T00:00:00+09:00",
+    "endAt": "2026-11-05T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都港区赤坂2-9-11 オリックス赤坂2丁目ビル",
+      "prefecture": "東京都",
+      "city": "港区",
+      "latitude": 35.671112,
+      "longitude": 139.741013
+    },
+    "organizer": null,
+    "officialUrl": "https://www.spiral-platform.co.jp/event/spiral-plus_20261105/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/56349/226/56349-226-ee5f1050569fa5856e66d6d78cfffba2-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6017b636bf4c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-939a75b6ee6e",
+    "slug": "e-939a75b6ee6e",
+    "title": "TWOSTONE&SonsグループのTWOSTONE AIvita、11月18日開催の「BRAND STRATEGY 2026」に登壇",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-18T00:00:00+09:00",
+    "endAt": "2026-11-18T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都渋谷区",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "latitude": 35.66367,
+      "longitude": 139.697723
+    },
+    "organizer": null,
+    "officialUrl": "https://materialdigital.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/15060/395/15060-395-bd1e6b6083601154b3fe38b1c86a0280-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-939a75b6ee6e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-7df3a4324881",
+    "slug": "e-7df3a4324881",
+    "title": "川口・キュポラ広場でクラフトビールイベント 9ブルワリーのビールが一堂に",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "market"
+    ],
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-11-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/kawaguchi_keizai/headline/1793186907_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7df3a4324881"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-20cd686eb185",
+    "slug": "e-20cd686eb185",
+    "title": "大船渡で29日、はしご酒イベント キャッセン周辺で 「この日しか食べられないつまみもある」",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://cdn.iwate-np.co.jp/media-static/article/198109/thumbnail/sw4b0-tm6ae16840_29d6d2b40.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-20cd686eb185"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f73edfd6a535",
+    "slug": "e-f73edfd6a535",
+    "title": "公務で参加したイベント会場で飲酒、町に写真がメールで送られてきて発覚…課長ら3人を懲戒処分",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yomiuri.co.jp/media/2026/10/20261028-GYS1I00127-1.jpg?type=ogpw",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f73edfd6a535"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6dba36ac8291",
+    "slug": "e-6dba36ac8291",
+    "title": "吉野ヶ里町、公務の県外イベントで飲酒の課長ら4人を減給などの懲戒処分",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://saga.ismcdn.jp/mwimgs/9/5/1200m/img_95ceb997e97cd00fd9e12300bb8e3a6e84116.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6dba36ac8291"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-de5d7f19612f",
+    "slug": "e-de5d7f19612f",
+    "title": "境内で音楽×酒×食を楽しむ秋フェス「宮ソニック」、鷺宮八幡神社で開催へ",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "market"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/nakano_keizai/headline/1793136864_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-de5d7f19612f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
