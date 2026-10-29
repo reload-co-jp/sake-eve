@@ -8209,8 +8209,8 @@
   {
     "id": "evt-463ae5a257a4",
     "slug": "e-463ae5a257a4",
-    "title": "船場で日本酒飲み歩きイベント 全国30の酒蔵が集結、ペアリング料理提供",
-    "description": null,
+    "title": "大阪「おいしいSAKEウォーク」",
+    "description": "日本酒の飲み歩きイベント「おいしいSAKEウォーク」が10月31日、肥後橋・淀屋橋・本町エリアで開催される。\n船場で日本酒飲み歩きイベント 全国30の酒蔵が集結、ペアリング料理提供",
     "genres": [
       "sake"
     ],
@@ -8222,19 +8222,19 @@
     "startAt": "2026-10-31T00:00:00+09:00",
     "endAt": "2026-10-31T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "肥後橋・淀屋橋・本町エリア",
+      "address": "大阪府大阪市西区江戸堀１丁目９−１",
       "prefecture": null,
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.689259,
+      "longitude": 135.496536
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/semba_keizai/headline/1792739823_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "4,000円",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-463ae5a257a4"
@@ -8243,13 +8243,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T00:46:00+09:00",
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-29T15:48:19.814Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-fafca1f97056",
@@ -8289,10 +8289,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-29T15:48:36.846Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d44df2e35517",
@@ -8342,7 +8342,7 @@
   {
     "id": "evt-e66dca6dbb16",
     "slug": "e-e66dca6dbb16",
-    "title": "世界の蒸留酒が横浜に集結、試飲フェスを2027年4月開催",
+    "title": "ウイスキー＆スピリッツフェスティバル2027 in 横浜",
     "description": null,
     "genres": [
       "whisky",
@@ -8353,22 +8353,22 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2027-04-10T00:00:00+09:00",
+    "endAt": "2027-04-11T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "パシフィコ横浜",
+      "address": "神奈川県横浜市西区みなとみらい１丁目１−１",
       "prefecture": "神奈川県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.459438,
+      "longitude": 139.636246
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://whiskyfestival.jp/yokohama2027/",
     "ticketUrl": null,
     "imageUrl": null,
-    "price": null,
-    "isFree": null,
+    "price": "5,000円",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-e66dca6dbb16"
@@ -8377,19 +8377,19 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T00:49:00+09:00",
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-29T15:50:15.171Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-d234e8a5b18a",
     "slug": "e-d234e8a5b18a",
-    "title": "お台場で「世界のお酒フェス」開催--世界の定番酒から珍しいお酒、お酒にぴったりな絶品グルメまで大集合",
-    "description": null,
+    "title": "お台場「世界のお酒フェス」",
+    "description": "世界の定番酒から珍しいお酒、お酒にぴったりな絶品グルメまで大集合",
     "genres": [
       "wine"
     ],
@@ -8399,19 +8399,19 @@
     "startAt": "2026-11-20T00:00:00+09:00",
     "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "お台場セントラル広場",
+      "address": "東京都江東区青海1丁目1",
       "prefecture": null,
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.62326,
+      "longitude": 139.773773
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://worlddrinks-fest.jp/",
     "ticketUrl": null,
     "imageUrl": "https://news.mynavi.jp/article/20261023-5163696/ogp_images/ogp.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "2,000円〜",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-d234e8a5b18a"
@@ -8420,18 +8420,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:16:00+09:00",
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-29T16:16:19.725Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-0d305470b1d1",
     "slug": "e-0d305470b1d1",
-    "title": "広島市中区のタカノ橋商店街で「はしご酒祭」 11月11、12日 寿司や鉄板焼き21店飲み歩き",
+    "title": "タカノ橋商店街「はしご酒祭」",
     "description": null,
     "genres": [
       "other"
@@ -8439,22 +8439,22 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-11T00:00:00+09:00",
+    "endAt": "2026-11-12T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "タカノ橋商店街",
+      "address": "広島市中区大手町5丁目タカノ橋商店街・千田通り商店街周辺",
       "prefecture": "広島県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.382099,
+      "longitude": 132.451996
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://www.facebook.com/profile.php?id=100046520094761",
     "ticketUrl": null,
     "imageUrl": "https://chugoku-np.ismcdn.jp/mwimgs/6/8/-/img_687f5ad7b83951dc5b0f5463f49c1885228685.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-0d305470b1d1"
@@ -8463,13 +8463,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:17:00+09:00",
     "createdAt": "2026-10-23T20:16:39.758Z",
-    "updatedAt": "2026-10-23T20:16:39.758Z",
+    "updatedAt": "2026-10-29T16:18:00.569Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-c8af476528b4",
@@ -8509,15 +8509,15 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-24T19:20:12.226Z",
-    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-29T16:19:09.717Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-28da4cdf72c3",
     "slug": "e-28da4cdf72c3",
-    "title": "津久見市で30日に「おとなハロウィン」開催 居酒屋やスナックなど26店舗参加",
+    "title": "おとなハロウィンＩＮ　ＴＳＵＫＵＭＩ",
     "description": null,
     "genres": [
       "other"
@@ -8526,22 +8526,22 @@
       "seminar",
       "tour"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-30T00:00:00+09:00",
+    "endAt": "2026-10-30T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "大分県津久見市",
+      "address": "大分県津久見市",
+      "prefecture": "大分県",
+      "city": "津久見市",
+      "latitude": 33.072342,
+      "longitude": 131.861191
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://www.instagram.com/otonahalloweenintsukumi/",
     "ticketUrl": null,
     "imageUrl": "https://www.oita-press.co.jp/-/media/Images/oita-press/2026/10/26/JDC2026102202479_01_42189.ashx",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-28da4cdf72c3"
@@ -8550,18 +8550,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:22:00+09:00",
     "createdAt": "2026-10-24T19:20:12.226Z",
-    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-29T16:22:26.024Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-8359d6fbca69",
     "slug": "e-8359d6fbca69",
-    "title": "「日本酒を愛してやまない」ABCテレビの女性アナウンサー3人がプロデュース! “日本酒を楽しむ\"イベントが大阪市福島区で開催中 30日まで",
+    "title": "ぽんふぇすｂｙアナウン酒部",
     "description": null,
     "genres": [
       "sake"
@@ -8569,15 +8569,15 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-24T00:00:00+09:00",
+    "endAt": "2026-10-30T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "Art Beat Cafe NAKANOSHIMA",
+      "address": "大阪市福島区福島1-1-20",
       "prefecture": "大阪府",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 34.693485,
+      "longitude": 135.488922
     },
     "organizer": null,
     "officialUrl": null,
@@ -8593,13 +8593,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:24:00+09:00",
     "createdAt": "2026-10-24T19:20:12.226Z",
-    "updatedAt": "2026-10-24T19:20:12.226Z",
+    "updatedAt": "2026-10-29T16:24:30.977Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-756ddea21058",
@@ -8854,16 +8854,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-25T19:31:49.325Z",
-    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-29T16:24:41.717Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ac587296514e",
     "slug": "e-ac587296514e",
-    "title": "「鹿島はしご酒2026」日本酒飲み歩きイベント、11月7日に…蔵元とタッグ組み居酒屋などがおつまみ提供",
-    "description": null,
+    "title": "鹿島はしご酒2026",
+    "description": "日本酒飲み歩きイベント、蔵元とタッグ組み居酒屋などがおつまみ提供",
     "genres": [
       "sake"
     ],
@@ -8873,15 +8873,15 @@
     "startAt": "2026-11-07T00:00:00+09:00",
     "endAt": "2026-11-07T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "佐賀県鹿島市中心市街地の参加飲食店",
+      "address": "佐賀県鹿島市中心市街地",
+      "prefecture": "佐賀県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 33.117092,
+      "longitude": 130.087906
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://saga-kashima-kankou.com/event/3288",
     "ticketUrl": null,
     "imageUrl": "https://www.yomiuri.co.jp/media/2026/10/20261025-GYS1I00104-1.jpg?type=ogpw",
     "price": null,
@@ -8894,13 +8894,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:26:00+09:00",
     "createdAt": "2026-10-25T19:31:49.325Z",
-    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-29T16:26:42.783Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-f470fbd666d5",
@@ -8941,10 +8941,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-25T19:31:49.325Z",
-    "updatedAt": "2026-10-25T19:31:49.325Z",
+    "updatedAt": "2026-10-29T16:27:24.953Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-a880020cf066",
@@ -9122,7 +9122,7 @@
   {
     "id": "evt-4053e2b16c53",
     "slug": "e-4053e2b16c53",
-    "title": "30日から3日間、30周年創業祭 那須高原ビール(那須町)",
+    "title": "那須高原ビール 30周年記念創業祭",
     "description": null,
     "genres": [
       "beer"
@@ -9133,15 +9133,15 @@
     "startAt": "2026-10-30T00:00:00+09:00",
     "endAt": "2026-11-01T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "地ビールレストラン＆ショップ 愛の森",
+      "address": "栃木県那須郡那須町大字高久甲3986",
+      "prefecture": "栃木県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 37.005833,
+      "longitude": 140.030319
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://www.instagram.com/p/Desz0UTstbj/",
     "ticketUrl": null,
     "imageUrl": "https://soon.ismcdn.jp/mwimgs/a/6/1200wm/img_a6df8b6050fb372bed8b4005833953d8132709.jpg",
     "price": null,
@@ -9154,13 +9154,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:29:00+09:00",
     "createdAt": "2026-10-26T21:26:23.300Z",
-    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-29T16:30:23.024Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-8c10551ca4da",
@@ -9202,10 +9202,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-26T21:26:23.300Z",
-    "updatedAt": "2026-10-26T21:26:23.300Z",
+    "updatedAt": "2026-10-29T16:31:02.821Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-dfd62d6d427e",
@@ -9416,13 +9416,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-27T21:12:04.400Z",
-    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-29T16:32:35.877Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-3cfc40610729",
@@ -9462,10 +9462,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-27T21:12:04.400Z",
-    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-29T16:32:52.935Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c6081a9b7648",
@@ -9478,10 +9478,10 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-24T00:00:00+09:00",
+    "endAt": "2026-10-24T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "郡山駅西口広場",
       "address": null,
       "prefecture": null,
       "city": null,
@@ -9502,13 +9502,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-27T21:12:04.400Z",
-    "updatedAt": "2026-10-27T21:12:04.400Z",
+    "updatedAt": "2026-10-29T16:33:34.975Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-ac4e8eafc4e6",
@@ -9592,10 +9592,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:33:58.348Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0d7f39ce0e15",
@@ -9635,10 +9635,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:34:01.411Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6017b636bf4c",
@@ -9678,10 +9678,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:34:03.994Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-939a75b6ee6e",
@@ -9721,16 +9721,16 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:34:06.959Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-7df3a4324881",
     "slug": "e-7df3a4324881",
-    "title": "川口・キュポラ広場でクラフトビールイベント 9ブルワリーのビールが一堂に",
-    "description": null,
+    "title": "川口BEER!BEER!BEER!",
+    "description": "キュポラ広場でクラフトビールイベント 9ブルワリーのビールが一堂に",
     "genres": [
       "beer"
     ],
@@ -9742,19 +9742,19 @@
     "startAt": "2026-10-31T00:00:00+09:00",
     "endAt": "2026-11-01T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "キュポラ広場",
+      "address": "埼玉県川口市川口１丁目１−１",
       "prefecture": null,
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.801834,
+      "longitude": 139.718155
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://1110beer.jp/",
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/kawaguchi_keizai/headline/1793186907_photo.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-7df3a4324881"
@@ -9763,18 +9763,18 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:35:00+09:00",
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:35:28.976Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-20cd686eb185",
     "slug": "e-20cd686eb185",
-    "title": "大船渡で29日、はしご酒イベント キャッセン周辺で 「この日しか食べられないつまみもある」",
+    "title": "「大船渡魚はしご酒～三陸魚バル 今夜は回遊ギョ！～",
     "description": null,
     "genres": [
       "other"
@@ -9782,15 +9782,15 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-10-29T00:00:00+09:00",
+    "endAt": "2026-10-29T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "キャッセン大船渡内",
+      "address": "岩手県大船渡市大船渡町野々田12−３３",
+      "prefecture": "岩手県",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 39.060856,
+      "longitude": 141.72168
     },
     "organizer": null,
     "officialUrl": null,
@@ -9806,13 +9806,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "unknown",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:37:00+09:00",
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:37:14.092Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-f73edfd6a535",
@@ -9852,10 +9852,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:34:12.873Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6dba36ac8291",
@@ -9895,15 +9895,15 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:34:14.296Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-de5d7f19612f",
     "slug": "e-de5d7f19612f",
-    "title": "境内で音楽×酒×食を楽しむ秋フェス「宮ソニック」、鷺宮八幡神社で開催へ",
+    "title": "「宮ソニック」",
     "description": null,
     "genres": [
       "sake"
@@ -9916,19 +9916,19 @@
     "startAt": "2026-11-07T00:00:00+09:00",
     "endAt": "2026-11-07T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
+      "name": "鷺宮八幡神社 境内および神楽殿広場",
+      "address": "東京都中野区白鷺1-31-10",
+      "prefecture": "東京都",
       "city": null,
-      "latitude": null,
-      "longitude": null
+      "latitude": 35.721214,
+      "longitude": 139.637955
     },
     "organizer": null,
-    "officialUrl": null,
+    "officialUrl": "https://miyasonic.com/",
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/nakano_keizai/headline/1793136864_photo.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-de5d7f19612f"
@@ -9937,12 +9937,12 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
+    "verificationStatus": "verified",
+    "lastVerifiedAt": "2026-10-30T01:38:00+09:00",
     "createdAt": "2026-10-28T21:34:49.174Z",
-    "updatedAt": "2026-10-28T21:34:49.174Z",
+    "updatedAt": "2026-10-29T16:38:34.975Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   }
 ]

@@ -3753,5 +3753,487 @@
       "publication"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-29T15:48:11.315Z",
+    "collection": "events",
+    "id": "evt-463ae5a257a4",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T15:48:18.112Z",
+    "collection": "events",
+    "id": "evt-463ae5a257a4",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T15:48:19.814Z",
+    "collection": "events",
+    "id": "evt-463ae5a257a4",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T15:48:36.846Z",
+    "collection": "events",
+    "id": "evt-fafca1f97056",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T15:50:13.772Z",
+    "collection": "events",
+    "id": "evt-e66dca6dbb16",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "officialUrl",
+      "price",
+      "isFree",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T15:50:15.171Z",
+    "collection": "events",
+    "id": "evt-e66dca6dbb16",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:16:18.796Z",
+    "collection": "events",
+    "id": "evt-d234e8a5b18a",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "officialUrl",
+      "price",
+      "isFree",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:16:19.725Z",
+    "collection": "events",
+    "id": "evt-d234e8a5b18a",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:17:57.204Z",
+    "collection": "events",
+    "id": "evt-0d305470b1d1",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "officialUrl",
+      "isFree",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:18:00.569Z",
+    "collection": "events",
+    "id": "evt-0d305470b1d1",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:19:09.717Z",
+    "collection": "events",
+    "id": "evt-c8af476528b4",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:22:24.523Z",
+    "collection": "events",
+    "id": "evt-28da4cdf72c3",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "officialUrl",
+      "isFree",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:22:26.024Z",
+    "collection": "events",
+    "id": "evt-28da4cdf72c3",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:24:28.343Z",
+    "collection": "events",
+    "id": "evt-8359d6fbca69",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:24:29.396Z",
+    "collection": "events",
+    "id": "evt-8359d6fbca69",
+    "action": "update",
+    "changedFields": [
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:24:30.977Z",
+    "collection": "events",
+    "id": "evt-8359d6fbca69",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:24:41.717Z",
+    "collection": "events",
+    "id": "evt-7524d0833ba6",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:26:40.375Z",
+    "collection": "events",
+    "id": "evt-ac587296514e",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "officialUrl",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:26:42.783Z",
+    "collection": "events",
+    "id": "evt-ac587296514e",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:27:24.953Z",
+    "collection": "events",
+    "id": "evt-f470fbd666d5",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:30:19.988Z",
+    "collection": "events",
+    "id": "evt-4053e2b16c53",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "venue",
+      "officialUrl",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:30:23.024Z",
+    "collection": "events",
+    "id": "evt-4053e2b16c53",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:31:02.821Z",
+    "collection": "events",
+    "id": "evt-8c10551ca4da",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:32:30.015Z",
+    "collection": "events",
+    "id": "evt-8beed58a9f37",
+    "action": "update",
+    "changedFields": [
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:32:35.877Z",
+    "collection": "events",
+    "id": "evt-8beed58a9f37",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:32:52.935Z",
+    "collection": "events",
+    "id": "evt-3cfc40610729",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:33:32.650Z",
+    "collection": "events",
+    "id": "evt-c6081a9b7648",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "verificationStatus",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:33:34.975Z",
+    "collection": "events",
+    "id": "evt-c6081a9b7648",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:33:58.348Z",
+    "collection": "events",
+    "id": "evt-e779e7417d62",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:34:01.411Z",
+    "collection": "events",
+    "id": "evt-0d7f39ce0e15",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:34:03.994Z",
+    "collection": "events",
+    "id": "evt-6017b636bf4c",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:34:06.959Z",
+    "collection": "events",
+    "id": "evt-939a75b6ee6e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:34:12.873Z",
+    "collection": "events",
+    "id": "evt-f73edfd6a535",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:34:14.296Z",
+    "collection": "events",
+    "id": "evt-6dba36ac8291",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:35:27.792Z",
+    "collection": "events",
+    "id": "evt-7df3a4324881",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "officialUrl",
+      "isFree",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:35:28.976Z",
+    "collection": "events",
+    "id": "evt-7df3a4324881",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:37:12.989Z",
+    "collection": "events",
+    "id": "evt-20cd686eb185",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "startAt",
+      "endAt",
+      "venue",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:37:14.092Z",
+    "collection": "events",
+    "id": "evt-20cd686eb185",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:38:34.174Z",
+    "collection": "events",
+    "id": "evt-de5d7f19612f",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "venue",
+      "officialUrl",
+      "isFree",
+      "verificationStatus",
+      "lastVerifiedAt",
+      "updatedAt"
+    ],
+    "note": null
+  },
+  {
+    "at": "2026-10-29T16:38:34.975Z",
+    "collection": "events",
+    "id": "evt-de5d7f19612f",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": null
   }
 ]
