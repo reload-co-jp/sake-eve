@@ -4235,5 +4235,25 @@
       "publication"
     ],
     "note": null
+  },
+  {
+    "at": "2026-10-29T21:36:44.059Z",
+    "collection": "events",
+    "id": "evt-cf1710dafc52",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-10-29T21:36:44.059Z",
+    "collection": "events",
+    "id": "evt-10faab5498db",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

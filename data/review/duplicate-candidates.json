@@ -80,5 +80,16 @@
       "similar_title"
     ],
     "detectedAt": "2026-10-17T19:06:14.297Z"
+  },
+  {
+    "eventId": "evt-31b8fa9d74a1",
+    "candidateEventId": "evt-a1ce237d7d5c",
+    "score": 0.65,
+    "reasons": [
+      "similar_title",
+      "same_start_date",
+      "same_prefecture"
+    ],
+    "detectedAt": "2026-10-29T21:36:44.059Z"
   }
 ]

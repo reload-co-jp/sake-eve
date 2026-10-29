@@ -1084,5 +1084,50 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-10-29T21:32:10.794Z",
+    "finishedAt": "2026-10-29T21:36:44.116Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://www.rbbtoday.com/article/2026/10/29/255180.html: アクセス制限 (HTTP 403) のため中止: https://www.rbbtoday.com/article/2026/10/29/255180.html / 詳細取得失敗 https://tetsudo-ch.com/13042787.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13042787.html / 詳細取得失敗 https://shigahochi.co.jp//articles/A462148S079: アクセス制限 (HTTP 429) のため中止: https://shigahochi.co.jp//articles/A462148S079 / 詳細取得27件 / 失敗3件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 286,
+      "duplicateUrl": 5,
+      "added": 9,
+      "needsReview": 7,
+      "autoPublished": 1,
+      "duplicateCandidates": 1,
+      "autoHidden": 1,
+      "summarized": 0,
+      "geocoded": 0
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

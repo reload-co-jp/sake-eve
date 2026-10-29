@@ -7474,5 +7474,306 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-f705997f7ff3",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000130.000025861.html",
+    "title": "リレー式ラーメン企画「POPUPラーメン　三井アウトレットパーク 滋賀竜王店」　第12弾が11月1日からスタート！全国各地のイベントでも大行列を作る金沢の人気店「金澤味噌ラーメン神仙」が滋賀県初出店！",
+    "publisher": "株式会社ラーメンデータバンク",
+    "publishedAt": "2026-10-29T12:10:01+09:00",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "6f019e82345b26ce36117f1e56813a1ba1c0ccf91495e1ce2779e165511f8f46",
+    "relatedEventIds": [
+      "evt-f705997f7ff3"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-01",
+      "endDate": "2027-02-28",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": "滋賀県",
+      "city": null,
+      "officialUrl": "https://popupramen.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-cf1710dafc52",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005446.000029501.html",
+    "title": "2027年の初笑い！東京で“最高の寄席”をお届け！「東京グランド花月」2027年1月1日(金・祝)～3日(日) 品川・ステラボールにて開催決定！！",
+    "publisher": "吉本興業株式会社",
+    "publishedAt": "2026-10-29T12:00:02+09:00",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "4a377e602fa921a39b63050a6aec6b659fbd79006e8940f1324b6fe5d45e062f",
+    "relatedEventIds": [
+      "evt-cf1710dafc52"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-04",
+      "dateSource": "label",
+      "venueName": "品川・ ステラボール(〒108-8611 東京都港区高輪 4-10-30 品川プリンスホテル マクセルアクアパーク品川内",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7d8e68f30a78",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000072.000135819.html",
+    "title": "かまぼこの日キャンペーンを開催。1万円以上のお買い上げで新作「保冷トートバッグ（大）」をプレゼント！如倶楽部ポイント2倍や、かまぼこのふるまいも実施",
+    "publisher": "鈴廣かまぼこ株式会社",
+    "publishedAt": "2026-10-29T11:44:12+09:00",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "a67995e427ced225cbef5deaed003ef4c2a4bd58ae8246afc4302294f674ca0b",
+    "relatedEventIds": [
+      "evt-7d8e68f30a78"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-20",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-10faab5498db",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000022.000117622.html",
+    "title": "[イベントレポート] カナダ産食材を使ったプレミアムな食文化体験",
+    "publisher": "カナダ大使館 商務部",
+    "publishedAt": "2026-10-29T17:17:35+09:00",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "844fdecc83f42b597e4b7e94f99433e87a4f6851244ee7e32c859a3978882c63",
+    "relatedEventIds": [
+      "evt-10faab5498db"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar"
+      ],
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a1612dc36e06",
+    "sourceType": "news",
+    "url": "https://www.rbbtoday.com/article/2026/10/29/255180.html",
+    "title": "「第5回 福生蔵開き」11月7日開催 新酒や地元グルメ集結",
+    "publisher": "RBB TODAY",
+    "publishedAt": "2026-10-29T07:37:48.000Z",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "fc49ed1719f304ad49c5989c7014383ba89489df4cfc4d3075bb2c68b1174779",
+    "relatedEventIds": [
+      "evt-a1612dc36e06"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "brewery_open_day",
+        "tour"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9a76ff1b22fa",
+    "sourceType": "news",
+    "url": "https://magazinesummit.jp/travel_gourmet/261029041617",
+    "title": "奈良の銘酒「みむろ杉」と美食を楽しむ!JR東日本、竹芝・高輪・大井町の6店舗で限定ペアリングイベント開催",
+    "publisher": "マガジンサミット",
+    "publishedAt": "2026-10-29T07:17:53.000Z",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "1ad0413f44c951520c46dbb69d296f207a64d4fc9aeea7cdd4aaaa33acacb13c",
+    "relatedEventIds": [
+      "evt-9a76ff1b22fa"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-31b8fa9d74a1",
+    "sourceType": "news",
+    "url": "https://www.walkerplus.com/article/1450739/",
+    "title": "全国18ブルワリー・最大20種が集結!最優秀ホップの限定醸造も味わえる「クラフトビール ジャパンホップ フェスト2026 in SVB東京」",
+    "publisher": "ウォーカープラス（Walkerplus）",
+    "publishedAt": "2026-10-29T06:30:00.000Z",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "2c406701c19e31545c47119ec649265d0531c6e8ae7db760df85eb39ad4d959a",
+    "relatedEventIds": [
+      "evt-31b8fa9d74a1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "market"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "dateSource": "label",
+      "venueName": "スプリングバレーブルワリー東京(全館) 東京都渋谷区代官山町13-1 ログロード代官山内",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-a1ce237d7d5c"
+      ]
+    }
+  },
+  {
+    "id": "src-ab7481882ee2",
+    "sourceType": "news",
+    "url": "https://kawagoe.keizai.biz/headline/1629/",
+    "title": "川越で初の「ワールドワインフェスタ」 家族連れも楽しめる内容に",
+    "publisher": "川越経済新聞",
+    "publishedAt": "2026-10-29T01:44:56.000Z",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "5b6a1d96c3c3d1eb1651ed164b11820e920c22fb9ba1f2b2155b3ef1221f9926",
+    "relatedEventIds": [
+      "evt-ab7481882ee2"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8b793b3d50b2",
+    "sourceType": "news",
+    "url": "https://akasaka.keizai.biz/headline/4783/",
+    "title": "赤坂ではしご酒イベント「赤ベロ」 平日2日間、42店参加へ",
+    "publisher": "赤坂経済新聞",
+    "publishedAt": "2026-10-28T22:32:56.000Z",
+    "fetchedAt": "2026-10-29T21:36:44.059Z",
+    "contentHash": "9afa65ae8c5746fc9385ca0ae5e53ede6dc3eb328491466011dbfbe41c155469",
+    "relatedEventIds": [
+      "evt-8b793b3d50b2"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine",
+        "sake",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-11",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
