@@ -7775,5 +7775,200 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-1e6d02df0dea",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000009155.000016756.html",
+    "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』から、猫猫と壬氏の描き下ろしイラスト2種を使った商品が、12月11日（金）発売！　アニメイトでは、特典「イラストカード」がもらえるフェアを開催",
+    "publisher": "株式会社アニメイトホールディングス",
+    "publishedAt": "2026-10-30T12:03:42+09:00",
+    "fetchedAt": "2026-10-30T21:27:19.597Z",
+    "contentHash": "a49d8aa823c14fe102cce77de43f275ef4fccc30d430649ea8413f1d2143aac7",
+    "relatedEventIds": [
+      "evt-1e6d02df0dea"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-11",
+      "endDate": "2027-01-11",
+      "dateSource": "label",
+      "venueName": "全国アニメイト",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b7424ef2ccab",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000675.000041975.html",
+    "title": "【福岡県久留米市】「久留米市ふるさとみづま祭」今年も開催！",
+    "publisher": "筑後地区観光協議会",
+    "publishedAt": "2026-10-30T12:00:02+09:00",
+    "fetchedAt": "2026-10-30T21:27:19.597Z",
+    "contentHash": "53f1d65a3a57ba2c5ddd63d4ec41a4bb00fdb1f7fca616a348bbd142904d1d08",
+    "relatedEventIds": [
+      "evt-b7424ef2ccab"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c986a48b100b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000193240.html",
+    "title": "富山県内の親子約30名が参加！鮎に「触れて、描いて、味わう」体験型食育イベントを開催",
+    "publisher": "株式会社AYU BLUE",
+    "publishedAt": "2026-10-30T09:10:02+09:00",
+    "fetchedAt": "2026-10-30T21:27:19.597Z",
+    "contentHash": "963828bd8be1ab97698c30c4befbe00613d55350cd8b9639201212807024679f",
+    "relatedEventIds": [
+      "evt-c986a48b100b"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-25",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "富山県砺波市)は",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "officialUrl": "https://uoyasu-toyama.com/course/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-66ceadd5f551",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000220.000080364.html",
+    "title": "【追加情報解禁】総勢50人以上のフリマ出店や無料ワークショップも！　「WWDJAPAN」主催フリマイベントを11月14日（土）に開催",
+    "publisher": "株式会社INFASパブリケーションズ",
+    "publishedAt": "2026-10-30T17:10:01+09:00",
+    "fetchedAt": "2026-10-30T21:27:19.597Z",
+    "contentHash": "15c14cd8b2b51729b06938ec18d28288c10695966aebdb8e62f50b9289a54d39",
+    "relatedEventIds": [
+      "evt-66ceadd5f551"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "whisky",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "dateSource": "label",
+      "venueName": "渋谷近辺 (当選した方には個別でお知らせいたします)",
+      "address": "東京都港区北青山3-5-6 青朋ビル",
+      "prefecture": "東京都",
+      "city": "港区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-94f4fe983b41",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001645.000042435.html",
+    "title": "「サントリー登美の丘ワイナリー」グループ生産研究拠点初となる「自然共生サイト」に認定",
+    "publisher": "サントリーホールディングス株式会社",
+    "publishedAt": "2026-10-30T17:06:17+09:00",
+    "fetchedAt": "2026-10-30T21:27:19.597Z",
+    "contentHash": "e525687d10405a1d8a5a91143d88e521406d80ac1627b18e24fc2cf82a8dce0d",
+    "relatedEventIds": [
+      "evt-94f4fe983b41"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-449e93d1e78b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000004028.000025003.html",
+    "title": "2026年11月 恒例の催事「金の大祭典」開催！数々の受賞歴をもつBAR GOYA GINZA 山崎氏とのスペシャルコラボも！【大丸京都店】",
+    "publisher": "株式会社　大丸松坂屋百貨店",
+    "publishedAt": "2026-10-30T17:00:02+09:00",
+    "fetchedAt": "2026-10-30T21:27:19.597Z",
+    "contentHash": "98c6815df5ac6927543b1a0cf92875b914b40a39638dfe73b6fa27499e2016cd",
+    "relatedEventIds": [
+      "evt-449e93d1e78b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-03",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

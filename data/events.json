@@ -10342,5 +10342,266 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-1e6d02df0dea",
+    "slug": "e-1e6d02df0dea",
+    "title": "『劇場版 薬屋のひとりごと 亡妃の秘宝』から、猫猫と壬氏の描き下ろしイラスト2種を使った商品が、12月11日（金）発売！　アニメイトでは、特典「イラストカード」がもらえるフェアを開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-11T00:00:00+09:00",
+    "endAt": "2027-01-11T23:59:00+09:00",
+    "venue": {
+      "name": "全国アニメイト",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/16756/9155/16756-9155-d94b0e4d11e25f8fa12816b8e55e0ac4-1080x762.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1e6d02df0dea"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-30T21:27:19.597Z",
+    "updatedAt": "2026-10-30T21:27:19.597Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b7424ef2ccab",
+    "slug": "e-b7424ef2ccab",
+    "title": "【福岡県久留米市】「久留米市ふるさとみづま祭」今年も開催！",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/41975/675/41975-675-6c126fb9260753e23019333efcf86972-1518x2151.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b7424ef2ccab"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-30T21:27:19.597Z",
+    "updatedAt": "2026-10-30T21:27:19.597Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c986a48b100b",
+    "slug": "e-c986a48b100b",
+    "title": "富山県内の親子約30名が参加！鮎に「触れて、描いて、味わう」体験型食育イベントを開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-25T00:00:00+09:00",
+    "endAt": "2026-10-25T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "富山県砺波市)は",
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "latitude": 36.647499,
+      "longitude": 136.962234
+    },
+    "organizer": null,
+    "officialUrl": "https://uoyasu-toyama.com/course/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/193240/1/193240-1-9f97019f3c8609107d2490f3233ac3b6-1536x1024.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c986a48b100b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-30T21:27:19.597Z",
+    "updatedAt": "2026-10-30T21:27:19.597Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-66ceadd5f551",
+    "slug": "e-66ceadd5f551",
+    "title": "【追加情報解禁】総勢50人以上のフリマ出店や無料ワークショップも！　「WWDJAPAN」主催フリマイベントを11月14日（土）に開催",
+    "description": null,
+    "genres": [
+      "whisky",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "seminar",
+      "market"
+    ],
+    "startAt": "2026-11-09T00:00:00+09:00",
+    "endAt": "2026-11-09T23:59:00+09:00",
+    "venue": {
+      "name": "渋谷近辺 (当選した方には個別でお知らせいたします)",
+      "address": "東京都港区北青山3-5-6 青朋ビル",
+      "prefecture": "東京都",
+      "city": "港区",
+      "latitude": 35.665634,
+      "longitude": 139.712769
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-66ceadd5f551.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-66ceadd5f551"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-30T21:27:19.597Z",
+    "updatedAt": "2026-10-30T21:27:19.597Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-94f4fe983b41",
+    "slug": "e-94f4fe983b41",
+    "title": "「サントリー登美の丘ワイナリー」グループ生産研究拠点初となる「自然共生サイト」に認定",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/42435/1645/42435-1645-5050f3f72a562e4648526c15e4020ab5-442x200.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-94f4fe983b41"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-30T21:27:19.597Z",
+    "updatedAt": "2026-10-30T21:27:19.597Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-449e93d1e78b",
+    "slug": "e-449e93d1e78b",
+    "title": "2026年11月 恒例の催事「金の大祭典」開催！数々の受賞歴をもつBAR GOYA GINZA 山崎氏とのスペシャルコラボも！【大丸京都店】",
+    "description": null,
+    "genres": [
+      "wine",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-03T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/25003/4028/25003-4028-592550f3922bb4793e70c0482f9a6c2d-1080x534.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-449e93d1e78b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-30T21:27:19.597Z",
+    "updatedAt": "2026-10-30T21:27:19.597Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
