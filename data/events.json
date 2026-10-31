@@ -10603,5 +10603,523 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-08811043c2f6",
+    "slug": "e-08811043c2f6",
+    "title": "NTT西日本、カンロ、アスクル、LINEヤフーなど登壇Webマーケティング＋ECの無料セミナーを11月5日・6日東京 赤坂で開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-05T00:00:00+09:00",
+    "endAt": "2026-11-06T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/5875/7793/5875-7793-705340c049700c9d461f3712751b9bc2-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-08811043c2f6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-5c74fd743b06",
+    "slug": "e-5c74fd743b06",
+    "title": "いわて食でつながろうフェア2026開催！",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-01T00:00:00+09:00",
+    "endAt": "2026-11-30T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/79221/137/79221-137-dea03ede43f5d9f608869e63f3930708-3900x3699.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5c74fd743b06"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ec6bd0ffa4f2",
+    "slug": "e-ec6bd0ffa4f2",
+    "title": "【前回800名完売】ご好評につき第2回開催決定！ナイトアクアリウムで800名が出会う「四国水族館ナイト～夜の水族館まるごと出会いの舞台～」2026年11月7日（土）開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://events.machicon.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4786/748/4786-748-ed6eacf7a65613cdcbebbae7de337407-690x308.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ec6bd0ffa4f2"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-aca718f56a4e",
+    "slug": "e-aca718f56a4e",
+    "title": "地酒と音楽で美崎町に活気 11月8日、酒まつり開催 20店舗が出店",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-08T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yaeyama-nippo.co.jp/wp-content/uploads/2026/10/cbad6a3f4ae7d4b4920f589c2242dd28.png",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-aca718f56a4e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-cf66846bfe22",
+    "slug": "e-cf66846bfe22",
+    "title": "秋田の酒と全国の“うまいもの\"大集合 食の祭典開幕 秋田・横手市",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-03T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://image.gallery.play.jp/abs-news/articles/1653f0b083f34dc28721e7ab572eae25/043044aa-a60a-418e-be83-1c46fb868aea.jpg?w=1200",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-cf66846bfe22"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-35f91039c2aa",
+    "slug": "e-35f91039c2aa",
+    "title": "『焼酎ストリート』にぎわう 11月1日は『本格焼酎の日』 鹿児島市で県内各地の焼酎楽しめるイベント",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-01T00:00:00+09:00",
+    "endAt": "2026-11-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://image.gallery.play.jp/kyt-news/articles/cc558c94c372494c88470a5f53b6123a/bb94f82b-608b-4fbf-987c-74b52d923058.jpg?w=1200",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-35f91039c2aa"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e85a8f1d3c0e",
+    "slug": "e-e85a8f1d3c0e",
+    "title": "日本酒24銘柄飲み比べ 甲府駅南口駅前広場でイベント",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e85a8f1d3c0e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b58e0b2e72a1",
+    "slug": "e-b58e0b2e72a1",
+    "title": "ぼる塾・酒寄の短編小説集「時をかけるファミレス」発売 出版イベントに相方田辺も出演",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2024-08-26T00:00:00+09:00",
+    "endAt": "2024-08-26T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b58e0b2e72a1"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-877c050963fc",
+    "slug": "e-877c050963fc",
+    "title": "福島・吾妻山麓醸造所で「秋の感謝祭」 新酒やワイナリーツアーも",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-877c050963fc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-2e31903446e4",
+    "slug": "e-2e31903446e4",
+    "title": "【星野リゾート、おもてなしの裏側】「そんなイベントやってた?」からの大逆転。社内の反対を覆した“ワイン樽転がし\"と、5000人を笑顔にさせたリゾナーレ八ヶ岳の八ヶ岳ワインフェスタ",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-2e31903446e4"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-76e4fb733c2f",
+    "slug": "e-76e4fb733c2f",
+    "title": "JR東日本 広域品川圏で「秋の美酒美食ホッピング」開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-76e4fb733c2f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-185a584fa841",
+    "slug": "e-185a584fa841",
+    "title": "「香港ワイン&ダイン・フェス」開幕 野外に過去最大340超のブース",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-185a584fa841"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
