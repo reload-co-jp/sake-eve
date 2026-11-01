@@ -8356,5 +8356,104 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-8482f7faf60d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000473.000036259.html",
+    "title": "【“見て・食べて・当てて”盛り上がる】忘年会にマグロ解体ショーやワイン格付けが登場！体験型のオプションプランを拡充",
+    "publisher": "ボンディッシュ株式会社",
+    "publishedAt": "2026-10-29T13:00:01+09:00",
+    "fetchedAt": "2026-11-01T21:02:14.607Z",
+    "contentHash": "43ef96a14d43e1e458b749b783195938a9ac6b041406d028b1c2059febc3d5f7",
+    "relatedEventIds": [
+      "evt-8482f7faf60d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-30",
+      "endDate": "2026-12-30",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-131c15b7bbfa",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1450354",
+    "title": "ウイスキーなど4蒸留所招く「特別な夜」開催 宇都宮・ホテル丸治で11月14日",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-11-01T05:00:00.000Z",
+    "fetchedAt": "2026-11-01T21:02:14.607Z",
+    "contentHash": "5dbefa93c0ba0536b5ef8466795f45f3838f82dcb19f65e9033bf73ee5006795",
+    "relatedEventIds": [
+      "evt-131c15b7bbfa"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0faf52f7b036",
+    "sourceType": "news",
+    "url": "https://news.mynavi.jp/premium/article/20261101-5127773/",
+    "title": "登美の丘ワイナリーで「収穫感謝祭2026」開催 - 新酒の試飲やつくり手による特別ツアーも",
+    "publisher": "マイナビニュース",
+    "publishedAt": "2026-11-01T01:30:00.000Z",
+    "fetchedAt": "2026-11-01T21:02:14.607Z",
+    "contentHash": "f12be64c7933ef65115b11280ddd241caa3033506c4da1608d3aca936db3eb69",
+    "relatedEventIds": [
+      "evt-0faf52f7b036"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

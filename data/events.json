@@ -10858,10 +10858,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-31T20:28:08.128Z",
-    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-11-01T21:02:14.607Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-e85a8f1d3c0e",
@@ -11118,6 +11118,138 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-10-31T20:28:08.128Z",
     "updatedAt": "2026-10-31T20:28:08.128Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-8482f7faf60d",
+    "slug": "e-8482f7faf60d",
+    "title": "【“見て・食べて・当てて”盛り上がる】忘年会にマグロ解体ショーやワイン格付けが登場！体験型のオプションプランを拡充",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-30T00:00:00+09:00",
+    "endAt": "2026-12-30T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/36259/473/36259-473-ee9244c3a302b6541311f2b3e6debe45-704x469.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8482f7faf60d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-01T21:02:14.607Z",
+    "updatedAt": "2026-11-01T21:02:14.607Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-131c15b7bbfa",
+    "slug": "e-131c15b7bbfa",
+    "title": "ウイスキーなど4蒸留所招く「特別な夜」開催 宇都宮・ホテル丸治で11月14日",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-14T00:00:00+09:00",
+    "endAt": "2026-11-14T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/0/d/1200wm/img_0d667f9a6b85a4568e5b851387b1f861141804.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-131c15b7bbfa"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-01T21:02:14.607Z",
+    "updatedAt": "2026-11-01T21:02:14.607Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0faf52f7b036",
+    "slug": "e-0faf52f7b036",
+    "title": "登美の丘ワイナリーで「収穫感謝祭2026」開催 - 新酒の試飲やつくり手による特別ツアーも",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://news.mynavi.jp/premium/article/20261101-5127773/ogp_images/ogp.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0faf52f7b036"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-01T21:02:14.607Z",
+    "updatedAt": "2026-11-01T21:02:14.607Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
