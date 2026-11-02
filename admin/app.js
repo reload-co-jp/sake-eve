@@ -278,6 +278,19 @@ const publicationButtons = (e) => {
   )
 }
 
+/** Result of `pnpm review` (data/review/auto-review.json): what is left for a person. */
+const autoReviewNote = (e) => {
+  const r = (state.autoReview ?? []).findLast((x) => x.eventId === e.id)
+  if (!r) return ""
+  return h(
+    "p",
+    { class: "meta" },
+    `自動確認 ${fmt(r.reviewedAt)}: ${r.todo.length ? `要確認 ${r.todo.join("・")}` : "確認済み"}（${r.reason}）`,
+    r.filled.length ? ` ／ 入力: ${r.filled.join(", ")}` : "",
+    r.rejected.length ? ` ／ 根拠なしで不採用: ${r.rejected.join(", ")}` : ""
+  )
+}
+
 const eventCard = (e) => {
   const sources = e.sourceIds.map((id) => byId("sources", id)).filter(Boolean)
   const dupes = dupesOf(e)
@@ -326,6 +339,7 @@ const eventCard = (e) => {
         )
       )
     ),
+    autoReviewNote(e),
     dupes.length
       ? h(
           "p",
@@ -472,10 +486,7 @@ const eventList = () => {
   let q = saved.q ?? ""
   let pub = saved.pub ?? ""
   const saveFilter = () =>
-    sessionStorage.setItem(
-      "admin:events:filter",
-      JSON.stringify({ q, pub })
-    )
+    sessionStorage.setItem("admin:events:filter", JSON.stringify({ q, pub }))
   const fill = () =>
     tbody.replaceChildren(
       ...state.db.events

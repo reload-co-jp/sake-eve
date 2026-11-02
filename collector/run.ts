@@ -19,6 +19,8 @@ import {
   type SourceConfig,
 } from "./sources.ts"
 import { summarize } from "./summarize.ts"
+import { askApi } from "./review.ts"
+import { autoReview, loadRecords, saveRecords } from "./auto-review.ts"
 import { geocode } from "./geocode.ts"
 import { normalizeUrl } from "./dedupe.ts"
 import { appendAudit } from "../admin/storage.ts"
@@ -120,10 +122,29 @@ if (!allFailed) {
   const now = new Date().toISOString()
   const result = merge(db, items, config, now)
   const triaged = triage(result.db, now)
-  // Overviews: new events use the body fetched this run; published ones still missing one re-fetch their source.
   const bodies = new Map(
     items.map(({ item }) => [normalizeUrl(item.url), item.summary])
   )
+  // Automated review of pending events (fill from the source, publish / hide / leave for an editor).
+  // ponytail: per-run cap bounds API spend and source requests; the backlog drains over later runs.
+  const reviewRecords = loadRecords(dataDir)
+  const reviewed =
+    dryRun || !process.env.ANTHROPIC_API_KEY
+      ? null
+      : await autoReview(triaged.db, {
+          ask: askApi,
+          fetchText,
+          now,
+          limit: 20,
+          records: reviewRecords,
+          bodies,
+          log: console.log,
+        })
+  if (reviewed) {
+    triaged.db = reviewed.db
+    triaged.audit.push(...reviewed.audit)
+  }
+  // Overviews: new events use the body fetched this run; published ones still missing one re-fetch their source.
   const sourceById = new Map(triaged.db.sources.map((s) => [s.id, s]))
   let summarized = 0
   // ponytail: per-run cap bounds API spend and source requests; the backlog drains over later runs.
@@ -173,7 +194,8 @@ if (!allFailed) {
   }
   log.stats = {
     ...result.stats,
-    autoHidden: triaged.audit.length,
+    autoHidden: triaged.audit.filter((a) => a.action === "hidden").length,
+    autoReviewed: reviewed?.stats.reviewed ?? 0,
     summarized,
     geocoded,
   }
@@ -182,15 +204,19 @@ if (!allFailed) {
     !dryRun &&
     (result.stats.added > 0 ||
       triaged.audit.length > 0 ||
+      (reviewed?.records.length ?? 0) > 0 ||
       summarized > 0 ||
       geocoded > 0)
   ) {
     log.validationErrors = save(dataDir, triaged.db, result.candidates)
     log.written = log.validationErrors.length === 0
     for (const err of log.validationErrors) console.error(`[invalid] ${err}`)
-    if (log.written)
+    if (log.written) {
       for (const a of [...result.audit, ...triaged.audit])
         appendAudit(dataDir, a)
+      if (reviewed?.records.length)
+        saveRecords(dataDir, [...reviewRecords, ...reviewed.records])
+    }
   }
 }
 
