@@ -91,5 +91,14 @@
       "same_prefecture"
     ],
     "detectedAt": "2026-10-29T21:36:44.059Z"
+  },
+  {
+    "eventId": "evt-eaaee73196b2",
+    "candidateEventId": "evt-b7424ef2ccab",
+    "score": 0.44,
+    "reasons": [
+      "same_start_date"
+    ],
+    "detectedAt": "2026-11-02T23:51:59.095Z"
   }
 ]

@@ -8455,5 +8455,307 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-b2bc87e953c9",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001594.000016166.html",
+    "title": "「責任ある飲酒」の取り組み",
+    "publisher": "アサヒビール株式会社",
+    "publishedAt": "2026-11-02T14:00:02+09:00",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "fd17e3a795c11d5fe80ccd002116031d1d86194978840eab62fcd02ecfac1567",
+    "relatedEventIds": [
+      "evt-b2bc87e953c9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "whisky"
+      ],
+      "eventTypes": [
+        "tasting",
+        "seminar"
+      ],
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://social-innovation-week-shibuya.jp",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-fe6caa79814e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000045389.html",
+    "title": "エステの悩みを一人で抱えない！岐阜で「エステティックグランプリ交流会」を開催。11名がサロンの垣根を越えて交流",
+    "publisher": "一般社団法人エステティックグランプリ",
+    "publishedAt": "2026-10-29T09:00:02+09:00",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "a748d750f1b25c8ca8e8f6118c5d77897a36c302c570eeaaecb8e7dd5be429d2",
+    "relatedEventIds": [
+      "evt-fe6caa79814e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "dateSource": "label",
+      "venueName": "玉宮 居酒屋 聚楽(岐阜市)",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4a6cdf8de85e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005459.000029501.html",
+    "title": "stand.fm 音楽酒場「音ぼけ」公開収録イベント「松尾駿の大忘年会feat.音ぼけ」先行販売受付中！",
+    "publisher": "吉本興業株式会社",
+    "publishedAt": "2026-11-02T13:00:02+09:00",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "57d1d31c3d3d3896300a0c7a062c710750862bec02d85e435ac55610d54c7f4b",
+    "relatedEventIds": [
+      "evt-4a6cdf8de85e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival",
+        "tour"
+      ],
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "dateSource": "label",
+      "venueName": "グレースバリ秋葉原ブラン",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-80f71f7efb43",
+    "sourceType": "news",
+    "url": "https://www.tokyo-np.co.jp/article/525706",
+    "title": "福生の酒楽しもう 2酒造が7日に蔵開き 市内で関連イベントも",
+    "publisher": "東京新聞デジタル",
+    "publishedAt": "2026-11-02T22:06:53.000Z",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "397d20ed6fbbd1a4d40346ce8ff6f1c4ed0109863df9c4367b5dfa083e271c7a",
+    "relatedEventIds": [
+      "evt-80f71f7efb43"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "brewery_open_day",
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-cbcc5d60a747",
+    "sourceType": "news",
+    "url": "https://tetsudo-ch.com/13043436.html",
+    "title": "5会場で過去最大級!?「第5回福生蔵開き」で福生市の地酒やクラフトビールを堪能、福生・拝島駅から無料バスで酒蔵巡り!(11/7開催)",
+    "publisher": "鉄道チャンネル",
+    "publishedAt": "2026-11-02T11:00:27.000Z",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "1e3e643be2dac5f83604bf2c53bc9f05d0221306e17abd7a4d0e31202284911e",
+    "relatedEventIds": [
+      "evt-cbcc5d60a747"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "brewery_open_day"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-51cfe370b5f7",
+    "sourceType": "news",
+    "url": "https://news.ntv.co.jp/category/society/ky3bacd66ffcef4b6d95ac6676209639d0",
+    "title": "「去年が面白くて今年も来た」東京からの来場者も 本格焼酎の日に100蔵元が大集合 焼酎ストリート開催",
+    "publisher": "KYT NEWS NNN",
+    "publishedAt": "2026-11-02T10:23:00.000Z",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "7698c517666307af3f4c56f5f179e2367e3484e0ff7b1cf6638c1ce64d3b1823",
+    "relatedEventIds": [
+      "evt-51cfe370b5f7"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake",
+        "shochu"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-86d88a9519cb",
+    "sourceType": "news",
+    "url": "https://news.ntv.co.jp/category/life/abf45b8cd408744f8587f4e74ad4777118",
+    "title": "食べて飲んで食欲の秋を堪能! 全国のご当地グルメと秋田の酒を楽しめるイベント 開催は3日の祝日まで 秋田・横手市",
+    "publisher": "ABS NEWS NNN",
+    "publishedAt": "2026-11-02T08:49:00.000Z",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "78c1bc3e37d24d63720c871df238a9c8d3cc0ca13adb4976d1b98d176d46316c",
+    "relatedEventIds": [
+      "evt-86d88a9519cb"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-761728e77b78",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1451867",
+    "title": "日本酒蔵で恋活イベント 11月23日に日光市",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-11-02T05:30:00.000Z",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "aad6b470b47d0d6bf6a8e16116a160f4f148c658e504fe185104ad5953d4858c",
+    "relatedEventIds": [
+      "evt-761728e77b78"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-eaaee73196b2",
+    "sourceType": "news",
+    "url": "https://kurume.keizai.biz/headline/96/",
+    "title": "久留米で「ふるさとみづま祭」 よさこいや物産展、城島の地酒も",
+    "publisher": "久留米経済新聞",
+    "publishedAt": "2026-11-02T00:28:30.000Z",
+    "fetchedAt": "2026-11-02T23:51:59.095Z",
+    "contentHash": "db7d30873264b9923419aabf6e856ac3c9c8a6422abb0d18c3771ce6a6342b8d",
+    "relatedEventIds": [
+      "evt-eaaee73196b2"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-b7424ef2ccab"
+      ]
+    }
   }
 ]

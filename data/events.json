@@ -11253,5 +11253,404 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-b2bc87e953c9",
+    "slug": "e-b2bc87e953c9",
+    "title": "「責任ある飲酒」の取り組み",
+    "description": null,
+    "genres": [
+      "beer",
+      "whisky"
+    ],
+    "eventTypes": [
+      "tasting",
+      "seminar"
+    ],
+    "startAt": "2026-11-10T00:00:00+09:00",
+    "endAt": "2026-11-10T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://social-innovation-week-shibuya.jp",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/16166/1594/16166-1594-3ffa4911f13d867bc1f94125dfc0fb8e-448x566.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b2bc87e953c9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-fe6caa79814e",
+    "slug": "e-fe6caa79814e",
+    "title": "エステの悩みを一人で抱えない！岐阜で「エステティックグランプリ交流会」を開催。11名がサロンの垣根を越えて交流",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-10-08T00:00:00+09:00",
+    "endAt": "2026-10-08T23:59:00+09:00",
+    "venue": {
+      "name": "玉宮 居酒屋 聚楽(岐阜市)",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/45389/26/45389-26-4256101964bbbf1d65e52a08c7242011-1477x1108.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-fe6caa79814e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-4a6cdf8de85e",
+    "slug": "e-4a6cdf8de85e",
+    "title": "stand.fm 音楽酒場「音ぼけ」公開収録イベント「松尾駿の大忘年会feat.音ぼけ」先行販売受付中！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival",
+      "tour"
+    ],
+    "startAt": "2026-11-28T00:00:00+09:00",
+    "endAt": "2026-11-28T23:59:00+09:00",
+    "venue": {
+      "name": "グレースバリ秋葉原ブラン",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/29501/5459/29501-5459-0e4a7c3cfc81982c03cdba59f76ea641-3509x2481.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4a6cdf8de85e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-80f71f7efb43",
+    "slug": "e-80f71f7efb43",
+    "title": "福生の酒楽しもう 2酒造が7日に蔵開き 市内で関連イベントも",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "brewery_open_day",
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://static.tokyo-np.co.jp/image/article/size1/9/2/2/8/92282b52f397be042ebfae6b348652c3_1.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-80f71f7efb43"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-cbcc5d60a747",
+    "slug": "e-cbcc5d60a747",
+    "title": "5会場で過去最大級!?「第5回福生蔵開き」で福生市の地酒やクラフトビールを堪能、福生・拝島駅から無料バスで酒蔵巡り!(11/7開催)",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "brewery_open_day"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-cbcc5d60a747"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-51cfe370b5f7",
+    "slug": "e-51cfe370b5f7",
+    "title": "「去年が面白くて今年も来た」東京からの来場者も 本格焼酎の日に100蔵元が大集合 焼酎ストリート開催",
+    "description": null,
+    "genres": [
+      "sake",
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-31T00:00:00+09:00",
+    "endAt": "2026-10-31T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://image.gallery.play.jp/kyt-news/articles/e400f6b0b3ea4d56bf88d738c9299ac4/1cac1987-5d23-41d7-a0ff-b7410024ef4c.jpg?w=1200",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-51cfe370b5f7"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-86d88a9519cb",
+    "slug": "e-86d88a9519cb",
+    "title": "食べて飲んで食欲の秋を堪能! 全国のご当地グルメと秋田の酒を楽しめるイベント 開催は3日の祝日まで 秋田・横手市",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://image.gallery.play.jp/abs-news/articles/c7911b18cd3844b9a884e25463418f0d/010eb602-f661-4d33-bf25-1afbb904e044.jpg?w=1200",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-86d88a9519cb"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-761728e77b78",
+    "slug": "e-761728e77b78",
+    "title": "日本酒蔵で恋活イベント 11月23日に日光市",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting",
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-11-23T00:00:00+09:00",
+    "endAt": "2026-11-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/3/2/1200wm/img_327d288a12fefbcd422121e79de2d9a297942.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-761728e77b78"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-eaaee73196b2",
+    "slug": "e-eaaee73196b2",
+    "title": "久留米で「ふるさとみづま祭」 よさこいや物産展、城島の地酒も",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/kurume_keizai/headline/1793579365_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-eaaee73196b2"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
