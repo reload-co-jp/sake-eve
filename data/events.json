@@ -10815,10 +10815,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-31T20:28:08.128Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-35f91039c2aa",
@@ -11189,7 +11189,7 @@
     "organizer": "ホテル丸治",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://soon.ismcdn.jp/mwimgs/0/d/1200wm/img_0d667f9a6b85a4568e5b851387b1f861141804.jpg",
+    "imageUrl": "/images/events/evt-131c15b7bbfa.webp",
     "price": "8,000円",
     "isFree": false,
     "reservationRequired": true,
@@ -11235,7 +11235,7 @@
     "organizer": "サントリー登美の丘ワイナリー",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://news.mynavi.jp/premium/article/20261101-5127773/ogp_images/ogp.jpg",
+    "imageUrl": "/images/events/evt-0faf52f7b036.webp",
     "price": "無料",
     "isFree": true,
     "reservationRequired": null,
@@ -11411,7 +11411,7 @@
     "organizer": "実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://static.tokyo-np.co.jp/image/article/size1/9/2/2/8/92282b52f397be042ebfae6b348652c3_1.jpg",
+    "imageUrl": "/images/events/evt-80f71f7efb43.webp",
     "price": "無料",
     "isFree": true,
     "reservationRequired": null,
@@ -11558,10 +11558,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-02T23:51:59.095Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-761728e77b78",
@@ -11649,6 +11649,528 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-02T23:51:59.095Z",
     "updatedAt": "2026-11-02T23:51:59.095Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b0d2e5e1346e",
+    "slug": "e-b0d2e5e1346e",
+    "title": "【震災から15年】東北の牡蠣一盛り880円を埼玉で味わう！「出張カキ小屋 牡蠣奉行」が加須市ドン・キホーテUNY大桑に期間限定開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "whisky",
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-28T00:00:00+09:00",
+    "endAt": "2026-12-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/110396/383/110396-383-1b9211b202a6d6e6703196a1a199c274-1749x1237.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b0d2e5e1346e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-53278194e944",
+    "slug": "e-53278194e944",
+    "title": "VPNを残したまま、SASEは始められる？」段階的なSASE導入を解説するWebセミナーを11月10日に開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-10T00:00:00+09:00",
+    "endAt": "2026-11-10T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/144029/28/144029-28-307ece7e0f27d06f4b9b0435077529da-1024x576.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-53278194e944"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e01cd76b1e5a",
+    "slug": "e-e01cd76b1e5a",
+    "title": "【千葉・五井駅前で3日間の半額SALE！】11月4日・5日は全品半額！6日は料理orドリンクを選んで半額！「目利きの銀次 五井西口駅前店」で開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "whisky"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-04T00:00:00+09:00",
+    "endAt": "2026-11-04T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "千葉県市原市五井中央西2丁目8-33 小宮ビル 1階",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "latitude": 35.514126,
+      "longitude": 140.08847
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/1046/893/1046-893-0e0d04fdc1514498a9d7086932757644-1950x1000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e01cd76b1e5a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-2ecb77de433b",
+    "slug": "e-2ecb77de433b",
+    "title": "九州の9酒造、NYで焼酎PR イベントに100人参加",
+    "description": null,
+    "genres": [
+      "sake",
+      "shochu"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.agrinews.co.jp/media/2026/11/03/CNTS2026110300262.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-2ecb77de433b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c63e7fb5b376",
+    "slug": "e-c63e7fb5b376",
+    "title": "特産牛や地鶏で乾杯 大川村謝肉祭県内外から1500人",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yomiuri.co.jp/media/2026/11/20261103-GYTNI00037-1.jpg?type=ogp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c63e7fb5b376"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0b71d2b43de7",
+    "slug": "e-0b71d2b43de7",
+    "title": "横浜・関内で「ハイカラフェスタ」 グルメに酒、ステージ企画でにぎわい",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0b71d2b43de7"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-4fdc53cd3f0c",
+    "slug": "e-4fdc53cd3f0c",
+    "title": "「食、酒、芸術、音楽…色んな文化を好きな形で楽しんでほしい」文化の日に広島市中心部で都市型フェス開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/7/1/1200w/img_71a26b187886601125315baae08e9e7d876418.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4fdc53cd3f0c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-d82c09b16b42",
+    "slug": "e-d82c09b16b42",
+    "title": "約60種類の日本酒、飲み放題 13日にイヤタカでイベント、食事付き",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.sakigake.jp/images/news-entry/20261103ak0012_01_l.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d82c09b16b42"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-2c19d003379f",
+    "slug": "e-2c19d003379f",
+    "title": "挑む・遊ぶ・体験 多種のスポーツ楽しむ 酒田「光ケ丘スポーツパーク構想」実現へ 親子ら300人キックオフイベント",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-04T00:00:00+09:00",
+    "endAt": "2026-11-04T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-2c19d003379f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-86797389d0ef",
+    "slug": "e-86797389d0ef",
+    "title": "周南「はつもみぢ」で酒蔵まつり 限定酒販売や蔵元による酒蔵見学も",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-86797389d0ef"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-240797640b76",
+    "slug": "e-240797640b76",
+    "title": "福生市内2酒蔵で「福生蔵開き」 拝島駅前や子ども向けイベントも",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "brewery_open_day",
+      "tour"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-240797640b76"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c6a8f60a7d79",
+    "slug": "e-c6a8f60a7d79",
+    "title": "浪江町産食材と地酒に舌鼓 道の駅なみえで収穫祭、県内外の名店集う",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c6a8f60a7d79"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-03T22:16:47.400Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

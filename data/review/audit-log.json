@@ -4862,5 +4862,25 @@
       "organizer"
     ],
     "note": "auto-review: 出典から入力（title, description, venue.name, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-03T22:16:47.400Z",
+    "collection": "events",
+    "id": "evt-cf66846bfe22",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-03T22:16:47.400Z",
+    "collection": "events",
+    "id": "evt-86d88a9519cb",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

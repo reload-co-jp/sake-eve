@@ -8757,5 +8757,395 @@
         "evt-b7424ef2ccab"
       ]
     }
+  },
+  {
+    "id": "src-b0d2e5e1346e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000383.000110396.html",
+    "title": "【震災から15年】東北の牡蠣一盛り880円を埼玉で味わう！「出張カキ小屋 牡蠣奉行」が加須市ドン・キホーテUNY大桑に期間限定開催",
+    "publisher": "LH 株式会社",
+    "publishedAt": "2026-11-02T10:30:02+09:00",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "2a008a6296923802f7deacd74ba18e0a5c51088e05ab5ceaebc4056a70705c03",
+    "relatedEventIds": [
+      "evt-b0d2e5e1346e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "whisky",
+        "shochu"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-28",
+      "endDate": "2026-12-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-53278194e944",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000144029.html",
+    "title": "VPNを残したまま、SASEは始められる？」段階的なSASE導入を解説するWebセミナーを11月10日に開催",
+    "publisher": "かもめエンジニアリング株式会社",
+    "publishedAt": "2026-11-03T10:10:02+09:00",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "4a8c970f99393c792a43b3f4a1fde0d6a183209e4390c38e911dbad3d21c168c",
+    "relatedEventIds": [
+      "evt-53278194e944"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-e01cd76b1e5a",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000893.000001046.html",
+    "title": "【千葉・五井駅前で3日間の半額SALE！】11月4日・5日は全品半額！6日は料理orドリンクを選んで半額！「目利きの銀次 五井西口駅前店」で開催",
+    "publisher": "株式会社モンテローザ",
+    "publishedAt": "2026-11-03T12:10:01+09:00",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "e8bb6f9120d802efbde6715e6931cf00d98ee158456abcb897e299403e9a3396",
+    "relatedEventIds": [
+      "evt-e01cd76b1e5a"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "whisky"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "千葉県市原市五井中央西2丁目8-33 小宮ビル 1階",
+      "prefecture": "千葉県",
+      "city": "市原市",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-2ecb77de433b",
+    "sourceType": "news",
+    "url": "https://www.agrinews.co.jp/ippan/index/416647",
+    "title": "九州の9酒造、NYで焼酎PR イベントに100人参加",
+    "publisher": "日本農業新聞公式ウェブサイト",
+    "publishedAt": "2026-11-03T20:40:03.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "464916acaaff40f76d13263acd65f408f002d18cdf84108cb268fa8ee97a8d92",
+    "relatedEventIds": [
+      "evt-2ecb77de433b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake",
+        "shochu"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c63e7fb5b376",
+    "sourceType": "news",
+    "url": "https://www.yomiuri.co.jp/local/kochi/news/20261103-GYTNT00035/",
+    "title": "特産牛や地鶏で乾杯 大川村謝肉祭県内外から1500人",
+    "publisher": "読売新聞",
+    "publishedAt": "2026-11-03T20:00:00.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "36501cf7cd5889a62cd73aac5db1403db4bf427119c70fcab136fa1ef1e7476b",
+    "relatedEventIds": [
+      "evt-c63e7fb5b376"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0b71d2b43de7",
+    "sourceType": "news",
+    "url": "https://www.kanaloco.jp/news/life/article-1317686.html",
+    "title": "横浜・関内で「ハイカラフェスタ」 グルメに酒、ステージ企画でにぎわい",
+    "publisher": "カナロコ : 神奈川新聞",
+    "publishedAt": "2026-11-03T10:10:00.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "53374d5d2c9a451eabe6ac49f267c6dad6cde542c9826c81d27505d378c6747d",
+    "relatedEventIds": [
+      "evt-0b71d2b43de7"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4fdc53cd3f0c",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3058693?display=1",
+    "title": "「食、酒、芸術、音楽…色んな文化を好きな形で楽しんでほしい」文化の日に広島市中心部で都市型フェス開催",
+    "publisher": "TBS NEWS DIG",
+    "publishedAt": "2026-11-03T08:56:00.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "9aab5bedb770b1c8a8b03fccc0591d5e4486f9cf9a82f5d81eab5a8c0de27edb",
+    "relatedEventIds": [
+      "evt-4fdc53cd3f0c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d82c09b16b42",
+    "sourceType": "news",
+    "url": "https://www.sakigake.jp/news/article/20261103AK0012/",
+    "title": "約60種類の日本酒、飲み放題 13日にイヤタカでイベント、食事付き",
+    "publisher": "秋田魁新報電子版",
+    "publishedAt": "2026-11-03T06:30:00.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "ffe9f7df82c3c8d8bfed4aa1bea7d80cb3fa2461f8c5037bf11949b67b55fb90",
+    "relatedEventIds": [
+      "evt-d82c09b16b42"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-2c19d003379f",
+    "sourceType": "news",
+    "url": "http://www.shonai-nippo.co.jp/cgi/ad/day.cgi?p=2026:11:04:16822",
+    "title": "挑む・遊ぶ・体験 多種のスポーツ楽しむ 酒田「光ケ丘スポーツパーク構想」実現へ 親子ら300人キックオフイベント",
+    "publisher": "荘内日報",
+    "publishedAt": "2026-11-03T05:07:08.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "ab6cea140065ff97dfb7a867164bf4ed5c29a0972654b5cccef8a7ab7181d3bc",
+    "relatedEventIds": [
+      "evt-2c19d003379f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-86797389d0ef",
+    "sourceType": "news",
+    "url": "https://shunan.keizai.biz/headline/2259/",
+    "title": "周南「はつもみぢ」で酒蔵まつり 限定酒販売や蔵元による酒蔵見学も",
+    "publisher": "周南経済新聞",
+    "publishedAt": "2026-11-03T01:00:00.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "f00b41b5e7f54cb175f800864e875633a426b2c2c96d58071626cce1d56f5001",
+    "relatedEventIds": [
+      "evt-86797389d0ef"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-240797640b76",
+    "sourceType": "news",
+    "url": "https://nishitama.keizai.biz/headline/2144/",
+    "title": "福生市内2酒蔵で「福生蔵開き」 拝島駅前や子ども向けイベントも",
+    "publisher": "西多摩経済新聞",
+    "publishedAt": "2026-11-03T00:24:11.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "d127cf091e0627c286310627b81b1f66aff352b103fc99f8b70e8012116a0663",
+    "relatedEventIds": [
+      "evt-240797640b76"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "brewery_open_day",
+        "tour"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c6a8f60a7d79",
+    "sourceType": "news",
+    "url": "https://www.minyu-net.com/news/detail/2026110310054356814",
+    "title": "浪江町産食材と地酒に舌鼓 道の駅なみえで収穫祭、県内外の名店集う",
+    "publisher": "福島民友新聞",
+    "publishedAt": "2026-11-03T00:10:00.000Z",
+    "fetchedAt": "2026-11-03T22:16:47.400Z",
+    "contentHash": "581057f6a8679bf9b50d825ed5d9350e02cca383f6f5c6b36c50056ec266ae2c",
+    "relatedEventIds": [
+      "evt-c6a8f60a7d79"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
