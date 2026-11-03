@@ -17,6 +17,7 @@ const read = <T>(path: string, fallback: T): T => {
 export const loadReview = (dataDir: string) => ({
   collectLog: read(join(dataDir, "review", "collect-log.json"), []),
   audit: read<AuditEntry[]>(join(dataDir, "review", "audit-log.json"), []),
+  autoReview: read(join(dataDir, "review", "auto-review.json"), []),
 })
 
 /** Who changed what and why; kept in the repo so approvals are reviewable in PRs. */

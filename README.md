@@ -15,17 +15,19 @@ pnpm dev          # http://localhost:3000
 
 ## スクリプト
 
-| コマンド           | 内容                                           |
-| ------------------ | ---------------------------------------------- |
-| `pnpm dev`         | 開発サーバー                                   |
-| `pnpm build`       | 静的サイトを `out/` に出力（データ検証を含む） |
-| `pnpm validate`    | `data/*.json` のスキーマ・参照整合性を検証     |
-| `pnpm collect`     | 情報源から収集して `data/` に追記              |
-| `pnpm collect:dry` | 収集のみ実行し結果を表示（書き込みなし）       |
-| `pnpm test`        | 全テスト（Vitest）                             |
-| `pnpm lint`        | ESLint                                         |
-| `pnpm typecheck`   | `tsc --noEmit`                                 |
-| `pnpm format`      | Prettier                                       |
+| コマンド             | 内容                                           |
+| -------------------- | ---------------------------------------------- |
+| `pnpm dev`           | 開発サーバー                                   |
+| `pnpm build`         | 静的サイトを `out/` に出力（データ検証を含む） |
+| `pnpm validate`      | `data/*.json` のスキーマ・参照整合性を検証     |
+| `pnpm collect`       | 情報源から収集して `data/` に追記              |
+| `pnpm collect:dry`   | 収集のみ実行し結果を表示（書き込みなし）       |
+| `pnpm review`        | 承認待ちイベントの自動確認（下記）             |
+| `pnpm review:report` | 承認待ちと、人が確認すべき残り項目の一覧       |
+| `pnpm test`          | 全テスト（Vitest）                             |
+| `pnpm lint`          | ESLint                                         |
+| `pnpm typecheck`     | `tsc --noEmit`                                 |
+| `pnpm format`        | Prettier                                       |
 
 ## ページ
 
@@ -53,17 +55,18 @@ pnpm dev          # http://localhost:3000
 
 ## データ
 
-| ファイル                                | 内容                                                 |
-| --------------------------------------- | ---------------------------------------------------- |
-| `data/events.json`                      | イベント                                             |
-| `data/sources.json`                     | 出典（URL・取得日時等）                              |
-| `data/articles.json`                    | 記事                                                 |
-| `data/producers.json`                   | 事業者（酒蔵・ブルワリー等）                         |
-| `data/products.json`                    | 商品                                                 |
-| `data/review/duplicate-candidates.json` | 重複候補（人が確認する）                             |
-| `data/review/official-url-candidates.json` | 公式URLが見つからない公開イベントの候補（人が確認する） |
-| `data/review/collect-log.json`          | 収集ログ（書き込み・失敗があった回のみ、最新100件）  |
-| `data/review/audit-log.json`            | 管理画面の変更履歴（作成・更新・公開・非公開とメモ） |
+| ファイル                                   | 内容                                                     |
+| ------------------------------------------ | -------------------------------------------------------- |
+| `data/events.json`                         | イベント                                                 |
+| `data/sources.json`                        | 出典（URL・取得日時等）                                  |
+| `data/articles.json`                       | 記事                                                     |
+| `data/producers.json`                      | 事業者（酒蔵・ブルワリー等）                             |
+| `data/products.json`                       | 商品                                                     |
+| `data/review/duplicate-candidates.json`    | 重複候補（人が確認する）                                 |
+| `data/review/official-url-candidates.json` | 公式URLが見つからない公開イベントの候補（人が確認する）  |
+| `data/review/collect-log.json`             | 収集ログ（書き込み・失敗があった回のみ、最新100件）      |
+| `data/review/audit-log.json`               | 管理画面の変更履歴（作成・更新・公開・非公開とメモ）     |
+| `data/review/auto-review.json`             | 自動確認の結果（判定・入力した項目・人が確認すべき項目） |
 
 型定義は `lib/types.ts`、検証ルールは `lib/validate.ts`。サンプルは `isSample: true`（タイトルに【サンプル】、出典 `sourceType: "sample"`、URLは `example.com`）で、画面に「サンプル」バッジを表示。収集データは `isSample: false`。
 
@@ -92,16 +95,16 @@ pnpm collect:dry   # 取得・抽出結果だけ確認
 pnpm collect       # data/events.json, data/sources.json に追記
 ```
 
-| ファイル                | 役割                                                                                         |
-| ----------------------- | -------------------------------------------------------------------------------------------- |
-| `collector/config.json` | 情報源の有効/無効、検索クエリ、ジャンル・イベント判定キーワード、UA、リクエスト間隔          |
-| `collector/sources.ts`  | 情報源ごとのアダプター（取得とフィード項目の正規化のみ）。新しい情報源はここと config に追加 |
-| `collector/http.ts`     | robots.txt 準拠チェック、リクエスト間隔、タイムアウト。403/429 は回避せず中止                |
-| `collector/rss.ts`      | RSS 2.0 / RSS 1.0 (RDF) パーサー                                                             |
-| `collector/extract.ts`  | 項目抽出（推測しない）                                                                       |
-| `collector/dedupe.ts`   | URL正規化、タイトル類似度、重複候補判定                                                      |
-| `collector/store.ts`    | 追記マージ、検証、原子的書き込み、ログ                                                       |
-| `collector/official-urls.ts` | 公開中イベントの「公式サイト」候補の収集と検証（下記）                                      |
+| ファイル                     | 役割                                                                                         |
+| ---------------------------- | -------------------------------------------------------------------------------------------- |
+| `collector/config.json`      | 情報源の有効/無効、検索クエリ、ジャンル・イベント判定キーワード、UA、リクエスト間隔          |
+| `collector/sources.ts`       | 情報源ごとのアダプター（取得とフィード項目の正規化のみ）。新しい情報源はここと config に追加 |
+| `collector/http.ts`          | robots.txt 準拠チェック、リクエスト間隔、タイムアウト。403/429 は回避せず中止                |
+| `collector/rss.ts`           | RSS 2.0 / RSS 1.0 (RDF) パーサー                                                             |
+| `collector/extract.ts`       | 項目抽出（推測しない）                                                                       |
+| `collector/dedupe.ts`        | URL正規化、タイトル類似度、重複候補判定                                                      |
+| `collector/store.ts`         | 追記マージ、検証、原子的書き込み、ログ                                                       |
+| `collector/official-urls.ts` | 公開中イベントの「公式サイト」候補の収集と検証（下記）                                       |
 
 ### 情報源と利用条件（2026-10-10 確認）
 
@@ -128,6 +131,30 @@ pnpm official-urls -- --candidates candidates.json # 編集者が選んだ候補
 
 検索エンジンや新华社の本文は取得しない（robots.txt と利用条件のため）。公式URLが見つからないイベントは `null` のまま残す。
 
+### 承認待ちの自動確認
+
+`collector/review.ts`, `collector/auto-review.ts`, `collector/review-run.ts`。編集者が管理画面で行っていた「出典を読んでタイトル・会場・住所・料金・公式サイトを入力し、公開か非公開かを決める」作業を Claude で自動化する。
+
+```bash
+pnpm review                         # 未確認の承認待ちを確認して data/ に書き込み（ANTHROPIC_API_KEY が必要）
+pnpm review -- --local              # API キーの代わりにローカルの Claude Code（claude -p）を使う
+pnpm review -- --dry-run            # 判定だけ表示（書き込みなし）
+pnpm review -- --only evt-xxxx      # 1件だけ（公開状態を問わない）
+pnpm review -- --force --limit 50   # 確認済みのものも再確認、1回の上限（既定30件）
+pnpm review:report                  # 承認待ちと、人が確認すべき残り項目の一覧（通信なし）
+```
+
+1. 出典ページを取得し（収集時は取得済みの本文を再利用）、Claude にイベントかどうか・イベント名・概要・日程・会場・住所・都道府県・料金・無料か・予約要否・公式サイト・主催者を構造化出力で答えさせる。各項目には **本文からそのまま抜き出した根拠の引用** を付けさせる
+2. 引用が本文に実在しない項目は捨てる（推測で埋めない）。公式サイトURLは本文に書かれたものだけ、日程は配信日の7日前〜約1年半後のものだけ採用。都道府県は住所の先頭からも補う
+3. 空欄だけを埋める（編集者が入力した値は上書きしない）。タイトルは出典の見出しのままのときだけイベント名に置き換える。住所を埋めたら座標は次の収集時に地理院APIで付く（`pnpm review` は同時に付ける）
+4. 判定:
+   - イベントではない（新商品・キャンペーン・開催報告など）または開催終了 → **非公開**
+   - 日程・会場・都道府県がすべて引用で確認でき、開催前、重複候補なし、登録済みの日程と出典が一致 → **公開**（確認状態は `partially_verified`。人が原典を確認したら `verified` に）
+   - それ以外 → 承認待ちのまま。足りない項目（「会場」「重複候補」など）を `data/review/auto-review.json` に記録し、管理画面の承認待ちカードに表示
+5. すべて変更履歴に `auto-review:` メモ付きで記録。保存前に全データを検証する
+
+定期収集（`collect.yml`）でも `ANTHROPIC_API_KEY` があれば新規・未確認の承認待ちを1回20件まで自動確認する。一度確認したイベントは再確認しない（`--force` で再確認）。人が見るのは承認待ちに残ったもの（管理画面に要確認項目が出る）と、自動公開されたものの事後確認だけになる。
+
 ### 処理の流れ
 
 定期実行（`--scheduled`）では各情報源の `runEveryHours` に従う（RSS は毎時、検索は6時間ごと）。手動の `pnpm collect` は全情報源を実行。
@@ -140,7 +167,8 @@ pnpm official-urls -- --candidates candidates.json # 編集者が選んだ候補
 6. 似たタイトル・同日開催の既存イベントは **統合せず** `data/review/duplicate-candidates.json` に記録
 7. 次のいずれかは `needs_review`（確認するまで公開不可）: 重複候補あり / 日付がラベル付きでない / 都道府県不明
 8. 承認待ちのうち、開催終了済み（終了日、なければ開始日が過去）、イベント語なし、または配信から60日超で日付不明のものを自動で非公開（`hidden`、監査ログに記録）
-9. 全データを検証し、エラーがあれば書き込まずに終了コード1
+9. `ANTHROPIC_API_KEY` があれば承認待ちを自動確認（上記「承認待ちの自動確認」）
+10. 全データを検証し、エラーがあれば書き込まずに終了コード1
 
 ### 定期実行
 
@@ -166,7 +194,7 @@ pnpm admin   # http://127.0.0.1:4321/
 ### 公開までの流れ
 
 1. `git switch -c review/2026-10-10` などで作業ブランチを作る
-2. `pnpm admin` → 承認待ちを確認。原典で日時・会場を確かめ、空欄は「ソースから取得」で埋められる。イベント編集で確認状態（例 `verified`）と最終確認日時を更新
+2. `pnpm review`（または `pnpm review -- --local`）で承認待ちを自動確認し、残ったものを `pnpm admin` → 承認待ちで確認（カードに自動確認で足りなかった項目が出る）。原典で日時・会場を確かめ、空欄は「ソースから取得」で埋められる。イベント編集で確認状態（例 `verified`）と最終確認日時を更新
 3. 「公開する」（`needs_review` のままでは押せない）。イベントではない・重複などは「非公開にする」＋理由メモ
 4. 変更（`data/events.json` と `data/review/audit-log.json`）をコミットして PR を作成。PR テンプレートの承認チェックを埋める
 5. CI（`.github/workflows/ci.yml`: lint・型・テスト・検証・ビルド）通過とレビュー承認でマージ → `deploy.yml` でサイトに反映

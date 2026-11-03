@@ -248,6 +248,7 @@ export type RunLog = {
   stats:
     | (MergeStats & {
         autoHidden: number
+        autoReviewed?: number
         summarized?: number
         geocoded?: number
       })
