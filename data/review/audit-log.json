@@ -4315,5 +4315,552 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-f705997f7ff3",
+    "action": "update",
+    "changedFields": [
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.city）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-f705997f7ff3",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 金沢のラーメン店が期間限定で出店する飲食店舗の案内で、一般の人が参加できるお酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-7d8e68f30a78",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-7d8e68f30a78",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: かまぼこの日を記念した購入特典やポイント還元のキャンペーンが中心で、かまぼこの里の催しも酒蔵イベントは一部にすぎず、お酒が主役のイベントではないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-a1612dc36e06",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-a1612dc36e06",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-9a76ff1b22fa",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 本文はグラビアの記事で、タイトルにある「みむろ杉」のペアリング企画についての日時・会場・参加方法が一切書かれておらず、掲載するイベントとして確認できないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-31b8fa9d74a1",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.address, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-ab7481882ee2",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-8b793b3d50b2",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, price, isFree, reservationRequired）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-1e6d02df0dea",
+    "action": "update",
+    "changedFields": [
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-1e6d02df0dea",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: アニメ劇場版のグッズ発売と店舗での購入特典フェアの告知で、お酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-b7424ef2ccab",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-94f4fe983b41",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: サントリー登美の丘ワイナリー等が「自然共生サイト」に認定されたという企業の取り組みの発表であり、一般の人が参加できるお酒のイベントの告知ではない。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-449e93d1e78b",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-449e93d1e78b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 純金製品の展示販売と買い取りを行う百貨店の催事で、カクテルの提供は週末限定の付帯企画（会場内BARは金製品の購入者のみ招待）にとどまり、お酒のイベントとはいえないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-08811043c2f6",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.city, price, isFree, reservationRequired, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-08811043c2f6",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: Webマーケティングと EC の担当者向けビジネスセミナーで、お酒を楽しむイベントではないため対象外である。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-5c74fd743b06",
+    "action": "update",
+    "changedFields": [
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-5c74fd743b06",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 飲食店31店舗で岩手県産食材を使った期間限定メニューを出す食のフェアであり、お酒が主役のイベントではなく、内容もメニュー提供のキャンペーンにあたるため対象外とする。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-ec6bd0ffa4f2",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-ec6bd0ffa4f2",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 夜の水族館を貸し切って開く出会いイベントで、飲み放題はあるがお酒が主役のイベントではないため対象外とした。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-aca718f56a4e",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-cf66846bfe22",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-e85a8f1d3c0e",
+    "action": "update",
+    "changedFields": [
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（venue.name）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-e85a8f1d3c0e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 本文は鏡開きで開催を祝った様子を伝える開催報告の記事であり、これから参加できるイベントとしての日程や参加方法が書かれていないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-877c050963fc",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-877c050963fc",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-76e4fb733c2f",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-76e4fb733c2f",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-185a584fa841",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-185a584fa841",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-8482f7faf60d",
+    "action": "update",
+    "changedFields": [
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-8482f7faf60d",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 法人向けケータリングサービスのオプションプラン拡充の告知であり、一般の人が参加できるお酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-131c15b7bbfa",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-131c15b7bbfa",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-0faf52f7b036",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-0faf52f7b036",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-b2bc87e953c9",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: アサヒビールの責任ある飲酒の取り組み（社内資格制度、プロジェクトの実績など）を報告する企業リリースで、一般の人が参加できるお酒のイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-4a6cdf8de85e",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired"
+    ],
+    "note": "auto-review: 出典から入力（venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-4a6cdf8de85e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: stand.fmのトーク番組の公開収録で、ビュッフェと飲み放題は付くものの、お酒そのものを楽しむためのイベントではないため。"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-80f71f7efb43",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-80f71f7efb43",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-86d88a9519cb",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-03T02:40:35.970Z",
+    "collection": "events",
+    "id": "evt-761728e77b78",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.city, price, isFree, reservationRequired, organizer）"
   }
 ]

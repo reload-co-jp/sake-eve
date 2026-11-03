@@ -1,0 +1,449 @@
+[
+  {
+    "eventId": "evt-f705997f7ff3",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "金沢のラーメン店が期間限定で出店する飲食店舗の案内で、一般の人が参加できるお酒のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-7d8e68f30a78",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "かまぼこの日を記念した購入特典やポイント還元のキャンペーンが中心で、かまぼこの里の催しも酒蔵イベントは一部にすぎず、お酒が主役のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-a1612dc36e06",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "published",
+    "reason": "福生市・昭島市の酒蔵などで11月7日に開かれる、一般の人が無料で参加できる蔵開きイベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-9a76ff1b22fa",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "本文はグラビアの記事で、タイトルにある「みむろ杉」のペアリング企画についての日時・会場・参加方法が一切書かれておらず、掲載するイベントとして確認できないため。",
+    "filled": [],
+    "todo": [],
+    "rejected": [
+      "organizer"
+    ]
+  },
+  {
+    "eventId": "evt-31b8fa9d74a1",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "日本産ホップを使ったクラフトビールを全国18ブルワリーから集め、2026年11月7日・8日に一般向けに開く有料ビールフェスなので掲載対象となる。",
+    "filled": [
+      "title",
+      "description",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-ab7481882ee2",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "世界各国のワインを飲み比べできる一般向けのワインイベントで、2026年11月22日に開かれる予定のため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-8b793b3d50b2",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "一般の人が共通チケットを買って赤坂の飲食店42店をはしご酒できるイベントで、2026年11月に開催予定のため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "price",
+      "isFree",
+      "reservationRequired"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-1e6d02df0dea",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "アニメ劇場版のグッズ発売と店舗での購入特典フェアの告知で、お酒のイベントではないため。",
+    "filled": [
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b7424ef2ccab",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "一般の人が参加できる、これから開催される地域の祭りで、城島酒蔵びらきの出張イベントも同時に開かれるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-94f4fe983b41",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "サントリー登美の丘ワイナリー等が「自然共生サイト」に認定されたという企業の取り組みの発表であり、一般の人が参加できるお酒のイベントの告知ではない。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-449e93d1e78b",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "純金製品の展示販売と買い取りを行う百貨店の催事で、カクテルの提供は週末限定の付帯企画（会場内BARは金製品の購入者のみ招待）にとどまり、お酒のイベントとはいえないため。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-08811043c2f6",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "Webマーケティングと EC の担当者向けビジネスセミナーで、お酒を楽しむイベントではないため対象外である。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-5c74fd743b06",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "飲食店31店舗で岩手県産食材を使った期間限定メニューを出す食のフェアであり、お酒が主役のイベントではなく、内容もメニュー提供のキャンペーンにあたるため対象外とする。",
+    "filled": [
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-ec6bd0ffa4f2",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "夜の水族館を貸し切って開く出会いイベントで、飲み放題はあるがお酒が主役のイベントではないため対象外とした。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-aca718f56a4e",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "2026年11月8日に開かれる、誰でも参加できる地酒の酒まつりで、記事の配信日時点ではまだ開催前のため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-cf66846bfe22",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "秋田ふるさと村で10月31日から11月3日まで開かれている、一般の人が日本酒やクラフトビールを飲み比べできる食とお酒の催しのため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [
+      "開催日が出典と異なる"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e85a8f1d3c0e",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "本文は鏡開きで開催を祝った様子を伝える開催報告の記事であり、これから参加できるイベントとしての日程や参加方法が書かれていないため。",
+    "filled": [
+      "venue.name"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-877c050963fc",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "published",
+    "reason": "福島市のワイナリーが11月7日に開く一般向けの感謝祭で、新酒の提供やワイナリーツアーがあり、記事の配信時点ではまだ開催前のため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-76e4fb733c2f",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-185a584fa841",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-8482f7faf60d",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "法人向けケータリングサービスのオプションプラン拡充の告知であり、一般の人が参加できるお酒のイベントではない。",
+    "filled": [
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-131c15b7bbfa",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "published",
+    "reason": "ホテル丸治が11月14日に一般参加者を先着80人募り、4蒸留所の蒸留酒を料理と一緒に味わえる会を開く予定のため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0faf52f7b036",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "published",
+    "reason": "一般の人が来場できる、これから開催されるワイナリーの収穫祭で、試飲・セミナー・ツアーがあるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b2bc87e953c9",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "アサヒビールの責任ある飲酒の取り組み（社内資格制度、プロジェクトの実績など）を報告する企業リリースで、一般の人が参加できるお酒のイベントの告知ではないため。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-4a6cdf8de85e",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "hidden",
+    "reason": "stand.fmのトーク番組の公開収録で、ビュッフェと飲み放題は付くものの、お酒そのものを楽しむためのイベントではないため。",
+    "filled": [
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-80f71f7efb43",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "published",
+    "reason": "福生市の酒蔵2カ所で11月7日に一般向けの蔵開きが開催される予定のため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-86d88a9519cb",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "秋田ふるさと村で開催中の、全国のご当地グルメと秋田の日本酒・クラフトビールを一般客が楽しめる食と酒の祭典で、11月3日まで開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [
+      "開催日が過去"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-761728e77b78",
+    "reviewedAt": "2026-11-03T02:40:35.970Z",
+    "decision": "pending",
+    "reason": "これから酒蔵で開かれる、一般の独身者が申し込んで参加できる日本酒テイスティング付きの恋活イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  }
+]
