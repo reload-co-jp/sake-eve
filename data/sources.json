@@ -9147,5 +9147,135 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-3b28a9128e0f",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000416.000129038.html",
+    "title": "ダイナミックに筆が躍る、圧巻の書道パフォーマンスを間近で！～大東文化大学第一高校書道部書道パフォーマンス及び「くらしと税金展」を開催～",
+    "publisher": "東京都板橋区",
+    "publishedAt": "2026-11-04T13:00:02+09:00",
+    "fetchedAt": "2026-11-04T22:29:38.897Z",
+    "contentHash": "a99aa9d1080546f4a4c0883c8d87341d0f45e2368b4bccfc3ba3f306e2eabc9b",
+    "relatedEventIds": [
+      "evt-3b28a9128e0f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c5c9d8292851",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000166717.html",
+    "title": "トレンド入り常連の大合コンが西武園&富士急で開催決定！4,000人が出会いを求めて夜の遊園地に大集結！",
+    "publisher": "株式会社バームクーヘン",
+    "publishedAt": "2026-11-04T13:00:02+09:00",
+    "fetchedAt": "2026-11-04T22:29:38.897Z",
+    "contentHash": "16fecc0640218499587f8ab6cd430c1778aa8cad0e6abe61d37e476a7028d6bc",
+    "relatedEventIds": [
+      "evt-c5c9d8292851"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "西武園ゆうえんち 埼玉県所沢市山口2964",
+      "prefecture": "埼玉県",
+      "city": "所沢市",
+      "officialUrl": "https://seibuen-night.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3da951c387ad",
+    "sourceType": "news",
+    "url": "https://hyuga.keizai.biz/headline/2070/",
+    "title": "日向・八幡通りで「路地酒場」 通りをビアガーデンに、昭和歌謡カラオケも",
+    "publisher": "日向経済新聞",
+    "publishedAt": "2026-11-04T02:00:01.000Z",
+    "fetchedAt": "2026-11-04T22:29:38.897Z",
+    "contentHash": "ff9c7f3666e4aaaaf08f45bdba8b9d6be2b27f58cdfcda6de2f0ad8e257a50b1",
+    "relatedEventIds": [
+      "evt-3da951c387ad"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-565a3b93006c",
+    "sourceType": "news",
+    "url": "https://news.mynavi.jp/article/20261104-5222159/",
+    "title": "長野県大町市にある温泉旅館「界 アルプス」で冬のライトアップイベント - 50個のかまくら雪灯篭が彩る幻想的な雪景色、囲炉裏で焼き餅や燗酒も堪能",
+    "publisher": "マイナビニュース",
+    "publishedAt": "2026-11-04T01:46:22.000Z",
+    "fetchedAt": "2026-11-04T22:29:38.897Z",
+    "contentHash": "a8e24473bf11e15ac5b4daf4e1d7189d5e0da80e8f7e6136a1fb036a44c28a17",
+    "relatedEventIds": [
+      "evt-565a3b93006c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2027-01-04",
+      "endDate": "2027-02-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "長野県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

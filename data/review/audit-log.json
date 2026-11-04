@@ -4882,5 +4882,25 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-04T22:29:38.897Z",
+    "collection": "events",
+    "id": "evt-e01cd76b1e5a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-04T22:29:38.897Z",
+    "collection": "events",
+    "id": "evt-2c19d003379f",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]
