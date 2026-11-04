@@ -10996,20 +10996,20 @@
   {
     "id": "evt-2e31903446e4",
     "slug": "e-2e31903446e4",
-    "title": "【星野リゾート、おもてなしの裏側】「そんなイベントやってた?」からの大逆転。社内の反対を覆した“ワイン樽転がし\"と、5000人を笑顔にさせたリゾナーレ八ヶ岳の八ヶ岳ワインフェスタ",
-    "description": null,
+    "title": "八ヶ岳ワインフェスタ",
+    "description": "リゾナーレ八ヶ岳の街並みにワイナリーが出店し、空き樽を転がして速さを競うワイン樽転がしレースや、大鍋で作る温かい料理を楽しめるワインの祭典だ。初日には、ワイナリーのチーフワインメーカーとEXILE SHOKICHI氏によるトークセッションもある。",
     "genres": [
       "wine"
     ],
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-01T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "リゾナーレ八ヶ岳",
       "address": null,
-      "prefecture": null,
+      "prefecture": "山梨県",
       "city": null,
       "latitude": null,
       "longitude": null
@@ -11027,14 +11027,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-31T20:28:08.128Z",
-    "updatedAt": "2026-10-31T20:28:08.128Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-76e4fb733c2f",
@@ -11611,8 +11611,8 @@
   {
     "id": "evt-eaaee73196b2",
     "slug": "e-eaaee73196b2",
-    "title": "久留米で「ふるさとみづま祭」 よさこいや物産展、城島の地酒も",
-    "description": null,
+    "title": "第39回久留米市ふるさとみづま祭",
+    "description": "芝生の公園で音楽やダンス、よさこいのステージを楽しめる地域の秋祭りである。筑後・三潴の食や物産が並ぶほか、城島酒蔵びらきに参加する蔵元の日本酒を味わえるブースも出る。",
     "genres": [
       "sake"
     ],
@@ -11624,14 +11624,14 @@
     "startAt": "2026-11-07T00:00:00+09:00",
     "endAt": "2026-11-08T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "水沼の里2000年記念の森公園",
+      "address": "久留米市三潴町玉満",
       "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "久留米市",
+      "latitude": 33.247532,
+      "longitude": 130.466354
     },
-    "organizer": null,
+    "organizer": "久留米市ふるさとみづま祭実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/kurume_keizai/headline/1793579365_photo.jpg",
@@ -11648,7 +11648,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-02T23:51:59.095Z",
-    "updatedAt": "2026-11-02T23:51:59.095Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -11669,19 +11669,19 @@
     "startAt": "2026-11-28T00:00:00+09:00",
     "endAt": "2026-12-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "ドン・キホーテUNY大桑 平面駐車場",
+      "address": "埼玉県加須市鳩山町10-10",
+      "prefecture": "埼玉県",
+      "city": "加須市",
+      "latitude": 36.107002,
+      "longitude": 139.65564
     },
-    "organizer": null,
-    "officialUrl": null,
+    "organizer": "牡蠣小屋実行委員会",
+    "officialUrl": "https://kakibugyo.com/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/110396/383/110396-383-1b9211b202a6d6e6703196a1a199c274-1749x1237.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "席代390円（未就学児無料）",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-b0d2e5e1346e"
@@ -11693,10 +11693,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-53278194e944",
@@ -11712,20 +11712,20 @@
     "startAt": "2026-11-10T00:00:00+09:00",
     "endAt": "2026-11-10T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "オンライン（Zoom）",
       "address": null,
       "prefecture": null,
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
-    "officialUrl": null,
+    "organizer": "かもめエンジニアリング株式会社",
+    "officialUrl": "https://solution.kamome-e.com/seminar/20261110/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/144029/28/144029-28-307ece7e0f27d06f4b9b0435077529da-1024x576.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "無料",
+    "isFree": true,
+    "reservationRequired": true,
     "sourceIds": [
       "src-53278194e944"
     ],
@@ -11736,10 +11736,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-e01cd76b1e5a",
@@ -11756,14 +11756,14 @@
     "startAt": "2026-11-04T00:00:00+09:00",
     "endAt": "2026-11-04T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "目利きの銀次 五井西口駅前店",
       "address": "千葉県市原市五井中央西2丁目8-33 小宮ビル 1階",
       "prefecture": "千葉県",
       "city": "市原市",
       "latitude": 35.514126,
       "longitude": 140.08847
     },
-    "organizer": null,
+    "organizer": "株式会社モンテローザ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/1046/893/1046-893-0e0d04fdc1514498a9d7086932757644-1950x1000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -11780,10 +11780,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-2ecb77de433b",
@@ -11797,8 +11797,8 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-02T00:00:00+09:00",
+    "endAt": "2026-11-02T23:59:00+09:00",
     "venue": {
       "name": null,
       "address": null,
@@ -11820,14 +11820,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c63e7fb5b376",
@@ -11840,13 +11840,13 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-03T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "山村広場",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "高知県",
+      "city": "大川村",
       "latitude": null,
       "longitude": null
     },
@@ -11855,7 +11855,7 @@
     "ticketUrl": null,
     "imageUrl": "https://www.yomiuri.co.jp/media/2026/11/20261103-GYTNI00037-1.jpg?type=ogp",
     "price": null,
-    "isFree": null,
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-c63e7fb5b376"
@@ -11863,14 +11863,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0b71d2b43de7",
@@ -11926,13 +11926,13 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-03T00:00:00+09:00",
+    "endAt": "2026-11-03T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "アリスガーデン",
       "address": null,
       "prefecture": "広島県",
-      "city": null,
+      "city": "広島市",
       "latitude": null,
       "longitude": null
     },
@@ -11940,8 +11940,8 @@
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/7/1/1200w/img_71a26b187886601125315baae08e9e7d876418.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-4fdc53cd3f0c"
@@ -11949,57 +11949,57 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d82c09b16b42",
     "slug": "e-d82c09b16b42",
-    "title": "約60種類の日本酒、飲み放題 13日にイヤタカでイベント、食事付き",
-    "description": null,
+    "title": "SAKE GARDEN2026",
+    "description": "秋田県産の日本酒約60種類を飲み比べながら、料理も味わえる日本酒イベントだ。県内の酒を一度にたくさん試し、好みの一本を見つけられる。",
     "genres": [
       "sake"
     ],
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-13T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "イヤタカ",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "秋田県",
+      "city": "秋田市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "口上人本舗",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.sakigake.jp/images/news-entry/20261103ak0012_01_l.jpg",
     "price": null,
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": true,
     "sourceIds": [
       "src-d82c09b16b42"
     ],
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
-    "verificationStatus": "needs_review",
+    "status": "scheduled",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-2c19d003379f",
@@ -12015,14 +12015,14 @@
     "startAt": "2026-11-04T00:00:00+09:00",
     "endAt": "2026-11-04T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "ＳＨＯＮＡＩ ＥＮＥＲＧＹスタジアム（市光ケ丘野球場）",
+      "address": "酒田市光ケ丘",
       "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "酒田市",
+      "latitude": 38.928547,
+      "longitude": 139.83136
     },
-    "organizer": null,
+    "organizer": "光ケ丘スポーツパーク構想実行委員会、酒田地区野球連盟",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -12039,16 +12039,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-86797389d0ef",
     "slug": "e-86797389d0ef",
-    "title": "周南「はつもみぢ」で酒蔵まつり 限定酒販売や蔵元による酒蔵見学も",
-    "description": null,
+    "title": "第14回はつもみぢ酒蔵まつり",
+    "description": "周南の酒蔵が毎年開く感謝祭で、限定酒や秘蔵酒を買えるほか、蔵元や蔵人の案内で蔵の中を見学できる。地酒や日本酒カクテルを味わえる酒蔵BARがあり、酒かすスイーツの販売やライブ、子ども向けの縁日もある。",
     "genres": [
       "sake"
     ],
@@ -12056,17 +12056,17 @@
       "festival",
       "tour"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "はつもみぢ",
+      "address": "周南市飯島町1",
+      "prefecture": "山口県",
+      "city": "周南市",
+      "latitude": 34.05138,
+      "longitude": 131.809006
     },
-    "organizer": null,
+    "organizer": "はつもみぢ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -12079,20 +12079,20 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
-    "verificationStatus": "needs_review",
+    "status": "scheduled",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-240797640b76",
     "slug": "e-240797640b76",
-    "title": "福生市内2酒蔵で「福生蔵開き」 拝島駅前や子ども向けイベントも",
-    "description": null,
+    "title": "第5回福生蔵開き",
+    "description": "福生市の2つの酒蔵で、酒蔵見学や限定酒の販売を通じて地元の酒造りに触れられる蔵開きだ。同じ日に周辺で商店会のまつり、子ども向けの催し、地ビールのフェスも開かれ、家族連れでも楽しめる。",
     "genres": [
       "sake"
     ],
@@ -12103,10 +12103,10 @@
     "startAt": "2026-11-07T00:00:00+09:00",
     "endAt": "2026-11-07T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "田村酒造場、石川酒造",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "東京都",
+      "city": "福生市",
       "latitude": null,
       "longitude": null
     },
@@ -12124,13 +12124,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-c6a8f60a7d79",
@@ -12143,17 +12143,17 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-01T00:00:00+09:00",
+    "endAt": "2026-11-01T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "道の駅なみえ",
       "address": null,
       "prefecture": null,
-      "city": null,
+      "city": "浪江町",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "実行委",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -12166,13 +12166,13 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-03T22:16:47.400Z",
+    "updatedAt": "2026-11-04T14:05:00.457Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   }
 ]

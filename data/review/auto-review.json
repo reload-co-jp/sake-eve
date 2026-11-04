@@ -445,5 +445,212 @@
       "都道府県"
     ],
     "rejected": []
+  },
+  {
+    "eventId": "evt-2e31903446e4",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-eaaee73196b2",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "pending",
+    "reason": "一般の人が参加できるこれから開催される地域の祭りで、城島酒蔵びらき参加蔵元の日本酒を楽しめる「出張！城島酒蔵びらきinみづま」も同時に開かれるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県",
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b0d2e5e1346e",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "宮城県産の牡蠣を炭火で焼いて食べる期間限定のカキ小屋で、お酒は飲み物として出るものの、お酒が主役のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-53278194e944",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "VPNとSASE導入を解説する企業向けのITセキュリティWebセミナーであり、お酒のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e01cd76b1e5a",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "居酒屋1店舗が期間限定で飲食メニューを半額にするセールで、お酒のイベントではなく店舗のキャンペーンにあたるため。",
+    "filled": [
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-2ecb77de433b",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "11月2日にニューヨークで飲食店関係者向けに開かれた試飲イベントの開催報告で、すでに終わったイベントのため。",
+    "filled": [
+      "startAt",
+      "endAt"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-c63e7fb5b376",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "11月3日にすでに開催された謝肉祭について、終わった後に報じた開催報告の記事であるため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "isFree"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-4fdc53cd3f0c",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "開催当日の様子を伝える報道記事で、配信時点ですでに開催中かつ同日19時に終了するため、これから開催されるイベントの告知ではなく開催報告にあたる。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.city",
+      "price",
+      "isFree"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-d82c09b16b42",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "published",
+    "reason": "秋田県産の日本酒を飲み放題で楽しめる一般向けのイベントで、11月13日に開催予定のため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-2c19d003379f",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "お酒とは関係のないスポーツイベントで、すでに11月1日に終わった開催報告の記事だから。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-86797389d0ef",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "published",
+    "reason": "酒造会社が11月7日・8日に一般向けに開く酒蔵まつりで、限定酒の販売や酒蔵見学、酒蔵BARがあり、配信日時点ではまだ開催前であるため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-240797640b76",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "published",
+    "reason": "福生市内の2酒蔵で11月7日に開かれる、一般の人が参加できる蔵開きイベントで、配信日の時点ではまだ開催前であるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-c6a8f60a7d79",
+    "reviewedAt": "2026-11-04T14:05:00.457Z",
+    "decision": "hidden",
+    "reason": "11月1日に開催済みの収穫祭の開催報告記事で、これから開催されるイベントではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
   }
 ]
