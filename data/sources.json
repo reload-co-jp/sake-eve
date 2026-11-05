@@ -9277,5 +9277,270 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-b3f28f6df1d8",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000034.000172277.html",
+    "title": "【まぐろ問屋】かにを食べ尽くす！＜―”茜色づく秋。かに祭”―＞フェアを開催!!　～まるでフレンチ!?ジャパンヌーボーとのペアリング商品～も期間限定で登場いたします。",
+    "publisher": "株式会社　ネオ・エモーション",
+    "publishedAt": "2026-11-05T13:10:01+09:00",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "54933a40c59a38799f7b54db2146d7658597d93d3075ac8eb0e326c880b4db28",
+    "relatedEventIds": [
+      "evt-b3f28f6df1d8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "1996-04-05",
+      "endDate": "1996-04-05",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4c6807ac079c",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000344.000012765.html",
+    "title": "スマートキャンプ、「情シス・セキュリティ FUTURE CONFERENCE 2027 冬 in 東京」を虎ノ門ヒルズにて1月22日に開催決定",
+    "publisher": "スマートキャンプ株式会社",
+    "publishedAt": "2026-11-05T13:00:02+09:00",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "696c45cdbde4482860883f386cfbf89127d1a1dde574b6f29a342bd774f34f93",
+    "relatedEventIds": [
+      "evt-4c6807ac079c"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-22",
+      "dateSource": "label",
+      "venueName": "虎ノ門ヒルズフォーラム5階(東京都港区虎ノ門1-23-3 虎ノ門ヒルズ森タワー5階)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": "https://event-page.jp/jsfc",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9eb535fa4f02",
+    "sourceType": "news",
+    "url": "https://www.saga-s.co.jp/articles/-/1824292",
+    "title": "酒蔵ギャラリーでお酒を片手に交流、素敵な出会いを 婚活イベント「ほろ酔い縁結日」 基山町で11月21日開催",
+    "publisher": "佐賀新聞",
+    "publishedAt": "2026-11-05T11:15:00.000Z",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "76596f9600de5708c0161e3f48cd4f04810858812107a88c803bf0eb061e7e56",
+    "relatedEventIds": [
+      "evt-9eb535fa4f02"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-78facb6cb4ef",
+    "sourceType": "news",
+    "url": "https://yamaguchi.keizai.biz/headline/5560/",
+    "title": "新山口駅周辺で「新山口えきまえ博」 酒やマルシェ、体験など3エリアで",
+    "publisher": "山口宇部経済新聞",
+    "publishedAt": "2026-11-05T09:59:46.000Z",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "54258dcd690355b3f80695857a1f6b8b93f49be156ff31dcc82353f4608fe74d",
+    "relatedEventIds": [
+      "evt-78facb6cb4ef"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-bfcc5407f7ba",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1146831",
+    "title": "焼酎の魅力再発見!カクテルセミナー 「GI薩摩」誕生20年を記念 【鹿児島】",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-11-05T09:34:00.000Z",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "3e88dc935f8449adeb4a4615f1f7fcec2435c98e6a51fa01392c33348534098d",
+    "relatedEventIds": [
+      "evt-bfcc5407f7ba"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-403e721d49c7",
+    "sourceType": "news",
+    "url": "https://www.kts-tv.co.jp/news/29285/",
+    "title": "焼酎の魅力再発見!カクテルセミナー 「GI薩摩」誕生20年を記念 【鹿児島】",
+    "publisher": "ＫＴＳ鹿児島テレビ　Kagoshima　Television　for　Smile",
+    "publishedAt": "2026-11-05T09:34:00.000Z",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "cb1e00cf015316a16011cc2eabd33f811c0c4e0b39567b59b130b74b7d25967b",
+    "relatedEventIds": [
+      "evt-403e721d49c7"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-bfcc5407f7ba"
+      ]
+    }
+  },
+  {
+    "id": "src-47c1402902ff",
+    "sourceType": "news",
+    "url": "http://www.shonai-nippo.co.jp/cgi/ad/day.cgi?p=2026:11:06:16826",
+    "title": "フルーティーでさっぱり 松ケ岡産ブドウ100% ヌーボー解禁イベント 笑顔で乾杯「最高のワイン」",
+    "publisher": "荘内日報",
+    "publishedAt": "2026-11-05T04:58:05.000Z",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "5f03659db14414c1863f987c245f6aed2d3da562c04714c72e562d6cb235adf5",
+    "relatedEventIds": [
+      "evt-47c1402902ff"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-caef0fb1514c",
+    "sourceType": "news",
+    "url": "https://www.oita-press.co.jp/1010000000/2026/11/05/JDC2026110200763",
+    "title": "神楽や芸人トーク…8日に「ぶんごおおのフェスタ」 利き酒選手権や自転車ツアーも",
+    "publisher": "大分合同新聞",
+    "publishedAt": "2026-11-05T02:57:00.000Z",
+    "fetchedAt": "2026-11-05T22:37:39.516Z",
+    "contentHash": "6708bfe553c4659809091e9637a53a1bdb005e0317a28a6ee151103d12d01582",
+    "relatedEventIds": [
+      "evt-caef0fb1514c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "tour"
+      ],
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

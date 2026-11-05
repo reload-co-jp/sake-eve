@@ -5277,5 +5277,25 @@
       "publication"
     ],
     "note": "auto-review: 温泉旅館の宿泊客向けの冬季ライトアップ企画で、燗酒は付帯の体験にすぎないため、一般の人が参加できるお酒のイベントとはいえない。"
+  },
+  {
+    "at": "2026-11-05T22:37:39.516Z",
+    "collection": "events",
+    "id": "evt-4c6807ac079c",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-05T22:37:39.516Z",
+    "collection": "events",
+    "id": "evt-b3f28f6df1d8",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]
