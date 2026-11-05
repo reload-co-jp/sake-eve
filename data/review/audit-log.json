@@ -5197,5 +5197,85 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-05T11:26:42.328Z",
+    "collection": "events",
+    "id": "evt-3b28a9128e0f",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-05T11:26:42.328Z",
+    "collection": "events",
+    "id": "evt-3b28a9128e0f",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 税の啓発を目的とした区役所での展示と書道パフォーマンスで、お酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-05T11:26:42.328Z",
+    "collection": "events",
+    "id": "evt-c5c9d8292851",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-05T11:26:42.328Z",
+    "collection": "events",
+    "id": "evt-c5c9d8292851",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 閉園後の遊園地を貸し切った男女の出会いパーティーが主な内容で、飲み放題はあるものの、お酒を主役にしたイベントではない。"
+  },
+  {
+    "at": "2026-11-05T11:26:42.328Z",
+    "collection": "events",
+    "id": "evt-3da951c387ad",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-05T11:26:42.328Z",
+    "collection": "events",
+    "id": "evt-565a3b93006c",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-05T11:26:42.328Z",
+    "collection": "events",
+    "id": "evt-565a3b93006c",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 温泉旅館の宿泊客向けの冬季ライトアップ企画で、燗酒は付帯の体験にすぎないため、一般の人が参加できるお酒のイベントとはいえない。"
   }
 ]

@@ -652,5 +652,68 @@
     ],
     "todo": [],
     "rejected": []
+  },
+  {
+    "eventId": "evt-3b28a9128e0f",
+    "reviewedAt": "2026-11-05T11:26:42.328Z",
+    "decision": "hidden",
+    "reason": "税の啓発を目的とした区役所での展示と書道パフォーマンスで、お酒のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-c5c9d8292851",
+    "reviewedAt": "2026-11-05T11:26:42.328Z",
+    "decision": "hidden",
+    "reason": "閉園後の遊園地を貸し切った男女の出会いパーティーが主な内容で、飲み放題はあるものの、お酒を主役にしたイベントではない。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-3da951c387ad",
+    "reviewedAt": "2026-11-05T11:26:42.328Z",
+    "decision": "pending",
+    "reason": "一般の来場者が通りに並んだ席で周辺の飲食店の酒や料理を楽しめるストリートビアガーデンで、配信日より後の11月7日に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-565a3b93006c",
+    "reviewedAt": "2026-11-05T11:26:42.328Z",
+    "decision": "hidden",
+    "reason": "温泉旅館の宿泊客向けの冬季ライトアップ企画で、燗酒は付帯の体験にすぎないため、一般の人が参加できるお酒のイベントとはいえない。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
   }
 ]

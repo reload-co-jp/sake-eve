@@ -12189,14 +12189,14 @@
     "startAt": "2026-11-17T00:00:00+09:00",
     "endAt": "2026-11-17T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "板橋区役所北館1階イベントスクエア",
+      "address": "板橋2-66-1",
+      "prefecture": "東京都",
+      "city": "板橋区",
+      "latitude": 35.750694,
+      "longitude": 139.709503
     },
-    "organizer": null,
+    "organizer": "板橋区",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/129038/416/129038-416-907c2c31945ec3ba2a7eff5f3937e310-3068x2045.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -12213,10 +12213,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-04T22:29:38.897Z",
-    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-05T11:26:42.328Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c5c9d8292851",
@@ -12232,19 +12232,19 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-21T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "西武園ゆうえんち",
       "address": "西武園ゆうえんち 埼玉県所沢市山口2964",
       "prefecture": "埼玉県",
       "city": "所沢市",
       "latitude": 43.074455,
       "longitude": 141.300903
     },
-    "organizer": null,
+    "organizer": "西武園ナイト実行委員会",
     "officialUrl": "https://seibuen-night.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/166717/26/166717-26-e8acb118c65435518f9c2df0b046eb8e-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "女性4,000円・男性7,000円",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-c5c9d8292851"
@@ -12256,16 +12256,16 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-04T22:29:38.897Z",
-    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-05T11:26:42.328Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-3da951c387ad",
     "slug": "e-3da951c387ad",
-    "title": "日向・八幡通りで「路地酒場」 通りをビアガーデンに、昭和歌謡カラオケも",
-    "description": null,
+    "title": "八幡通り路地酒場（ロジサカ）",
+    "description": "ちょうちんで飾った歩行者天国の通りに席が並び、近くの居酒屋やスナックで買った酒や料理を好きな席で味わえるストリート型のビアガーデンだ。空き地に設けたステージでは、昭和歌謡に限ったカラオケ大会も行われる。",
     "genres": [
       "beer",
       "sake"
@@ -12277,19 +12277,19 @@
     "startAt": "2026-11-07T00:00:00+09:00",
     "endAt": "2026-11-07T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "八幡通り",
+      "address": "日向市上町",
       "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "日向市",
+      "latitude": 32.424835,
+      "longitude": 131.625549
     },
-    "organizer": null,
+    "organizer": "ひゅうが新町商店街振興組合",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/hyuga_keizai/headline/1793737780_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-3da951c387ad"
@@ -12301,7 +12301,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-04T22:29:38.897Z",
-    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-05T11:26:42.328Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -12320,14 +12320,14 @@
     "startAt": "2027-01-04T00:00:00+09:00",
     "endAt": "2027-02-28T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "界 アルプス",
+      "address": "長野県大町市",
       "prefecture": "長野県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "大町市",
+      "latitude": 36.502983,
+      "longitude": 137.850922
     },
-    "organizer": null,
+    "organizer": "界 アルプス",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://news.mynavi.jp/article/20261104-5222159/ogp_images/ogp.jpg",
@@ -12344,9 +12344,9 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-04T22:29:38.897Z",
-    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-05T11:26:42.328Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   }
 ]
