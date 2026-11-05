@@ -11780,7 +11780,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-04T14:05:00.457Z",
+    "updatedAt": "2026-11-04T22:29:38.897Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
@@ -12039,7 +12039,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-04T14:05:00.457Z",
+    "updatedAt": "2026-11-04T22:29:38.897Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
@@ -12174,5 +12174,179 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-3b28a9128e0f",
+    "slug": "e-3b28a9128e0f",
+    "title": "ダイナミックに筆が躍る、圧巻の書道パフォーマンスを間近で！～大東文化大学第一高校書道部書道パフォーマンス及び「くらしと税金展」を開催～",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-17T00:00:00+09:00",
+    "endAt": "2026-11-17T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/129038/416/129038-416-907c2c31945ec3ba2a7eff5f3937e310-3068x2045.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3b28a9128e0f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c5c9d8292851",
+    "slug": "e-c5c9d8292851",
+    "title": "トレンド入り常連の大合コンが西武園&富士急で開催決定！4,000人が出会いを求めて夜の遊園地に大集結！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-21T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "西武園ゆうえんち 埼玉県所沢市山口2964",
+      "prefecture": "埼玉県",
+      "city": "所沢市",
+      "latitude": 43.074455,
+      "longitude": 141.300903
+    },
+    "organizer": null,
+    "officialUrl": "https://seibuen-night.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/166717/26/166717-26-e8acb118c65435518f9c2df0b046eb8e-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c5c9d8292851"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3da951c387ad",
+    "slug": "e-3da951c387ad",
+    "title": "日向・八幡通りで「路地酒場」 通りをビアガーデンに、昭和歌謡カラオケも",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/hyuga_keizai/headline/1793737780_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3da951c387ad"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-565a3b93006c",
+    "slug": "e-565a3b93006c",
+    "title": "長野県大町市にある温泉旅館「界 アルプス」で冬のライトアップイベント - 50個のかまくら雪灯篭が彩る幻想的な雪景色、囲炉裏で焼き餅や燗酒も堪能",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2027-01-04T00:00:00+09:00",
+    "endAt": "2027-02-28T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "長野県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://news.mynavi.jp/article/20261104-5222159/ogp_images/ogp.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-565a3b93006c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-04T22:29:38.897Z",
+    "updatedAt": "2026-11-04T22:29:38.897Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]

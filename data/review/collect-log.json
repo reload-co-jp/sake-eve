@@ -1355,5 +1355,51 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-11-04T22:25:17.791Z",
+    "finishedAt": "2026-11-04T22:29:45.214Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://www.rbbtoday.com/article/2026/11/04/255393.html: アクセス制限 (HTTP 403) のため中止: https://www.rbbtoday.com/article/2026/11/04/255393.html / 詳細取得失敗 https://hobby.dengeki.com/news/3217602/: robots.txtで禁止されているため取得しません: https://hobby.dengeki.com/news/3217602/ / 詳細取得失敗 https://tetsudo-ch.com/13043472.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13043472.html / 詳細取得失敗 https://www.sbbit.jp/article/cont1/187878: アクセス制限 (HTTP 403) のため中止: https://www.sbbit.jp/article/cont1/187878 / 詳細取得失敗 https://natalie.mu/comic/news/696442: HTTP 405: https://natalie.mu/comic/news/696442 / 詳細取得25件 / 失敗5件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 290,
+      "duplicateUrl": 6,
+      "added": 4,
+      "needsReview": 3,
+      "autoPublished": 0,
+      "duplicateCandidates": 0,
+      "autoHidden": 2,
+      "autoReviewed": 0,
+      "summarized": 0,
+      "geocoded": 1
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]
