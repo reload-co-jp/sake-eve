@@ -12650,10 +12650,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-05T22:37:39.516Z",
-    "updatedAt": "2026-11-05T22:37:39.516Z",
+    "updatedAt": "2026-11-06T22:01:04.660Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-caef0fb1514c",
@@ -12695,7 +12695,223 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-05T22:37:39.516Z",
-    "updatedAt": "2026-11-05T22:37:39.516Z",
+    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-bc1e20c0dcff",
+    "slug": "e-bc1e20c0dcff",
+    "title": "AIガバナンス協会とトラスト＆セーフティ協会、「AI生成コンテンツの安全性研究会」報告シンポジウムを12月11日に開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-11T00:00:00+09:00",
+    "endAt": "2026-12-11T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都渋谷区",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "latitude": 35.66367,
+      "longitude": 139.697723
+    },
+    "organizer": null,
+    "officialUrl": "https://www.ai-governance.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/131696/17/131696-17-2cfc3887c3d5130bcb546c1fc1aaaf9f-756x415.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-bc1e20c0dcff"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0d7cfe3e0f95",
+    "slug": "e-0d7cfe3e0f95",
+    "title": "「川崎ヌーボー」で乾杯 解禁イベント 「果実味楽しめるワイン」 /神奈川",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0d7cfe3e0f95"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0d9d6f9fab1e",
+    "slug": "e-0d9d6f9fab1e",
+    "title": "【秋の風物詩】国道で乾杯!新焼酎まつり 鹿児島・鹿屋で約3000人",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/b/c/600/img_bca1f9450f150ec941fad6729d0bccdc42360.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0d9d6f9fab1e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-34fb5eb04d1a",
+    "slug": "e-34fb5eb04d1a",
+    "title": "【秋の風物詩】国道で乾杯!新焼酎まつり 鹿児島・鹿屋で約3000人",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.kts-tv.co.jp/news/data/29290/image.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-34fb5eb04d1a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0b6c010cab47",
+    "slug": "e-0b6c010cab47",
+    "title": "【2日間だけ】街を巡って楽しむ…大阪「クラフトビールフェス」、9社のブルワリー集結!グルメ&音楽ライブも",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.lmaga.jp/wp-content/uploads/2026/11/katamachi2026_1105_3.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0b6c010cab47"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-06T22:01:04.660Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

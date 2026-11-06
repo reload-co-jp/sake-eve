@@ -5297,5 +5297,25 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-06T22:01:04.660Z",
+    "collection": "events",
+    "id": "evt-47c1402902ff",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-06T22:01:04.660Z",
+    "collection": "events",
+    "id": "evt-caef0fb1514c",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

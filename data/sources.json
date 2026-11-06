@@ -9542,5 +9542,171 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-bc1e20c0dcff",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000017.000131696.html",
+    "title": "AIガバナンス協会とトラスト＆セーフティ協会、「AI生成コンテンツの安全性研究会」報告シンポジウムを12月11日に開催",
+    "publisher": "AIガバナンス協会",
+    "publishedAt": "2026-11-05T10:00:03+09:00",
+    "fetchedAt": "2026-11-06T22:01:04.660Z",
+    "contentHash": "c48c1aa66cc37781ae3420c5eee3b9e868f47899c991ea960eb17ce70ab55068",
+    "relatedEventIds": [
+      "evt-bc1e20c0dcff"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-11",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "東京都渋谷区",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": "https://www.ai-governance.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0d7cfe3e0f95",
+    "sourceType": "news",
+    "url": "https://mainichi.jp/articles/20261107/ddl/k14/040/033000c",
+    "title": "「川崎ヌーボー」で乾杯 解禁イベント 「果実味楽しめるワイン」 /神奈川",
+    "publisher": "毎日新聞",
+    "publishedAt": "2026-11-06T20:03:15.000Z",
+    "fetchedAt": "2026-11-06T22:01:04.660Z",
+    "contentHash": "51a56b47c84e61a6bf1e53243e373a18c5e696dbca1e505090eeff173988c4e8",
+    "relatedEventIds": [
+      "evt-0d7cfe3e0f95"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0d9d6f9fab1e",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1147562",
+    "title": "【秋の風物詩】国道で乾杯!新焼酎まつり 鹿児島・鹿屋で約3000人",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-11-06T09:30:00.000Z",
+    "fetchedAt": "2026-11-06T22:01:04.660Z",
+    "contentHash": "99cbeba0f16e1d13274dac2345f44fa3114ebd25289b25a3ff9ee5575c4d38f0",
+    "relatedEventIds": [
+      "evt-0d9d6f9fab1e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-34fb5eb04d1a",
+    "sourceType": "news",
+    "url": "https://www.kts-tv.co.jp/news/29290/",
+    "title": "【秋の風物詩】国道で乾杯!新焼酎まつり 鹿児島・鹿屋で約3000人",
+    "publisher": "ＫＴＳ鹿児島テレビ　Kagoshima　Television　for　Smile",
+    "publishedAt": "2026-11-06T09:30:00.000Z",
+    "fetchedAt": "2026-11-06T22:01:04.660Z",
+    "contentHash": "f93734c227a444c69214effc4b4785d4ed450aa13cac0d975459cea3456c319c",
+    "relatedEventIds": [
+      "evt-34fb5eb04d1a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-0d9d6f9fab1e"
+      ]
+    }
+  },
+  {
+    "id": "src-0b6c010cab47",
+    "sourceType": "news",
+    "url": "https://www.lmaga.jp/news/2026/11/1114757/",
+    "title": "【2日間だけ】街を巡って楽しむ…大阪「クラフトビールフェス」、9社のブルワリー集結!グルメ&音楽ライブも",
+    "publisher": "Lmaga.jp | 関西のおいしい、楽しい、知りたい…がいっぱい。関西人による、関西が好きな人のための、関西を24時間遊ぶニュースサイトです。",
+    "publishedAt": "2026-11-05T21:45:00.000Z",
+    "fetchedAt": "2026-11-06T22:01:04.660Z",
+    "contentHash": "e8606a55a5d5d030064d4020d8e8b811fa8a42f596541c8c54a5c5dc7dedb872",
+    "relatedEventIds": [
+      "evt-0b6c010cab47"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "market"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-71ed4640f133",
+        "evt-f49dc2bce459"
+      ]
+    }
   }
 ]

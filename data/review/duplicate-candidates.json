@@ -109,5 +109,32 @@
       "similar_title"
     ],
     "detectedAt": "2026-11-05T22:37:39.516Z"
+  },
+  {
+    "eventId": "evt-34fb5eb04d1a",
+    "candidateEventId": "evt-0d9d6f9fab1e",
+    "score": 1,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-11-06T22:01:04.660Z"
+  },
+  {
+    "eventId": "evt-0b6c010cab47",
+    "candidateEventId": "evt-71ed4640f133",
+    "score": 0.31,
+    "reasons": [
+      "same_start_date"
+    ],
+    "detectedAt": "2026-11-06T22:01:04.660Z"
+  },
+  {
+    "eventId": "evt-0b6c010cab47",
+    "candidateEventId": "evt-f49dc2bce459",
+    "score": 0.32,
+    "reasons": [
+      "same_start_date"
+    ],
+    "detectedAt": "2026-11-06T22:01:04.660Z"
   }
 ]
