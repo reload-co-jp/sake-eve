@@ -9708,5 +9708,69 @@
         "evt-f49dc2bce459"
       ]
     }
+  },
+  {
+    "id": "src-0ea56fea3b1f",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000008.000166289.html",
+    "title": "生成AIを活用するマーケティング支援会社として「生成AI活用の基本方針」を公開。あわせてIPA「SECURITY ACTION」二つ星を宣言",
+    "publisher": "株式会社circle",
+    "publishedAt": "2026-11-06T17:05:05+09:00",
+    "fetchedAt": "2026-11-07T20:42:26.815Z",
+    "contentHash": "955ef986d2b9a3b66113ca391d88ca4b66d065e687fd7fdc3ffd3f4c6294e809",
+    "relatedEventIds": [
+      "evt-0ea56fea3b1f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9a4c52067a2e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000360.000029485.html",
+    "title": "【11/27開催】全職種対象のカジュアル交流会「Re:lation Night」を開催",
+    "publisher": "株式会社インゲージ",
+    "publishedAt": "2026-11-06T09:30:29+09:00",
+    "fetchedAt": "2026-11-07T20:42:26.815Z",
+    "contentHash": "9c14588bacd275c163852a36f6ffae290fbf8c28f64b72301fd423ce7803ec38",
+    "relatedEventIds": [
+      "evt-9a4c52067a2e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "dateSource": "text",
+      "venueName": null,
+      "address": "大阪府大阪市北区芝田一丁目14番8号",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

@@ -10424,10 +10424,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-30T21:27:19.597Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-07T20:42:26.815Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c986a48b100b",
@@ -12301,10 +12301,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-04T22:29:38.897Z",
-    "updatedAt": "2026-11-05T11:26:42.328Z",
+    "updatedAt": "2026-11-07T20:42:26.815Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-565a3b93006c",
@@ -12912,6 +12912,92 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-06T22:01:04.660Z",
     "updatedAt": "2026-11-06T22:01:04.660Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0ea56fea3b1f",
+    "slug": "e-0ea56fea3b1f",
+    "title": "生成AIを活用するマーケティング支援会社として「生成AI活用の基本方針」を公開。あわせてIPA「SECURITY ACTION」二つ星を宣言",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/166289/8/166289-8-4907364ec632351d73304396a81b857a-1280x670.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0ea56fea3b1f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-07T20:42:26.815Z",
+    "updatedAt": "2026-11-07T20:42:26.815Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9a4c52067a2e",
+    "slug": "e-9a4c52067a2e",
+    "title": "【11/27開催】全職種対象のカジュアル交流会「Re:lation Night」を開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-27T00:00:00+09:00",
+    "endAt": "2026-11-27T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "大阪府大阪市北区芝田一丁目14番8号",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "latitude": 34.708248,
+      "longitude": 135.496628
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/29485/360/29485-360-7d25abe44b57f4e49fbd05cba0571f51-600x338.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9a4c52067a2e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-07T20:42:26.815Z",
+    "updatedAt": "2026-11-07T20:42:26.815Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
