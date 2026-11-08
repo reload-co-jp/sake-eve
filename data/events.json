@@ -12439,8 +12439,8 @@
   {
     "id": "evt-9eb535fa4f02",
     "slug": "e-9eb535fa4f02",
-    "title": "酒蔵ギャラリーでお酒を片手に交流、素敵な出会いを 婚活イベント「ほろ酔い縁結日」 基山町で11月21日開催",
-    "description": null,
+    "title": "基山ほろ酔い縁結日",
+    "description": "酒蔵のギャラリーを舞台に、お酒やソフトドリンクを手に結婚を望む独身男女が交流する婚活イベントだ。ニックネームで参加し、個別トークやグループトークで出会いを探せる。",
     "genres": [
       "sake"
     ],
@@ -12450,20 +12450,20 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-21T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "基山商店ギャラリーKey",
       "address": null,
       "prefecture": null,
-      "city": null,
+      "city": "基山町",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "基山町定住促進課",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://saga.ismcdn.jp/mwimgs/9/f/1200m/img_9f2367eae7f5e2ba06710f7e22827c2e442690.jpg",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "2,000円",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-9eb535fa4f02"
     ],
@@ -12474,7 +12474,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-05T22:37:39.516Z",
-    "updatedAt": "2026-11-05T22:37:39.516Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -12482,8 +12482,8 @@
   {
     "id": "evt-78facb6cb4ef",
     "slug": "e-78facb6cb4ef",
-    "title": "新山口駅周辺で「新山口えきまえ博」 酒やマルシェ、体験など3エリアで",
-    "description": null,
+    "title": "新山口えきまえ博",
+    "description": "学生と地域、企業が手を組み、新山口駅周辺の3エリアで開く催しだ。県内地酒12銘柄の飲み比べや地元グルメ、音楽ステージ、学生のマルシェ、親子向けの体験コンテンツが楽しめる。",
     "genres": [
       "sake"
     ],
@@ -12495,19 +12495,19 @@
     "startAt": "2026-11-14T00:00:00+09:00",
     "endAt": "2026-11-14T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "新山口駅周辺",
       "address": null,
       "prefecture": null,
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "小郡がつながる・つなげるプロジェクト実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/yamaguchi_keizai/headline/1793872924_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "入場無料（一部有料コンテンツあり）",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-78facb6cb4ef"
@@ -12519,7 +12519,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-05T22:37:39.516Z",
-    "updatedAt": "2026-11-05T22:37:39.516Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -12607,10 +12607,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-05T22:37:39.516Z",
-    "updatedAt": "2026-11-05T22:37:39.516Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-47c1402902ff",
@@ -12714,20 +12714,20 @@
     "startAt": "2026-12-11T00:00:00+09:00",
     "endAt": "2026-12-11T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "オンライン（Teams）",
       "address": "東京都渋谷区",
       "prefecture": "東京都",
       "city": "渋谷区",
       "latitude": 35.66367,
       "longitude": 139.697723
     },
-    "organizer": null,
+    "organizer": "一般社団法人AIガバナンス協会、一般社団法人トラスト＆セーフティ協会",
     "officialUrl": "https://www.ai-governance.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/131696/17/131696-17-2cfc3887c3d5130bcb546c1fc1aaaf9f-756x415.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "無料",
+    "isFree": true,
+    "reservationRequired": true,
     "sourceIds": [
       "src-bc1e20c0dcff"
     ],
@@ -12738,10 +12738,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-06T22:01:04.660Z",
-    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0d7cfe3e0f95",
@@ -12867,10 +12867,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-06T22:01:04.660Z",
-    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0b6c010cab47",
@@ -12954,10 +12954,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-07T20:42:26.815Z",
-    "updatedAt": "2026-11-07T20:42:26.815Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-9a4c52067a2e",
@@ -12973,20 +12973,20 @@
     "startAt": "2026-11-27T00:00:00+09:00",
     "endAt": "2026-11-27T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "株式会社インゲージ 大阪オフィス",
       "address": "大阪府大阪市北区芝田一丁目14番8号",
       "prefecture": "大阪府",
       "city": "大阪市",
       "latitude": 34.708248,
       "longitude": 135.496628
     },
-    "organizer": null,
-    "officialUrl": null,
+    "organizer": "株式会社インゲージ",
+    "officialUrl": "https://ingage.jp/relation/event/261127relation-night/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/29485/360/29485-360-7d25abe44b57f4e49fbd05cba0571f51-600x338.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "無料",
+    "isFree": true,
+    "reservationRequired": true,
     "sourceIds": [
       "src-9a4c52067a2e"
     ],
@@ -12997,10 +12997,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-07T20:42:26.815Z",
-    "updatedAt": "2026-11-07T20:42:26.815Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-8d74292fe823",
@@ -13023,7 +13023,7 @@
       "latitude": 34.709778,
       "longitude": 135.50441
     },
-    "organizer": null,
+    "organizer": "合同会社firstfan",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/120051/55/120051-55-408da4735ad6e675ad1395e8d8612ab6-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -13040,10 +13040,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c7859d77ec06",
@@ -13059,14 +13059,14 @@
     "startAt": "2026-11-16T00:00:00+09:00",
     "endAt": "2026-11-16T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "ドラゴンホットポット 六本木店",
       "address": "東京都港区六本木3-15-23六本木花椿ビル2F",
       "prefecture": "東京都",
       "city": "港区",
       "latitude": 35.662518,
       "longitude": 139.735672
     },
-    "organizer": null,
+    "organizer": "株式会社D.H",
     "officialUrl": "https://dragonhotpot.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/177619/11/177619-11-c5a19dccdcd9a5e691f8be57bb1b0105-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -13083,10 +13083,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6f9145ec34da",
@@ -13100,17 +13100,17 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-08T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "石垣島ホテルククル前から石垣島ヴィレッジ前の道路",
       "address": null,
       "prefecture": null,
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "一般社団法人美崎町エリアマネジメント",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.yaeyama-nippo.co.jp/wp-content/uploads/2026/11/90ac83fb63a6f5057a96bfe15263be33-2.jpg",
@@ -13123,14 +13123,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-257794323e43",
@@ -13144,10 +13144,10 @@
       "tasting",
       "seminar"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-05T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "香港会議展覧中心（香港コンベンション・アンド・エキシビションセンター、ＨＫＣＥＣ）",
       "address": null,
       "prefecture": null,
       "city": null,
@@ -13167,14 +13167,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-60ff9dda6cb3",
@@ -13187,17 +13187,17 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-08T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "酒谷川河川敷",
       "address": null,
       "prefecture": null,
-      "city": null,
+      "city": "日南市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "日南広渡川漁協、日南中央ロータリークラブ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.the-miyanichi.co.jp/contents/wp-content/uploads/2026/11/CNTS2026110800565_143447.jpg",
@@ -13210,14 +13210,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-43d926deb455",
@@ -13266,8 +13266,8 @@
   {
     "id": "evt-5e32e2e6b003",
     "slug": "e-5e32e2e6b003",
-    "title": "小さなお酒イベント、11~13日に宇都宮オリオンスクエア その後も県内各地で",
-    "description": null,
+    "title": "HELLO！！MOON＿NIGHT",
+    "description": "地元の酒店とキッチンカーが出店し、栃木県内の蔵元の日本酒10種類を少量ずつ飲み比べできる夜の屋外バーである。果実酒やハイボールに加え、ラーメンや燻製おつまみも味わえ、12日は音楽ライブも楽しめる。",
     "genres": [
       "whisky",
       "sake",
@@ -13279,14 +13279,14 @@
     "startAt": "2026-11-14T00:00:00+09:00",
     "endAt": "2026-11-14T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "オリオンスクエア",
+      "address": "宇都宮市江野町",
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "latitude": 36.560249,
+      "longitude": 139.882233
     },
-    "organizer": null,
+    "organizer": "星絵理子さんらの実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://soon.ismcdn.jp/mwimgs/2/0/1200wm/img_2087a46bcb0d738052b639b70d20c27a203640.jpg",
@@ -13303,7 +13303,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -13398,25 +13398,25 @@
   {
     "id": "evt-3ed2b41c788c",
     "slug": "e-3ed2b41c788c",
-    "title": "男鹿市「稲とアガベ」創業5周年記念イベント 8日まで、クラフトサケ飲み放題も!",
-    "description": null,
+    "title": "稲とアガベ創業5周年記念イベント",
+    "description": "男鹿市の酒造り会社「稲とアガベ」が創業5周年を祝う催しである。ホップを使った酒など10種類以上のクラフトサケの飲み放題があり、キッチンカーで県内外のグルメも味わえる。",
     "genres": [
       "sake"
     ],
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "稲とアガベ醸造所周辺",
+      "address": "秋田県男鹿市船川港船川",
+      "prefecture": "秋田県",
+      "city": "男鹿市",
+      "latitude": 39.885139,
+      "longitude": 139.843353
     },
-    "organizer": null,
+    "organizer": "稲とアガベ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.sakigake.jp/images/news-entry/AK20261107G00018_l.jpg",
@@ -13429,14 +13429,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c2357b8868c6",
@@ -13484,8 +13484,8 @@
   {
     "id": "evt-e534bf019cd5",
     "slug": "e-e534bf019cd5",
-    "title": "日本全国26蔵の日本酒が楽しめる「梅田 全国日本酒祭」を11月21日・22日に開催",
-    "description": null,
+    "title": "第6回ヨドバシ梅田 全国日本酒祭",
+    "description": "全国26の酒蔵が集まり、この時期ならではの新酒から季節限定品、定番酒まで約200種類を試飲できる日本酒の即売会だ。日本酒のほかリキュールなども出品され、気に入った酒をその場で買い求められる。",
     "genres": [
       "sake"
     ],
@@ -13497,19 +13497,19 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-22T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "ヨドバシカメラ マルチメディア梅田 地下2階ヨドバシホール",
+      "address": "大阪府大阪市",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "latitude": 34.69389,
+      "longitude": 135.502228
     },
-    "organizer": null,
+    "organizer": "ヨドバシカメラ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.bcnretail.com/files/topics/674466_ext_05_0.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-e534bf019cd5"
@@ -13518,13 +13518,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-79a1cabc283b",
@@ -13539,17 +13539,17 @@
       "brewery_open_day",
       "tour"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "黄桜本社 伏水蔵 物流センター",
       "address": null,
       "prefecture": "京都府",
-      "city": null,
+      "city": "京都市伏見区",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "黄桜",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3843999007112026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.29&fp-y=0.48&h=630&upscale=false&w=1200&s=b22cf95eaf8d91cf42faab4c73c5d085",
@@ -13562,14 +13562,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T23:23:37.640Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-03aa7c58bfaf",

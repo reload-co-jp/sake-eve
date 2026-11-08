@@ -715,5 +715,243 @@
     ],
     "todo": [],
     "rejected": []
+  },
+  {
+    "eventId": "evt-9eb535fa4f02",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "pending",
+    "reason": "酒蔵のギャラリーでお酒を片手に交流する一般参加型の婚活イベントで、配信日以降の11月21日に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-78facb6cb4ef",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "pending",
+    "reason": "山口県内の地酒12銘柄の飲み比べを含む一般向けイベントで、配信日より後の11月14日に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-403e721d49c7",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "本文に開催日時や会場、参加方法の記載がなく、ニュース形式のタイトルから開催報告である可能性が高いため、これから開催される一般参加型イベントとは確認できない。",
+    "filled": [],
+    "todo": [],
+    "rejected": [
+      "prefecture"
+    ]
+  },
+  {
+    "eventId": "evt-bc1e20c0dcff",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "AI生成コンテンツの安全性を議論するオンラインシンポジウムであり、お酒に関するイベントではないため。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-34fb5eb04d1a",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "タイトルの「約3000人」という表現から、すでに開催された新焼酎まつりの開催報告と判断され、本文にもこれからの開催を示す情報がないためである。",
+    "filled": [],
+    "todo": [],
+    "rejected": [
+      "prefecture",
+      "city"
+    ]
+  },
+  {
+    "eventId": "evt-0ea56fea3b1f",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "マーケティング支援会社による生成AI活用方針の公開と情報セキュリティ宣言に関する企業発表であり、お酒のイベントではないため。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-9a4c52067a2e",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "お酒と軽食は付くが、SaaS企業が転職希望者向けに開く採用目的の交流会で、お酒を主題とするイベントではない。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-8d74292fe823",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "抹茶スイーツとバッグの対面販売会であり、お酒のイベントではないため対象外である。",
+    "filled": [
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-c7859d77ec06",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "麻辣湯専門店の新規開業とオープン記念の半額キャンペーンの告知であり、お酒のイベントではない。",
+    "filled": [
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6f9145ec34da",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "11月8日にすでに開催された酒まつりの様子を伝える開催報告記事であり、これから開催されるイベントの告知ではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-257794323e43",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "11月5～7日に香港で開催済みの見本市と、そこでのセミナー・試飲の実施を伝える開催報告であり、これから開催されるイベントではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-60ff9dda6cb3",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "川魚のつかみ取りなどを楽しむ河川の催しで、お酒のイベントではなく、すでに開催された報告記事だから。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-5e32e2e6b003",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "pending",
+    "reason": "これから宇都宮市のオリオンスクエアで開かれる、日本酒の飲み比べや酒類を楽しめる一般向けの屋外イベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "開催日が出典と異なる"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-3ed2b41c788c",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e534bf019cd5",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "published",
+    "reason": "一般客が無料で参加でき、2026年11月21日・22日にこれから開催される日本酒の試飲即売イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-79a1cabc283b",
+    "reviewedAt": "2026-11-08T23:23:37.640Z",
+    "decision": "hidden",
+    "reason": "2026年11月7日にすでに開催された蔵開きの開催報告記事であり、これから開催されるイベントの告知ではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
   }
 ]

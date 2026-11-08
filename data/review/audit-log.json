@@ -5407,5 +5407,311 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-9eb535fa4f02",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-78facb6cb4ef",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-403e721d49c7",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 本文に開催日時や会場、参加方法の記載がなく、ニュース形式のタイトルから開催報告である可能性が高いため、これから開催される一般参加型イベントとは確認できない。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-bc1e20c0dcff",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-bc1e20c0dcff",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: AI生成コンテンツの安全性を議論するオンラインシンポジウムであり、お酒に関するイベントではないため。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-34fb5eb04d1a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: タイトルの「約3000人」という表現から、すでに開催された新焼酎まつりの開催報告と判断され、本文にもこれからの開催を示す情報がないためである。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-0ea56fea3b1f",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: マーケティング支援会社による生成AI活用方針の公開と情報セキュリティ宣言に関する企業発表であり、お酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-9a4c52067a2e",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, reservationRequired, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-9a4c52067a2e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: お酒と軽食は付くが、SaaS企業が転職希望者向けに開く採用目的の交流会で、お酒を主題とするイベントではない。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-8d74292fe823",
+    "action": "update",
+    "changedFields": [
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-8d74292fe823",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 抹茶スイーツとバッグの対面販売会であり、お酒のイベントではないため対象外である。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-c7859d77ec06",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-c7859d77ec06",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 麻辣湯専門店の新規開業とオープン記念の半額キャンペーンの告知であり、お酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-6f9145ec34da",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-6f9145ec34da",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 11月8日にすでに開催された酒まつりの様子を伝える開催報告記事であり、これから開催されるイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-257794323e43",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-257794323e43",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 11月5～7日に香港で開催済みの見本市と、そこでのセミナー・試飲の実施を伝える開催報告であり、これから開催されるイベントではないため。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-60ff9dda6cb3",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-60ff9dda6cb3",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 川魚のつかみ取りなどを楽しむ河川の催しで、お酒のイベントではなく、すでに開催された報告記事だから。"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-5e32e2e6b003",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-3ed2b41c788c",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-3ed2b41c788c",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-e534bf019cd5",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-e534bf019cd5",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-79a1cabc283b",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-08T23:23:37.640Z",
+    "collection": "events",
+    "id": "evt-79a1cabc283b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年11月7日にすでに開催された蔵開きの開催報告記事であり、これから開催されるイベントの告知ではないため。"
   }
 ]
