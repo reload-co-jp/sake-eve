@@ -1539,5 +1539,51 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-11-08T20:57:38.519Z",
+    "finishedAt": "2026-11-08T21:02:22.316Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://www.kochinews.co.jp/article/detail/1061672: アクセス制限 (HTTP 403) のため中止: https://www.kochinews.co.jp/article/detail/1061672 / 詳細取得失敗 https://natalie.mu/stage/news/697031: HTTP 405: https://natalie.mu/stage/news/697031 / 詳細取得失敗 https://tetsudo-ch.com/13043884.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13043884.html / 詳細取得失敗 http://spice.eplus.jp/articles/350204: アクセス制限 (HTTP 403) のため中止: http://spice.eplus.jp/articles/350204 / 詳細取得26件 / 失敗4件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 282,
+      "duplicateUrl": 4,
+      "added": 14,
+      "needsReview": 13,
+      "autoPublished": 0,
+      "duplicateCandidates": 0,
+      "autoHidden": 7,
+      "autoReviewed": 0,
+      "summarized": 0,
+      "geocoded": 3
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

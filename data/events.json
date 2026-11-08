@@ -10246,10 +10246,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-29T21:36:44.059Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ab7481882ee2",
@@ -10771,10 +10771,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-31T20:28:08.128Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-cf66846bfe22",
@@ -11648,10 +11648,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-02T23:51:59.095Z",
-    "updatedAt": "2026-11-04T14:05:00.457Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-b0d2e5e1346e",
@@ -12911,10 +12911,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-06T22:01:04.660Z",
-    "updatedAt": "2026-11-06T22:01:04.660Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0ea56fea3b1f",
@@ -13001,5 +13001,620 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-8d74292fe823",
+    "slug": "e-8d74292fe823",
+    "title": "【11月追加開催】24時間で1820個販売の濃厚抹茶マドレーヌを“出来立て”で味わえる特別販売会を大阪・中崎町で開催！ 抹茶好き向けレディースバッグもオフラインで初の販売",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-28T00:00:00+09:00",
+    "endAt": "2026-11-28T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "〒530-0015 大阪府大阪市北区中崎西4丁目2−27 東和エンジニアリングビル1F",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "latitude": 34.709778,
+      "longitude": 135.50441
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/120051/55/120051-55-408da4735ad6e675ad1395e8d8612ab6-1920x1280.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8d74292fe823"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c7859d77ec06",
+    "slug": "e-c7859d77ec06",
+    "title": "【東京2号店】ドラゴンホットポット六本木店11月16日(月)グランドオープン！オープンを記念し、3日間限定の「半額キャンペーン」を開催！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": "2026-11-16T00:00:00+09:00",
+    "endAt": "2026-11-16T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都港区六本木3-15-23六本木花椿ビル2F",
+      "prefecture": "東京都",
+      "city": "港区",
+      "latitude": 35.662518,
+      "longitude": 139.735672
+    },
+    "organizer": null,
+    "officialUrl": "https://dragonhotpot.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/177619/11/177619-11-c5a19dccdcd9a5e691f8be57bb1b0105-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c7859d77ec06"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6f9145ec34da",
+    "slug": "e-6f9145ec34da",
+    "title": "酒まつりも開催、美崎町 石垣島まつりと相乗効果図る",
+    "description": null,
+    "genres": [
+      "sake",
+      "awamori"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.yaeyama-nippo.co.jp/wp-content/uploads/2026/11/90ac83fb63a6f5057a96bfe15263be33-2.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6f9145ec34da"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-257794323e43",
+    "slug": "e-257794323e43",
+    "title": "山形の日本酒PRでセミナー、酒米作りも紹介",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting",
+      "seminar"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.nna.jp/uploads/article_image/image_with_caption/15003688/large_20261109_hkd_yamagata_w.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-257794323e43"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-60ff9dda6cb3",
+    "slug": "e-60ff9dda6cb3",
+    "title": "酒谷川の生き物 触れて観察して身近に 日南川祭り",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.the-miyanichi.co.jp/contents/wp-content/uploads/2026/11/CNTS2026110800565_143447.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-60ff9dda6cb3"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-43d926deb455",
+    "slug": "e-43d926deb455",
+    "title": "【飲みグルメ】東京上野の「酒屋角打ちフェス」で無料で日本酒飲めるぞおおお!",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-08T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
+    "venue": {
+      "name": "上野恩賜公園 竹の台広場",
+      "address": "東京都台東区上野公園",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "latitude": 35.715328,
+      "longitude": 139.773544
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://rensai.jp/wp-content/uploads/2026/11/IMG_8911-scaled.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-43d926deb455"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-5e32e2e6b003",
+    "slug": "e-5e32e2e6b003",
+    "title": "小さなお酒イベント、11~13日に宇都宮オリオンスクエア その後も県内各地で",
+    "description": null,
+    "genres": [
+      "whisky",
+      "sake",
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-14T00:00:00+09:00",
+    "endAt": "2026-11-14T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/2/0/1200wm/img_2087a46bcb0d738052b639b70d20c27a203640.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5e32e2e6b003"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-97dc607b1f2d",
+    "slug": "e-97dc607b1f2d",
+    "title": "「焼酎は水割り・お湯割り」の固定観念を覆す 鹿児島で芋焼酎カクテル 「GI薩摩」20周年記念セミナー開催",
+    "description": null,
+    "genres": [
+      "shochu",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-05T00:00:00+09:00",
+    "endAt": "2026-11-05T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/a/c/600/img_ac72ad4d7653e53b17847d29f50b218245305.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-97dc607b1f2d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-6c3f6f8d0fb9",
+    "slug": "e-6c3f6f8d0fb9",
+    "title": "名古屋・栄でウイスキーイベント 清酒の酵母を使った珍しいウイスキーも 入場料だけで200種を飲み比べ",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "愛知県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/5/c/1200w/img_5c71a97fab6ffb0c46d113bdb09dfd89394591.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6c3f6f8d0fb9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3ed2b41c788c",
+    "slug": "e-3ed2b41c788c",
+    "title": "男鹿市「稲とアガベ」創業5周年記念イベント 8日まで、クラフトサケ飲み放題も!",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.sakigake.jp/images/news-entry/AK20261107G00018_l.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3ed2b41c788c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c2357b8868c6",
+    "slug": "e-c2357b8868c6",
+    "title": "秋晴れの中で500種以上のウイスキーに酔いしれる 名古屋・栄でウイスキーの祭典「永遠にハシゴしたい」",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "愛知県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.nagoyatv.com/nbnnews_image/dcmaxs03794300.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c2357b8868c6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e534bf019cd5",
+    "slug": "e-e534bf019cd5",
+    "title": "日本全国26蔵の日本酒が楽しめる「梅田 全国日本酒祭」を11月21日・22日に開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "market"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.bcnretail.com/files/topics/674466_ext_05_0.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e534bf019cd5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-79a1cabc283b",
+    "slug": "e-79a1cabc283b",
+    "title": "黄桜が京都・伏見で蔵開き 「き〜ざくら〜あっ呑」の生歌で客酔わす",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting",
+      "brewery_open_day",
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3843999007112026000000-2.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.29&fp-y=0.48&h=630&upscale=false&w=1200&s=b22cf95eaf8d91cf42faab4c73c5d085",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-79a1cabc283b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-03aa7c58bfaf",
+    "slug": "e-03aa7c58bfaf",
+    "title": "西鉄久留米駅前でワインフェスタ 秋空の下、ワインと料理楽しむ",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar",
+      "market"
+    ],
+    "startAt": "2026-10-30T00:00:00+09:00",
+    "endAt": "2026-11-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/kurume_keizai/headline/1794016347_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-03aa7c58bfaf"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-08T21:02:10.065Z",
+    "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
   }
 ]
