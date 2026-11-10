@@ -5883,5 +5883,35 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T22:13:23.253Z",
+    "collection": "events",
+    "id": "evt-f2471f00fcd8",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-10T22:13:23.253Z",
+    "collection": "events",
+    "id": "evt-1a1da1b729f1",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T22:13:23.253Z",
+    "collection": "events",
+    "id": "evt-58c620a9cd12",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

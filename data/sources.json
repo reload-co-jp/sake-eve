@@ -11216,5 +11216,561 @@
         "evt-93b81fb65ee7"
       ]
     }
+  },
+  {
+    "id": "src-916780f5aa43",
+    "sourceType": "news",
+    "url": "https://www.denkishimbun.com/archives/419026",
+    "title": "トンネル熟成日本酒を「蔵出し」/中部電力・関谷醸造、奥矢作第一でイベント",
+    "publisher": "電気新聞ウェブサイト – 日本電気協会新聞部が発行する電気新聞のホームページ。電力・エネルギーを中心に電機、通信、電設、建設･工事の最新ニュースを提供。電力業界の人事情報も充実。",
+    "publishedAt": "2026-11-10T21:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "eb782c73b76b10fdfc2decf98a4b8910a5c0109f426cacdf3d0c3e79688e95bb",
+    "relatedEventIds": [
+      "evt-916780f5aa43"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting",
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d43340cb31e1",
+    "sourceType": "news",
+    "url": "https://hiroshima.keizai.biz/headline/4752/",
+    "title": "広島のタカノ橋・千田通り商店街で「はしご酒祭」 2年ぶり開催",
+    "publisher": "広島経済新聞",
+    "publishedAt": "2026-11-10T10:31:20.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "eaaa8d3125a15c685c129065b4c76462eaaa4e4aca05be3f07833ee9ef72f9ca",
+    "relatedEventIds": [
+      "evt-d43340cb31e1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-12",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-0d305470b1d1"
+      ]
+    }
+  },
+  {
+    "id": "src-1a1da1b729f1",
+    "sourceType": "news",
+    "url": "https://373news.com/news/local/detail/242525/",
+    "title": "志布志の焼酎飲み放題――ソーダ割り、お茶割り…3蔵元の多彩な味わい楽しむ 市観光特産品協会が初開催",
+    "publisher": "南日本新聞デジタル",
+    "publishedAt": "2026-11-10T10:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "9e3ec224722fd43d3a8df23de4db3161e38e0fdf4c53b8b465bf30781355fdbc",
+    "relatedEventIds": [
+      "evt-1a1da1b729f1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake",
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival",
+        "tour"
+      ],
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9b30746b3dba",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1149749",
+    "title": "日本酒、吉川ナス、甲府ワイン…それぞれの特産品で新たなビジネス可能性を探る 連携協定の鯖江市と甲府市が東京でマッチングイベント",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-11-10T09:45:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "c2d82c5a7f98e5bfd186fc430d68cca880c75cfd69ae70a3107e524603c3a7bd",
+    "relatedEventIds": [
+      "evt-9b30746b3dba"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f2471f00fcd8",
+    "sourceType": "news",
+    "url": "https://dengekionline.com/article/202611/93578",
+    "title": "アニメ『幸せカナコの殺し屋生活』肉とクラフトビールフェス(世田谷)でステッカー配布決定! ビールを楽しむカナコの場面カット公開",
+    "publisher": "電撃オンライン",
+    "publishedAt": "2026-11-10T09:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "d322f1ee40dcfc69af2d7820f33bb692c10774c44e035c90273b6eff4cdcc9c6",
+    "relatedEventIds": [
+      "evt-f2471f00fcd8"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "dateSource": "label",
+      "venueName": "馬事公苑 けやき広場 (東京都世田谷区上用賀2-3-4 )",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-92b0bc6c303a",
+    "sourceType": "news",
+    "url": "https://natalie.mu/comic/news/697345",
+    "title": "お酒おいしー!「幸せカナコの殺し屋生活」世田谷のフードイベントでステッカー配布",
+    "publisher": "ナタリー",
+    "publishedAt": "2026-11-10T09:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "a1b0f07aab46ba56c68fafaf1d7a3c1ad5b7f28d26dd4f1c616f860f09745a19",
+    "relatedEventIds": [
+      "evt-92b0bc6c303a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-58c620a9cd12",
+    "sourceType": "news",
+    "url": "https://www.jprime.jp/articles/-/44577",
+    "title": "《筑波大学の学園祭を満喫》「いいですよ」悠仁さまツーショット撮影に快諾! お酒の席はお預けも「GPA4.0超え」の充実キャンパスライフ",
+    "publisher": "週刊女性PRIME",
+    "publishedAt": "2026-11-10T07:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "e58e4e81cf55f9659c85267cd7f271b1afdd5f12bd68f04361a4de277d8bbb0f",
+    "relatedEventIds": [
+      "evt-58c620a9cd12"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-21",
+      "endDate": "2026-09-21",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1900b9f42b31",
+    "sourceType": "news",
+    "url": "https://www.rbbtoday.com/article/2026/11/10/255638.html",
+    "title": "鳥取の地酒14蔵を燗で飲み比べ「とり燗フェス2026」開催",
+    "publisher": "RBB TODAY",
+    "publishedAt": "2026-11-10T05:13:32.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "82446a936ca3eb2b42b47c7869686192f20a81f4823edf8887629a3dc97800c8",
+    "relatedEventIds": [
+      "evt-1900b9f42b31"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f2c18bdd338a",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1456336",
+    "title": "15日、酒とグルメと音楽イベント JR宝積寺駅東口・ちょっ蔵広場",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-11-10T05:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "c28e553942640ee697814f36c4d47297df529323cf9b602fbcef6975856626f9",
+    "relatedEventIds": [
+      "evt-f2c18bdd338a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "whisky",
+        "sake",
+        "gin"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c71f041da3be",
+    "sourceType": "news",
+    "url": "https://www.nnn.co.jp/articles/-/827356",
+    "title": "車窓あてに地酒を堪能 観光列車「あめつち」週末限定イベント",
+    "publisher": "日本海新聞 NetNihonkai",
+    "publishedAt": "2026-11-09T20:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "8d2afef9a672492a4f77973f5fe3589eaa815cc0908ca48907a371ddd53a0bf2",
+    "relatedEventIds": [
+      "evt-c71f041da3be"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-55b493c2b29e",
+    "sourceType": "news",
+    "url": "https://www.sanin-chuo.co.jp/articles/-/1112724",
+    "title": "「あめつち」で地酒ぐびっ JR観光列車 12月まで土日イベント",
+    "publisher": "「あめつち」で地酒ぐびっ　ＪＲ観光列車　１２月まで土日イベント | 山陰中央新報デジタル",
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "daccc002f35abee8f3c9e1b7ce10e6801c5737a95cc3a6224b01954eb2b3f777",
+    "relatedEventIds": [
+      "evt-55b493c2b29e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-588b6e3f6afb",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1148811",
+    "title": "国道を封鎖して新焼酎を味わう 鹿屋の秋の風物詩「北田わかだいしょう新酒まつり」に約3000人【鹿児島】",
+    "publisher": "FNN : フジテレビ",
+    "publishedAt": "2026-11-09T11:00:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "b463591964efe87ed6ee00ef1d39a8205d862647e0020d404ee617a8f66a0f56",
+    "relatedEventIds": [
+      "evt-588b6e3f6afb"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4b321bebae6a",
+    "sourceType": "news",
+    "url": "https://www.shibukei.com/headline/20265/",
+    "title": "渋谷で日本酒イベント「SAKE PARK」 国内各地から28蔵が集結",
+    "publisher": "シブヤ経済新聞",
+    "publishedAt": "2026-11-09T10:24:16.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "faa05ab57be7a48b63a42afbff710d58884f75d5339d5240610807b59b6d1da5",
+    "relatedEventIds": [
+      "evt-4b321bebae6a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f2140e715987",
+    "sourceType": "news",
+    "url": "https://raillab.jp/news/article/35713",
+    "title": "SLだけじゃない磐越西線の魅力!銀座で鉄道旅サロン、11月16日開催 沿線グルメや日本酒も【事前申込制】",
+    "publisher": "レイルラボ",
+    "publishedAt": "2026-11-09T10:03:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "ca2ee912a5f604be4e0c22c51a54ec6be8a2d9bde3c651b2c8320c4f92aac866",
+    "relatedEventIds": [
+      "evt-f2140e715987"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-16",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-22ca3ec425fd",
+    "sourceType": "news",
+    "url": "https://www.nikkansports.com/public_race/info/news/202611090001411.html",
+    "title": "【競輪】豪華ゲスト出演の前橋ミッドナイト「競輪居酒屋」イベントチケット販売中",
+    "publisher": "日刊スポーツ",
+    "publishedAt": "2026-11-09T09:57:00.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "3a2a63088602b29f1e62c1da33e81c090cafbd9b608e6cfba39b35d448af5b5c",
+    "relatedEventIds": [
+      "evt-22ca3ec425fd"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b4fb883356f0",
+    "sourceType": "news",
+    "url": "https://news.mynavi.jp/article/20261109-5288839/",
+    "title": "飯沼本家、3つの酒蔵が新酒を披露する「酒々井新酒祭2026」を12月5日に開催",
+    "publisher": "マイナビニュース",
+    "publishedAt": "2026-11-09T09:42:14.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "33c7dbe3d8870655d751232c1dc5a29d513614797a5e2d7ab34a5353c9a86cc0",
+    "relatedEventIds": [
+      "evt-b4fb883356f0"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-48129839563a",
+    "sourceType": "news",
+    "url": "http://www.shonai-nippo.co.jp/cgi/ad/day.cgi?p=2026:11:10:16837",
+    "title": "酒田のラーメン発祥100年 記念の感謝祭市民にぎわう 熱々のワンタンメンに舌鼓",
+    "publisher": "荘内日報",
+    "publishedAt": "2026-11-09T05:31:29.000Z",
+    "fetchedAt": "2026-11-10T22:13:23.253Z",
+    "contentHash": "0b384452ccbca7650c963fbf822178fa5858f8b843cb1e9a83d7f7310c25a2bd",
+    "relatedEventIds": [
+      "evt-48129839563a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
