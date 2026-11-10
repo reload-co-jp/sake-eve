@@ -1585,5 +1585,51 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-11-10T00:33:04.541Z",
+    "finishedAt": "2026-11-10T00:37:43.927Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "ok",
+        "items": 30,
+        "message": "検索ヒット596件 / 未取得549件 / 候補391件 / 詳細取得30件 / 次回へ繰越361件"
+      },
+      {
+        "id": "ceek_news",
+        "status": "error",
+        "items": 0,
+        "message": "HTTP 500: https://news.ceek.jp/search.cgi?q=%E9%85%92%20%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88&feed=1"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 230,
+      "irrelevant": 200,
+      "duplicateUrl": 0,
+      "added": 30,
+      "needsReview": 23,
+      "autoPublished": 2,
+      "duplicateCandidates": 1,
+      "autoHidden": 15,
+      "autoReviewed": 0,
+      "summarized": 0,
+      "geocoded": 9
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

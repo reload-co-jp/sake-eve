@@ -5713,5 +5713,175 @@
       "publication"
     ],
     "note": "auto-review: 2026年11月7日にすでに開催された蔵開きの開催報告記事であり、これから開催されるイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-e4c048a3fe02",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-a2ffd3dc595e",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-dcdfa9ee73ec",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-22bb7e13fe39",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-6a27275a268d",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-075c1b28e580",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-4c7b37f95785",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-658441925353",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-c30a5aa98c10",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-975675213fd6",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-aecc9ec1d35a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-7f9b388b379a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-2e1898a9337b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-f79ae5f137b9",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-4fe8df100c22",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-a34761702cea",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-10T00:37:13.792Z",
+    "collection": "events",
+    "id": "evt-684ad274673d",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

@@ -13507,7 +13507,7 @@
     "organizer": "ヨドバシカメラ",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://www.bcnretail.com/files/topics/674466_ext_05_0.jpg",
+    "imageUrl": "/images/events/evt-e534bf019cd5.webp",
     "price": "無料",
     "isFree": true,
     "reservationRequired": null,
@@ -13613,6 +13613,1317 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
     "updatedAt": "2026-11-08T21:02:10.065Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-dcdfa9ee73ec",
+    "slug": "e-dcdfa9ee73ec",
+    "title": "接客力と専門性を磨く社内コンテスト第6回「エノテカ・グッドサービス・コンテスト」を開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-15T00:00:00+09:00",
+    "endAt": "2026-10-15T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/16166/1599/16166-1599-ed5f4f46662f8b3301a6f950ebfcbd9d-1967x1103.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-dcdfa9ee73ec"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-4db5ff1719f4",
+    "slug": "e-4db5ff1719f4",
+    "title": "サンクトガーレン【麦のワイン】2種を2026年11月19日発売。10%の高アルコールで、長期熟成が楽しめるビール",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-11-19T00:00:00+09:00",
+    "endAt": "2026-11-19T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "神奈川県厚木市中町2-2-1 本厚木ミロード2 1階(本厚木駅北口すぐ)",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "latitude": 35.440159,
+      "longitude": 139.363983
+    },
+    "organizer": null,
+    "officialUrl": "https://www.sanktgallenbrewery.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/25081/284/25081-284-c28103eb98625c3f549ed393cd6ebbcc-2173x1521.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4db5ff1719f4"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-22bb7e13fe39",
+    "slug": "e-22bb7e13fe39",
+    "title": "【開催報告】和歌山県×QWS、２５名と“果樹王国”の宝を活かす新アイデアを創発",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-09-29T00:00:00+09:00",
+    "endAt": "2026-09-29T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "和歌山県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.pref.wakayama.lg.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/182374/14/182374-14-4cd0745e5dfef20e8097356fef1e46db-996x487.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-22bb7e13fe39"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-9b777a2ed405",
+    "slug": "e-9b777a2ed405",
+    "title": "【静岡・三島】三島甘藷×クラフトビールの新たな出会い！「三島麦空2026」11月14日・15日に三島市立公園「楽寿園」で開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-14T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
+    "venue": {
+      "name": "三島市立公園 楽寿園 ※小雨決行(荒天中止)",
+      "address": "静岡県三島市一番町15-23",
+      "prefecture": "静岡県",
+      "city": "三島市",
+      "latitude": 35.125443,
+      "longitude": 138.911987
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/141309/22/141309-22-6e3c8ca1be2a54c11583b188cfd86c94-1459x2063.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9b777a2ed405"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9c2d63450d00",
+    "slug": "e-9c2d63450d00",
+    "title": "いけばなで華やぐブルワリー「福ヱビス×池坊専宗 特別展示 花と、季節と。」を開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-02T00:00:00+09:00",
+    "endAt": "2026-12-02T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/12361/3314/12361-3314-36adf03edb07cf23c342614fc1eb9de4-3900x2239.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9c2d63450d00"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6a27275a268d",
+    "slug": "e-6a27275a268d",
+    "title": "【開催報告】「人がさとをつくり、さとが人をつくる」循環のビジョンを提示 ―― 定員超の100名が申込み、参加者満足度100％の「人起点サミット」を開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-10-27T00:00:00+09:00",
+    "endAt": "2026-10-27T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://satobito.satoyume.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/50855/163/50855-163-17056ce391de7bf19101f3dd211885b2-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6a27275a268d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-3544ccde8403",
+    "slug": "e-3544ccde8403",
+    "title": "【千葉県佐倉市】いよいよ今週末！『タマルバ～城下町HANGOUT2026秋～』開催（11/15）",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour",
+      "market"
+    ],
+    "startAt": "2026-11-15T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
+    "venue": {
+      "name": "佐倉城下町エリア",
+      "address": null,
+      "prefecture": "千葉県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/24449/478/24449-478-cbe5a913bcb2a0d44284b771f693a9f0-1170x827.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3544ccde8403"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e4c048a3fe02",
+    "slug": "e-e4c048a3fe02",
+    "title": "11/16(⽉) 全国⼀⻫ランチ「BIKKURI LUNCH 2026」開催︕",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-16T00:00:00+09:00",
+    "endAt": "2026-11-16T23:59:00+09:00",
+    "venue": {
+      "name": "東急プラザ原宿「ハラカド」7Fテラスほか",
+      "address": "静岡県浜松市",
+      "prefecture": "静岡県",
+      "city": "浜松市",
+      "latitude": 34.710808,
+      "longitude": 137.726303
+    },
+    "organizer": null,
+    "officialUrl": "https://waguri.org/",
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-e4c048a3fe02.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e4c048a3fe02"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-075c1b28e580",
+    "slug": "e-075c1b28e580",
+    "title": "アサヒビール×グランパスのオリジナルカクテル２種が新発売！",
+    "description": null,
+    "genres": [
+      "beer",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-07T00:00:00+09:00",
+    "endAt": "2026-11-07T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54020/104/54020-104-1e71eec1f4c334ab5a6ab471116744d2-1191x1684.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-075c1b28e580"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-d3cd41051c88",
+    "slug": "e-d3cd41051c88",
+    "title": "セキュリティ担当者向けメンバー限定イベント「セキュアスカイ What’s Up」第7回 東京開催決定！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-10T00:00:00+09:00",
+    "endAt": "2026-12-10T23:59:00+09:00",
+    "venue": {
+      "name": "株式会社セキュアスカイ・テクノロジー 東京オフィス(東京都千代田区岩本町2-2-4 PMO神田岩本町II 10F) アク",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/73493/93/73493-93-cab362f33182fdeb75656c8876cab80b-1280x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d3cd41051c88"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-4c7b37f95785",
+    "slug": "e-4c7b37f95785",
+    "title": "世界が注目する新潟の発酵文化を体験。「インターナショナル発酵WEEK in 長岡」を初開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "seminar",
+      "tour",
+      "market"
+    ],
+    "startAt": "2026-11-09T00:00:00+09:00",
+    "endAt": "2026-11-09T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "新潟県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://hakko-week.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/138395/69/138395-69-1a6d930234447f5de5458e70d98c7f3d-1500x844.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4c7b37f95785"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-658441925353",
+    "slug": "e-658441925353",
+    "title": "累計2.3万人を動員した南青山のコミュニティイベント第4弾！「NEIGHBORS’ GARDEN PARTY #4」11月28日(土)・29日(日)開催！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-06T00:00:00+09:00",
+    "endAt": "2026-11-06T23:59:00+09:00",
+    "venue": {
+      "name": "SHARE GREEN MINAMI AOYAMA(東京都港区南青山1-12-32)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/7228/186/7228-186-9b39c954f8297fd996ba459d891e7d64-1125x750.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-658441925353"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-076dcae46765",
+    "slug": "e-076dcae46765",
+    "title": "11/25(水)広島戦『オトナノススメ NIGHT』開催！怒髪天によるSPECIAL LIVEを実施！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "tour"
+    ],
+    "startAt": "2026-11-25T00:00:00+09:00",
+    "endAt": "2026-11-25T23:59:00+09:00",
+    "venue": {
+      "name": "味の素スタジアム 場内",
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/34942/1072/34942-1072-47db7635cfb55424658ce510f1ed273a-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-076dcae46765"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0b308cfdd891",
+    "slug": "e-0b308cfdd891",
+    "title": "【11月14日(土)イルミネーション点灯式開催のお知らせ】「Baccarat ETERNAL LIGHTS」",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": "2026-11-14T00:00:00+09:00",
+    "endAt": "2026-11-14T23:59:00+09:00",
+    "venue": {
+      "name": "恵比寿ガーデンプレイス センター広場",
+      "address": "渋谷区恵比寿4丁目)では",
+      "prefecture": null,
+      "city": null,
+      "latitude": 35.645035,
+      "longitude": 139.713577
+    },
+    "organizer": null,
+    "officialUrl": "https://event.gardenplace.jp/special/2026christmas/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/16744/191/16744-191-766feda5253f6261c5f2facfadf688a6-1334x900.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0b308cfdd891"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-faaea86bf0f2",
+    "slug": "e-faaea86bf0f2",
+    "title": "【沖縄美ら海水族館】気仙沼市×沖縄美ら海水族館　共催イベント「ホヤぼーや 全国ステージキャラバンin 沖縄美ら海水族館」を12月5日(土)6日(日)に開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-05T00:00:00+09:00",
+    "endAt": "2026-12-05T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "沖縄県国頭郡本部町 館長:佐藤 圭一)では",
+      "prefecture": "沖縄県",
+      "city": "国頭郡",
+      "latitude": 26.657511,
+      "longitude": 127.89782
+    },
+    "organizer": null,
+    "officialUrl": "https://churashima.okinawa/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/24500/241/24500-241-cc704893ea8ee4ebe520330bbd66e27b-3560x2156.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-faaea86bf0f2"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-8671edb9c658",
+    "slug": "e-8671edb9c658",
+    "title": "日本各地の和牛をタイへ「EAT MEATS FEST 3」が8年ぶりに開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
+    "venue": {
+      "name": "ICONSIAM River Park(G階)/タイ・バンコク",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/193326/1/193326-1-96809867670174f49e05638fbef17866-1254x1254.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8671edb9c658"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-c30a5aa98c10",
+    "slug": "e-c30a5aa98c10",
+    "title": "日本で唯一！「折れたバット」を原料にしたクラフトビール　11月21日よりエスコンフィールドHOKKAIDOにて提供",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-11-08T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
+    "venue": {
+      "name": "「そらとしば by よなよなエール」1Fレストラン内",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/18582/107/18582-107-2562d8f60482bd1d7213bd7912351eef-3900x2601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c30a5aa98c10"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-42ed0401468d",
+    "slug": "e-42ed0401468d",
+    "title": "ボタニカル系麦焼酎「CHILL GREEN」と香りを楽しむ体験型プロジェクト「THE CHILLGRANCE SESSIONS」が始動！ 第1弾ゲストはオカモトヒロヤ",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-20T00:00:00+09:00",
+    "endAt": "2026-12-20T23:59:00+09:00",
+    "venue": {
+      "name": "bar in",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.nomooo.jp/pages/the-chillgrance-sessions-01.html",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4642/620/4642-620-aa8bcbdc7557c2881477da6c7d04de0c-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-42ed0401468d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a2ffd3dc595e",
+    "slug": "e-a2ffd3dc595e",
+    "title": "【11/13(金)開催】仕事終わりに、住みたい街を走って“内見”する。中古・リノベのカウカモ、日本橋浜町のランステ「ととけん」と、サウナ＆乾杯つきのグループラン「夜の内見ラン」を開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-13T23:59:00+09:00",
+    "venue": {
+      "name": "ととけん(東京都中央区日本橋浜町3-9-7/水天宮前駅徒歩5分)",
+      "address": "東京都中央区日本橋浜町3-9-7",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "latitude": 35.683846,
+      "longitude": 139.789139
+    },
+    "organizer": null,
+    "officialUrl": "https://totoken.jp/",
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-a2ffd3dc595e.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a2ffd3dc595e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-834d88bcc03b",
+    "slug": "e-834d88bcc03b",
+    "title": "ガチャを回して、推しに投票。「クラフトビール総選挙2026 in 名古屋」11月12日より開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-11-12T00:00:00+09:00",
+    "endAt": "2026-11-12T23:59:00+09:00",
+    "venue": {
+      "name": "Meieki Parklet(名鉄レジャック跡地/愛知県名古屋市中村区)",
+      "address": null,
+      "prefecture": "愛知県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/60917/157/60917-157-8cd65c9e78090de4681b97bd46bca529-1457x973.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-834d88bcc03b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-975675213fd6",
+    "slug": "e-975675213fd6",
+    "title": "「アメリカン クラフトビア エクスペリエンス2026」フェスティバルが東京・木場公園で開催！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-06T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://uscraftbeer.jp/campaign/2026/pairing/?utm_source=prtimes&utm_medium=+link&utm_campaign=2026",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/22130/74/22130-74-d8f8955cedb1814b7a9d533f99717f32-1080x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-975675213fd6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-82517aecb9bc",
+    "slug": "e-82517aecb9bc",
+    "title": "【前回700名来場】全国6ブルワリーが表参道に集結！「ご縁」で人と地域をつなぐ表参道クラフトビアフェスタ、11月15日開催",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-15T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
+    "venue": {
+      "name": "東急プラザ表参道「オモカド」6階「おもはらの森」",
+      "address": "東京都渋谷区神宮前4丁目30-3",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "latitude": 35.668392,
+      "longitude": 139.706177
+    },
+    "organizer": null,
+    "officialUrl": "https://allcraftjapan.com/events/omotesando-craft-beer-fest/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/168611/6/168611-6-657e9e1a999cdc8ba0a1cc6f5b613405-1074x1523.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-82517aecb9bc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-aecc9ec1d35a",
+    "slug": "e-aecc9ec1d35a",
+    "title": "サントリーのビール9種が飲み放題！今年は\"オクトーバーフェストだけ\"参加できるチケットも新登場『サントリー・オクトーバーフェストinキラナ』開催｜2026年10月1日(木)～31日(土)",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-01T00:00:00+09:00",
+    "endAt": "2026-10-31T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都江東区豊洲6-5-27",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "latitude": 35.643154,
+      "longitude": 139.780136
+    },
+    "organizer": null,
+    "officialUrl": "https://www.kiranahresort-toyosu.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/110586/75/110586-75-8f938121fcbef2d7a968e2705021f0ad-1080x720.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-aecc9ec1d35a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-7f9b388b379a",
+    "slug": "e-7f9b388b379a",
+    "title": "香川初・夕陽に染まる瀬戸内海を背景にドイツビールの祭典「KAGAWA OKTOBER FEST 2026」開催！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-02T00:00:00+09:00",
+    "endAt": "2026-10-15T23:59:00+09:00",
+    "venue": {
+      "name": "サンポート高松・シーフロントプロムナード",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://kagawa-oktoberfest.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/62688/67/62688-67-023912ab4abb8c789c6a09cf57b80b0d-1854x1333.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7f9b388b379a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-2e1898a9337b",
+    "slug": "e-2e1898a9337b",
+    "title": "【シュマッツ】ドイツビールのおいしさを、知識から体験へ。缶シリーズ第3弾「シュマッツ ジャーマンピルスナー缶」を新発売",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-05T00:00:00+09:00",
+    "endAt": "2026-10-05T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/102827/25/102827-25-b3ef1503a1bb41514bbf4092d9329941-1600x838.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-2e1898a9337b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-f79ae5f137b9",
+    "slug": "e-f79ae5f137b9",
+    "title": "【リトルワールド】ドイツビールの祭典「オクトーバーフェスト」開催！ミュンヘンからの音楽隊やグルメやビールが大集合！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-03T00:00:00+09:00",
+    "endAt": "2026-10-12T23:59:00+09:00",
+    "venue": {
+      "name": "ヨーロッパエリア 特設テント",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/157222/190/157222-190-5560fc4746baead833497c97b32f18ab-700x340.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f79ae5f137b9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-a961b76d45ac",
+    "slug": "e-a961b76d45ac",
+    "title": "ロープウェイで秋の古城広場へ。秋風そよぐ神戸の山上で厳選したドイツビールとワイン、名物グルメを楽しむ。秋のガーデンで乾杯！神戸布引ハーブ園で「ドイツ祭り2026」を開催中。",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-09-04T00:00:00+09:00",
+    "endAt": "2026-12-28T23:59:00+09:00",
+    "venue": {
+      "name": "展望プラザ",
+      "address": null,
+      "prefecture": "兵庫県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/31184/260/31184-260-bb38315b8e33983cb5d37c527772809c-3811x2536.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a961b76d45ac"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-4fe8df100c22",
+    "slug": "e-4fe8df100c22",
+    "title": "【箱根小涌園ユネッサン】水着で超絶景ビアガーデン！「BEER FEVER TIME！」に全員集合！『超絶景 展望ビール風呂』登場！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-12T23:59:00+09:00",
+    "venue": {
+      "name": "水着で遊べる温泉「ユネッサン」",
+      "address": "神奈川県足柄下郡箱根町ニノ平1297",
+      "prefecture": "神奈川県",
+      "city": "足柄下郡",
+      "latitude": 35.232388,
+      "longitude": 139.106949
+    },
+    "organizer": null,
+    "officialUrl": "https://www.yunessun.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/1368/1203/1368-1203-d2881de3c920043cc6ab3cd71c82a592-3900x2601.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4fe8df100c22"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-a34761702cea",
+    "slug": "e-a34761702cea",
+    "title": "北海道・中札内村のフェーリエンドルフで「ペットと参加できる！森のオクトーバーフェスト2026 in フェーリエンドルフ」開催。10月10日/11日、本場ドイツを感じる2日間",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-10T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "北海道",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://feriendorf.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/187128/4/187128-4-ee0268082476355d880828a1298c5ca3-1909x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a34761702cea"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-684ad274673d",
+    "slug": "e-684ad274673d",
+    "title": "【APAMAN】「オクトーバーフェスト2026」芝公園・豊洲会場、9月22日から開催再開",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-09-11T00:00:00+09:00",
+    "endAt": "2026-09-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.oktober-fest.jp",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49635/423/49635-423-ed0e9ee5fc8fe774b21653e260e378f6-2316x1824.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-684ad274673d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-10T00:37:13.792Z",
+    "updatedAt": "2026-11-10T00:37:13.792Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"

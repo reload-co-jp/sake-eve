@@ -10233,5 +10233,988 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-dcdfa9ee73ec",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001599.000016166.html",
+    "title": "接客力と専門性を磨く社内コンテスト第6回「エノテカ・グッドサービス・コンテスト」を開催",
+    "publisher": "アサヒビール株式会社",
+    "publishedAt": "2026-11-09T14:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "ca941ac38f3f94a8572db203515d4aea05db9357fb221add10d9d90df85c83f7",
+    "relatedEventIds": [
+      "evt-dcdfa9ee73ec"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4db5ff1719f4",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000284.000025081.html",
+    "title": "サンクトガーレン【麦のワイン】2種を2026年11月19日発売。10%の高アルコールで、長期熟成が楽しめるビール",
+    "publisher": "サンクトガーレン有限会社",
+    "publishedAt": "2026-11-09T15:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "960b3790460ed025dfdd87162f2d4b9c30f3045b39421d35ece2d0d8a482dd03",
+    "relatedEventIds": [
+      "evt-4db5ff1719f4"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "dateSource": "text",
+      "venueName": null,
+      "address": "神奈川県厚木市中町2-2-1 本厚木ミロード2 1階(本厚木駅北口すぐ)",
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "officialUrl": "https://www.sanktgallenbrewery.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-22bb7e13fe39",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000014.000182374.html",
+    "title": "【開催報告】和歌山県×QWS、２５名と“果樹王国”の宝を活かす新アイデアを創発",
+    "publisher": "渋谷スクランブルスクエア株式会社",
+    "publishedAt": "2026-11-09T15:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "62902a9032f5946e6f69d83b19b47a801eaa50fd62bda0dd292b0f783747970b",
+    "relatedEventIds": [
+      "evt-22bb7e13fe39"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "和歌山県",
+      "city": null,
+      "officialUrl": "https://www.pref.wakayama.lg.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9b777a2ed405",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000022.000141309.html",
+    "title": "【静岡・三島】三島甘藷×クラフトビールの新たな出会い！「三島麦空2026」11月14日・15日に三島市立公園「楽寿園」で開催",
+    "publisher": "富士伊豆農業協同組合",
+    "publishedAt": "2026-11-09T14:18:09+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "28404f263225d8f5a5ef6fdee6b4a1eace0a8f508df237269445e7431bbe2290",
+    "relatedEventIds": [
+      "evt-9b777a2ed405"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "dateSource": "text",
+      "venueName": "三島市立公園 楽寿園 ※小雨決行(荒天中止)",
+      "address": "静岡県三島市一番町15-23",
+      "prefecture": "静岡県",
+      "city": "三島市",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9c2d63450d00",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000003314.000012361.html",
+    "title": "いけばなで華やぐブルワリー「福ヱビス×池坊専宗 特別展示 花と、季節と。」を開催",
+    "publisher": "サッポロビール株式会社",
+    "publishedAt": "2026-11-09T13:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "c1ca10492f939c73c857cc947160316e68afb018fd4f90b974bdb19867c47381",
+    "relatedEventIds": [
+      "evt-9c2d63450d00"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6a27275a268d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000163.000050855.html",
+    "title": "【開催報告】「人がさとをつくり、さとが人をつくる」循環のビジョンを提示 ―― 定員超の100名が申込み、参加者満足度100％の「人起点サミット」を開催",
+    "publisher": "株式会社さとゆめ",
+    "publishedAt": "2026-11-09T13:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "d69324e831bb404cb47162a35570e1e4fae5863b43af7b965c8598efc17bb0a7",
+    "relatedEventIds": [
+      "evt-6a27275a268d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://satobito.satoyume.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3544ccde8403",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000478.000024449.html",
+    "title": "【千葉県佐倉市】いよいよ今週末！『タマルバ～城下町HANGOUT2026秋～』開催（11/15）",
+    "publisher": "佐倉市",
+    "publishedAt": "2026-11-09T10:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "301b7706c4dee3eebce7e28e344211e081a557d4c6f69e070b5b62ea49e14144",
+    "relatedEventIds": [
+      "evt-3544ccde8403"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "dateSource": "text",
+      "venueName": "佐倉城下町エリア",
+      "address": null,
+      "prefecture": "千葉県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-e4c048a3fe02",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000139.000025522.html",
+    "title": "11/16(⽉) 全国⼀⻫ランチ「BIKKURI LUNCH 2026」開催︕",
+    "publisher": "有限会社春華堂",
+    "publishedAt": "2026-11-07T11:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "2f0ead5f608d3923c3eb7ef85a955aff1858d47ebc13509afae8556ac5ffc0ea",
+    "relatedEventIds": [
+      "evt-e4c048a3fe02"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-16",
+      "dateSource": "label",
+      "venueName": "東急プラザ原宿「ハラカド」7Fテラスほか",
+      "address": "静岡県浜松市",
+      "prefecture": "静岡県",
+      "city": "浜松市",
+      "officialUrl": "https://waguri.org/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-075c1b28e580",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000104.000054020.html",
+    "title": "アサヒビール×グランパスのオリジナルカクテル２種が新発売！",
+    "publisher": "株式会社名古屋グランパスエイト",
+    "publishedAt": "2026-11-06T16:00:42+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "1b81b7aa827e7ec89a641146290d95323d89923efe686ea0c8f1215af666c565",
+    "relatedEventIds": [
+      "evt-075c1b28e580"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d3cd41051c88",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000093.000073493.html",
+    "title": "セキュリティ担当者向けメンバー限定イベント「セキュアスカイ What’s Up」第7回 東京開催決定！",
+    "publisher": "株式会社セキュアスカイ・テクノロジー",
+    "publishedAt": "2026-11-06T14:50:47+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "02d041cc0370c54c8d40f22e515233bf4e49418ae0cad4d0836ee6da9802275c",
+    "relatedEventIds": [
+      "evt-d3cd41051c88"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-10",
+      "dateSource": "text",
+      "venueName": "株式会社セキュアスカイ・テクノロジー 東京オフィス(東京都千代田区岩本町2-2-4 PMO神田岩本町II 10F) アク",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4c7b37f95785",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000138395.html",
+    "title": "世界が注目する新潟の発酵文化を体験。「インターナショナル発酵WEEK in 長岡」を初開催",
+    "publisher": "長岡市",
+    "publishedAt": "2026-11-06T13:00:01+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "18fce43d1f56ef7df93ff8724bd2312bc12fb2a3c460a7d0a1ada03a45af14d2",
+    "relatedEventIds": [
+      "evt-4c7b37f95785"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "新潟県",
+      "city": null,
+      "officialUrl": "https://hakko-week.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-658441925353",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000186.000007228.html",
+    "title": "累計2.3万人を動員した南青山のコミュニティイベント第4弾！「NEIGHBORS’ GARDEN PARTY #4」11月28日(土)・29日(日)開催！",
+    "publisher": "株式会社リアルゲイト",
+    "publishedAt": "2026-11-06T12:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "a0da9724ff41ac347ca2e5cefe543d3cecd30159e1bf80b99fc32ae7789d2398",
+    "relatedEventIds": [
+      "evt-658441925353"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-06",
+      "dateSource": "label",
+      "venueName": "SHARE GREEN MINAMI AOYAMA(東京都港区南青山1-12-32)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-076dcae46765",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001072.000034942.html",
+    "title": "11/25(水)広島戦『オトナノススメ NIGHT』開催！怒髪天によるSPECIAL LIVEを実施！",
+    "publisher": "東京フットボールクラブ株式会社",
+    "publishedAt": "2026-11-05T17:01:08+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "9e878d9d7c7a227722a110d2dc7f25dadb0e9725c29f85610026f5f9047d6ce4",
+    "relatedEventIds": [
+      "evt-076dcae46765"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "tour"
+      ],
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "dateSource": "text",
+      "venueName": "味の素スタジアム 場内",
+      "address": null,
+      "prefecture": "広島県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0b308cfdd891",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000191.000016744.html",
+    "title": "【11月14日(土)イルミネーション点灯式開催のお知らせ】「Baccarat ETERNAL LIGHTS」",
+    "publisher": "サッポロ不動産開発株式会社",
+    "publishedAt": "2026-11-05T15:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "ce22be5e49d906577fc8727f13f2e95969fe64cb59711a54743a92be2dde6dea",
+    "relatedEventIds": [
+      "evt-0b308cfdd891"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "dateSource": "label",
+      "venueName": "恵比寿ガーデンプレイス センター広場",
+      "address": "渋谷区恵比寿4丁目)では",
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://event.gardenplace.jp/special/2026christmas/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-faaea86bf0f2",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000241.000024500.html",
+    "title": "【沖縄美ら海水族館】気仙沼市×沖縄美ら海水族館　共催イベント「ホヤぼーや 全国ステージキャラバンin 沖縄美ら海水族館」を12月5日(土)6日(日)に開催",
+    "publisher": "一般財団法人　沖縄美ら島財団",
+    "publishedAt": "2026-11-05T13:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "3de743be55f28e914eba8bd14a27746cc52e8798ce1e6e3a3f6748b6b06f431f",
+    "relatedEventIds": [
+      "evt-faaea86bf0f2"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "沖縄県国頭郡本部町 館長:佐藤 圭一)では",
+      "prefecture": "沖縄県",
+      "city": "国頭郡",
+      "officialUrl": "https://churashima.okinawa/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8671edb9c658",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000001.000193326.html",
+    "title": "日本各地の和牛をタイへ「EAT MEATS FEST 3」が8年ぶりに開催",
+    "publisher": "INVITATION (THAILAND) CO., LTD.",
+    "publishedAt": "2026-11-05T12:02:09+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "44198bd2c9701319f7a5031b1fde6dbc97300b1e003fb964a8ef60eef5460bb3",
+    "relatedEventIds": [
+      "evt-8671edb9c658"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "dateSource": "label",
+      "venueName": "ICONSIAM River Park(G階)/タイ・バンコク",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c30a5aa98c10",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000107.000018582.html",
+    "title": "日本で唯一！「折れたバット」を原料にしたクラフトビール　11月21日よりエスコンフィールドHOKKAIDOにて提供",
+    "publisher": "株式会社ヤッホーブルーイング",
+    "publishedAt": "2026-11-05T12:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "7c8d2e8b313b75e02f88524cd99cc265d2296986a9720db1056f6c318dd80265",
+    "relatedEventIds": [
+      "evt-c30a5aa98c10"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "dateSource": "label",
+      "venueName": "「そらとしば by よなよなエール」1Fレストラン内",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-42ed0401468d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000620.000004642.html",
+    "title": "ボタニカル系麦焼酎「CHILL GREEN」と香りを楽しむ体験型プロジェクト「THE CHILLGRANCE SESSIONS」が始動！ 第1弾ゲストはオカモトヒロヤ",
+    "publisher": "株式会社イード",
+    "publishedAt": "2026-11-05T12:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "89f2f35a4962f1a4e855faf6f2bed42953bc670defa876bfd4fb3b338f0182a8",
+    "relatedEventIds": [
+      "evt-42ed0401468d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-20",
+      "dateSource": "label",
+      "venueName": "bar in",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://www.nomooo.jp/pages/the-chillgrance-sessions-01.html",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a2ffd3dc595e",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000205.000043247.html",
+    "title": "【11/13(金)開催】仕事終わりに、住みたい街を走って“内見”する。中古・リノベのカウカモ、日本橋浜町のランステ「ととけん」と、サウナ＆乾杯つきのグループラン「夜の内見ラン」を開催",
+    "publisher": "株式会社ツクルバ",
+    "publishedAt": "2026-11-05T11:30:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "70be1d37b3e1f7ac19520ad88558bfb571c57d8136919da3d7580d824e73b862",
+    "relatedEventIds": [
+      "evt-a2ffd3dc595e"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "dateSource": "label",
+      "venueName": "ととけん(東京都中央区日本橋浜町3-9-7/水天宮前駅徒歩5分)",
+      "address": "東京都中央区日本橋浜町3-9-7",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "officialUrl": "https://totoken.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-834d88bcc03b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000157.000060917.html",
+    "title": "ガチャを回して、推しに投票。「クラフトビール総選挙2026 in 名古屋」11月12日より開催",
+    "publisher": "株式会社DREAMBEER",
+    "publishedAt": "2026-10-29T12:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "3c047e56f13746d97f2e9c122f06fdedc54e65db682b6b272f2ce32b3e6be213",
+    "relatedEventIds": [
+      "evt-834d88bcc03b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "dateSource": "text",
+      "venueName": "Meieki Parklet(名鉄レジャック跡地/愛知県名古屋市中村区)",
+      "address": null,
+      "prefecture": "愛知県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-975675213fd6",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000074.000022130.html",
+    "title": "「アメリカン クラフトビア エクスペリエンス2026」フェスティバルが東京・木場公園で開催！",
+    "publisher": "株式会社コネクトワールドワイド・ジャパン",
+    "publishedAt": "2026-10-23T10:48:46+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "4f927d61559319c88192133d0d2266308f11594d990456cf9be43feeaa872af7",
+    "relatedEventIds": [
+      "evt-975675213fd6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": "https://uscraftbeer.jp/campaign/2026/pairing/?utm_source=prtimes&utm_medium=+link&utm_campaign=2026",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-82517aecb9bc",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000168611.html",
+    "title": "【前回700名来場】全国6ブルワリーが表参道に集結！「ご縁」で人と地域をつなぐ表参道クラフトビアフェスタ、11月15日開催",
+    "publisher": "株式会社ALL CRAFT JAPAN",
+    "publishedAt": "2026-10-23T09:10:01+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "4b30c964036dc68927d8260e496281983a3cccc94b40604263fa5b50c550f317",
+    "relatedEventIds": [
+      "evt-82517aecb9bc"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "dateSource": "text",
+      "venueName": "東急プラザ表参道「オモカド」6階「おもはらの森」",
+      "address": "東京都渋谷区神宮前4丁目30-3",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": "https://allcraftjapan.com/events/omotesando-craft-beer-fest/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-aecc9ec1d35a",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000075.000110586.html",
+    "title": "サントリーのビール9種が飲み放題！今年は\"オクトーバーフェストだけ\"参加できるチケットも新登場『サントリー・オクトーバーフェストinキラナ』開催｜2026年10月1日(木)～31日(土)",
+    "publisher": "株式会社Kiranah Resort",
+    "publishedAt": "2026-09-30T11:00:03+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "2e17e8121cbc9e3e7e85cd086e54ff3953301e5d60a817ef85e0306d2c85c96d",
+    "relatedEventIds": [
+      "evt-aecc9ec1d35a"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-31",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "東京都江東区豊洲6-5-27",
+      "prefecture": "東京都",
+      "city": "江東区",
+      "officialUrl": "https://www.kiranahresort-toyosu.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7f9b388b379a",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000067.000062688.html",
+    "title": "香川初・夕陽に染まる瀬戸内海を背景にドイツビールの祭典「KAGAWA OKTOBER FEST 2026」開催！",
+    "publisher": "公益社団法人香川県観光協会",
+    "publishedAt": "2026-09-29T11:00:03+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "b0f926a4e3d6bc37fe659dd4a77845ef361b0a02214df808880f037028dc1914",
+    "relatedEventIds": [
+      "evt-7f9b388b379a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-15",
+      "dateSource": "label",
+      "venueName": "サンポート高松・シーフロントプロムナード",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://kagawa-oktoberfest.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-2e1898a9337b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000102827.html",
+    "title": "【シュマッツ】ドイツビールのおいしさを、知識から体験へ。缶シリーズ第3弾「シュマッツ ジャーマンピルスナー缶」を新発売",
+    "publisher": "カイザーキッチンビール株式会社",
+    "publishedAt": "2026-09-29T09:50:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "7e496457418fcf3003eda45faf2116a86d0d275ae2944f65aeb3cde72a6bebb2",
+    "relatedEventIds": [
+      "evt-2e1898a9337b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f79ae5f137b9",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000190.000157222.html",
+    "title": "【リトルワールド】ドイツビールの祭典「オクトーバーフェスト」開催！ミュンヘンからの音楽隊やグルメやビールが大集合！",
+    "publisher": "株式会社名鉄インプレス",
+    "publishedAt": "2026-09-28T17:00:01+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "03811c595d2c6754c277cd7ce770128158e63b745c4cb98a09c0726b2e350a9a",
+    "relatedEventIds": [
+      "evt-f79ae5f137b9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-12",
+      "dateSource": "label",
+      "venueName": "ヨーロッパエリア 特設テント",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a961b76d45ac",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000260.000031184.html",
+    "title": "ロープウェイで秋の古城広場へ。秋風そよぐ神戸の山上で厳選したドイツビールとワイン、名物グルメを楽しむ。秋のガーデンで乾杯！神戸布引ハーブ園で「ドイツ祭り2026」を開催中。",
+    "publisher": "神戸リゾートサービス株式会社",
+    "publishedAt": "2026-09-27T18:20:52+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "7aa9430e7d3e26b0249769a697833607ad6c8a2ead18ccf70a840cc854c9baae",
+    "relatedEventIds": [
+      "evt-a961b76d45ac"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-04",
+      "endDate": "2026-12-28",
+      "dateSource": "label",
+      "venueName": "展望プラザ",
+      "address": null,
+      "prefecture": "兵庫県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4fe8df100c22",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001203.000001368.html",
+    "title": "【箱根小涌園ユネッサン】水着で超絶景ビアガーデン！「BEER FEVER TIME！」に全員集合！『超絶景 展望ビール風呂』登場！",
+    "publisher": "藤田観光株式会社",
+    "publishedAt": "2026-09-24T15:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "f8387ebbf7640d97c3f8ba65440c19a49d08c67aa905cb35a1bccfd611c009c0",
+    "relatedEventIds": [
+      "evt-4fe8df100c22"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-12",
+      "dateSource": "label",
+      "venueName": "水着で遊べる温泉「ユネッサン」",
+      "address": "神奈川県足柄下郡箱根町ニノ平1297",
+      "prefecture": "神奈川県",
+      "city": "足柄下郡",
+      "officialUrl": "https://www.yunessun.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a34761702cea",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000187128.html",
+    "title": "北海道・中札内村のフェーリエンドルフで「ペットと参加できる！森のオクトーバーフェスト2026 in フェーリエンドルフ」開催。10月10日/11日、本場ドイツを感じる2日間",
+    "publisher": "キャピタル・ゼンリン株式会社",
+    "publishedAt": "2026-09-24T13:00:02+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "5ec8bebe062c777fc9c0bb6f90f065a7f8a81477aeac5efdc020a571c82d0755",
+    "relatedEventIds": [
+      "evt-a34761702cea"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "北海道",
+      "city": null,
+      "officialUrl": "https://feriendorf.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-684ad274673d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000423.000049635.html",
+    "title": "【APAMAN】「オクトーバーフェスト2026」芝公園・豊洲会場、9月22日から開催再開",
+    "publisher": "APAMAN株式会社",
+    "publishedAt": "2026-09-21T16:11:46+09:00",
+    "fetchedAt": "2026-11-10T00:37:13.792Z",
+    "contentHash": "c094edcc4deebcc55c5733604e962adb96874048d42473a9b30b4f343fdbef1e",
+    "relatedEventIds": [
+      "evt-684ad274673d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-23",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://www.oktober-fest.jp",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-93b81fb65ee7"
+      ]
+    }
   }
 ]
