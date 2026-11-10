@@ -1,6 +1,7 @@
 import { Metadata } from "next"
 import { Suspense } from "react"
 import { SectionTitle } from "@/components/elements/layout"
+import { EventsFallback } from "@/components/EventsFallback"
 import { eventSearchText, publicEvents } from "@/lib/data"
 import { MapView } from "./MapView"
 
@@ -14,7 +15,9 @@ export const metadata: Metadata = {
 const Page = () => (
   <div className="container page">
     <SectionTitle as="h1" en="Map" ja="地図で探す" />
-    <Suspense fallback={<p>読み込み中…</p>}>
+    <Suspense
+      fallback={<EventsFallback events={publicEvents} variant="list" />}
+    >
       <MapView events={publicEvents} extraText={eventSearchText} />
     </Suspense>
   </div>

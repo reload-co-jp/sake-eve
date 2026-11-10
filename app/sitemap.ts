@@ -19,8 +19,9 @@ const sitemap = (): MetadataRoute.Sitemap => {
     "/events/map/",
     "/events/timeline/",
     "/articles/",
-    "/producers/",
-    "/products/",
+    // Empty list pages are thin content; list them only once they have entries.
+    ...(db.producers.length ? ["/producers/"] : []),
+    ...(db.products.length ? ["/products/"] : []),
     ...publicEvents.map((e) => `/events/${e.slug}/`),
     ...db.articles.map((a) => `/articles/${a.slug}/`),
     ...db.producers.map((p) => `/producers/${p.slug}/`),

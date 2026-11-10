@@ -7,6 +7,8 @@ export const metadata: Metadata = {
   title: "新商品・限定商品",
   description: "お酒の新商品・限定商品と、関連するイベント・記事。",
   alternates: { canonical: "/products/" },
+  // Avoid indexing the list while it is empty (thin content).
+  robots: db.products.length ? undefined : { index: false },
 }
 
 const Page = () => (

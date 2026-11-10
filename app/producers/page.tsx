@@ -9,6 +9,8 @@ export const metadata: Metadata = {
   description:
     "お酒のイベントに出店する酒蔵、ブルワリー、ワイナリー、蒸留所の一覧。",
   alternates: { canonical: "/producers/" },
+  // Avoid indexing the list while it is empty (thin content).
+  robots: db.producers.length ? undefined : { index: false },
 }
 
 const Page = () => (

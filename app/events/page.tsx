@@ -2,6 +2,7 @@ import { Metadata } from "next"
 import { Suspense } from "react"
 import { eventSearchText, publicEvents } from "@/lib/data"
 import { SectionTitle } from "@/components/elements/layout"
+import { EventsFallback } from "@/components/EventsFallback"
 import { EventSearch } from "./EventSearch"
 
 export const metadata: Metadata = {
@@ -14,7 +15,7 @@ export const metadata: Metadata = {
 const Page = () => (
   <div className="container page">
     <SectionTitle as="h1" en="Events" ja="イベントを探す" />
-    <Suspense fallback={<p>読み込み中…</p>}>
+    <Suspense fallback={<EventsFallback events={publicEvents} />}>
       <EventSearch events={publicEvents} extraText={eventSearchText} />
     </Suspense>
   </div>

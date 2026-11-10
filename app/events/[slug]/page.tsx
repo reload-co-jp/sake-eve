@@ -38,8 +38,11 @@ export const generateMetadata = async ({
   params,
 }: Props): Promise<Metadata> => {
   const event = getEventBySlug((await params).slug)
+  const guide = eventRelations(event).articles.find(
+    (a) => a.articleType === "event_guide"
+  )
   const description =
-    `${formatPeriod(event)}／${event.venue.prefecture ?? "開催地未定"}。${event.description ?? ""}`.slice(
+    `${formatPeriod(event)}／${event.venue.prefecture ?? "開催地未定"}。${guide?.summary ?? event.description ?? ""}`.slice(
       0,
       120
     )
@@ -97,6 +100,7 @@ const Page = async ({ params }: Props) => {
   const related = relatedEvents(event)
   const point = toMapPoint(event)
   const jsonLd = eventJsonLd(event)
+  const guide = articles.find((a) => a.articleType === "event_guide")
 
   return (
     <article className="container page detail">
@@ -141,10 +145,32 @@ const Page = async ({ params }: Props) => {
       )}
       <section aria-labelledby="summary">
         <h2 id="summary">概要</h2>
+        {/* Our own guide text first, so the page is not just a copy of the press release. */}
+        {guide && (
+          <>
+            <p className="lead">{guide.summary}</p>
+            <p>
+              <Link href={`/articles/${guide.slug}/`}>
+                「{guide.title}」を読む →
+              </Link>
+            </p>
+          </>
+        )}
         {event.description ? (
-          <p className="lead">{event.description}</p>
+          <blockquote className="quote">
+            <p>{event.description}</p>
+            {sources[0] && (
+              <footer>
+                <small>
+                  出典: <cite>{sources[0].publisher ?? sources[0].title}</cite>
+                </small>
+              </footer>
+            )}
+          </blockquote>
         ) : (
-          <p className="lead">概要は下記の出典（原典）でご確認ください。</p>
+          !guide && (
+            <p className="lead">概要は下記の出典（原典）でご確認ください。</p>
+          )
         )}
       </section>
 
