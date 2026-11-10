@@ -2,6 +2,7 @@ import { Metadata } from "next"
 import { SectionTitle } from "@/components/elements/layout"
 import { EventArchive } from "@/components/EventArchive"
 import { publicEvents } from "@/lib/data"
+import { isIndexableListing } from "@/lib/seo"
 import { GENRES, PREFECTURE_BY_SLUG, PREFECTURE_SLUGS } from "@/lib/types"
 
 type Props = { params: Promise<{ prefecture: string }> }
@@ -28,8 +29,8 @@ export const generateMetadata = async ({
     title: `${pref}のお酒イベント・フェス情報（${genreLabel}）`,
     description: `${pref}で開催される${genres.join("・") || "お酒"}のイベント・試飲会・フェス${events.length}件を掲載。日程・会場を一覧で確認できます。`,
     alternates: { canonical: `/areas/${prefecture}/` },
-    // Avoid indexing thin pages for prefectures without events.
-    robots: events.length ? undefined : { index: false },
+    // Avoid indexing thin pages for prefectures without upcoming events.
+    robots: isIndexableListing(events) ? undefined : { index: false },
   }
 }
 

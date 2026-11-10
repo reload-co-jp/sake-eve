@@ -2,6 +2,7 @@ import { Metadata } from "next"
 import { SectionTitle } from "@/components/elements/layout"
 import { EventArchive } from "@/components/EventArchive"
 import { publicEvents } from "@/lib/data"
+import { isIndexableListing } from "@/lib/seo"
 import { GENRES, GENRES_EN, type Genre } from "@/lib/types"
 
 type Props = { params: Promise<{ genre: Genre }> }
@@ -24,7 +25,7 @@ export const generateMetadata = async ({
     title: `${GENRES[genre]}イベント・試飲会・フェス情報`,
     description: `${GENRES[genre]}のイベント・試飲会・フェス${events.length}件を掲載${prefs.length ? `（${prefs.slice(0, 5).join("・")}など）` : ""}。日程・会場を一覧で確認できます。`,
     alternates: { canonical: `/genres/${genre}/` },
-    robots: events.length ? undefined : { index: false },
+    robots: isIndexableListing(events) ? undefined : { index: false },
   }
 }
 
