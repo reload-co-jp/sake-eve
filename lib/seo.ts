@@ -11,6 +11,19 @@ if (!URL.canParse(rawSiteUrl))
   )
 export const SITE_URL = rawSiteUrl.replace(/\/+$/, "")
 
+/**
+ * Whether a listing (area / genre page) is worth indexing: it must have at
+ * least one upcoming or ongoing event. Pages with only ended events are thin
+ * and were left as "Discovered - currently not indexed", so they stay
+ * reachable for visitors but are kept out of the index and the sitemap.
+ */
+export const isIndexableListing = (events: Event[], now = new Date()) =>
+  events.some((e) => effectiveStatus(e, now) !== "ended")
+
+/** Ended events stay published as history but are not pushed via the sitemap. */
+export const isSitemapEvent = (e: Event, now = new Date()) =>
+  effectiveStatus(e, now) !== "ended"
+
 /** Next.js replaces (not merges) a parent's openGraph, so pages spread this. */
 export const OPEN_GRAPH_BASE = {
   siteName: "サケイベ！",

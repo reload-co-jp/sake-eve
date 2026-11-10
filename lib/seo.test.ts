@@ -1,6 +1,11 @@
 import { describe, expect, it } from "vitest"
 import events from "@/test/fixtures/events.json"
-import { eventJsonLd, jsonLdHtml } from "./seo"
+import {
+  eventJsonLd,
+  isIndexableListing,
+  isSitemapEvent,
+  jsonLdHtml,
+} from "./seo"
 import type { Event } from "./types"
 
 const sample = (events as unknown as Event[]).find(
@@ -34,5 +39,30 @@ describe("eventJsonLd", () => {
       "2026-10-24"
     )
     expect(jsonLdHtml({ name: "</script><x>" })).not.toContain("</script>")
+  })
+})
+
+describe("isIndexableListing / isSitemapEvent", () => {
+  const now = new Date("2026-11-10T12:00:00+09:00")
+  const ended: Event = {
+    ...real,
+    status: "unknown",
+    startAt: "2026-10-01T10:00:00+09:00",
+    endAt: "2026-10-01T17:00:00+09:00",
+  }
+  const upcoming: Event = {
+    ...real,
+    status: "unknown",
+    startAt: "2026-12-01T10:00:00+09:00",
+    endAt: "2026-12-01T17:00:00+09:00",
+  }
+  it("indexes listings only when an event is not over", () => {
+    expect(isIndexableListing([], now)).toBe(false)
+    expect(isIndexableListing([ended], now)).toBe(false)
+    expect(isIndexableListing([ended, upcoming], now)).toBe(true)
+  })
+  it("keeps ended events out of the sitemap", () => {
+    expect(isSitemapEvent(ended, now)).toBe(false)
+    expect(isSitemapEvent(upcoming, now)).toBe(true)
   })
 })
