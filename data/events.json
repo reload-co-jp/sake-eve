@@ -10338,10 +10338,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-29T21:36:44.059Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-1e6d02df0dea",
@@ -15665,6 +15665,359 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-10T22:13:23.253Z",
     "updatedAt": "2026-11-10T22:13:23.253Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-5bdc9826bde5",
+    "slug": "e-5bdc9826bde5",
+    "title": "【ホテルメトロポリタン エドモント】「クリスマスファミリーフェスタ ～鉄道フェア2026～」開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-12-20T00:00:00+09:00",
+    "endAt": "2026-12-20T23:59:00+09:00",
+    "venue": {
+      "name": "ホテルメトロポリタン エドモント 宴会場",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://edmont.metropolitan.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/30117/2657/30117-2657-3769e446ebb1e37a49c1f6897aef2ae3-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5bdc9826bde5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-7afa4f512f23",
+    "slug": "e-7afa4f512f23",
+    "title": "アッシュ・ペー・フランス、ホリデー企画「LOVE&GIFT 2026」を開催。「LOVE GROWS.」をテーマに、ギフトを通じて広がる「好き」のかたち",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-13T23:59:00+09:00",
+    "venue": {
+      "name": "全国のアッシュ・ペー・フランス系列店舗にて配布",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.hpfrance.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/34526/148/34526-148-d0033fbc7343514d71b475686138cba0-1920x870.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7afa4f512f23"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1dd8ce3c7a14",
+    "slug": "e-1dd8ce3c7a14",
+    "title": "生成AI利用に伴う情報漏えいからフィジカルAIのセキュリティ課題まで--ギブリー服部祐一、IPA・日本シーサート協議会・九経連・BCNで講演",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-13T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都渋谷区南平台町15-13 帝都渋谷ビル 8階",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "latitude": 35.655487,
+      "longitude": 139.695251
+    },
+    "organizer": null,
+    "officialUrl": "https://www.kyushu.meti.go.jp/event/2610/261021_1.html",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/2454/426/2454-426-402234fd51a6b48b8aa8f1557d15fca4-1200x628.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1dd8ce3c7a14"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-d16376af07ba",
+    "slug": "e-d16376af07ba",
+    "title": "東中野「麺酒場ひかる」でDJフェス 音楽プロデューサー小西康陽さんも",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour",
+      "market"
+    ],
+    "startAt": "2026-11-22T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/nakano_keizai/headline/1794432724_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d16376af07ba"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-dd2bf9550a9a",
+    "slug": "e-dd2bf9550a9a",
+    "title": "【11月14・15日】今週末はどこへ行く? 巨大パエリアから日本酒まで、都内の駅チカで楽しむ秋のおでかけ情報7選! グルメやフェスを満喫、渋谷・上野・日比谷・立川など",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-dd2bf9550a9a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-73e477427c9b",
+    "slug": "e-73e477427c9b",
+    "title": "江戸川橋・早稲田の12店で食べ飲み歩きイベント 地元の老舗酒販店が企画",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-15T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/bunkyo_keizai/headline/1794357125_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-73e477427c9b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-2deb26948da2",
+    "slug": "e-2deb26948da2",
+    "title": "泡盛やビール、料理を楽しめる 14酒造所が参加「島酒マルシェ」 11月14・15日、那覇・てんぶす前広場",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake",
+      "awamori"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://oki.ismcdn.jp/mwimgs/d/5/1200wm/img_d59ea8405369acc10fcf1d72bf5d70501474231.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-2deb26948da2"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b2fd0f6c24d8",
+    "slug": "e-b2fd0f6c24d8",
+    "title": "肴町でお得にはしご酒 11月17~19日、浜松市で「肴町ほろ酔い祭 招福酉の市」",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "静岡県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://static.chunichi.co.jp/image/article/size1/b/7/0/5/b705410e4d1fbe0233ab5c1d329ab610_1.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b2fd0f6c24d8"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-11T23:22:30.549Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

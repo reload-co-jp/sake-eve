@@ -11772,5 +11772,270 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-5bdc9826bde5",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000002657.000030117.html",
+    "title": "【ホテルメトロポリタン エドモント】「クリスマスファミリーフェスタ ～鉄道フェア2026～」開催",
+    "publisher": "日本ホテル株式会社",
+    "publishedAt": "2026-11-11T14:00:02+09:00",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "b4676e8cd51452020cc461280d45039fe1db334d9e26c5c45bdadf1d5b19f96b",
+    "relatedEventIds": [
+      "evt-5bdc9826bde5"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-12-20",
+      "endDate": "2026-12-20",
+      "dateSource": "label",
+      "venueName": "ホテルメトロポリタン エドモント 宴会場",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://edmont.metropolitan.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7afa4f512f23",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000148.000034526.html",
+    "title": "アッシュ・ペー・フランス、ホリデー企画「LOVE&GIFT 2026」を開催。「LOVE GROWS.」をテーマに、ギフトを通じて広がる「好き」のかたち",
+    "publisher": "アッシュ・ペー・フランス株式会社",
+    "publishedAt": "2026-11-11T12:00:02+09:00",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "652fd9b2941bf949e268d0d9ce421783b79b154a60af40e5c973f30ce4ac44c5",
+    "relatedEventIds": [
+      "evt-7afa4f512f23"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "dateSource": "text",
+      "venueName": "全国のアッシュ・ペー・フランス系列店舗にて配布",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://www.hpfrance.com/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1dd8ce3c7a14",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000426.000002454.html",
+    "title": "生成AI利用に伴う情報漏えいからフィジカルAIのセキュリティ課題まで--ギブリー服部祐一、IPA・日本シーサート協議会・九経連・BCNで講演",
+    "publisher": "株式会社ギブリー",
+    "publishedAt": "2026-11-11T11:00:02+09:00",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "4a6af37265df5cbb884e1ce7972cba0d21a2356076579d3a24908fd76196a323",
+    "relatedEventIds": [
+      "evt-1dd8ce3c7a14"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-13",
+      "dateSource": "text",
+      "venueName": null,
+      "address": "東京都渋谷区南平台町15-13 帝都渋谷ビル 8階",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": "https://www.kyushu.meti.go.jp/event/2610/261021_1.html",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d16376af07ba",
+    "sourceType": "news",
+    "url": "https://nakano.keizai.biz/headline/3445/",
+    "title": "東中野「麺酒場ひかる」でDJフェス 音楽プロデューサー小西康陽さんも",
+    "publisher": "中野経済新聞",
+    "publishedAt": "2026-11-11T21:33:23.000Z",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "93c70067e64517fa88be96f63e380d2cb5f1b43071a4c5fd8ed535fc2e8d3897",
+    "relatedEventIds": [
+      "evt-d16376af07ba"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-dd2bf9550a9a",
+    "sourceType": "news",
+    "url": "https://tetsudo-ch.com/13044162.html",
+    "title": "【11月14・15日】今週末はどこへ行く? 巨大パエリアから日本酒まで、都内の駅チカで楽しむ秋のおでかけ情報7選! グルメやフェスを満喫、渋谷・上野・日比谷・立川など",
+    "publisher": "鉄道チャンネル",
+    "publishedAt": "2026-11-11T03:00:43.000Z",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "282673f0cd533b7fb18677021bc55f9719474584ea52652425293e5df903fcca",
+    "relatedEventIds": [
+      "evt-dd2bf9550a9a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-73e477427c9b",
+    "sourceType": "news",
+    "url": "https://bunkyo.keizai.biz/headline/1132/",
+    "title": "江戸川橋・早稲田の12店で食べ飲み歩きイベント 地元の老舗酒販店が企画",
+    "publisher": "文京経済新聞",
+    "publishedAt": "2026-11-11T00:32:04.000Z",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "b66e3653d645dda1178272e2cc1122d8eef632fcf298517362cc47b02eec315b",
+    "relatedEventIds": [
+      "evt-73e477427c9b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-2deb26948da2",
+    "sourceType": "news",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1963505",
+    "title": "泡盛やビール、料理を楽しめる 14酒造所が参加「島酒マルシェ」 11月14・15日、那覇・てんぶす前広場",
+    "publisher": "沖縄タイムス＋プラス",
+    "publishedAt": "2026-11-10T23:40:00.000Z",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "c336d77c8b44cbf7474458918e1f0d79136270c230d571c923d64bd891b60a6e",
+    "relatedEventIds": [
+      "evt-2deb26948da2"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake",
+        "awamori"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b2fd0f6c24d8",
+    "sourceType": "news",
+    "url": "https://www.chunichi.co.jp/article/1337788",
+    "title": "肴町でお得にはしご酒 11月17~19日、浜松市で「肴町ほろ酔い祭 招福酉の市」",
+    "publisher": "中日新聞Web",
+    "publishedAt": "2026-11-10T20:05:00.000Z",
+    "fetchedAt": "2026-11-11T23:22:30.549Z",
+    "contentHash": "81ef1cf2baf4f2968dfbdace41c375f9c711a593dd3f890af123e66a07f867dc",
+    "relatedEventIds": [
+      "evt-b2fd0f6c24d8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "静岡県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

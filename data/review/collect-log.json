@@ -1677,5 +1677,51 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-11-11T23:18:05.023Z",
+    "finishedAt": "2026-11-11T23:22:36.498Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "skipped",
+        "items": 0,
+        "message": "6時間ごとに実行（今回は対象外）"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://natalie.mu/music/news/697547: HTTP 405: https://natalie.mu/music/news/697547 / 詳細取得失敗 http://spice.eplus.jp/articles/350267: アクセス制限 (HTTP 403) のため中止: http://spice.eplus.jp/articles/350267 / 詳細取得失敗 https://tetsudo-ch.com/13044162.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13044162.html / 詳細取得失敗 https://natalie.mu/eiga/news/697466: HTTP 405: https://natalie.mu/eiga/news/697466 / 詳細取得失敗 https://www.fashion-press.net/news/153142: robots.txtで禁止されているため取得しません: https://www.fashion-press.net/news/153142 / 詳細取得25件 / 失敗5件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 300,
+      "irrelevant": 283,
+      "duplicateUrl": 9,
+      "added": 8,
+      "needsReview": 8,
+      "autoPublished": 0,
+      "duplicateCandidates": 0,
+      "autoHidden": 1,
+      "autoReviewed": 0,
+      "summarized": 0,
+      "geocoded": 1
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]
