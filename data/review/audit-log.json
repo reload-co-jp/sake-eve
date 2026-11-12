@@ -6565,5 +6565,45 @@
       "organizer"
     ],
     "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-12T22:39:12.662Z",
+    "collection": "events",
+    "id": "evt-06b3c18b8061",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-12T22:39:12.662Z",
+    "collection": "events",
+    "id": "evt-1892a297c9ca",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-12T22:39:12.662Z",
+    "collection": "events",
+    "id": "evt-9626c672bd13",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-12T22:39:12.662Z",
+    "collection": "events",
+    "id": "evt-4f6b21a90dfd",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

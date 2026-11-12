@@ -12037,5 +12037,434 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-6c02dce482ee",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000435.000140499.html",
+    "title": "【Ron Herman】Marie-Helene de Taillacの30周年を記念した特別なコラボレーションが実現！デザイナー来日イベントも開催",
+    "publisher": "株式会社リトルリーグ",
+    "publishedAt": "2026-11-12T13:04:29+09:00",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "8389e7453183e7c554ac8a431d09dd857e518426a828f165eb444e1bb9ca491d",
+    "relatedEventIds": [
+      "evt-6c02dce482ee"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "cocktail"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-29",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "東京都渋谷区千駄ヶ谷2-11-1",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9626c672bd13",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000020.000100959.html",
+    "title": "「曳山なび」、2026年唐津くんちで全14台へのGPS設置・運用を実施　祭りの4K動画6本も公開",
+    "publisher": "アイネットマコト",
+    "publishedAt": "2026-11-10T09:10:02+09:00",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "7155b9e36b201c81b70b0cfa87b9cf18f82c7ec49b38e4d07f92d363bdb3bba5",
+    "relatedEventIds": [
+      "evt-9626c672bd13"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-02",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "佐賀県唐津市",
+      "prefecture": "佐賀県",
+      "city": "唐津市",
+      "officialUrl": "https://www.ainetmakoto.jp/karakunnavi/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-06b3c18b8061",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000009.000110760.html",
+    "title": "20蔵に増えて開催！日本酒ｘ音楽ｘ日本橋フードを楽しめる秋祭り「福徳の森 日本酒祭｜morinomi9」、11/21(土)開催",
+    "publisher": "日本橋日本酒プロジェクト",
+    "publishedAt": "2026-11-11T20:01:55+09:00",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "bf4fe5aa6082e02c781380e52337d1b288286930231d41fd76cb9ae1540fd49f",
+    "relatedEventIds": [
+      "evt-06b3c18b8061"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "label",
+      "venueName": "コレド室町仲通りにて (〒103-0022 東京都中央区日本橋室町2-2-1)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1892a297c9ca",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000031.000093457.html",
+    "title": "永田町・表参道で人気のドーナツ専門店「HOCUS POCUS」が横浜に。カヌレと焼き菓子専門店「galbe yokohama みなとみらい店」で10日間限定のコラボイベントを開催！",
+    "publisher": "Stoked Creations合同会社",
+    "publishedAt": "2026-11-11T15:16:37+09:00",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "5310fab70f9255ebad7e7ae041748a01455a307c1f4c593b86cd36329f8761f7",
+    "relatedEventIds": [
+      "evt-1892a297c9ca"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-22",
+      "dateSource": "label",
+      "venueName": "galbe yokohama みなとみらい店",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": "https://hocuspocus.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-5257c33c05f3",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000167.000042181.html",
+    "title": "一般社団法人日本パブリックアフェアーズ協会が【1枠1社限定】「パブリックアフェアーズ無料個別相談会」を12月に開催",
+    "publisher": "一般社団法人 日本パブリックアフェアーズ協会",
+    "publishedAt": "2026-11-12T12:00:02+09:00",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "da39d69e9ca3c410fc34c52bf5cde485caf45b7e63502928eb594d40fd0cefd5",
+    "relatedEventIds": [
+      "evt-5257c33c05f3"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-15",
+      "endDate": "2026-12-15",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4f6b21a90dfd",
+    "sourceType": "news",
+    "url": "https://hongkong.keizai.biz/headline/3038/",
+    "title": "香港で焼酎・泡盛イベント 九州と沖縄、4県がカクテルで魅力発信",
+    "publisher": "香港経済新聞",
+    "publishedAt": "2026-11-12T14:34:27.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "57350de8fd640c900e16efa8878bf834e199a458e353b91ab3c32a961279c804",
+    "relatedEventIds": [
+      "evt-4f6b21a90dfd"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu",
+        "awamori",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar"
+      ],
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f9f28c1adc61",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1151460",
+    "title": "1000円で名物料理とドリンクを満喫 550円お得“キッシュ&ワイン\"や“牛塩もつ煮込みセット\" 駅周辺の31店が参加する飲み歩きイベント「長野駅前バル」 11月17日まで",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-11-12T11:28:00.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "8892f14ef5ce9239fe3b658417212bb16cacf41c6baccede8db09ecef5f1c656",
+    "relatedEventIds": [
+      "evt-f9f28c1adc61"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-10d4d6b2ecd5",
+    "sourceType": "news",
+    "url": "https://gourmet.watch.impress.co.jp/docs/news/2155909.html",
+    "title": "無料で「デュワーズ12年 ハイボール缶」を試飲できる発売前イベントを体験してきた",
+    "publisher": "グルメ Watch",
+    "publishedAt": "2026-11-12T08:19:49.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "d87a84c3fe8e12dc43cfb1978ed22d843b1a15bff63dfc4c90ad833d73188fd7",
+    "relatedEventIds": [
+      "evt-10d4d6b2ecd5"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-14",
+      "dateSource": "label",
+      "venueName": "渋谷ストリーム 稲荷橋広場( 東京都渋谷区渋谷3-21-3 )",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ac3bb0eb0053",
+    "sourceType": "news",
+    "url": "https://news.mynavi.jp/article/20261112-5301328/",
+    "title": "チェコのお酒やグルメ、文化を楽しもう!二子玉川ライズで「チェコフェスティバル2026」開催",
+    "publisher": "マイナビニュース",
+    "publishedAt": "2026-11-12T06:59:08.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "a6dddc464863e8c1f643de4bf8cad2b0c249351c29e2e4600cc9d35aad066d48",
+    "relatedEventIds": [
+      "evt-ac3bb0eb0053"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "market"
+      ],
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a0cdc55f7717",
+    "sourceType": "news",
+    "url": "https://news.mynavi.jp/article/20261112-5301225/",
+    "title": "新橋に鳥取の酒蔵・ブルワリーが集結!90分間フリードリンクで楽しめる「地の酒・地の味 まいもん祭り」開催",
+    "publisher": "マイナビニュース",
+    "publishedAt": "2026-11-12T06:54:16.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "a553d700e38308612537092b8b60750e6a3801cd180d7b8aea77cf3d8930a7df",
+    "relatedEventIds": [
+      "evt-a0cdc55f7717"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-e6827e6f8077",
+    "sourceType": "news",
+    "url": "https://www.nikkei.com/article/DGXZQOUC1248R0S6A111C2000000/",
+    "title": "サッポロ、「デュワーズ12年」のハイボール缶 渋谷で試飲イベント",
+    "publisher": "日本経済新聞",
+    "publishedAt": "2026-11-12T06:13:17.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "59971445e8ee2c13041bd876b07d835dc07e86a810328badf0e24dd34fe2205f",
+    "relatedEventIds": [
+      "evt-e6827e6f8077"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": "2027-07-14",
+      "endDate": "2027-07-14",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-972e8ce7a350",
+    "sourceType": "news",
+    "url": "https://sumida.keizai.biz/headline/2060/",
+    "title": "錦糸公園でサウナテーマのマルシェ クラフトビールとスパイス料理",
+    "publisher": "すみだ経済新聞",
+    "publishedAt": "2026-11-12T06:11:06.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "aa5a50fa8cc15017ef359545460dcc5619b23767af03ebb476cc7cfa22ace923",
+    "relatedEventIds": [
+      "evt-972e8ce7a350"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d3ff6b60a24f",
+    "sourceType": "news",
+    "url": "https://ubenippo.co.jp/2026/11/12/7832244/",
+    "title": "15日「うべKITAまつり」 二俣瀬小、永山酒造場などで【宇部】",
+    "publisher": "宇部日報",
+    "publishedAt": "2026-11-12T03:02:00.000Z",
+    "fetchedAt": "2026-11-12T22:39:12.662Z",
+    "contentHash": "33ebde29f6e4fd5403b495c6fd4d2f247961e2f20aea61fa4a81ff8a53ed9090",
+    "relatedEventIds": [
+      "evt-d3ff6b60a24f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

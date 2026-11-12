@@ -13774,7 +13774,7 @@
     "organizer": "三島麦空実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/141309/22/141309-22-6e3c8ca1be2a54c11583b188cfd86c94-1459x2063.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-9b777a2ed405.webp",
     "price": "入園料300円（中学生以下無料）",
     "isFree": false,
     "reservationRequired": null,
@@ -13817,7 +13817,7 @@
     "organizer": "サッポロビール",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/12361/3314/12361-3314-36adf03edb07cf23c342614fc1eb9de4-3900x2239.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-9c2d63450d00.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -13907,7 +13907,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/24449/478/24449-478-cbe5a913bcb2a0d44284b771f693a9f0-1170x827.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-3544ccde8403.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -14390,7 +14390,7 @@
     "organizer": null,
     "officialUrl": "https://www.nomooo.jp/pages/the-chillgrance-sessions-01.html",
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4642/620/4642-620-aa8bcbdc7557c2881477da6c7d04de0c-1200x630.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-42ed0401468d.webp",
     "price": "3,000円",
     "isFree": false,
     "reservationRequired": true,
@@ -14564,7 +14564,7 @@
     "organizer": "株式会社ALL CRAFT JAPAN",
     "officialUrl": "https://allcraftjapan.com/events/omotesando-craft-beer-fest/",
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/168611/6/168611-6-657e9e1a999cdc8ba0a1cc6f5b613405-1074x1523.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-82517aecb9bc.webp",
     "price": "1,500円（1ドリンク付き）",
     "isFree": false,
     "reservationRequired": null,
@@ -15960,7 +15960,7 @@
     "organizer": "島酒で沖縄を盛り上げる会実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://oki.ismcdn.jp/mwimgs/d/5/1200wm/img_d59ea8405369acc10fcf1d72bf5d70501474231.jpg",
+    "imageUrl": "/images/events/evt-2deb26948da2.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -16018,6 +16018,578 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
     "updatedAt": "2026-11-12T15:24:23.870Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6c02dce482ee",
+    "slug": "e-6c02dce482ee",
+    "title": "【Ron Herman】Marie-Helene de Taillacの30周年を記念した特別なコラボレーションが実現！デザイナー来日イベントも開催",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-29T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "東京都渋谷区千駄ヶ谷2-11-1",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "latitude": 35.675304,
+      "longitude": 139.710388
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/140499/435/140499-435-768adf980cc217481d6d8b408b84c344-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6c02dce482ee"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9626c672bd13",
+    "slug": "e-9626c672bd13",
+    "title": "「曳山なび」、2026年唐津くんちで全14台へのGPS設置・運用を実施　祭りの4K動画6本も公開",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-02T00:00:00+09:00",
+    "endAt": "2026-11-02T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "佐賀県唐津市",
+      "prefecture": "佐賀県",
+      "city": "唐津市",
+      "latitude": 33.449802,
+      "longitude": 129.967682
+    },
+    "organizer": null,
+    "officialUrl": "https://www.ainetmakoto.jp/karakunnavi/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/100959/20/100959-20-2e365e7d3f91f5f9cbf04ede73a5dfa4-1246x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9626c672bd13"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-06b3c18b8061",
+    "slug": "e-06b3c18b8061",
+    "title": "20蔵に増えて開催！日本酒ｘ音楽ｘ日本橋フードを楽しめる秋祭り「福徳の森 日本酒祭｜morinomi9」、11/21(土)開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-21T23:59:00+09:00",
+    "venue": {
+      "name": "コレド室町仲通りにて (〒103-0022 東京都中央区日本橋室町2-2-1)",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-06b3c18b8061.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-06b3c18b8061"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-1892a297c9ca",
+    "slug": "e-1892a297c9ca",
+    "title": "永田町・表参道で人気のドーナツ専門店「HOCUS POCUS」が横浜に。カヌレと焼き菓子専門店「galbe yokohama みなとみらい店」で10日間限定のコラボイベントを開催！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": "2026-11-13T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": "galbe yokohama みなとみらい店",
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://hocuspocus.jp/",
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-1892a297c9ca.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1892a297c9ca"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-5257c33c05f3",
+    "slug": "e-5257c33c05f3",
+    "title": "一般社団法人日本パブリックアフェアーズ協会が【1枠1社限定】「パブリックアフェアーズ無料個別相談会」を12月に開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-12-15T00:00:00+09:00",
+    "endAt": "2026-12-15T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/42181/167/42181-167-ba14e39e074950ea34ca4632dbb341b7-1920x1080.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5257c33c05f3"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-4f6b21a90dfd",
+    "slug": "e-4f6b21a90dfd",
+    "title": "香港で焼酎・泡盛イベント 九州と沖縄、4県がカクテルで魅力発信",
+    "description": null,
+    "genres": [
+      "shochu",
+      "awamori",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar"
+    ],
+    "startAt": "2026-11-10T00:00:00+09:00",
+    "endAt": "2026-11-10T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/hongkong_keizai/headline/1794400277_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-4f6b21a90dfd"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-f9f28c1adc61",
+    "slug": "e-f9f28c1adc61",
+    "title": "1000円で名物料理とドリンクを満喫 550円お得“キッシュ&ワイン\"や“牛塩もつ煮込みセット\" 駅周辺の31店が参加する飲み歩きイベント「長野駅前バル」 11月17日まで",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-17T00:00:00+09:00",
+    "endAt": "2026-11-17T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/0/3/600/img_0318f2818eb851ee289cea8fe2781c1980853.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f9f28c1adc61"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-10d4d6b2ecd5",
+    "slug": "e-10d4d6b2ecd5",
+    "title": "無料で「デュワーズ12年 ハイボール缶」を試飲できる発売前イベントを体験してきた",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-11-12T00:00:00+09:00",
+    "endAt": "2026-11-14T23:59:00+09:00",
+    "venue": {
+      "name": "渋谷ストリーム 稲荷橋広場( 東京都渋谷区渋谷3-21-3 )",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://gourmet.watch.impress.co.jp/img/grw/list/2155/909/08.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-10d4d6b2ecd5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ac3bb0eb0053",
+    "slug": "e-ac3bb0eb0053",
+    "title": "チェコのお酒やグルメ、文化を楽しもう!二子玉川ライズで「チェコフェスティバル2026」開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": "2026-12-04T00:00:00+09:00",
+    "endAt": "2026-12-06T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://news.mynavi.jp/article/20261112-5301328/ogp_images/ogp.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ac3bb0eb0053"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a0cdc55f7717",
+    "slug": "e-a0cdc55f7717",
+    "title": "新橋に鳥取の酒蔵・ブルワリーが集結!90分間フリードリンクで楽しめる「地の酒・地の味 まいもん祭り」開催",
+    "description": null,
+    "genres": [
+      "beer",
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-23T00:00:00+09:00",
+    "endAt": "2026-11-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://news.mynavi.jp/article/20261112-5301225/ogp_images/ogp.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a0cdc55f7717"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e6827e6f8077",
+    "slug": "e-e6827e6f8077",
+    "title": "サッポロ、「デュワーズ12年」のハイボール缶 渋谷で試飲イベント",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2027-07-14T00:00:00+09:00",
+    "endAt": "2027-07-14T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3868158012112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.02&fp-y=0.38&h=630&w=1200&s=829f1bbf4a105ae0d983679e78cc7bfd",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e6827e6f8077"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-972e8ce7a350",
+    "slug": "e-972e8ce7a350",
+    "title": "錦糸公園でサウナテーマのマルシェ クラフトビールとスパイス料理",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour",
+      "market"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-21T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/sumida_keizai/headline/1794463870_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-972e8ce7a350"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-d3ff6b60a24f",
+    "slug": "e-d3ff6b60a24f",
+    "title": "15日「うべKITAまつり」 二俣瀬小、永山酒造場などで【宇部】",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d3ff6b60a24f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-12T22:39:12.662Z",
+    "updatedAt": "2026-11-12T22:39:12.662Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
