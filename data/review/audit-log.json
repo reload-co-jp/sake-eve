@@ -6384,5 +6384,186 @@
       "verificationStatus"
     ],
     "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-b4fb883356f0",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-b4fb883356f0",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-48129839563a",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-48129839563a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: すでに開催されたラーメンの感謝祭の開催報告であり、お酒のイベントでもないため対象外である。"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-5bdc9826bde5",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-5bdc9826bde5",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 鉄道企画とクリスマスを楽しむ家族向けのホテルイベントで、お酒が主題のイベントではない。"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-7afa4f512f23",
+    "action": "update",
+    "changedFields": [
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（organizer）"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-7afa4f512f23",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: ファッションブランドのホリデー商品展開とフリーペーパー配布の告知であり、お酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-1dd8ce3c7a14",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: AIとサイバーセキュリティに関するセミナーやシンポジウムへの講演登壇の告知であり、お酒のイベントではないため掲載対象外である。"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-d16376af07ba",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, price, isFree）"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-d16376af07ba",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 一般参加できる今後開催のイベントだが、ラーメン居酒屋で行うDJ・音楽イベントで、お酒が主役のイベントではないため。"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-73e477427c9b",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.prefecture, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-2deb26948da2",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-2deb26948da2",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:24:23.870Z",
+    "collection": "events",
+    "id": "evt-b2fd0f6c24d8",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.address, venue.city, price, isFree, organizer）"
   }
 ]

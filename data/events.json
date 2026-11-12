@@ -15586,8 +15586,8 @@
   {
     "id": "evt-b4fb883356f0",
     "slug": "e-b4fb883356f0",
-    "title": "飯沼本家、3つの酒蔵が新酒を披露する「酒々井新酒祭2026」を12月5日に開催",
-    "description": null,
+    "title": "酒々井新酒祭2026",
+    "description": "飯沼本家の「甲子」、鍋店の「仁勇」、SAWA WINESの酒をチケット制の角打ちで飲み比べられる3蔵合同の新酒祭だ。限定純米大吟醸の販売や地元店のフードエリア、津軽三味線や和太鼓のステージも楽しめる。",
     "genres": [
       "sake"
     ],
@@ -15597,14 +15597,14 @@
     "startAt": "2026-12-05T00:00:00+09:00",
     "endAt": "2026-12-05T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "飯沼本家",
+      "address": "千葉県印旛郡酒々井町馬橋106",
+      "prefecture": "千葉県",
+      "city": "印旛郡酒々井町",
+      "latitude": 35.707287,
+      "longitude": 140.271637
     },
-    "organizer": null,
+    "organizer": "飯沼本家",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -15618,13 +15618,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-10T22:13:23.253Z",
-    "updatedAt": "2026-11-10T22:13:23.253Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-48129839563a",
@@ -15637,17 +15637,17 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-08T00:00:00+09:00",
+    "endAt": "2026-11-08T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "ベルナール酒田",
       "address": null,
       "prefecture": null,
-      "city": null,
+      "city": "酒田市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "酒田のラーメンを考える会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -15660,14 +15660,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-10T22:13:23.253Z",
-    "updatedAt": "2026-11-10T22:13:23.253Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-5bdc9826bde5",
@@ -15684,19 +15684,19 @@
     "endAt": "2026-12-20T23:59:00+09:00",
     "venue": {
       "name": "ホテルメトロポリタン エドモント 宴会場",
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "address": "東京都千代田区飯田橋3-10-8",
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "latitude": 35.700504,
+      "longitude": 139.749054
     },
-    "organizer": null,
+    "organizer": "ホテルメトロポリタン エドモント",
     "officialUrl": "https://edmont.metropolitan.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/30117/2657/30117-2657-3769e446ebb1e37a49c1f6897aef2ae3-3900x2925.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "大人12,000円、子ども2,000円〜",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-5bdc9826bde5"
     ],
@@ -15707,10 +15707,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-7afa4f512f23",
@@ -15733,7 +15733,7 @@
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "アッシュ・ペー・フランス株式会社",
     "officialUrl": "https://www.hpfrance.com/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/34526/148/34526-148-d0033fbc7343514d71b475686138cba0-1920x870.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -15750,10 +15750,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-1dd8ce3c7a14",
@@ -15793,10 +15793,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d16376af07ba",
@@ -15815,19 +15815,19 @@
     "startAt": "2026-11-22T00:00:00+09:00",
     "endAt": "2026-11-22T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "麺酒場ひかる",
+      "address": "中野区東中野4",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "latitude": 35.708885,
+      "longitude": 139.685577
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/nakano_keizai/headline/1794432724_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "2,000円（1ドリンク付き）",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-d16376af07ba"
@@ -15839,10 +15839,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-dd2bf9550a9a",
@@ -15891,8 +15891,8 @@
   {
     "id": "evt-73e477427c9b",
     "slug": "e-73e477427c9b",
-    "title": "江戸川橋・早稲田の12店で食べ飲み歩きイベント 地元の老舗酒販店が企画",
-    "description": null,
+    "title": "A－day",
+    "description": "江戸川橋から早稲田、神楽坂にかけての飲食店や酒販店など12店を、首から提げたパスで巡る食べ飲み歩きイベントである。各店で当日限りの特典があり、ナチュラルワインの試飲やタップルームのクラフトビールも楽しめる。",
     "genres": [
       "beer",
       "wine",
@@ -15907,17 +15907,17 @@
     "venue": {
       "name": null,
       "address": null,
-      "prefecture": null,
+      "prefecture": "東京都",
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "三伊井上酒店 井上貴久",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/bunkyo_keizai/headline/1794357125_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-73e477427c9b"
@@ -15929,7 +15929,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -15937,8 +15937,8 @@
   {
     "id": "evt-2deb26948da2",
     "slug": "e-2deb26948da2",
-    "title": "泡盛やビール、料理を楽しめる 14酒造所が参加「島酒マルシェ」 11月14・15日、那覇・てんぶす前広場",
-    "description": null,
+    "title": "第4回島酒マルシェ",
+    "description": "沖縄県内の14酒造所や飲食店が集まり、泡盛をはじめビールやウイスキーなどの県産酒と料理を味わえる催しだ。会計時のスタンプを5個集めると泡盛ミニボトルなどが当たるガチャガチャも楽しめる。",
     "genres": [
       "beer",
       "sake",
@@ -15947,17 +15947,17 @@
     "eventTypes": [
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-14T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "てんぶす前広場",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "沖縄県",
+      "city": "那覇市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "島酒で沖縄を盛り上げる会実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://oki.ismcdn.jp/mwimgs/d/5/1200wm/img_d59ea8405369acc10fcf1d72bf5d70501474231.jpg",
@@ -15970,42 +15970,42 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
-    "verificationStatus": "needs_review",
+    "status": "scheduled",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-b2fd0f6c24d8",
     "slug": "e-b2fd0f6c24d8",
-    "title": "肴町でお得にはしご酒 11月17~19日、浜松市で「肴町ほろ酔い祭 招福酉の市」",
-    "description": null,
+    "title": "肴町ほろ酔い祭 招福酉の市2026",
+    "description": "肴町の飲食店34軒が参加し、専用チケットを使って普段よりお得にはしご酒を楽しめる飲み歩きイベントだ。大安寺の酉の市に合わせて開かれ、気になっていた店に気軽に立ち寄るきっかけにもなる。",
     "genres": [
       "other"
     ],
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-17T00:00:00+09:00",
+    "endAt": "2026-11-19T23:59:00+09:00",
     "venue": {
       "name": null,
-      "address": null,
+      "address": "浜松市中央区肴町",
       "prefecture": "静岡県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "浜松市",
+      "latitude": 34.706551,
+      "longitude": 137.729523
     },
-    "organizer": null,
+    "organizer": "肴町発展会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://static.chunichi.co.jp/image/article/size1/b/7/0/5/b705410e4d1fbe0233ab5c1d329ab610_1.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "当日券3,500円",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-b2fd0f6c24d8"
@@ -16013,11 +16013,11 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-11T23:22:30.549Z",
+    "updatedAt": "2026-11-12T15:24:23.870Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

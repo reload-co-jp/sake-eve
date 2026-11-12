@@ -1282,5 +1282,147 @@
     ],
     "todo": [],
     "rejected": []
+  },
+  {
+    "eventId": "evt-b4fb883356f0",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "published",
+    "reason": "一般来場者が3蔵の新酒を角打ちで味わえる、2026年12月5日開催予定の新酒お披露目イベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-48129839563a",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "hidden",
+    "reason": "すでに開催されたラーメンの感謝祭の開催報告であり、お酒のイベントでもないため対象外である。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-5bdc9826bde5",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "hidden",
+    "reason": "鉄道企画とクリスマスを楽しむ家族向けのホテルイベントで、お酒が主題のイベントではない。",
+    "filled": [
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-7afa4f512f23",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "hidden",
+    "reason": "ファッションブランドのホリデー商品展開とフリーペーパー配布の告知であり、お酒のイベントではないため。",
+    "filled": [
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-1dd8ce3c7a14",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "hidden",
+    "reason": "AIとサイバーセキュリティに関するセミナーやシンポジウムへの講演登壇の告知であり、お酒のイベントではないため掲載対象外である。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-d16376af07ba",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "hidden",
+    "reason": "一般参加できる今後開催のイベントだが、ラーメン居酒屋で行うDJ・音楽イベントで、お酒が主役のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-73e477427c9b",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "pending",
+    "reason": "11月15日に開催予定の、一般の人がパスを持って酒販店や飲食店を巡れる食べ飲み歩きイベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.prefecture",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "会場"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-2deb26948da2",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "published",
+    "reason": "一般来場者が県産酒や料理を楽しめるイベントで、配信日以降の11月14・15日に開催予定である。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b2fd0f6c24d8",
+    "reviewedAt": "2026-11-12T15:24:23.870Z",
+    "decision": "pending",
+    "reason": "浜松市肴町で11月17〜19日に開かれる、一般の人が参加できる飲み歩きイベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "会場"
+    ],
+    "rejected": []
   }
 ]
