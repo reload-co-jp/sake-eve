@@ -953,5 +953,334 @@
     ],
     "todo": [],
     "rejected": []
+  },
+  {
+    "eventId": "evt-c2357b8868c6",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "2026年11月7日〜8日に開催されたイベントの開催報告記事で、本日（2026年11月12日）時点ですでに終了しているため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-4db5ff1719f4",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "高アルコールビール「麦のワイン」2種の新商品発売の告知であり、直営タップルームでの飲み比べも通常営業内のメニュー紹介にとどまるため、一般参加型のイベントではない。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-9b777a2ed405",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "published",
+    "reason": "一般来場者が楽しめるクラフトビールと三島甘藷のイベントで、配信日以降の2026年11月14日・15日に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-9c2d63450d00",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "published",
+    "reason": "ヱビスのブルワリーで12月に一般来場者向けに開かれる「福ヱビス」発売記念の特別展示イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-3544ccde8403",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "published",
+    "reason": "これから開催される一般参加型のまちなかイベントで、フード・ストリートでクラフトビールやワインが楽しめるため掲載対象と判断した。",
+    "filled": [
+      "title",
+      "description",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-d3cd41051c88",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "セキュリティ担当者向けの招待制ビジネス交流会で、お酒が主題のイベントではないため対象外とする。",
+    "filled": [
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-076dcae46765",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "Jリーグの試合に合わせたスタジアムイベントで、ライブや観戦が中心であり、クラフトビールの販売は付帯企画の一部にすぎずお酒のイベントとはいえないため。",
+    "filled": [
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0b308cfdd891",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "恵比寿ガーデンプレイスのイルミネーションとクリスマスイベントが主体であり、ホットワインなどの飲食販売は付随的で、お酒が主役のイベントではないため。",
+    "filled": [
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-faaea86bf0f2",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "水族館での観光キャラクターのステージや展示が中心で、クラフトビールは物販にとどまり、お酒が主役のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-8671edb9c658",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "一般参加できるこれから開催のイベントだが、肉料理が主役の食の祭典であり、お酒のイベントではない。",
+    "filled": [
+      "venue.city",
+      "price",
+      "isFree",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-42ed0401468d",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "published",
+    "reason": "一般受付で参加者を募集し、2026年12月20日にバーでCHILL GREENのドリンクを提供する、これから開催される有料の参加型イベントである。",
+    "filled": [
+      "title",
+      "description",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-834d88bcc03b",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-82517aecb9bc",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "published",
+    "reason": "2026年11月15日に表参道で開かれる、一般来場者向けのクラフトビールフェスの開催告知であるため。",
+    "filled": [
+      "title",
+      "description",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-a961b76d45ac",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "pending",
+    "reason": "神戸布引ハーブ園で2026年12月28日まで開催中のドイツビールとワインのイベントで、一般の来園者が参加できるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.city",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [
+      "開催日"
+    ],
+    "rejected": [
+      "startDate"
+    ]
+  },
+  {
+    "eventId": "evt-916780f5aa43",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "トンネル熟成日本酒の蔵出しイベントはすでに開催済みで、本文は来場者数などを伝える開催報告である。",
+    "filled": [
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-d43340cb31e1",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-1900b9f42b31",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "published",
+    "reason": "2026年11月15日に開催予定で、一般の人が当日チケットを買って鳥取県内14蔵の燗酒を飲み比べられる日本酒イベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-f2c18bdd338a",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "pending",
+    "reason": "一般の人が参加できるお酒とグルメ、音楽のイベントで、配信日以降の11月15日に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-c71f041da3be",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-55b493c2b29e",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "pending",
+    "reason": "JR観光列車「あめつち」の車内で山陰の地酒やおつまみを楽しめる土日のイベントで、12月まで実施されるため、これから参加できるお酒のイベントと判断した。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name"
+    ],
+    "todo": [
+      "開催日",
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-4b321bebae6a",
+    "reviewedAt": "2026-11-12T15:16:27.849Z",
+    "decision": "published",
+    "reason": "一般の人が無料で入場でき、これから開催される日本酒の屋外イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
   }
 ]

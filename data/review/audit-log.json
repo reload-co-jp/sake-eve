@@ -5923,5 +5923,466 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-c2357b8868c6",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.city）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-c2357b8868c6",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年11月7日〜8日に開催されたイベントの開催報告記事で、本日（2026年11月12日）時点ですでに終了しているため。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-4db5ff1719f4",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 高アルコールビール「麦のワイン」2種の新商品発売の告知であり、直営タップルームでの飲み比べも通常営業内のメニュー紹介にとどまるため、一般参加型のイベントではない。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-9b777a2ed405",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-9b777a2ed405",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-9c2d63450d00",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-9c2d63450d00",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-3544ccde8403",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.city）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-3544ccde8403",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-d3cd41051c88",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.address, venue.city, price, isFree, reservationRequired, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-d3cd41051c88",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: セキュリティ担当者向けの招待制ビジネス交流会で、お酒が主題のイベントではないため対象外とする。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-076dcae46765",
+    "action": "update",
+    "changedFields": [
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-076dcae46765",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: Jリーグの試合に合わせたスタジアムイベントで、ライブや観戦が中心であり、クラフトビールの販売は付帯企画の一部にすぎずお酒のイベントとはいえないため。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-0b308cfdd891",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-0b308cfdd891",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 恵比寿ガーデンプレイスのイルミネーションとクリスマスイベントが主体であり、ホットワインなどの飲食販売は付随的で、お酒が主役のイベントではないため。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-faaea86bf0f2",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-faaea86bf0f2",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 水族館での観光キャラクターのステージや展示が中心で、クラフトビールは物販にとどまり、お酒が主役のイベントではないため。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-8671edb9c658",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.city, price, isFree, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-8671edb9c658",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 一般参加できるこれから開催のイベントだが、肉料理が主役の食の祭典であり、お酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-42ed0401468d",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-42ed0401468d",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-834d88bcc03b",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-834d88bcc03b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-82517aecb9bc",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-82517aecb9bc",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-a961b76d45ac",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.city, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-916780f5aa43",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-916780f5aa43",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: トンネル熟成日本酒の蔵出しイベントはすでに開催済みで、本文は来場者数などを伝える開催報告である。"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-d43340cb31e1",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-d43340cb31e1",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-1900b9f42b31",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.prefecture, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-1900b9f42b31",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-f2c18bdd338a",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-c71f041da3be",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-c71f041da3be",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-55b493c2b29e",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-4b321bebae6a",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-12T15:16:27.849Z",
+    "collection": "events",
+    "id": "evt-4b321bebae6a",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
   }
 ]
