@@ -6605,5 +6605,45 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-13T22:28:11.295Z",
+    "collection": "events",
+    "id": "evt-fee705d5f43d",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-13T22:28:11.295Z",
+    "collection": "events",
+    "id": "evt-61c8ddea27fd",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-13T22:28:11.295Z",
+    "collection": "events",
+    "id": "evt-440a68a88c86",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-13T22:28:11.295Z",
+    "collection": "events",
+    "id": "evt-1430bae27ade",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

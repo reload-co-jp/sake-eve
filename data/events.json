@@ -16593,5 +16593,480 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-61c8ddea27fd",
+    "slug": "e-61c8ddea27fd",
+    "title": "毎月11日は「山下本気うどんの日」 人気メニューがおトクに食べられる！「山下本気うどんの日」を11月11日(水)に開催！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-11T00:00:00+09:00",
+    "endAt": "2026-11-11T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/27681/383/27681-383-b36f3311543a1c63d128260f8e5b5d3f-2880x1252.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-61c8ddea27fd"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-fee705d5f43d",
+    "slug": "e-fee705d5f43d",
+    "title": "「まんが日本昔ばなし」ポップアップストア、全国巡回が決定!　静岡駅ビル パルシェにて11月20日(金)より開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-20T00:00:00+09:00",
+    "endAt": "2026-12-27T23:59:00+09:00",
+    "venue": {
+      "name": "静岡駅ビル パルシェ 6階イベントスペース",
+      "address": "〒420-0851 静岡県静岡市葵区黒金町49",
+      "prefecture": "静岡県",
+      "city": "静岡市",
+      "latitude": 34.971794,
+      "longitude": 138.388901
+    },
+    "organizer": null,
+    "officialUrl": "https://www.parche.co.jp/",
+    "ticketUrl": null,
+    "imageUrl": "/images/events/evt-fee705d5f43d.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-fee705d5f43d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-f54c7285e405",
+    "slug": "e-f54c7285e405",
+    "title": "セミナー「どうやって民間の声を政府に届けるか？～事業者間連携による政策提言をケーススタディ～」2026年12月8日（火）開催のお知らせ",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-12-08T00:00:00+09:00",
+    "endAt": "2026-12-08T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/42181/166/42181-166-d53a54ed8a65cf77c3566a7f12d82eac-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f54c7285e405"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0007ecfa8fc5",
+    "slug": "e-0007ecfa8fc5",
+    "title": "焼酎やグルメ 宮崎・蔵まつり 21日から /宮崎",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0007ecfa8fc5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f1aebf065746",
+    "slug": "e-f1aebf065746",
+    "title": "【緊急配信】エヌビディアCEOが電撃辞任!神田の「居酒屋外交」・セガイベント…来日時の“独自密着映像\"を公開、会合参加の日本半導体各社の反応は?",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://dol.ismcdn.jp/mwimgs/7/9/-/img_79185f52c947b37d2a578685341ab1c8261275.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f1aebf065746"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-58ec6b246a0d",
+    "slug": "e-58ec6b246a0d",
+    "title": "京阪HD、京都・伏見の清酒を電車内で楽しむイベント 中書島駅で",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": "2026-12-05T00:00:00+09:00",
+    "endAt": "2026-12-05T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3876123013112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=47205af1f0ef950299bc61470e21e9c5",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-58ec6b246a0d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-b6c8b5d7d4b6",
+    "slug": "e-b6c8b5d7d4b6",
+    "title": "忠孝酒造、11月21・22日に秋祭り 泡盛の無料振る舞いや限定古酒販売",
+    "description": null,
+    "genres": [
+      "sake",
+      "awamori"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://oki.ismcdn.jp/mwimgs/e/3/1200wm/img_e314eedc1b2faa32b3c1c07232a42221690080.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-b6c8b5d7d4b6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-440a68a88c86",
+    "slug": "e-440a68a88c86",
+    "title": "新潟 長岡で若手蔵元が日本酒の未来を語るイベント",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-12T00:00:00+09:00",
+    "endAt": "2026-11-12T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "新潟県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75330/20261113de75330_E0000173682_1_l.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-440a68a88c86"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-7bbae91ed669",
+    "slug": "e-7bbae91ed669",
+    "title": "岩手町の夜、はしご酒いかが? 14日に初のイベント 4500円で4店巡るチケット販売",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://cdn.iwate-np.co.jp/media-static/article/198508/thumbnail/sw4b0-tm6af6b7ff_504ea8ff0.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7bbae91ed669"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3e0f1b889a7f",
+    "slug": "e-3e0f1b889a7f",
+    "title": "映画祭「はちのへシネマウイーク」開幕へ 8日間で30作品、酒蔵やバーでも",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": "2026-11-15T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/hachinohe_keizai/headline/1794532257_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3e0f1b889a7f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1430bae27ade",
+    "slug": "e-1430bae27ade",
+    "title": "赤坂ではしご酒イベント「赤ベロ」 42店が参加",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-10T00:00:00+09:00",
+    "endAt": "2026-11-11T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1430bae27ade"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-13T22:28:11.295Z",
+    "updatedAt": "2026-11-13T22:28:11.295Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
   }
 ]

@@ -12466,5 +12466,361 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-61c8ddea27fd",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000383.000027681.html",
+    "title": "毎月11日は「山下本気うどんの日」 人気メニューがおトクに食べられる！「山下本気うどんの日」を11月11日(水)に開催！",
+    "publisher": "株式会社ガーデン",
+    "publishedAt": "2026-11-09T11:00:02+09:00",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "0ab5c53c9e4c937f220e9f07d8c4fab2f1ea022b9ffbdfdc3c70d1d40986ebc4",
+    "relatedEventIds": [
+      "evt-61c8ddea27fd"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-fee705d5f43d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000008.000178148.html",
+    "title": "「まんが日本昔ばなし」ポップアップストア、全国巡回が決定!　静岡駅ビル パルシェにて11月20日(金)より開催",
+    "publisher": "株式会社愛企画センター",
+    "publishedAt": "2026-11-12T21:00:01+09:00",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "54f89f22d40a6d81df53cbf9e6fcbc233d445cd41482faa46db93607d5815c4c",
+    "relatedEventIds": [
+      "evt-fee705d5f43d"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2026-12-27",
+      "dateSource": "label",
+      "venueName": "静岡駅ビル パルシェ 6階イベントスペース",
+      "address": "〒420-0851 静岡県静岡市葵区黒金町49",
+      "prefecture": "静岡県",
+      "city": "静岡市",
+      "officialUrl": "https://www.parche.co.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f54c7285e405",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000166.000042181.html",
+    "title": "セミナー「どうやって民間の声を政府に届けるか？～事業者間連携による政策提言をケーススタディ～」2026年12月8日（火）開催のお知らせ",
+    "publisher": "一般社団法人 日本パブリックアフェアーズ協会",
+    "publishedAt": "2026-11-12T10:00:02+09:00",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "ef9a16f451a738d7f1f80bccfe5b663b1e56c2bd06a4adc25672b8caf19feed8",
+    "relatedEventIds": [
+      "evt-f54c7285e405"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-08",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0007ecfa8fc5",
+    "sourceType": "news",
+    "url": "https://mainichi.jp/articles/20261114/ddl/k45/100/179000c",
+    "title": "焼酎やグルメ 宮崎・蔵まつり 21日から /宮崎",
+    "publisher": "毎日新聞",
+    "publishedAt": "2026-11-13T20:02:53.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "7d995669f13a0dcd4fc3e99245549b6a4acb1fef2370774b97cf446f2de0578e",
+    "relatedEventIds": [
+      "evt-0007ecfa8fc5"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f1aebf065746",
+    "sourceType": "news",
+    "url": "https://diamond.jp/articles/-/403372",
+    "title": "【緊急配信】エヌビディアCEOが電撃辞任!神田の「居酒屋外交」・セガイベント…来日時の“独自密着映像\"を公開、会合参加の日本半導体各社の反応は?",
+    "publisher": "ダイヤモンド・オンライン",
+    "publishedAt": "2026-11-13T12:05:00.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "fdc831bcd553ba952ec1916dca46c8d89955aef235952c1bee03b67804a774a3",
+    "relatedEventIds": [
+      "evt-f1aebf065746"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-58ec6b246a0d",
+    "sourceType": "news",
+    "url": "https://www.nikkei.com/article/DGXZQOMG00007_T11C26A1000000/",
+    "title": "京阪HD、京都・伏見の清酒を電車内で楽しむイベント 中書島駅で",
+    "publisher": "日本経済新聞",
+    "publishedAt": "2026-11-13T08:27:50.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "b51241a04bf7f489e1a098b89bcf81b7c67b0fc8a03ff2879703e3ccbb3072c5",
+    "relatedEventIds": [
+      "evt-58ec6b246a0d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b6c8b5d7d4b6",
+    "sourceType": "news",
+    "url": "https://www.okinawatimes.co.jp/articles/-/1965659",
+    "title": "忠孝酒造、11月21・22日に秋祭り 泡盛の無料振る舞いや限定古酒販売",
+    "publisher": "沖縄タイムス＋プラス",
+    "publishedAt": "2026-11-13T07:12:00.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "8c7e25d507317db34681d7f0de6eee5cbeed8f1579dcfc7144b024cebc36ecd5",
+    "relatedEventIds": [
+      "evt-b6c8b5d7d4b6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake",
+        "awamori"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-440a68a88c86",
+    "sourceType": "news",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261113de75330",
+    "title": "新潟 長岡で若手蔵元が日本酒の未来を語るイベント",
+    "publisher": "NHKニュース",
+    "publishedAt": "2026-11-13T04:52:00.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "b5c7ba1dc640dc01aa4083ad1dde99cc7ca08736e70cbbb2fbf7226ac8353bcd",
+    "relatedEventIds": [
+      "evt-440a68a88c86"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-12",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "新潟県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7bbae91ed669",
+    "sourceType": "news",
+    "url": "https://www.iwate-np.co.jp/article/2026/11/13/198508",
+    "title": "岩手町の夜、はしご酒いかが? 14日に初のイベント 4500円で4店巡るチケット販売",
+    "publisher": "岩手日報",
+    "publishedAt": "2026-11-13T03:00:00.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "013dcecbb1fb39bbe7a0845d20bdf96ce04c11188d25e244f7d8f215fa09d218",
+    "relatedEventIds": [
+      "evt-7bbae91ed669"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3e0f1b889a7f",
+    "sourceType": "news",
+    "url": "https://hachinohe.keizai.biz/headline/2765/",
+    "title": "映画祭「はちのへシネマウイーク」開幕へ 8日間で30作品、酒蔵やバーでも",
+    "publisher": "八戸経済新聞",
+    "publishedAt": "2026-11-13T01:03:14.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "63a6195291d6c70c9a8766b3ab48466f6882947db5c7912ba2cee111aaac5f70",
+    "relatedEventIds": [
+      "evt-3e0f1b889a7f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "market"
+      ],
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1430bae27ade",
+    "sourceType": "news",
+    "url": "https://akasaka.keizai.biz/headline/4790/",
+    "title": "赤坂ではしご酒イベント「赤ベロ」 42店が参加",
+    "publisher": "赤坂経済新聞",
+    "publishedAt": "2026-11-12T23:25:23.000Z",
+    "fetchedAt": "2026-11-13T22:28:11.295Z",
+    "contentHash": "7f695474abebca19c095e1349df8c6fa78f2e0595cddd0f673b8e4b6287d510c",
+    "relatedEventIds": [
+      "evt-1430bae27ade"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "cocktail"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-11",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-8b793b3d50b2"
+      ]
+    }
   }
 ]
