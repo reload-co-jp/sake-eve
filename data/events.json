@@ -12519,10 +12519,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-05T22:37:39.516Z",
-    "updatedAt": "2026-11-08T23:23:37.640Z",
+    "updatedAt": "2026-11-14T21:11:20.402Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-bfcc5407f7ba",
@@ -13303,10 +13303,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-08T21:02:10.065Z",
-    "updatedAt": "2026-11-08T23:23:37.640Z",
+    "updatedAt": "2026-11-14T21:11:20.402Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-97dc607b1f2d",
@@ -16366,10 +16366,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-12T22:39:12.662Z",
-    "updatedAt": "2026-11-14T12:55:38.655Z",
+    "updatedAt": "2026-11-14T21:11:20.402Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ac3bb0eb0053",
@@ -16397,7 +16397,7 @@
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://news.mynavi.jp/article/20261112-5301328/ogp_images/ogp.jpg",
+    "imageUrl": "/images/events/evt-ac3bb0eb0053.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -16441,7 +16441,7 @@
     "organizer": "DAISEN HAKKO PROJECT推進協議会",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://news.mynavi.jp/article/20261112-5301225/ogp_images/ogp.jpg",
+    "imageUrl": "/images/events/evt-a0cdc55f7717.webp",
     "price": "前売5,000円",
     "isFree": false,
     "reservationRequired": true,
@@ -16530,7 +16530,7 @@
     "organizer": "墨田区商店街連合会",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://images.keizai.biz/sumida_keizai/headline/1794463870_photo.jpg",
+    "imageUrl": "/images/events/evt-972e8ce7a350.webp",
     "price": "無料",
     "isFree": true,
     "reservationRequired": null,
@@ -16747,7 +16747,7 @@
     "organizer": "雲海酒造",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "imageUrl": "/images/events/evt-0007ecfa8fc5.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -16833,7 +16833,7 @@
     "organizer": "京阪ホールディングス",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3876123013112026000000-1.jpg?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&h=630&w=1200&s=47205af1f0ef950299bc61470e21e9c5",
+    "imageUrl": "/images/events/evt-58ec6b246a0d.webp",
     "price": "無料（別途乗車券か入場券が必要）",
     "isFree": true,
     "reservationRequired": null,
@@ -16877,7 +16877,7 @@
     "organizer": "忠孝酒造",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://oki.ismcdn.jp/mwimgs/e/3/1200wm/img_e314eedc1b2faa32b3c1c07232a42221690080.jpg",
+    "imageUrl": "/images/events/evt-b6c8b5d7d4b6.webp",
     "price": null,
     "isFree": null,
     "reservationRequired": null,
@@ -16977,10 +16977,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-13T22:28:11.295Z",
-    "updatedAt": "2026-11-14T12:55:38.655Z",
+    "updatedAt": "2026-11-14T21:11:20.402Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-3e0f1b889a7f",
@@ -17068,5 +17068,92 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
+  },
+  {
+    "id": "evt-f333e488ae35",
+    "slug": "e-f333e488ae35",
+    "title": "忠孝酒造、21・22日に秋祭り 泡盛の無料振る舞いや限定古酒販売",
+    "description": null,
+    "genres": [
+      "sake",
+      "awamori"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://imgopt.asahi.com/ogp/AS20261113003722_comm.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f333e488ae35"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-14T21:11:20.402Z",
+    "updatedAt": "2026-11-14T21:11:20.402Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1d1985104ec6",
+    "slug": "e-1d1985104ec6",
+    "title": "「大曲の花火」だけじゃない大仙市 酒蔵見学に果樹園、盆踊り…体験型観光をネットで発信",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tour"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.sakigake.jp/images/news-entry/20261114ak0009_01_l.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1d1985104ec6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-14T21:11:20.402Z",
+    "updatedAt": "2026-11-14T21:11:20.402Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]

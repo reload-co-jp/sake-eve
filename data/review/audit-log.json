@@ -7129,5 +7129,45 @@
       "organizer"
     ],
     "note": "auto-review: 出典から入力（title, description, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-14T21:11:20.402Z",
+    "collection": "events",
+    "id": "evt-78facb6cb4ef",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-14T21:11:20.402Z",
+    "collection": "events",
+    "id": "evt-5e32e2e6b003",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-14T21:11:20.402Z",
+    "collection": "events",
+    "id": "evt-10d4d6b2ecd5",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-14T21:11:20.402Z",
+    "collection": "events",
+    "id": "evt-7bbae91ed669",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

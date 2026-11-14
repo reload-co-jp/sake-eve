@@ -12822,5 +12822,70 @@
         "evt-8b793b3d50b2"
       ]
     }
+  },
+  {
+    "id": "src-f333e488ae35",
+    "sourceType": "news",
+    "url": "https://www.asahi.com/articles/ASVCF32RJVCFDIFI012M.html",
+    "title": "忠孝酒造、21・22日に秋祭り 泡盛の無料振る舞いや限定古酒販売",
+    "publisher": "朝日新聞",
+    "publishedAt": "2026-11-14T02:30:00.000Z",
+    "fetchedAt": "2026-11-14T21:11:20.402Z",
+    "contentHash": "0efe4fc0b2e87be2870c35864b3e74000853cddb1e0efa4ba73f83079bc6ba73",
+    "relatedEventIds": [
+      "evt-f333e488ae35"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake",
+        "awamori"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1d1985104ec6",
+    "sourceType": "news",
+    "url": "https://www.sakigake.jp/news/article/20261114AK0009/",
+    "title": "「大曲の花火」だけじゃない大仙市 酒蔵見学に果樹園、盆踊り…体験型観光をネットで発信",
+    "publisher": "秋田魁新報電子版",
+    "publishedAt": "2026-11-14T02:30:00.000Z",
+    "fetchedAt": "2026-11-14T21:11:20.402Z",
+    "contentHash": "d8957d6faee1a91803c03b9a07272fadcaa3f4e1d7660eb66188b3e6397ca811",
+    "relatedEventIds": [
+      "evt-1d1985104ec6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tour"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
