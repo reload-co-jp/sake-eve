@@ -1424,5 +1424,374 @@
       "会場"
     ],
     "rejected": []
+  },
+  {
+    "eventId": "evt-0b71d2b43de7",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "2026年11月3日にすでに開催されたイベントの開催報告記事で、これから開催されるイベントではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-bfcc5407f7ba",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "飲食店関係者向けに開かれ、すでに終了したセミナーの開催報告であるため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0d7cfe3e0f95",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "11月3日にすでに開催された川崎ヌーボー解禁イベントの開催報告記事であり、これから開催されるイベントではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0d9d6f9fab1e",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "すでに開催されたイベントの当日の様子を伝える開催報告の記事であり、これから開催されるイベントの告知ではないため。",
+    "filled": [
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6c3f6f8d0fb9",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "開催中のイベントを伝えるニュース記事であり、会期（11月8日まで）もすでに終わっているため掲載対象外である。",
+    "filled": [
+      "venue.city",
+      "isFree"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-9b30746b3dba",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "一般向けではなく両市の関係者約100人が参加したビジネスマッチングイベントであり、すでに開催済みの報告記事であるため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-588b6e3f6afb",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "すでに開催されたまつりの様子と来場者数を伝える開催報告の記事であり、これから開催されるイベントの告知ではないため。",
+    "filled": [
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-22ca3ec425fd",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "飲み放題は付くが、競輪・麻雀・オートレースのトークショーやレース予想が中心で、お酒を主題としたイベントではない。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6c02dce482ee",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "ジュエリーブランドの30周年を記念したアパレル店舗での販売・来店イベントであり、お酒のイベントではないため対象外とした。",
+    "filled": [
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-5257c33c05f3",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "企業・団体向けにパブリックアフェアーズを個別に相談するオンライン相談会で、お酒のイベントではない。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-f9f28c1adc61",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "pending",
+    "reason": "長野駅周辺の31店を専用チケットで飲み歩く一般参加型のイベントで、記事配信時点で11月17日まで開催中のため、残りの期間に参加できる。",
+    "filled": [
+      "title",
+      "description",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [
+      "会場",
+      "開催日が出典と異なる"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-10d4d6b2ecd5",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "pending",
+    "reason": "発売前の「デュワーズ12年 ハイボール缶」を20歳以上の一般客が無料で試飲できる屋外イベントで、本日（11月14日）まで開催中のため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [
+      "開催日が過去"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-ac3bb0eb0053",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "published",
+    "reason": "直輸入のチェコビールやチェコワインを楽しめる、一般向けの文化イベントで、配信日以降の12月に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-a0cdc55f7717",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "published",
+    "reason": "鳥取県の酒蔵・ブルワリーが参加し、一般の人が参加費を払ってこれから参加できるフリードリンク形式の試飲イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e6827e6f8077",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "pending",
+    "reason": "一般の来場者がハイボール缶を試飲できる試飲イベントで、配信日時点では14日まで開催中のため掲載対象とする。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "開催日が出典と異なる"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-972e8ce7a350",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "published",
+    "reason": "区内のブルワリーや飲食店がクラフトビールを提供する、11月21日開催予定の一般参加型マルシェであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-f54c7285e405",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "政策提言をテーマにしたオンラインのビジネスセミナーで、お酒に関するイベントではないため。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0007ecfa8fc5",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "published",
+    "reason": "雲海酒造の蔵元で11月21～23日に開かれる、一般の人が焼酎やグルメを楽しめるこれからの祭りのため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-f1aebf065746",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "hidden",
+    "reason": "エヌビディアCEOの辞任と過去の来日時の密着映像を伝えるニュース記事であり、一般参加できるこれからのお酒のイベントではない。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-58ec6b246a0d",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "published",
+    "reason": "12月5日に開催予定で、一般の人が無料で参加できる伏見の清酒の利き酒イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b6c8b5d7d4b6",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "published",
+    "reason": "泡盛メーカーが蔵で開く年1回の秋祭りで、一般来場者向けに泡盛の振る舞いや限定販売を行う、これから開催されるイベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-7bbae91ed669",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "pending",
+    "reason": "岩手町中心部で11月14日に初めて開かれる、チケットを買えば誰でも飲食店をはしごして楽しめる飲み歩きイベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.city",
+      "price",
+      "isFree"
+    ],
+    "todo": [
+      "会場",
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-3e0f1b889a7f",
+    "reviewedAt": "2026-11-14T12:55:38.655Z",
+    "decision": "pending",
+    "reason": "これから開催される映画祭で、酒蔵で地酒を飲みながら楽しむマサラ上映やバーでの上映会もあり、一般の人が参加できるお酒の楽しめるイベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "会場"
+    ],
+    "rejected": []
   }
 ]
