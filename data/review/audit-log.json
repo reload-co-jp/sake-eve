@@ -6645,5 +6645,489 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0b71d2b43de7",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.address, venue.city）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0b71d2b43de7",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年11月3日にすでに開催されたイベントの開催報告記事で、これから開催されるイベントではないため。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-bfcc5407f7ba",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-bfcc5407f7ba",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 飲食店関係者向けに開かれ、すでに終了したセミナーの開催報告であるため。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0d7cfe3e0f95",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.city）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0d7cfe3e0f95",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 11月3日にすでに開催された川崎ヌーボー解禁イベントの開催報告記事であり、これから開催されるイベントではないため。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0d9d6f9fab1e",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.prefecture, venue.city, price, isFree）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0d9d6f9fab1e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: すでに開催されたイベントの当日の様子を伝える開催報告の記事であり、これから開催されるイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-6c3f6f8d0fb9",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（venue.city, isFree）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-6c3f6f8d0fb9",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催中のイベントを伝えるニュース記事であり、会期（11月8日まで）もすでに終わっているため掲載対象外である。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-9b30746b3dba",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-9b30746b3dba",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 一般向けではなく両市の関係者約100人が参加したビジネスマッチングイベントであり、すでに開催済みの報告記事であるため。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-588b6e3f6afb",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.prefecture, venue.city, price, isFree）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-588b6e3f6afb",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: すでに開催されたまつりの様子と来場者数を伝える開催報告の記事であり、これから開催されるイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-22ca3ec425fd",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-22ca3ec425fd",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 飲み放題は付くが、競輪・麻雀・オートレースのトークショーやレース予想が中心で、お酒を主題としたイベントではない。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-6c02dce482ee",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-6c02dce482ee",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: ジュエリーブランドの30周年を記念したアパレル店舗での販売・来店イベントであり、お酒のイベントではないため対象外とした。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-5257c33c05f3",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-5257c33c05f3",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 企業・団体向けにパブリックアフェアーズを個別に相談するオンライン相談会で、お酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-f9f28c1adc61",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-10d4d6b2ecd5",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.address, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-ac3bb0eb0053",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-ac3bb0eb0053",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-a0cdc55f7717",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-a0cdc55f7717",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-e6827e6f8077",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-972e8ce7a350",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-972e8ce7a350",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-f54c7285e405",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-f54c7285e405",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 政策提言をテーマにしたオンラインのビジネスセミナーで、お酒に関するイベントではないため。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0007ecfa8fc5",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-0007ecfa8fc5",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-f1aebf065746",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: エヌビディアCEOの辞任と過去の来日時の密着映像を伝えるニュース記事であり、一般参加できるこれからのお酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-58ec6b246a0d",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-58ec6b246a0d",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-b6c8b5d7d4b6",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-b6c8b5d7d4b6",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-7bbae91ed669",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.city, price, isFree）"
+  },
+  {
+    "at": "2026-11-14T12:55:38.655Z",
+    "collection": "events",
+    "id": "evt-3e0f1b889a7f",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.prefecture, venue.city, organizer）"
   }
 ]
