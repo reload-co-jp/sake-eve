@@ -7169,5 +7169,35 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-15T21:30:39.146Z",
+    "collection": "events",
+    "id": "evt-f2c18bdd338a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-15T21:30:39.146Z",
+    "collection": "events",
+    "id": "evt-73e477427c9b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-15T21:30:39.146Z",
+    "collection": "events",
+    "id": "evt-3e0f1b889a7f",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

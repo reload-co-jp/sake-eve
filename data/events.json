@@ -15320,10 +15320,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-10T22:13:23.253Z",
-    "updatedAt": "2026-11-12T15:16:27.849Z",
+    "updatedAt": "2026-11-15T21:30:39.146Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c71f041da3be",
@@ -15929,10 +15929,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-12T15:24:23.870Z",
+    "updatedAt": "2026-11-15T21:30:39.146Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-2deb26948da2",
@@ -17021,10 +17021,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-13T22:28:11.295Z",
-    "updatedAt": "2026-11-14T12:55:38.655Z",
+    "updatedAt": "2026-11-15T21:30:39.146Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-1430bae27ade",
