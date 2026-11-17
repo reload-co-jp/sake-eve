@@ -7199,5 +7199,205 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-6950aff4a0b1",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-269d52de5298",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-e145de323f47",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-e3f5350dc19b",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-c2c820480cbc",
+    "action": "published",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 収集時の自動公開"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-f2140e715987",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-2e65bc4bd0bd",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-21b5640ef79e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-9ef1ee5720ba",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-19c9b3d6915b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-3f50d29bb3d1",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-f5f058f8a25a",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-14cc774776a3",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-e5c97ebfed1b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-9471fa00c866",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-aa1a6365af47",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-3adc2944e2cf",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-c99c5c5d9728",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-ae2c2ee71777",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-17T00:46:17.440Z",
+    "collection": "events",
+    "id": "evt-6c0a61636229",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]

@@ -1907,5 +1907,51 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-11-17T00:39:16.462Z",
+    "finishedAt": "2026-11-17T00:46:46.846Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "ok",
+        "items": 30,
+        "message": "検索ヒット596件 / 未取得535件 / 候補360件 / 詳細取得30件 / 次回へ繰越330件"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://natalie.mu/music/news/698288: HTTP 405: https://natalie.mu/music/news/698288 / 詳細取得失敗 https://tetsudo-ch.com/13044896.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13044896.html / 詳細取得失敗 http://spice.eplus.jp/articles/350147: アクセス制限 (HTTP 403) のため中止: http://spice.eplus.jp/articles/350147 / 詳細取得失敗 https://www.gamer.ne.jp/news/202611160021/: アクセス制限 (HTTP 403) のため中止: https://www.gamer.ne.jp/news/202611160021/ / 詳細取得失敗 https://ubenippo.co.jp/2026/11/16/7852528/: robots.txtで禁止されているため取得しません: https://ubenippo.co.jp/2026/11/16/7852528/ / 詳細取得失敗 https://www.rbbtoday.com/article/2026/11/16/255931.html: アクセス制限 (HTTP 403) のため中止: https://www.rbbtoday.com/article/2026/11/16/255931.html / 詳細取得失敗 https://yama.minato-yamaguchi.co.jp/e-yama/articles/113247: アクセス制限 (HTTP 403) のため中止: https://yama.minato-yamaguchi.co.jp/e-yama/articles/113247 / 詳細取得23件 / 失敗7件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 330,
+      "irrelevant": 287,
+      "duplicateUrl": 3,
+      "added": 40,
+      "needsReview": 28,
+      "autoPublished": 5,
+      "duplicateCandidates": 8,
+      "autoHidden": 15,
+      "autoReviewed": 0,
+      "summarized": 0,
+      "geocoded": 9
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]
