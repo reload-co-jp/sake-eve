@@ -16323,10 +16323,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-12T22:39:12.662Z",
-    "updatedAt": "2026-11-14T12:55:38.655Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-10d4d6b2ecd5",
@@ -18901,6 +18901,436 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
     "updatedAt": "2026-11-17T00:46:17.440Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6955976a03ad",
+    "slug": "e-6955976a03ad",
+    "title": "生ビール含む飲み放題コースが500円引き！ジャンカラの割引キャンペーン、11月17日スタート！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://jankara.ne.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/17032/454/17032-454-2d12937c4ed8fe2509526ef8942e63b5-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6955976a03ad"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f18c59477efc",
+    "slug": "e-f18c59477efc",
+    "title": "11月28日（土） 第16回 個人投資家サミット開催！─上場企業6社＆X17.9万フォロワーの投資家 ヤーマン氏が登壇─",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-28T00:00:00+09:00",
+    "endAt": "2026-11-28T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54393/348/54393-348-32b12a60959dc7fe7789ee4e8a6cb978-3600x2025.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f18c59477efc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-12fac92eefe1",
+    "slug": "e-12fac92eefe1",
+    "title": "【開催報告】医療者とスタートアップを結ぶ「Healthcare Venture KNOT 2026」過去最多554名が参加！「未知を結び、“おもろい”で越えていく」をテーマに熱狂の1日を創出",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-10T00:00:00+09:00",
+    "endAt": "2026-10-10T23:59:00+09:00",
+    "venue": {
+      "name": "本音で医療課題を語り合うセッションとインパクトピッチコンテスト",
+      "address": "東京都中野区新井1-24-4井上ビル1階",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "latitude": 35.711922,
+      "longitude": 139.665985
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/109457/55/109457-55-1f8245a1aab6c4f478426526956a464d-3200x1800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-12fac92eefe1"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-5ec5dffa0402",
+    "slug": "e-5ec5dffa0402",
+    "title": "【OPEN記念イベント】破格991円(税抜)「120分おでん食べ放題」個室居酒屋 凛和堂 大宮店にて12月10日(木)まで開催！",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-12-10T00:00:00+09:00",
+    "endAt": "2026-12-10T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/55180/583/55180-583-8a4b0b27572da6ecc5535b62a2566f8a-1460x1077.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5ec5dffa0402"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-97de988968e5",
+    "slug": "e-97de988968e5",
+    "title": "日本酒の発酵過程から得られる米発酵物由来フィトエクソソーム※1について保湿に関わる複数の機能を確認",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-09-28T00:00:00+09:00",
+    "endAt": "2026-10-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/44879/631/44879-631-81eade9779fdbf8873d623ed923ec1a5-341x227.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-97de988968e5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-c93580e7331d",
+    "slug": "e-c93580e7331d",
+    "title": "ベーシック、11月27日（金）18時30分よりBtoB交流イベント「おいしいものを囲んで乾杯！『まる』でつながる秋の夜」を開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-27T00:00:00+09:00",
+    "endAt": "2026-11-27T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-c93580e7331d"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-8d4c352568d6",
+    "slug": "e-8d4c352568d6",
+    "title": "【天神・大名】日頃の感謝を込めて！『居酒屋革命 酔っ手羽 天神大名店』が「2周年記念お客様感謝祭」を11月22日（日）開催！当日は生ビールが何杯飲んでも1杯1円！",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-22T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8d4c352568d6"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-de0c074ac33c",
+    "slug": "e-de0c074ac33c",
+    "title": "秋田屋 〝ワイン&リカーフェス〟開催 愛好家500人でにぎわう",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.chukei-news.co.jp/images/20261117_204735_19839.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-de0c074ac33c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-d9d90f2a9f05",
+    "slug": "e-d9d90f2a9f05",
+    "title": "「福寿」蔵元の神戸酒心館で新酒完成祝うイベント 日本酒ファンら酔いしれる",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "brewery_open_day"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "兵庫県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.sankei.com/resizer/v2/YYFK7WFDWRJCZKINUYZ5U3GZM4.jpg?auth=65a593d8252017fc812c19b009fab14879fab0a6407e0b4c6980de1d593201b8&quality=50&focal=2056%2C1391&width=1200&height=675",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d9d90f2a9f05"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-52ddf551b714",
+    "slug": "e-52ddf551b714",
+    "title": "「フエギア 1833」が麻布台ヒルズ店のオープン3周年記念イベントを開催 果実が豊かに香る限定カクテルを提供",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-52ddf551b714"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-17T23:48:35.739Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

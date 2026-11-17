@@ -14210,5 +14210,325 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-6955976a03ad",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000454.000017032.html",
+    "title": "生ビール含む飲み放題コースが500円引き！ジャンカラの割引キャンペーン、11月17日スタート！",
+    "publisher": "株式会社TOAI",
+    "publishedAt": "2026-11-17T13:20:01+09:00",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "a8e0a170d56e733bafaab3056a5965aa40bdfd9c33242ff571b6a1a2b9c8ffe2",
+    "relatedEventIds": [
+      "evt-6955976a03ad"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://jankara.ne.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f18c59477efc",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000348.000054393.html",
+    "title": "11月28日（土） 第16回 個人投資家サミット開催！─上場企業6社＆X17.9万フォロワーの投資家 ヤーマン氏が登壇─",
+    "publisher": "株式会社IR Robotics",
+    "publishedAt": "2026-11-17T13:10:28+09:00",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "2e5b050734325e11e8b61a3908eaa93bae27580ec5451b86fdcc8bd297d21c9d",
+    "relatedEventIds": [
+      "evt-f18c59477efc"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-12fac92eefe1",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000055.000109457.html",
+    "title": "【開催報告】医療者とスタートアップを結ぶ「Healthcare Venture KNOT 2026」過去最多554名が参加！「未知を結び、“おもろい”で越えていく」をテーマに熱狂の1日を創出",
+    "publisher": "株式会社キャピタルメディカ・ベンチャーズ",
+    "publishedAt": "2026-11-17T13:00:02+09:00",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "1aee773c20f58e98e16e0fa441aedde31694361f79435d4364eb693ca0e13cc4",
+    "relatedEventIds": [
+      "evt-12fac92eefe1"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "dateSource": "label",
+      "venueName": "本音で医療課題を語り合うセッションとインパクトピッチコンテスト",
+      "address": "東京都中野区新井1-24-4井上ビル1階",
+      "prefecture": "東京都",
+      "city": "中野区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-5ec5dffa0402",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000583.000055180.html",
+    "title": "【OPEN記念イベント】破格991円(税抜)「120分おでん食べ放題」個室居酒屋 凛和堂 大宮店にて12月10日(木)まで開催！",
+    "publisher": "株式会社ビリオンフーズ",
+    "publishedAt": "2026-11-17T12:00:02+09:00",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "0d0bf3c4637def2a22ccf45a69c1567da28b4743842ee0ec07c706b7dfa5521a",
+    "relatedEventIds": [
+      "evt-5ec5dffa0402"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-10",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-97de988968e5",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000631.000044879.html",
+    "title": "日本酒の発酵過程から得られる米発酵物由来フィトエクソソーム※1について保湿に関わる複数の機能を確認",
+    "publisher": "ロート製薬株式会社",
+    "publishedAt": "2026-11-17T11:54:12+09:00",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "1664ae5212e89bfadd703173ae6af1bd0014c6ec54727e477f7f0759df37612a",
+    "relatedEventIds": [
+      "evt-97de988968e5"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-01",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-c93580e7331d",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000742.000006585.html",
+    "title": "ベーシック、11月27日（金）18時30分よりBtoB交流イベント「おいしいものを囲んで乾杯！『まる』でつながる秋の夜」を開催",
+    "publisher": "株式会社ベーシック",
+    "publishedAt": "2026-11-18T05:10:02+09:00",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "4357afe235302a9a1c8a8ab0d13dfd19e032e630addccfab5ec2580f3cb327dd",
+    "relatedEventIds": [
+      "evt-c93580e7331d"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8d4c352568d6",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000199.000049183.html",
+    "title": "【天神・大名】日頃の感謝を込めて！『居酒屋革命 酔っ手羽 天神大名店』が「2周年記念お客様感謝祭」を11月22日（日）開催！当日は生ビールが何杯飲んでも1杯1円！",
+    "publisher": "S.H.N株式会社",
+    "publishedAt": "2026-11-18T05:10:02+09:00",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "b1c7186c76f32e989218a95de1bd24684e9b63d57ced572179a0062471264786",
+    "relatedEventIds": [
+      "evt-8d4c352568d6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-de0c074ac33c",
+    "sourceType": "news",
+    "url": "https://www.chukei-news.co.jp/news/2026/11/18/OK0002611180201_06/",
+    "title": "秋田屋 〝ワイン&リカーフェス〟開催 愛好家500人でにぎわう",
+    "publisher": "中部経済新聞 愛知・岐阜・三重・静岡の経済情報",
+    "publishedAt": "2026-11-17T20:00:00.000Z",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "5a96d19f6fd43b5506b522417d80908addd4fba9d9567f656c896929714fd59a",
+    "relatedEventIds": [
+      "evt-de0c074ac33c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d9d90f2a9f05",
+    "sourceType": "news",
+    "url": "https://www.sankei.com/article/20261117-L2HO4GPPP5IWPHUAETUJCYDU6I/",
+    "title": "「福寿」蔵元の神戸酒心館で新酒完成祝うイベント 日本酒ファンら酔いしれる",
+    "publisher": "産経新聞：産経ニュース",
+    "publishedAt": "2026-11-17T11:46:45.000Z",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "cb02fd2785852648b158d14e7d5579bfb52aa1d8b494c67689d767cabb7da2a5",
+    "relatedEventIds": [
+      "evt-d9d90f2a9f05"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "brewery_open_day"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "兵庫県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-52ddf551b714",
+    "sourceType": "news",
+    "url": "https://www.wwdjapan.com/articles/2554633",
+    "title": "「フエギア 1833」が麻布台ヒルズ店のオープン3周年記念イベントを開催 果実が豊かに香る限定カクテルを提供",
+    "publisher": "WWD JAPAN",
+    "publishedAt": "2026-11-17T11:15:00.000Z",
+    "fetchedAt": "2026-11-17T23:48:35.739Z",
+    "contentHash": "84b293bdc3662158051ef33b4dcf54b55201368a79a8f5d614d46c814ac06ddc",
+    "relatedEventIds": [
+      "evt-52ddf551b714"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "cocktail"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
