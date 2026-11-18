@@ -14530,5 +14530,298 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-bc916474eca1",
+    "sourceType": "news",
+    "url": "https://www.viet-jo.com/news/event/261117164900.html",
+    "title": "ハノイ:ビール祭り、F1サーキットで初開催 11月20日から",
+    "publisher": "VIETJO",
+    "publishedAt": "2026-11-18T17:45:01.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "e5cdc75afcc4efc3e896ec0c9ff02fde43ae44aa96a05150ceb12a5bfd3a24d5",
+    "relatedEventIds": [
+      "evt-bc916474eca1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0a62c3135423",
+    "sourceType": "news",
+    "url": "https://www.sankei.com/article/20261119-OLOCCGSVWNMC3JW3OPTHJIFEJ4/",
+    "title": "仏産新酒ボージョレ解禁 銀座のワインショップで解禁イベント 価格維持も、市場は縮小",
+    "publisher": "産経新聞：産経ニュース",
+    "publishedAt": "2026-11-18T15:32:04.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "04f285a501becaa09e5ccfa9e136a7140a99a82127ef042796d83e67d765d6dd",
+    "relatedEventIds": [
+      "evt-0a62c3135423"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0e2075e95555",
+    "sourceType": "news",
+    "url": "https://www.walkerplus.com/article/1455561/",
+    "title": "日本一の日本酒と極上のペアリングを堪能!東京・広域品川圏で「秋の美酒美食ホッピング」が開催中",
+    "publisher": "ウォーカープラス（Walkerplus）",
+    "publishedAt": "2026-11-18T08:00:00.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "07e9d8bb318e415fb2890c373923f8d45bea902db4746324d85c83b70cbed693",
+    "relatedEventIds": [
+      "evt-0e2075e95555"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting",
+        "market"
+      ],
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-18",
+      "dateSource": "label",
+      "venueName": "広域品川圏 6店舗(WATERS takeshiba",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": "https://greatershinagawa.com/lp/sake-hopping-2026autumn/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-51719f500ff1",
+    "sourceType": "news",
+    "url": "http://www.shonai-nippo.co.jp/cgi/ad/day.cgi?p=2026:11:19:16861",
+    "title": "ラーメン県そば王国 酒田でフェスタ 1月23日開催 多彩なラーメン・そば5種 地酒やスイーツも",
+    "publisher": "荘内日報",
+    "publishedAt": "2026-11-18T05:16:21.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "b09ff2ed715fb4195e8660a8c3f2afd069939828aea29091b5347a078f74ce4f",
+    "relatedEventIds": [
+      "evt-51719f500ff1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7f774797d32b",
+    "sourceType": "news",
+    "url": "https://www.fashion-press.net/news/153534",
+    "title": "鍋料理フェス「酒処 鍋小屋 2027」ご当地鍋&日本酒や昭和レトロな商店街、横浜赤レンガ倉庫で",
+    "publisher": "ファッションプレス",
+    "publishedAt": "2026-11-18T05:15:00.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "d08653962d2094de3f8f4ad8eef6c9e047cffc8a81387b856ef8b0ae3b74b638",
+    "relatedEventIds": [
+      "evt-7f774797d32b"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2027-01-16",
+      "endDate": "2027-01-16",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-98f1f6f57492",
+    "sourceType": "news",
+    "url": "https://meieki.keizai.biz/headline/3824/",
+    "title": "名駅でキリンビールがクラフトビール体験イベント 伊勢角屋麦酒とコラボ",
+    "publisher": "名駅経済新聞",
+    "publishedAt": "2026-11-18T04:30:42.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "f0f18fd2fa992788ba30943b7822504c5abe44469027230223893861d7dcaafa",
+    "relatedEventIds": [
+      "evt-98f1f6f57492"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ee74848aea56",
+    "sourceType": "news",
+    "url": "https://www.rbbtoday.com/article/2026/11/18/256051.html",
+    "title": "約24種類の日本酒を飲み比べ!コピス吉祥寺で「SAKE FES」21日より開催",
+    "publisher": "RBB TODAY",
+    "publishedAt": "2026-11-18T04:24:27.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "b4364b5a99f8d0fcafd6fdc914dcd48fe8cc0462240a6f19a1ecdd72c2b785ca",
+    "relatedEventIds": [
+      "evt-ee74848aea56"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-e15c214676cc",
+    "sourceType": "news",
+    "url": "http://spice.eplus.jp/articles/350339",
+    "title": "愛知・名古屋東急ホテルに世界各国のワインが集結 名古屋最大級のワイン試飲会『2027 リカマンワインフェスタ in NAGOYA』が開催",
+    "publisher": "SPICE",
+    "publishedAt": "2026-11-18T03:00:00.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "1f47920dc7239ff2acab5d225fb942363d842ca86b49987ff9a45b122f812d67",
+    "relatedEventIds": [
+      "evt-e15c214676cc"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": "2027-03-14",
+      "endDate": "2027-03-14",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "愛知県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-200d93439214",
+    "sourceType": "news",
+    "url": "https://www.isenp.co.jp/2026/11/18/156349/%e3%80%8c%e3%83%af%e3%82%a4%e3%83%b3%e3%83%90%e3%83%ab%e3%80%8d%ef%bc%92%ef%bc%90%e6%97%a5%e9%96%8b%e5%82%ac%e3%80%80%e4%bc%8a%e5%8b%a2%e3%81%ae%e9%ab%98%e6%9f%b3%e5%95%86%e5%ba%97%e8%a1%97%e3%81%a7/",
+    "title": "「ワインバル」20日開催 伊勢の高柳商店街で 「ボージョレ」解禁に合わせ",
+    "publisher": "伊勢新聞",
+    "publishedAt": "2026-11-18T01:00:32.000Z",
+    "fetchedAt": "2026-11-18T23:20:54.997Z",
+    "contentHash": "2900e6e75df2d3416527be48c2d22964c4ef0da4ccc116ea847c207e71db3970",
+    "relatedEventIds": [
+      "evt-200d93439214"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

@@ -19334,5 +19334,397 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
+  },
+  {
+    "id": "evt-bc916474eca1",
+    "slug": "e-bc916474eca1",
+    "title": "ハノイ:ビール祭り、F1サーキットで初開催 11月20日から",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-20T00:00:00+09:00",
+    "endAt": "2026-11-20T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-bc916474eca1"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0a62c3135423",
+    "slug": "e-0a62c3135423",
+    "title": "仏産新酒ボージョレ解禁 銀座のワインショップで解禁イベント 価格維持も、市場は縮小",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.sankei.com/common/images/ogp_default_image.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0a62c3135423"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-0e2075e95555",
+    "slug": "e-0e2075e95555",
+    "title": "日本一の日本酒と極上のペアリングを堪能!東京・広域品川圏で「秋の美酒美食ホッピング」が開催中",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting",
+      "market"
+    ],
+    "startAt": "2026-10-30T00:00:00+09:00",
+    "endAt": "2026-11-18T23:59:00+09:00",
+    "venue": {
+      "name": "広域品川圏 6店舗(WATERS takeshiba",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://greatershinagawa.com/lp/sake-hopping-2026autumn/",
+    "ticketUrl": null,
+    "imageUrl": "https://news.walkerplus.com/article/1455561/19104457_615.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0e2075e95555"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-51719f500ff1",
+    "slug": "e-51719f500ff1",
+    "title": "ラーメン県そば王国 酒田でフェスタ 1月23日開催 多彩なラーメン・そば5種 地酒やスイーツも",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2027-01-23T00:00:00+09:00",
+    "endAt": "2027-01-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-51719f500ff1"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-7f774797d32b",
+    "slug": "e-7f774797d32b",
+    "title": "鍋料理フェス「酒処 鍋小屋 2027」ご当地鍋&日本酒や昭和レトロな商店街、横浜赤レンガ倉庫で",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2027-01-16T00:00:00+09:00",
+    "endAt": "2027-01-16T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7f774797d32b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-98f1f6f57492",
+    "slug": "e-98f1f6f57492",
+    "title": "名駅でキリンビールがクラフトビール体験イベント 伊勢角屋麦酒とコラボ",
+    "description": null,
+    "genres": [
+      "beer"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar",
+      "market"
+    ],
+    "startAt": "2026-11-24T00:00:00+09:00",
+    "endAt": "2026-11-24T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/meieki_keizai/headline/1794976927_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-98f1f6f57492"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-ee74848aea56",
+    "slug": "e-ee74848aea56",
+    "title": "約24種類の日本酒を飲み比べ!コピス吉祥寺で「SAKE FES」21日より開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-ee74848aea56"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e15c214676cc",
+    "slug": "e-e15c214676cc",
+    "title": "愛知・名古屋東急ホテルに世界各国のワインが集結 名古屋最大級のワイン試飲会『2027 リカマンワインフェスタ in NAGOYA』が開催",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": "2027-03-14T00:00:00+09:00",
+    "endAt": "2027-03-14T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "愛知県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e15c214676cc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-200d93439214",
+    "slug": "e-200d93439214",
+    "title": "「ワインバル」20日開催 伊勢の高柳商店街で 「ボージョレ」解禁に合わせ",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.isenp.co.jp/wp-content/uploads/2026/11/54880e1692b7e32f18623bf0a7e605a1.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-200d93439214"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
   }
 ]
