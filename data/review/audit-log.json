@@ -7439,5 +7439,25 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-19T23:28:16.942Z",
+    "collection": "events",
+    "id": "evt-b2fd0f6c24d8",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-19T23:28:16.942Z",
+    "collection": "events",
+    "id": "evt-b1b775bf7d48",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 配信60日超で日付不明"
   }
 ]

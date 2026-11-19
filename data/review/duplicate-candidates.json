@@ -237,5 +237,15 @@
       "same_start_date"
     ],
     "detectedAt": "2026-11-17T00:46:17.440Z"
+  },
+  {
+    "eventId": "evt-502f1b00427e",
+    "candidateEventId": "evt-ac3bb0eb0053",
+    "score": 0.67,
+    "reasons": [
+      "similar_title",
+      "same_prefecture"
+    ],
+    "detectedAt": "2026-11-19T23:28:16.942Z"
   }
 ]

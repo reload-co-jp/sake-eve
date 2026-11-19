@@ -16017,10 +16017,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-11T23:22:30.549Z",
-    "updatedAt": "2026-11-12T15:24:23.870Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6c02dce482ee",
@@ -18069,10 +18069,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-9ef1ee5720ba",
@@ -19723,6 +19723,311 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-18T23:20:54.997Z",
     "updatedAt": "2026-11-18T23:20:54.997Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e6720f26bb59",
+    "slug": "e-e6720f26bb59",
+    "title": "【無料 12/3（木）】丸文、SentinelOne「『指揮者』と化したAIの暴走をどう防ぐか？～経営が迫られる『4つの委任』と、CIOが死守すべきデータとAIの『境界線』～」を共同開催",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-12-03T00:00:00+09:00",
+    "endAt": "2026-12-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": "https://www.marubun.co.jp/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/166754/154/166754-154-6655aff57b739ca3cf485a5437c3c963-1377x370.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e6720f26bb59"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-10fe5a2c9511",
+    "slug": "e-10fe5a2c9511",
+    "title": "ボージョレ・ヌーボー解禁 箱根ユネッサンで名物ワイン風呂を楽しむイベント開催",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://news.tv-asahi.co.jp/articles_img/000549267_1200.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-10fe5a2c9511"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-f750bf78910c",
+    "slug": "e-f750bf78910c",
+    "title": "【八戸市乾杯条例】21日に制定記念イベント マチニワ会場「地酒と食を愉しむ夕べ」",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.daily-tohoku.news/contents/thumbnail.png",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-f750bf78910c"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-7ce3113086a9",
+    "slug": "e-7ce3113086a9",
+    "title": "ボージョレ・ヌーボー解禁 ワイン風呂楽しんで 試飲会にぎわう 箱根・温泉施設 /神奈川",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://cdn.mainichi.jp/vol1/2015/12/18/20151218hrc00m010001000q/9.jpg?2",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-7ce3113086a9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-50108f8a7595",
+    "slug": "e-50108f8a7595",
+    "title": "「遠野どべっこ祭り」11月28日から開催へ 生の濁り酒や郷土料理を堪能 岩手県",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar"
+    ],
+    "startAt": "2026-11-28T00:00:00+09:00",
+    "endAt": "2026-11-28T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "岩手県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/d/5/600/img_d5fdda9bec5545d1a333482b27e46c7c256330.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-50108f8a7595"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-502f1b00427e",
+    "slug": "e-502f1b00427e",
+    "title": "「ウイスキーフェスティバル2026 in 東京」が盛大に開催",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://jcbls.com/views/78e09d3c90/images/chatlogo1.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-502f1b00427e"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-cae1c4f82aa1",
+    "slug": "e-cae1c4f82aa1",
+    "title": "栃木ワインと牧場チーズが出会うフェス 21~23日、那須千本松牧場",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://soon.ismcdn.jp/mwimgs/8/f/1200wm/img_8f54014b3fc82a5b812feaf846681200148558.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-cae1c4f82aa1"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-19T23:28:16.942Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

@@ -14823,5 +14823,235 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-e6720f26bb59",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000154.000166754.html",
+    "title": "【無料 12/3（木）】丸文、SentinelOne「『指揮者』と化したAIの暴走をどう防ぐか？～経営が迫られる『4つの委任』と、CIOが死守すべきデータとAIの『境界線』～」を共同開催",
+    "publisher": "丸文株式会社",
+    "publishedAt": "2026-11-19T13:30:01+09:00",
+    "fetchedAt": "2026-11-19T23:28:16.942Z",
+    "contentHash": "de3c69755d3673f319cefb688a08084d2ca95caa25ed0074555eea8998d28264",
+    "relatedEventIds": [
+      "evt-e6720f26bb59"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "cocktail"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://www.marubun.co.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-10fe5a2c9511",
+    "sourceType": "news",
+    "url": "https://news.tv-asahi.co.jp/news_society/articles/000549267.html",
+    "title": "ボージョレ・ヌーボー解禁 箱根ユネッサンで名物ワイン風呂を楽しむイベント開催",
+    "publisher": "テレ朝NEWS",
+    "publishedAt": "2026-11-19T22:55:15.000Z",
+    "fetchedAt": "2026-11-19T23:28:16.942Z",
+    "contentHash": "76c29321ede80b2585fb6cad3942fc0c3524b8b3040507e4bb49c84b5ab0d10f",
+    "relatedEventIds": [
+      "evt-10fe5a2c9511"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f750bf78910c",
+    "sourceType": "news",
+    "url": "https://www.daily-tohoku.news/archives/SP3955",
+    "title": "【八戸市乾杯条例】21日に制定記念イベント マチニワ会場「地酒と食を愉しむ夕べ」",
+    "publisher": "デーリー東北",
+    "publishedAt": "2026-11-19T20:04:00.000Z",
+    "fetchedAt": "2026-11-19T23:28:16.942Z",
+    "contentHash": "d4579d161e030c7533fcfd9b26de23632915c772c93427e2e0d39f04c2e30704",
+    "relatedEventIds": [
+      "evt-f750bf78910c"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7ce3113086a9",
+    "sourceType": "news",
+    "url": "https://mainichi.jp/articles/20261120/ddl/k14/040/052000c",
+    "title": "ボージョレ・ヌーボー解禁 ワイン風呂楽しんで 試飲会にぎわう 箱根・温泉施設 /神奈川",
+    "publisher": "毎日新聞",
+    "publishedAt": "2026-11-19T20:02:16.000Z",
+    "fetchedAt": "2026-11-19T23:28:16.942Z",
+    "contentHash": "28da6fd6c84ca45cec8dbb49b4149672ccdd4209ade41288dd32df6ed1248e02",
+    "relatedEventIds": [
+      "evt-7ce3113086a9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-50108f8a7595",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1155763",
+    "title": "「遠野どべっこ祭り」11月28日から開催へ 生の濁り酒や郷土料理を堪能 岩手県",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-11-19T09:55:00.000Z",
+    "fetchedAt": "2026-11-19T23:28:16.942Z",
+    "contentHash": "08ef18f7417e22bf25b5800c13897bc2a4d76d0be7968bf40fbf6d9400d7aea9",
+    "relatedEventIds": [
+      "evt-50108f8a7595"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "岩手県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-502f1b00427e",
+    "sourceType": "news",
+    "url": "https://jcbls.com/n19660.html",
+    "title": "「ウイスキーフェスティバル2026 in 東京」が盛大に開催",
+    "publisher": "中国 : 日中経営者",
+    "publishedAt": "2026-11-19T08:43:34.000Z",
+    "fetchedAt": "2026-11-19T23:28:16.942Z",
+    "contentHash": "b3be337eb5bbdefa2ef86203acaa8446dedbaa992db13bccaac6f7a245a58b1c",
+    "relatedEventIds": [
+      "evt-502f1b00427e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-ac3bb0eb0053"
+      ]
+    }
+  },
+  {
+    "id": "src-cae1c4f82aa1",
+    "sourceType": "news",
+    "url": "https://www.shimotsuke.co.jp/articles/-/1461453",
+    "title": "栃木ワインと牧場チーズが出会うフェス 21~23日、那須千本松牧場",
+    "publisher": "下野新聞デジタル",
+    "publishedAt": "2026-11-19T05:00:00.000Z",
+    "fetchedAt": "2026-11-19T23:28:16.942Z",
+    "contentHash": "8f2f91e8b2111c3e38907ff00fd183a4dc876cbd29e747620ccae348a00c3d11",
+    "relatedEventIds": [
+      "evt-cae1c4f82aa1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
