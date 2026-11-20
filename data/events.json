@@ -17072,8 +17072,8 @@
   {
     "id": "evt-f333e488ae35",
     "slug": "e-f333e488ae35",
-    "title": "忠孝酒造、21・22日に秋祭り 泡盛の無料振る舞いや限定古酒販売",
-    "description": null,
+    "title": "忠孝酒造 第25回秋祭り",
+    "description": "泡盛の蔵元が年に1度開く秋祭りで、泡盛「夢航海」の無料振る舞いや限定古酒の特別販売がある。忠孝焼5升甕が当たる抽選会のほか、飲食ブースやライブ演奏もあり、家族で楽しめる。",
     "genres": [
       "sake",
       "awamori"
@@ -17081,17 +17081,17 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "くぅーすの杜忠孝蔵",
+      "address": "豊見城市伊良波",
+      "prefecture": "沖縄県",
+      "city": "豊見城市",
+      "latitude": 26.172075,
+      "longitude": 127.666588
     },
-    "organizer": null,
+    "organizer": "忠孝酒造",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://imgopt.asahi.com/ogp/AS20261113003722_comm.jpg",
@@ -17104,11 +17104,11 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
-    "verificationStatus": "needs_review",
+    "status": "scheduled",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-14T21:11:20.402Z",
-    "updatedAt": "2026-11-14T21:11:20.402Z",
+    "updatedAt": "2026-11-20T15:37:52.949Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -17151,10 +17151,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-14T21:11:20.402Z",
-    "updatedAt": "2026-11-14T21:11:20.402Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6950aff4a0b1",
@@ -17237,10 +17237,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-b41d9a813847",
@@ -17256,20 +17256,20 @@
     "startAt": "2026-11-30T00:00:00+09:00",
     "endAt": "2026-12-01T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "吉田屋 山王閣",
       "address": null,
-      "prefecture": null,
+      "prefecture": "石川県",
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "吉田屋 山王閣",
     "officialUrl": "https://kaga-kikou.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/76294/128/76294-128-0841cc081466e418aa0d6094dd56181e-3000x1996.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": true,
     "sourceIds": [
       "src-b41d9a813847"
     ],
@@ -17280,10 +17280,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-759d806e64e8",
@@ -17324,10 +17324,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-269d52de5298",
@@ -17377,8 +17377,8 @@
   {
     "id": "evt-e9fc5a6982a3",
     "slug": "e-e9fc5a6982a3",
-    "title": "【11月23日・東京新橋】鳥取の酒蔵が集結！日本酒・地ビール・どぶろくを90分飲み放題で楽しむ「まいもん祭り」開催",
-    "description": null,
+    "title": "地の酒・地の味 まいもん祭り in 新橋",
+    "description": "鳥取の酒蔵やブルワリーが持ち寄った日本酒、地ビール、どぶろくを90分間飲み放題で飲み比べできる。地元の味覚を詰めたおつまみプレートが付き、景品が当たる企画も予定されている。",
     "genres": [
       "beer",
       "sake"
@@ -17389,14 +17389,14 @@
     "startAt": "2026-11-23T00:00:00+09:00",
     "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "とっとり・おかやま新橋館 2階",
+      "address": "東京都港区新橋1-11-7",
       "prefecture": "東京都",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "港区",
+      "latitude": 35.667454,
+      "longitude": 139.759262
     },
-    "organizer": null,
+    "organizer": "DAISEN HAKKO PROJECT推進協議会",
     "officialUrl": "https://maimonmatsurishinbashi.peatix.com",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/194611/1/194611-1-9e5d79dbf9cda32fe8c7d7810b5ba95d-1414x2000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -17410,10 +17410,10 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "unverified",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:37:52.949Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -17421,8 +17421,8 @@
   {
     "id": "evt-a118c03eff1d",
     "slug": "e-a118c03eff1d",
-    "title": "ガチャを回して、推しに投票。「クラフトビール総選挙2026 in 川崎」11月26日より開催",
-    "description": null,
+    "title": "クラフトビール総選挙2026 in 川崎",
+    "description": "全国のブルワリーから選ばれたクラフトビールを4つの党に分けて飲み比べ、ガチャから出たカプセルで推しの党に投票する参加型のビアガーデンイベントだ。キッチンカーのフードや家庭用ビールサーバーの無料試飲も楽しめる。",
     "genres": [
       "beer"
     ],
@@ -17434,18 +17434,18 @@
     "endAt": "2026-11-26T23:59:00+09:00",
     "venue": {
       "name": "かわさきフェス広場(川崎ルフロン前歩道・事業エリア内)",
-      "address": null,
+      "address": "神奈川県川崎市川崎区日進町1-11",
       "prefecture": "神奈川県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "川崎市",
+      "latitude": 35.528065,
+      "longitude": 139.695099
     },
-    "organizer": null,
+    "organizer": "株式会社DREAMBEER",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/60917/160/60917-160-0d7e0071b232c1c21cb05352f6738439-1457x973.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-a118c03eff1d"
@@ -17454,13 +17454,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-b9605d03536b",
@@ -17478,19 +17478,19 @@
     "startAt": "2026-11-29T00:00:00+09:00",
     "endAt": "2026-11-29T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "新百合トウェンティワンビル、麻生区役所",
       "address": null,
       "prefecture": null,
-      "city": null,
+      "city": "川崎市麻生区",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
-    "officialUrl": null,
+    "organizer": "川崎市麻生区、新百合ヶ丘エリアマネジメントコンソーシアム",
+    "officialUrl": "https://inspire-hub-shinyuri.com/kawasaki100plusalpha/17851.html",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/128505/10/128505-10-832508b4508681b8c4aba06cdd56b673-1430x860.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-b9605d03536b"
@@ -17502,10 +17502,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-2e65bc4bd0bd",
@@ -17653,12 +17653,12 @@
       "name": null,
       "address": null,
       "prefecture": "神奈川県",
-      "city": null,
+      "city": "川崎市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
-    "officialUrl": null,
+    "organizer": "川崎市",
+    "officialUrl": "https://kawasaki-akinai.com/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/124454/417/124454-417-8805a29a01b9646a3bedc2abcdd631a9-1350x1350.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
@@ -17674,16 +17674,16 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-9a9cbaa81608",
     "slug": "e-9a9cbaa81608",
-    "title": "【来年も開催決定】音楽とビールを軸に、人・食・カルチャーがひとつの島でつながるフェスティバル「Orion Island Waves 2027」",
-    "description": null,
+    "title": "Orion Island Waves 2027 - Music & Beer Festival -",
+    "description": "瀬長島全体がオリオンビールを味わえる開放的なビアガーデンになり、島内のステージでライブやDJプレイが楽しめる音楽とビールの祭典だ。ウミカジテラスの店舗も特別仕様となり、海辺の景色とともにグルメや買い物も満喫できる。",
     "genres": [
       "beer"
     ],
@@ -17693,20 +17693,20 @@
     "startAt": "2026-11-12T00:00:00+09:00",
     "endAt": "2026-12-03T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "瀬長島 ウミカジテラス",
+      "address": "沖縄県豊見城市",
+      "prefecture": "沖縄県",
+      "city": "豊見城市",
+      "latitude": 26.177135,
+      "longitude": 127.681229
     },
-    "organizer": null,
+    "organizer": "Orion Island Waves 実行委員会",
     "officialUrl": "https://orionislandwaves.jp/tickets/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/44607/314/44607-314-5d9f317526707d17959d5534924b1bb4-1920x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "1日券4,400円〜",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-9a9cbaa81608"
     ],
@@ -17717,7 +17717,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -17782,20 +17782,20 @@
     "startAt": "2026-11-20T00:00:00+09:00",
     "endAt": "2026-11-20T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "トロ壱 天神西通り",
       "address": "福岡県福岡市中央区今泉1丁目19番21号 信長今泉ビル2F・3F",
       "prefecture": "福岡県",
       "city": "福岡市",
       "latitude": 33.586384,
       "longitude": 130.397598
     },
-    "organizer": null,
+    "organizer": "ENRAVE株式会社",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49183/198/49183-198-29c6548a428b9d7fba0a5a98a52c0d95-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": false,
     "sourceIds": [
       "src-0cd489b4f29b"
     ],
@@ -17806,16 +17806,16 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-986a1ca6cec9",
     "slug": "e-986a1ca6cec9",
-    "title": "「EBINA BOOZE FEST 2026」初の秋開催！ひと足早い冬の乾杯。11月21日から海老名駅前で3日間開催",
-    "description": null,
+    "title": "EBINA BOOZE FEST 2026",
+    "description": "神奈川県内15のブルワリーのクラフトビールと日本酒3蔵、初参加の横濱ワイナリーのワインを飲み比べられる屋外フェスだ。海老名の地元グルメや野菜マルシェ、ライブやDJも楽しめ、秋冬限定ビールの先行販売もある。",
     "genres": [
       "beer",
       "wine",
@@ -17828,19 +17828,19 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-21T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "海老名中央公園",
+      "address": "神奈川県海老名市中央1丁目5 ビナウォーク",
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "latitude": 35.452179,
+      "longitude": 139.393051
     },
-    "organizer": null,
+    "organizer": "海老名指定管理グループ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/139143/13/139143-13-63b3c43399988b3689961dd9c08c1a73-2160x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-986a1ca6cec9"
@@ -17849,13 +17849,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-6b0d0dfe1650",
@@ -17871,20 +17871,20 @@
     "startAt": "2026-12-02T00:00:00+09:00",
     "endAt": "2026-12-02T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "HUB桜木町クロスゲート店",
       "address": null,
       "prefecture": "神奈川県",
-      "city": null,
+      "city": "横浜市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "株式会社サンプラテック、株式会社ハブ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/140676/7/140676-7-91fb2c86740d76e7a3fb1f5229e57161-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "無料（飲食代別）",
+    "isFree": true,
+    "reservationRequired": true,
     "sourceIds": [
       "src-6b0d0dfe1650"
     ],
@@ -17895,10 +17895,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c2c820480cbc",
@@ -17946,8 +17946,8 @@
   {
     "id": "evt-7bbbbc45b430",
     "slug": "e-7bbbbc45b430",
-    "title": "73種類のベルギービールとグルメを堪能ベルギービールウィークエンド2026 新宿　開催 12月2日（水）〜6日（日） 新宿住友ビル三角広場にて5日間開催",
-    "description": null,
+    "title": "ベルギービールウィークエンド2026 新宿",
+    "description": "14タイプ73種類のベルギービールを、ベルギーグルメやチョコレート・チーズとのペアリングで味わえるイベントだ。大使館総料理長による予約制コース「The Table」や週末のDJ・ライブも楽しめる。",
     "genres": [
       "beer"
     ],
@@ -17957,18 +17957,18 @@
     "startAt": "2026-12-02T00:00:00+09:00",
     "endAt": "2026-12-06T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "新宿住友ビル三角広場",
+      "address": "東京都新宿区西新宿２丁目６−１",
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "latitude": 35.692017,
+      "longitude": 139.692459
     },
-    "organizer": null,
+    "organizer": "ベルギービールウィークエンド実行委員会",
     "officialUrl": "https://the-table.belgianbeerweekend.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/31928/60/31928-60-b8f53fb37cfc048c3d40bf995cc49a72-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
+    "price": "前売2,700円〜",
     "isFree": null,
     "reservationRequired": null,
     "sourceIds": [
@@ -17978,13 +17978,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-a78fc7b449d6",
@@ -18002,15 +18002,15 @@
     "startAt": "2026-12-04T00:00:00+09:00",
     "endAt": "2026-12-06T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "お台場青海地区特設会場",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "東京都",
+      "city": "江東区",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
-    "officialUrl": null,
+    "organizer": "SAKANA&JAPAN FESTIVAL実行委員会",
+    "officialUrl": "https://37sakana.jp/sjfesodaiba/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/68543/61/68543-61-208f56231e0424ee3e0efa4416d2a40f-3900x2862.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
@@ -18026,10 +18026,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-b1b775bf7d48",
@@ -18596,8 +18596,8 @@
   {
     "id": "evt-7f5ae6a86cff",
     "slug": "e-7f5ae6a86cff",
-    "title": "綾町で「雲海酒造 綾蔵 蔵まつり」 新酒や初の「金ボトル」販売も",
-    "description": null,
+    "title": "雲海酒造 綾蔵 蔵まつり 2026",
+    "description": "芋焼酎「木挽BLUE」と地酒「初御代」の振る舞いに加え、県内窯元の陶器市やキッチンカー、屋台が並ぶ蔵元の祭りだ。新酒と初登場の金ボトルのセット販売や、子ども向けのステージや体験コーナーもある。",
     "genres": [
       "sake"
     ],
@@ -18609,14 +18609,14 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "蔵元 綾 酒泉の杜、綾自然蔵見学館",
+      "address": "綾町南俣",
+      "prefecture": "宮崎県",
+      "city": "綾町",
+      "latitude": 31.994806,
+      "longitude": 131.240356
     },
-    "organizer": null,
+    "organizer": "雲海酒造",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/miyazaki_keizai/headline/1794819936_photo.jpg",
@@ -18630,10 +18630,10 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:37:52.949Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -18687,8 +18687,8 @@
   {
     "id": "evt-3fafc8019d39",
     "slug": "e-3fafc8019d39",
-    "title": "樽から日本酒を注ぐ体験も!コピス吉祥寺で、約24種類のお酒が飲み比べできる日本酒イベント開催",
-    "description": null,
+    "title": "SAKE FES2026 by KEG DRAFT vol.3",
+    "description": "鮮度を保つ「KEG DRAFT」技術で、全国の銘酒約24種類を飲み比べられる日本酒イベントだ。樽から自分で酒を注ぐ体験や、料理のキッチンワゴン、落語や和太鼓などの和のステージも楽しめる。",
     "genres": [
       "sake"
     ],
@@ -18698,14 +18698,14 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "コピス吉祥寺 A館3階GREENING広場",
       "address": null,
       "prefecture": null,
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "コピス吉祥寺",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://news.mynavi.jp/article/20261116-5310762/ogp_images/ogp.jpg",
@@ -18722,7 +18722,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -18730,8 +18730,8 @@
   {
     "id": "evt-1fe4342e9f9f",
     "slug": "e-1fe4342e9f9f",
-    "title": "久留米・紅乙女耳納蒸留所で秋祭り 「お酒と音楽と食」をテーマに",
-    "description": null,
+    "title": "紅乙女秋祭り2026",
+    "description": "蒸留所の秋の蔵びらきで、限定酒の購入や普段は入れない製造場の見学、焼酎の貯蔵蔵でのバイオリンとピアノの生演奏が楽しめる。振る舞い酒の「ほろ酔い処」や酒ガチャ、マルシェ、ワークショップもある。",
     "genres": [
       "sake",
       "shochu"
@@ -18745,19 +18745,19 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-22T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "紅乙女耳納蒸留所",
+      "address": "久留米市田主丸町益生田",
       "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "久留米市",
+      "latitude": 33.321171,
+      "longitude": 130.688873
     },
-    "organizer": null,
+    "organizer": "紅乙女酒造",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/kurume_keizai/headline/1794755560_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-1fe4342e9f9f"
@@ -18769,7 +18769,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -18777,8 +18777,8 @@
   {
     "id": "evt-7ea743e7a925",
     "slug": "e-7ea743e7a925",
-    "title": "岡垣のワイナリーで「大収穫祭」 新酒2種解禁、秋の味覚も",
-    "description": null,
+    "title": "大収穫祭2026 秋のごちそうと新酒まつり",
+    "description": "岡垣町の自社畑で今年収穫したブドウから造った赤と白の新酒2種が解禁され、飲み比べを楽しめる。ワインに合う焼きたての料理や地元産品の直売ブース、子ども向けの縁日や抽選会もあり、家族で楽しめる収穫祭だ。",
     "genres": [
       "wine"
     ],
@@ -18789,19 +18789,19 @@
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "ぶどうの樹のワイナリー",
+      "address": "岡垣町内浦",
       "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "岡垣町",
+      "latitude": 33.868061,
+      "longitude": 130.564713
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/onga_keizai/headline/1794765732_photo.png",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-7ea743e7a925"
@@ -18813,7 +18813,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -18830,17 +18830,17 @@
       "seminar",
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-14T00:00:00+09:00",
+    "endAt": "2026-11-14T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "ＪＲ新山口駅周辺エリア",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "山口県",
+      "city": "山口市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "小郡がつながる・つなげるプロジェクト実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
@@ -18853,14 +18853,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-8a57c7d30049",
@@ -18873,13 +18873,13 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-15T00:00:00+09:00",
+    "endAt": "2026-11-15T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "都農ワイナリー",
       "address": null,
       "prefecture": null,
-      "city": null,
+      "city": "都農町",
       "latitude": null,
       "longitude": null
     },
@@ -18896,14 +18896,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6955976a03ad",
@@ -18916,37 +18916,37 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-17T00:00:00+09:00",
+    "endAt": "2026-11-30T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "ジャンカラ全店",
       "address": null,
       "prefecture": null,
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "株式会社TOAI",
     "officialUrl": "https://jankara.ne.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/17032/454/17032-454-2d12937c4ed8fe2509526ef8942e63b5-1080x1350.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": true,
     "sourceIds": [
       "src-6955976a03ad"
     ],
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T23:48:35.739Z",
-    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-f18c59477efc",
@@ -18962,20 +18962,20 @@
     "startAt": "2026-11-28T00:00:00+09:00",
     "endAt": "2026-11-28T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "ONE AOYAMA 18F",
+      "address": "東京都港区赤坂4-15-1",
+      "prefecture": "東京都",
+      "city": "港区",
+      "latitude": 35.674007,
+      "longitude": 139.731354
     },
-    "organizer": null,
+    "organizer": "株式会社IR Robotics",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54393/348/54393-348-32b12a60959dc7fe7789ee4e8a6cb978-3600x2025.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "無料",
+    "isFree": true,
+    "reservationRequired": true,
     "sourceIds": [
       "src-f18c59477efc"
     ],
@@ -18986,10 +18986,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T23:48:35.739Z",
-    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-12fac92eefe1",
@@ -19048,20 +19048,20 @@
     "startAt": "2026-12-10T00:00:00+09:00",
     "endAt": "2026-12-10T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "個室居酒屋 凛和堂 大宮店",
+      "address": "埼玉県さいたま市大宮区仲町１丁目１１４ レッツビル B1F",
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "latitude": 35.904263,
+      "longitude": 139.626663
     },
-    "organizer": null,
+    "organizer": "株式会社ビリオンフーズ",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/55180/583/55180-583-8a4b0b27572da6ecc5535b62a2566f8a-1460x1077.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "1,090円（税込）",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-5ec5dffa0402"
     ],
@@ -19072,10 +19072,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T23:48:35.739Z",
-    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-97de988968e5",
@@ -19134,20 +19134,20 @@
     "startAt": "2026-11-27T00:00:00+09:00",
     "endAt": "2026-11-27T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "ABEMA Towers 10F SeminarRoom-D",
+      "address": "東京都渋谷区宇田川町40-1",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "latitude": 35.662331,
+      "longitude": 139.696075
     },
-    "organizer": null,
+    "organizer": "株式会社ベーシック",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "5,000円",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-c93580e7331d"
     ],
@@ -19158,10 +19158,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T23:48:35.739Z",
-    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-20T15:30:32.034Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-8d4c352568d6",

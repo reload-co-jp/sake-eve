@@ -7459,5 +7459,551 @@
       "publication"
     ],
     "note": "auto: 配信60日超で日付不明"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-f333e488ae35",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-f333e488ae35",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-1d1985104ec6",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 大仙市が体験型観光コンテンツを市ホームページで発信する取り組みを紹介する記事であり、特定の日時に開催されるお酒のイベントの告知ではない。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-97732511fb41",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: キリンビールが下北沢駅構内で交通広告を掲出するという告知であり、一般の人が参加できるお酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-b41d9a813847",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.prefecture, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-b41d9a813847",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 旅館の宿泊者限定のサウナイベントで、飲み放題は付くもののお酒が主題のイベントではないため掲載対象外と判断した。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-759d806e64e8",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 本文の中心は大学祭限定のオリジナルビールの開発と販売告知であり、お酒が主役の一般向けイベントではなく新商品の紹介にあたるため。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-e9fc5a6982a3",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-e9fc5a6982a3",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-a118c03eff1d",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-a118c03eff1d",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-b9605d03536b",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.city, price, isFree, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-b9605d03536b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: テクノロジー体験やワークショップが中心の地域フェスで、ビール販売は飲食ブースの一部にとどまり、お酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-b4271ad38750",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.city, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-b4271ad38750",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 市内飲食店の一品に投票する市民参加型のグルメイベントで、お酒が主役のイベントではないため対象外とした。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-9a9cbaa81608",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-0cd489b4f29b",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-0cd489b4f29b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 居酒屋「トロ壱 天神西通り店」の新規開業と開業記念の割引企画を告知するもので、一般参加型のお酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-986a1ca6cec9",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-986a1ca6cec9",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-6b0d0dfe1650",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-6b0d0dfe1650",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: HUBでビールを囲む交流イベントだが、参加者が研究者やライフサイエンス分野の関係者に限られ、一般の人は参加できないため。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-7bbbbc45b430",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-7bbbbc45b430",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-a78fc7b449d6",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.prefecture, venue.city, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-a78fc7b449d6",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 全国の魚介料理を味わう魚介グルメフェスで、ハイボールの販売やワインの試飲はあるものの、お酒が主役のイベントではないため。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-7f5ae6a86cff",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-7f5ae6a86cff",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-3fafc8019d39",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-1fe4342e9f9f",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-7ea743e7a925",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-a664f668e20d",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-a664f668e20d",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年11月14日にすでに開催された「新山口えきまえ博」の開催報告記事で、これから開催されるイベントの告知ではないため対象外とする。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-8a57c7d30049",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.city）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-8a57c7d30049",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年11月15日に開催済みのイベントの報告記事で、これから開催されるイベントではないため。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-6955976a03ad",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-6955976a03ad",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: カラオケ店の飲み放題コースの割引キャンペーン告知であり、一般の人が参加するお酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-f18c59477efc",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-f18c59477efc",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 上場企業の経営陣と個人投資家が対話するIRイベントで、交流会でお酒が出るものの、お酒そのものを楽しむイベントではないため対象外とする。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-5ec5dffa0402",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-5ec5dffa0402",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 居酒屋が期間限定で提供するおでん食べ放題プランであり、飲食店のキャンペーン・メニュー企画にあたるため、お酒のイベントには該当しない。"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-c93580e7331d",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-20T15:30:32.034Z",
+    "collection": "events",
+    "id": "evt-c93580e7331d",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: BtoB営業・マーケティング担当者向けのビジネス交流会で、乾杯はあるもののお酒を主題とした一般向けのイベントではないため。"
+  },
+  {
+    "at": "2026-11-20T15:37:52.949Z",
+    "collection": "events",
+    "id": "evt-f333e488ae35",
+    "action": "pending",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "公開済みの evt-b6c8b5d7d4b6 と同一イベントのため承認待ちに戻した（重複候補に登録、自動統合はしない）"
+  },
+  {
+    "at": "2026-11-20T15:37:52.949Z",
+    "collection": "events",
+    "id": "evt-7f5ae6a86cff",
+    "action": "pending",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "公開済みの evt-0007ecfa8fc5 と同一イベントのため承認待ちに戻した（重複候補に登録、自動統合はしない）"
+  },
+  {
+    "at": "2026-11-20T15:37:52.949Z",
+    "collection": "events",
+    "id": "evt-e9fc5a6982a3",
+    "action": "pending",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "公開済みの evt-a0cdc55f7717 と同一イベントのため承認待ちに戻した（重複候補に登録、自動統合はしない）"
   }
 ]

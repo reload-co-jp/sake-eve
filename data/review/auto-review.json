@@ -1793,5 +1793,410 @@
       "会場"
     ],
     "rejected": []
+  },
+  {
+    "eventId": "evt-f333e488ae35",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "pending",
+    "reason": "泡盛の無料振る舞いや限定古酒の販売、抽選会などがある酒造の秋祭りで、2026年11月21・22日に一般向けに開かれる予定のため。",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-1d1985104ec6",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "大仙市が体験型観光コンテンツを市ホームページで発信する取り組みを紹介する記事であり、特定の日時に開催されるお酒のイベントの告知ではない。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-97732511fb41",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "キリンビールが下北沢駅構内で交通広告を掲出するという告知であり、一般の人が参加できるお酒のイベントではないため。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b41d9a813847",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "旅館の宿泊者限定のサウナイベントで、飲み放題は付くもののお酒が主題のイベントではないため掲載対象外と判断した。",
+    "filled": [
+      "venue.name",
+      "venue.prefecture",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-759d806e64e8",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "本文の中心は大学祭限定のオリジナルビールの開発と販売告知であり、お酒が主役の一般向けイベントではなく新商品の紹介にあたるため。",
+    "filled": [],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e9fc5a6982a3",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "pending",
+    "reason": "鳥取の酒蔵が集まり、一般参加者が地酒を飲み比べできる、これから開催されるイベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-a118c03eff1d",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "published",
+    "reason": "一般来場者が入場無料で参加でき、2026年11月26日から開催されるクラフトビールの参加型イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b9605d03536b",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "テクノロジー体験やワークショップが中心の地域フェスで、ビール販売は飲食ブースの一部にとどまり、お酒のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.city",
+      "price",
+      "isFree",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-b4271ad38750",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "市内飲食店の一品に投票する市民参加型のグルメイベントで、お酒が主役のイベントではないため対象外とした。",
+    "filled": [
+      "venue.city",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-9a9cbaa81608",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "pending",
+    "reason": "2027年4月に沖縄・瀬長島で開かれる、一般の人がチケットを買って参加できる音楽とビールのフェスティバルのため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [
+      "開催日が出典と異なる",
+      "開催日が過去"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0cd489b4f29b",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "居酒屋「トロ壱 天神西通り店」の新規開業と開業記念の割引企画を告知するもので、一般参加型のお酒のイベントではない。",
+    "filled": [
+      "venue.name",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-986a1ca6cec9",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "published",
+    "reason": "一般の人が無料で入場でき、これから開催されるクラフトビールや日本酒、ワインの屋外フェスである。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6b0d0dfe1650",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "HUBでビールを囲む交流イベントだが、参加者が研究者やライフサイエンス分野の関係者に限られ、一般の人は参加できないため。",
+    "filled": [
+      "venue.name",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-7bbbbc45b430",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "published",
+    "reason": "一般客がベルギービールやグルメを楽しめる、これから開催されるビールイベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": [
+      "officialUrl"
+    ]
+  },
+  {
+    "eventId": "evt-a78fc7b449d6",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "全国の魚介料理を味わう魚介グルメフェスで、ハイボールの販売やワインの試飲はあるものの、お酒が主役のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-7f5ae6a86cff",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "pending",
+    "reason": "雲海酒造が芋焼酎の新酒の時期に合わせて一般向けに開く蔵まつりで、配信日以降の11月21日から23日に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-3fafc8019d39",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "pending",
+    "reason": "一般来場者が全国の日本酒約24種類を飲み比べできる、これから開催される日本酒イベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-1fe4342e9f9f",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "pending",
+    "reason": "紅乙女耳納蒸留所でこれから開かれる秋の蔵びらきで、入場無料で一般の人が参加できるお酒のイベントのため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-7ea743e7a925",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "pending",
+    "reason": "一般の人が来場できるワイナリーの収穫祭で、配信日時点でこれから開催される新酒解禁のお酒イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-a664f668e20d",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "2026年11月14日にすでに開催された「新山口えきまえ博」の開催報告記事で、これから開催されるイベントの告知ではないため対象外とする。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-8a57c7d30049",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "2026年11月15日に開催済みのイベントの報告記事で、これから開催されるイベントではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6955976a03ad",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "カラオケ店の飲み放題コースの割引キャンペーン告知であり、一般の人が参加するお酒のイベントではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-f18c59477efc",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "上場企業の経営陣と個人投資家が対話するIRイベントで、交流会でお酒が出るものの、お酒そのものを楽しむイベントではないため対象外とする。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-5ec5dffa0402",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "居酒屋が期間限定で提供するおでん食べ放題プランであり、飲食店のキャンペーン・メニュー企画にあたるため、お酒のイベントには該当しない。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-c93580e7331d",
+    "reviewedAt": "2026-11-20T15:30:32.034Z",
+    "decision": "hidden",
+    "reason": "BtoB営業・マーケティング担当者向けのビジネス交流会で、乾杯はあるもののお酒を主題とした一般向けのイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
   }
 ]
