@@ -15053,5 +15053,334 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-cd5425feabac",
+    "sourceType": "news",
+    "url": "https://jiyugaoka.keizai.biz/headline/2535/",
+    "title": "学大高架下で「紀州田辺の梅酒」飲み比べイベント 梅酒づくり体験も",
+    "publisher": "自由が丘経済新聞",
+    "publishedAt": "2026-11-20T11:00:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "a9a1e3d1d84da7d233a2d5f597461200d416f7d835eb7580e1c992069321ebee",
+    "relatedEventIds": [
+      "evt-cd5425feabac"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky",
+        "sake",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "market"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a9a201f65adb",
+    "sourceType": "news",
+    "url": "https://news.ntv.co.jp/category/society/ni78cb7d246d7344b986b84848cbd2d49b",
+    "title": "ポルトガル産や県産などワインの魅力を気軽に味わって「秋のワインマルシェ」22日までの開催《長崎》",
+    "publisher": "NIB NEWS NNN",
+    "publishedAt": "2026-11-20T10:40:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "fee6a782ccfbd139c4e08f8c510f9d676913eaae8131f75a24cdc9ed5e9cdfb3",
+    "relatedEventIds": [
+      "evt-a9a201f65adb"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3e812f10ec16",
+    "sourceType": "news",
+    "url": "https://newsdig.tbs.co.jp/articles/-/3102295?display=1",
+    "title": "ポルトガル&九州のワインに世界大会8位の本格ピッツァも!グラス1杯から気軽に…アミュプラザ長崎で「秋のワインマルシェ」開催",
+    "publisher": "TBS NEWS DIG",
+    "publishedAt": "2026-11-20T09:59:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "24650da67ce00e96deaaa1dafcecb8b57b3cda13532fc8e5beaef9130088cd64",
+    "relatedEventIds": [
+      "evt-3e812f10ec16"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-d1c24e6045ba",
+    "sourceType": "news",
+    "url": "https://www.fashion-press.net/news/153696",
+    "title": "太秦映画村の冬イベント「太秦江戸酒場」日本酒飲み放題&京都の名店グルメ、100万枚の紙吹雪も",
+    "publisher": "ファッションプレス",
+    "publishedAt": "2026-11-20T09:25:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "46b6565903dc9f1a7558bcb0d9bda275b213818ca681e02afb9f10f485d2fbc8",
+    "relatedEventIds": [
+      "evt-d1c24e6045ba"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9eab9b3a6e32",
+    "sourceType": "news",
+    "url": "http://thai.news-agency.jp/articles/article/19063",
+    "title": "ローイクラトン祭り、午後も酒類販売可能",
+    "publisher": "タイランド通信",
+    "publishedAt": "2026-11-20T08:37:38.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "f559df2f5b8e327c8a8a519026e9ce1eb9b1fafba58cb24bf7b198312011c91d",
+    "relatedEventIds": [
+      "evt-9eab9b3a6e32"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-24",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-a36dfcd688fb",
+    "sourceType": "news",
+    "url": "https://tetsudo-ch.com/13045278.html",
+    "title": "東京・上野に忍者が大集結!? 本格忍者ショーや手裏剣体験、伊賀酒やグルメも楽しめる、入場無料「伊賀上野NINJAフェスタ2026」の見どころは?",
+    "publisher": "鉄道チャンネル",
+    "publishedAt": "2026-11-20T08:00:57.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "d2912991650560595922a2cc6019dacc5b1ef31cfeb2917edf316691c97f1c96",
+    "relatedEventIds": [
+      "evt-a36dfcd688fb"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-483de570aba5",
+    "sourceType": "news",
+    "url": "https://www.wwdjapan.com/articles/2557220",
+    "title": "「ジャヌ東京」のフェスティブシーズンは「森」がテーマ 隈研吾によるインスタレーションやトークショー、VERBALの日本酒「ソウマトウ」と楽しむディナーも",
+    "publisher": "WWD JAPAN",
+    "publishedAt": "2026-11-20T08:00:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "20255637523084b5bb56e972d52be7bc6d2ad3f5754b38810977abcd0ea521c8",
+    "relatedEventIds": [
+      "evt-483de570aba5"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-21b02c75e339",
+    "sourceType": "news",
+    "url": "https://www.walkerplus.com/article/1454927/",
+    "title": "体験型音楽イベント「THE BUSKER Triple Sessions」第3弾に行ってきた!音楽とウイスキーが出合う特別な夜に",
+    "publisher": "ウォーカープラス",
+    "publishedAt": "2026-11-20T07:00:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "8be389e7b3c18349a8bbf45b94eaa3e548cd8ca29ea06f937cdf52c503be07d5",
+    "relatedEventIds": [
+      "evt-21b02c75e339"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "whisky"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-8213ac5d8ffe",
+    "sourceType": "news",
+    "url": "https://www.newsweekjapan.jp/articles/-/340714",
+    "title": "ユネスコ無形文化遺産登録から2年を迎える「伝統的酒造り」のイベントが、12月に神田明神で開催",
+    "publisher": "ニューズウィーク日本版 オフィシャルサイト",
+    "publishedAt": "2026-11-20T06:00:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "87ac86bf8929ae20e73d5fda04c25bb22d1b4977c9306dc95ad0bb4ed2281d1a",
+    "relatedEventIds": [
+      "evt-8213ac5d8ffe"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar"
+      ],
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "dateSource": "text",
+      "venueName": "神田明神 文化交流館 地下1階 EDOCCO STUDIO",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-64129b5ba20f",
+    "sourceType": "news",
+    "url": "https://www.minpo.jp/articles/-/277772",
+    "title": "【週末おでかけ情報】21~23日 白河で「日本酒まみれ」、浪江で十日市祭、南会津で八十里マーケット",
+    "publisher": "福島民報デジタル",
+    "publishedAt": "2026-11-20T02:20:00.000Z",
+    "fetchedAt": "2026-11-20T23:02:22.235Z",
+    "contentHash": "2bf6ba62020cd2f3fa8ec27cdab444df004b91b062e300f096d871ef5c45770c",
+    "relatedEventIds": [
+      "evt-64129b5ba20f"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

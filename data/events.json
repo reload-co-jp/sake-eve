@@ -17274,7 +17274,7 @@
     "organizer": "株式会社DREAMBEER",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/60917/160/60917-160-0d7e0071b232c1c21cb05352f6738439-1457x973.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-a118c03eff1d.webp",
     "price": "無料",
     "isFree": true,
     "reservationRequired": null,
@@ -17669,7 +17669,7 @@
     "organizer": "海老名指定管理グループ",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/139143/13/139143-13-63b3c43399988b3689961dd9c08c1a73-2160x2700.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-986a1ca6cec9.webp",
     "price": "無料",
     "isFree": true,
     "reservationRequired": null,
@@ -17798,7 +17798,7 @@
     "organizer": "ベルギービールウィークエンド実行委員会",
     "officialUrl": "https://the-table.belgianbeerweekend.jp/",
     "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/31928/60/31928-60-b8f53fb37cfc048c3d40bf995cc49a72-3900x2194.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "imageUrl": "/images/events/evt-7bbbbc45b430.webp",
     "price": "前売2,700円〜",
     "isFree": null,
     "reservationRequired": null,
@@ -19204,10 +19204,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-18T23:20:54.997Z",
-    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0a62c3135423",
@@ -19859,6 +19859,445 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
     "updatedAt": "2026-11-19T23:28:16.942Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-cd5425feabac",
+    "slug": "e-cd5425feabac",
+    "title": "学大高架下で「紀州田辺の梅酒」飲み比べイベント 梅酒づくり体験も",
+    "description": null,
+    "genres": [
+      "whisky",
+      "sake",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "market"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-21T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/jiyugaoka_keizai/headline/1795168973_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-cd5425feabac"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a9a201f65adb",
+    "slug": "e-a9a201f65adb",
+    "title": "ポルトガル産や県産などワインの魅力を気軽に味わって「秋のワインマルシェ」22日までの開催《長崎》",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://image.gallery.play.jp/nib-news/articles/b639c5e921954cbfb294621bdb4f5b8a/b91d7d3c-ba2c-4cff-81b3-942cc6e2cb49.jpg?w=1200",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a9a201f65adb"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3e812f10ec16",
+    "slug": "e-3e812f10ec16",
+    "title": "ポルトガル&九州のワインに世界大会8位の本格ピッツァも!グラス1杯から気軽に…アミュプラザ長崎で「秋のワインマルシェ」開催",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "market"
+    ],
+    "startAt": "2026-11-22T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsdig.ismcdn.jp/mwimgs/4/f/1200w/img_4f09cc2ec33b6020cf067dff7b2c3039233421.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3e812f10ec16"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-d1c24e6045ba",
+    "slug": "e-d1c24e6045ba",
+    "title": "太秦映画村の冬イベント「太秦江戸酒場」日本酒飲み放題&京都の名店グルメ、100万枚の紙吹雪も",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "京都府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-d1c24e6045ba"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9eab9b3a6e32",
+    "slug": "e-9eab9b3a6e32",
+    "title": "ローイクラトン祭り、午後も酒類販売可能",
+    "description": null,
+    "genres": [
+      "beer",
+      "wine"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-24T00:00:00+09:00",
+    "endAt": "2026-11-24T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9eab9b3a6e32"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-a36dfcd688fb",
+    "slug": "e-a36dfcd688fb",
+    "title": "東京・上野に忍者が大集結!? 本格忍者ショーや手裏剣体験、伊賀酒やグルメも楽しめる、入場無料「伊賀上野NINJAフェスタ2026」の見どころは?",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-a36dfcd688fb"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-483de570aba5",
+    "slug": "e-483de570aba5",
+    "title": "「ジャヌ東京」のフェスティブシーズンは「森」がテーマ 隈研吾によるインスタレーションやトークショー、VERBALの日本酒「ソウマトウ」と楽しむディナーも",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-483de570aba5"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-21b02c75e339",
+    "slug": "e-21b02c75e339",
+    "title": "体験型音楽イベント「THE BUSKER Triple Sessions」第3弾に行ってきた!音楽とウイスキーが出合う特別な夜に",
+    "description": null,
+    "genres": [
+      "whisky"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-10-28T00:00:00+09:00",
+    "endAt": "2026-10-28T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-21b02c75e339"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-8213ac5d8ffe",
+    "slug": "e-8213ac5d8ffe",
+    "title": "ユネスコ無形文化遺産登録から2年を迎える「伝統的酒造り」のイベントが、12月に神田明神で開催",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "seminar"
+    ],
+    "startAt": "2026-11-17T00:00:00+09:00",
+    "endAt": "2026-11-17T23:59:00+09:00",
+    "venue": {
+      "name": "神田明神 文化交流館 地下1階 EDOCCO STUDIO",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://newsweekjapan.ismcdn.jp/mwimgs/2/e/1200x/img_2e061c8a5f58bc6785b85fa804c35031270676.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8213ac5d8ffe"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-64129b5ba20f",
+    "slug": "e-64129b5ba20f",
+    "title": "【週末おでかけ情報】21~23日 白河で「日本酒まみれ」、浪江で十日市祭、南会津で八十里マーケット",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://minpo.ismcdn.jp/mwimgs/1/7/1200w/img_1771fb08420b32221c2e9e991c051f3c74858.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-64129b5ba20f"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-20T23:02:22.235Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

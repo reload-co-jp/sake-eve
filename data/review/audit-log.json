@@ -8053,5 +8053,35 @@
       "updatedAt"
     ],
     "note": "統合して削除: evt-06d5f79b9fe5（ダイヤゲート池袋夜市～つながる行きつけ～）"
+  },
+  {
+    "at": "2026-11-20T23:02:22.235Z",
+    "collection": "events",
+    "id": "evt-bc916474eca1",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-20T23:02:22.235Z",
+    "collection": "events",
+    "id": "evt-21b02c75e339",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-20T23:02:22.235Z",
+    "collection": "events",
+    "id": "evt-8213ac5d8ffe",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]
