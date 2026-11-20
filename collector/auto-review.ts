@@ -7,7 +7,7 @@ import { join } from "node:path"
 import { readFileSync } from "node:fs"
 import type { AuditEntry } from "../admin/api.ts"
 import type { Db } from "../lib/types.ts"
-import { normalizeUrl, scanDuplicates } from "./dedupe.ts"
+import { duplicatesOf, normalizeUrl, scanDuplicates } from "./dedupe.ts"
 import type { FetchText } from "./http.ts"
 import {
   applyReview,
@@ -110,13 +110,23 @@ export const autoReview = async (
       if (!body?.trim()) throw new Error("本文を取得できませんでした")
       const answer = await opts.ask(src.title, publishedAt, body)
       if (!answer) throw new Error("回答を得られませんでした")
-      const r = applyReview(e, answer, checkFacts(answer, body, publishedAt), {
+      const checked = checkFacts(answer, body, publishedAt)
+      const ctx = {
         now,
         sourceTitle: src.title,
         hasDuplicates: dupes.some(
           (d) => d.eventId === e.id || d.candidateEventId === e.id
         ),
-      })
+      }
+      let r = applyReview(e, answer, checked, ctx)
+      // The review fills the title, dates and venue, so look again with them (also against
+      // events published earlier in this run). Never publish a look-alike of a live event.
+      if (
+        !ctx.hasDuplicates &&
+        r.record.decision === "published" &&
+        duplicatesOf(r.event, events, now).length
+      )
+        r = applyReview(e, answer, checked, { ...ctx, hasDuplicates: true })
       events[i] = r.event
       audit.push(...r.audit)
       records.push(r.record)

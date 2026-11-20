@@ -103,13 +103,25 @@ export const scanDuplicates = (events: Event[], now: string) => {
   const byId = new Map(live.map((e) => [e.id, e]))
   return live
     .flatMap((e, i) => findDuplicateCandidates(e, live.slice(i + 1), now))
-    .filter((d) => {
-      const a = byId.get(d.eventId)!
-      const b = byId.get(d.candidateEventId)!
-      const otherPref =
-        !!a.venue.prefecture &&
-        !!b.venue.prefecture &&
-        a.venue.prefecture !== b.venue.prefecture
-      return !apart(a, b) && (!otherPref || d.score >= 0.9)
-    })
+    .filter((d) =>
+      sameOccasion(byId.get(d.eventId)!, byId.get(d.candidateEventId)!, d)
+    )
+}
+
+/** Drops look-alikes that are another stop of a series (other days, or another prefecture). */
+const sameOccasion = (a: Event, b: Event, d: DuplicateCandidate) => {
+  const otherPref =
+    !!a.venue.prefecture &&
+    !!b.venue.prefecture &&
+    a.venue.prefecture !== b.venue.prefecture
+  return !apart(a, b) && (!otherPref || d.score >= 0.9)
+}
+
+/** scanDuplicates for one event against the others (same rules), e.g. after its fields changed. */
+export const duplicatesOf = (e: Event, events: Event[], now: string) => {
+  const live = events.filter((o) => o.publication !== "hidden" && o.id !== e.id)
+  const byId = new Map(live.map((o) => [o.id, o]))
+  return findDuplicateCandidates(e, live, now).filter((d) =>
+    sameOccasion(e, byId.get(d.candidateEventId)!, d)
+  )
 }

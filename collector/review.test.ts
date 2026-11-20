@@ -286,6 +286,38 @@ describe("autoReview", () => {
     expect(r.db.events[1].publication).toBe("pending")
   })
 
+  it("keeps an event pending when its reviewed fields match a published event", async () => {
+    // Before the review the title is the headline and the date / venue are empty, so the
+    // look-alike only shows once the review has filled them.
+    const live = event({
+      id: "evt-live",
+      slug: "e-live",
+      title: "おいしいSAKEウォーク 2026",
+      startAt: "2026-11-21T00:00:00+09:00",
+      endAt: "2026-11-21T23:59:00+09:00",
+      venue: { ...event().venue, prefecture: "大阪府" },
+      publication: "published",
+      verificationStatus: "partially_verified",
+      sourceIds: [],
+    })
+    const r = await autoReview(db([live, event()]), {
+      ask: async () => answer(),
+      fetchText: async () => {
+        throw new Error("should not fetch")
+      },
+      now: NOW,
+      limit: 5,
+      records: [],
+      bodies: new Map([["https://news.example/a", BODY]]),
+    })
+    expect(r.db.events[1].title).toBe("おいしいSAKEウォーク")
+    expect(r.db.events[1].publication).toBe("pending")
+    expect(r.records[0]).toMatchObject({
+      decision: "pending",
+      todo: ["重複候補"],
+    })
+  })
+
   it("counts failures without stopping", async () => {
     const r = await autoReview(db([event()]), {
       ask: async () => null,
