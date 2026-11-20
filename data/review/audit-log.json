@@ -8005,5 +8005,53 @@
       "publication"
     ],
     "note": "公開済みの evt-a0cdc55f7717 と同一イベントのため承認待ちに戻した（重複候補に登録、自動統合はしない）"
+  },
+  {
+    "at": "2026-11-20T19:30:59.432Z",
+    "collection": "events",
+    "id": "evt-a1612dc36e06",
+    "action": "merge",
+    "changedFields": [
+      "imageUrl",
+      "sourceIds",
+      "updatedAt"
+    ],
+    "note": "統合して削除: evt-80f71f7efb43（福生蔵開き）"
+  },
+  {
+    "at": "2026-11-20T19:30:59.432Z",
+    "collection": "events",
+    "id": "evt-a1612dc36e06",
+    "action": "merge",
+    "changedFields": [
+      "sourceIds"
+    ],
+    "note": "統合して削除: evt-240797640b76（第5回福生蔵開き）"
+  },
+  {
+    "at": "2026-11-20T19:30:59.432Z",
+    "collection": "events",
+    "id": "evt-3235d466c229",
+    "action": "merge",
+    "changedFields": [
+      "sourceIds",
+      "updatedAt"
+    ],
+    "note": "統合して削除: evt-514e3b59566b（ホヤぼーやとハロウィンパーティ in 宝）"
+  },
+  {
+    "at": "2026-11-20T19:30:59.432Z",
+    "collection": "events",
+    "id": "evt-98100a7cb2a9",
+    "action": "merge",
+    "changedFields": [
+      "genres",
+      "eventTypes",
+      "organizer",
+      "sourceIds",
+      "articleIds",
+      "updatedAt"
+    ],
+    "note": "統合して削除: evt-06d5f79b9fe5（ダイヤゲート池袋夜市～つながる行きつけ～）"
   }
 ]

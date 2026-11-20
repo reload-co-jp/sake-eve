@@ -5047,11 +5047,13 @@
     "title": "「つながる行きつけ～夜市～」",
     "description": "ダイヤゲート池袋の線路上空にある広場「ダイヤデッキ」で、池袋や西武線沿線の食と文化を紹介する夜市だ。望遠鏡や双眼鏡で星空を眺める観望会のほか、オリジナルカクテルを味わいながら研究者やプラネタリウム解説員と宇宙を語り合うラウンジもある。",
     "genres": [
-      "cocktail"
+      "cocktail",
+      "beer"
     ],
     "eventTypes": [
       "seminar",
-      "tour"
+      "tour",
+      "market"
     ],
     "startAt": "2026-10-21T00:00:00+09:00",
     "endAt": "2026-10-23T23:59:00+09:00",
@@ -5063,7 +5065,7 @@
       "latitude": 35.72678,
       "longitude": 139.710983
     },
-    "organizer": null,
+    "organizer": "株式会社西武不動産",
     "officialUrl": "https://www.seiburealestate-pm.co.jp/news/detail/news310.html",
     "ticketUrl": null,
     "imageUrl": "/images/events/evt-98100a7cb2a9.webp",
@@ -5071,18 +5073,20 @@
     "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
-      "src-98100a7cb2a9"
+      "src-98100a7cb2a9",
+      "src-06d5f79b9fe5"
     ],
     "producerIds": [],
     "productIds": [],
     "articleIds": [
-      "art-98100a7cb2a9"
+      "art-98100a7cb2a9",
+      "art-06d5f79b9fe5"
     ],
     "status": "scheduled",
     "verificationStatus": "verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-19T16:19:05.263Z",
+    "updatedAt": "2026-11-20T19:30:59.432Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -5298,7 +5302,8 @@
     "isFree": null,
     "reservationRequired": null,
     "sourceIds": [
-      "src-3235d466c229"
+      "src-3235d466c229",
+      "src-514e3b59566b"
     ],
     "producerIds": [],
     "productIds": [],
@@ -5309,7 +5314,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-16T14:39:14.287Z",
-    "updatedAt": "2026-10-19T16:19:05.263Z",
+    "updatedAt": "2026-11-20T19:30:59.432Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -7203,51 +7208,6 @@
     "publication": "published"
   },
   {
-    "id": "evt-06d5f79b9fe5",
-    "slug": "e-06d5f79b9fe5",
-    "title": "ダイヤゲート池袋夜市～つながる行きつけ～",
-    "description": null,
-    "genres": [
-      "beer"
-    ],
-    "eventTypes": [
-      "market"
-    ],
-    "startAt": "2026-10-21T00:00:00+09:00",
-    "endAt": "2026-10-23T23:59:00+09:00",
-    "venue": {
-      "name": "ダイヤゲート池袋 ダイヤデッキ",
-      "address": "東京都豊島区南池袋１丁目１６−１５",
-      "prefecture": null,
-      "city": null,
-      "latitude": 35.72678,
-      "longitude": 139.710983
-    },
-    "organizer": "株式会社西武不動産",
-    "officialUrl": "https://www.seiburealestate-pm.co.jp/news/detail/news310.html",
-    "ticketUrl": null,
-    "imageUrl": null,
-    "price": null,
-    "isFree": true,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-06d5f79b9fe5"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [
-      "art-06d5f79b9fe5"
-    ],
-    "status": "unknown",
-    "verificationStatus": "verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-10-18T19:18:18.607Z",
-    "updatedAt": "2026-10-19T16:19:05.263Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "published"
-  },
-  {
     "id": "evt-f05524837a71",
     "slug": "e-f05524837a71",
     "title": "「サッポロ ＧＯＬＤ ＳＴＡＲ」「サッポロ 麦とホップ」新ジャンル（発泡酒２.）からビールへ品目変更",
@@ -8033,49 +7993,6 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
-  },
-  {
-    "id": "evt-514e3b59566b",
-    "slug": "e-514e3b59566b",
-    "title": "ホヤぼーやとハロウィンパーティ in 宝",
-    "description": "「ホヤぼーや」が東京・有楽町にやってくる! 気仙沼サンマやホヤ、地酒を楽しむハロウィンイベント開催",
-    "genres": [
-      "sake"
-    ],
-    "eventTypes": [
-      "other"
-    ],
-    "startAt": "2026-10-31T00:00:00+09:00",
-    "endAt": "2026-10-31T23:59:00+09:00",
-    "venue": {
-      "name": "酒蔵レストラン宝（東京国際フォーラム）",
-      "address": "東京都千代田区丸の内３丁目５−１",
-      "prefecture": "東京都",
-      "city": null,
-      "latitude": 35.676849,
-      "longitude": 139.76387
-    },
-    "organizer": null,
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "/images/events/evt-514e3b59566b.webp",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-514e3b59566b"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-10-22T20:29:56.335Z",
-    "updatedAt": "2026-10-23T09:01:51.891Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "published"
   },
   {
     "id": "evt-bd24947dcb92",
@@ -10144,12 +10061,14 @@
     "organizer": "石川酒造",
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": null,
+    "imageUrl": "/images/events/evt-80f71f7efb43.webp",
     "price": "無料",
     "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
-      "src-a1612dc36e06"
+      "src-a1612dc36e06",
+      "src-80f71f7efb43",
+      "src-240797640b76"
     ],
     "producerIds": [],
     "productIds": [],
@@ -10158,7 +10077,7 @@
     "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-29T21:36:44.059Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-20T19:30:59.432Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -11387,50 +11306,6 @@
     "publication": "hidden"
   },
   {
-    "id": "evt-80f71f7efb43",
-    "slug": "e-80f71f7efb43",
-    "title": "福生蔵開き",
-    "description": "福生市の老舗酒蔵2カ所で地酒を楽しめる蔵開きだ。鏡開きや新酒・限定酒の販売、酒造見学があり、2つの蔵を結ぶ無料シャトルバスも運行される。",
-    "genres": [
-      "sake"
-    ],
-    "eventTypes": [
-      "brewery_open_day",
-      "tour"
-    ],
-    "startAt": "2026-11-07T00:00:00+09:00",
-    "endAt": "2026-11-07T23:59:00+09:00",
-    "venue": {
-      "name": "石川酒造、田村酒造場",
-      "address": null,
-      "prefecture": "東京都",
-      "city": "福生市",
-      "latitude": null,
-      "longitude": null
-    },
-    "organizer": "実行委員会",
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "/images/events/evt-80f71f7efb43.webp",
-    "price": "無料",
-    "isFree": true,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-80f71f7efb43"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "partially_verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-11-02T23:51:59.095Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "published"
-  },
-  {
     "id": "evt-cbcc5d60a747",
     "slug": "e-cbcc5d60a747",
     "title": "5会場で過去最大級!?「第5回福生蔵開き」で福生市の地酒やクラフトビールを堪能、福生・拝島駅から無料バスで酒蔵巡り!(11/7開催)",
@@ -12075,50 +11950,6 @@
     "reservationRequired": null,
     "sourceIds": [
       "src-86797389d0ef"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "partially_verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-11-03T22:16:47.400Z",
-    "updatedAt": "2026-11-04T14:05:00.457Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "published"
-  },
-  {
-    "id": "evt-240797640b76",
-    "slug": "e-240797640b76",
-    "title": "第5回福生蔵開き",
-    "description": "福生市の2つの酒蔵で、酒蔵見学や限定酒の販売を通じて地元の酒造りに触れられる蔵開きだ。同じ日に周辺で商店会のまつり、子ども向けの催し、地ビールのフェスも開かれ、家族連れでも楽しめる。",
-    "genres": [
-      "sake"
-    ],
-    "eventTypes": [
-      "brewery_open_day",
-      "tour"
-    ],
-    "startAt": "2026-11-07T00:00:00+09:00",
-    "endAt": "2026-11-07T23:59:00+09:00",
-    "venue": {
-      "name": "田村酒造場、石川酒造",
-      "address": null,
-      "prefecture": "東京都",
-      "city": "福生市",
-      "latitude": null,
-      "longitude": null
-    },
-    "organizer": null,
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": null,
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-240797640b76"
     ],
     "producerIds": [],
     "productIds": [],
