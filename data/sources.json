@@ -15382,5 +15382,201 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-be7fa77f444b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000659.000021123.html",
+    "title": "YOSHIKI 、誕生日に故郷・千葉の復興支援チャリティーオークションを開催",
+    "publisher": "YOSHIKI PR事務局",
+    "publishedAt": "2026-11-20T15:36:57+09:00",
+    "fetchedAt": "2026-11-21T22:06:35.704Z",
+    "contentHash": "28296d403056fa184dc4a7dfa9872087b96821bc96970cd574b8eda66d361c81",
+    "relatedEventIds": [
+      "evt-be7fa77f444b"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": "千葉県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0ad5bedf2a76",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000132.000087017.html",
+    "title": "アルコールチェック忘れを\"乗った瞬間\"に防ぐ　アルキラーNEX新オプション「M/Tag」の紹介ウェビナーを12月3日に開催",
+    "publisher": "株式会社パイ・アール",
+    "publishedAt": "2026-11-20T09:30:02+09:00",
+    "fetchedAt": "2026-11-21T22:06:35.704Z",
+    "contentHash": "46723d0cbb84304118fb47da1780462c848794905f412cd20e52e1102f07611f",
+    "relatedEventIds": [
+      "evt-0ad5bedf2a76"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-21c346240b07",
+    "sourceType": "news",
+    "url": "https://www.fnn.jp/articles/-/1157123",
+    "title": "綾工芸まつりと綾蔵・蔵まつり始まる 44工房の染織物や木工品並び 焼酎の振る舞いも 宮崎・綾町",
+    "publisher": "FNNプライムオンライン",
+    "publishedAt": "2026-11-21T10:00:00.000Z",
+    "fetchedAt": "2026-11-21T22:06:35.704Z",
+    "contentHash": "91f313ed8b3913e0fef187a3574d898c1dd7560e471df16a7e35f7fd61e906e6",
+    "relatedEventIds": [
+      "evt-21c346240b07"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3de9cd6f6347",
+    "sourceType": "news",
+    "url": "https://www.hokkaido-np.co.jp/article/1412889/",
+    "title": "上川大雪酒造、10周年祝う蔵まつり開幕 上川町で限定酒の試飲やグルメ 22日も",
+    "publisher": "北海道新聞デジタル",
+    "publishedAt": "2026-11-21T08:30:39.000Z",
+    "fetchedAt": "2026-11-21T22:06:35.704Z",
+    "contentHash": "46f3fc8aca0b5aba5f46c5476b9fcc283a959beae7b7ca8fd0bab5cec49ab9e1",
+    "relatedEventIds": [
+      "evt-3de9cd6f6347"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "brewery_open_day",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-921ae8150674",
+    "sourceType": "news",
+    "url": "https://news.web.nhk/newsweb/na/nd-20261121de79617",
+    "title": "JR秋田駅前でワインの新酒とバーベキュー楽しむイベント",
+    "publisher": "NHKニュース",
+    "publishedAt": "2026-11-21T06:08:00.000Z",
+    "fetchedAt": "2026-11-21T22:06:35.704Z",
+    "contentHash": "bc59de466b2abb9560708594b0fd4b985a638bfcbede62c17943ef36880a1a8e",
+    "relatedEventIds": [
+      "evt-921ae8150674"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-89996caee079",
+    "sourceType": "news",
+    "url": "http://www.shonai-nippo.co.jp/cgi/ad/day.cgi?p=2026:11:22:16868",
+    "title": "科学って楽しい!! 実験やサイエンスショーにわくわく 酒東探究フェス",
+    "publisher": "荘内日報",
+    "publishedAt": "2026-11-21T04:52:58.000Z",
+    "fetchedAt": "2026-11-21T22:06:35.704Z",
+    "contentHash": "0da58f92bc1a5d820d8ae2aa4b2c564cbfce6112baf2defcad38f03ddefb94d5",
+    "relatedEventIds": [
+      "evt-89996caee079"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

@@ -12305,10 +12305,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-05T22:37:39.516Z",
-    "updatedAt": "2026-11-08T23:23:37.640Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-78facb6cb4ef",
@@ -19778,10 +19778,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-20T23:02:22.235Z",
-    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-a9a201f65adb",
@@ -20171,6 +20171,268 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-20T23:02:22.235Z",
     "updatedAt": "2026-11-20T23:02:22.235Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-be7fa77f444b",
+    "slug": "e-be7fa77f444b",
+    "title": "YOSHIKI 、誕生日に故郷・千葉の復興支援チャリティーオークションを開催",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-20T00:00:00+09:00",
+    "endAt": "2026-11-20T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "千葉県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/21123/659/21123-659-d45e0247046b7dadfa12c951a86ceb94-2500x1667.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-be7fa77f444b"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-0ad5bedf2a76",
+    "slug": "e-0ad5bedf2a76",
+    "title": "アルコールチェック忘れを\"乗った瞬間\"に防ぐ　アルキラーNEX新オプション「M/Tag」の紹介ウェビナーを12月3日に開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "seminar"
+    ],
+    "startAt": "2026-12-03T00:00:00+09:00",
+    "endAt": "2026-12-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/87017/132/87017-132-1ef65572e31b0a1452466a94ae2232ae-1600x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-0ad5bedf2a76"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-21c346240b07",
+    "slug": "e-21c346240b07",
+    "title": "綾工芸まつりと綾蔵・蔵まつり始まる 44工房の染織物や木工品並び 焼酎の振る舞いも 宮崎・綾町",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-23T00:00:00+09:00",
+    "endAt": "2026-11-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://fnn.ismcdn.jp/mwimgs/5/1/600/img_5137a5e8e2698caf98fbc508363e065348832.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-21c346240b07"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-3de9cd6f6347",
+    "slug": "e-3de9cd6f6347",
+    "title": "上川大雪酒造、10周年祝う蔵まつり開幕 上川町で限定酒の試飲やグルメ 22日も",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "tasting",
+      "brewery_open_day",
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-11-22T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://static.hokkaido-np.co.jp/image/article/size1/7/7/1/5/771525f6aca63dd40107f5097432563f_1.webp?20261122070413",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-3de9cd6f6347"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-921ae8150674",
+    "slug": "e-921ae8150674",
+    "title": "JR秋田駅前でワインの新酒とバーベキュー楽しむイベント",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-19T00:00:00+09:00",
+    "endAt": "2026-11-19T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79617/20261121de79617_E0000200347_1_l.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-921ae8150674"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-89996caee079",
+    "slug": "e-89996caee079",
+    "title": "科学って楽しい!! 実験やサイエンスショーにわくわく 酒東探究フェス",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-22T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-89996caee079"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-21T22:06:35.704Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

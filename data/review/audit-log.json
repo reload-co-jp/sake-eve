@@ -8119,5 +8119,45 @@
       "updatedAt"
     ],
     "note": "統合して削除: evt-e9fc5a6982a3（地の酒・地の味 まいもん祭り in 新橋）"
+  },
+  {
+    "at": "2026-11-21T22:06:35.704Z",
+    "collection": "events",
+    "id": "evt-9eb535fa4f02",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-21T22:06:35.704Z",
+    "collection": "events",
+    "id": "evt-cd5425feabac",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-21T22:06:35.704Z",
+    "collection": "events",
+    "id": "evt-be7fa77f444b",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-21T22:06:35.704Z",
+    "collection": "events",
+    "id": "evt-921ae8150674",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto: 開催終了"
   }
 ]
