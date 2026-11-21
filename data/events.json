@@ -16270,14 +16270,15 @@
       "longitude": 139.751663
     },
     "organizer": "DAISEN HAKKO PROJECT推進協議会",
-    "officialUrl": null,
+    "officialUrl": "https://maimonmatsurishinbashi.peatix.com",
     "ticketUrl": null,
     "imageUrl": "/images/events/evt-a0cdc55f7717.webp",
     "price": "前売5,000円",
     "isFree": false,
     "reservationRequired": true,
     "sourceIds": [
-      "src-a0cdc55f7717"
+      "src-a0cdc55f7717",
+      "src-e9fc5a6982a3"
     ],
     "producerIds": [],
     "productIds": [],
@@ -16286,7 +16287,7 @@
     "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-12T22:39:12.662Z",
-    "updatedAt": "2026-11-14T12:55:38.655Z",
+    "updatedAt": "2026-11-21T00:26:14.960Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -16560,10 +16561,13 @@
     "title": "蔵まつり",
     "description": "新酒の季節に合わせて毎秋開かれる蔵元の祭りで、本格芋焼酎や地酒、グルメを味わえる。焼酎の振る舞いや屋台、ステージの催しもあり、家族連れでも楽しめる。",
     "genres": [
-      "shochu"
+      "shochu",
+      "sake"
     ],
     "eventTypes": [
-      "festival"
+      "festival",
+      "seminar",
+      "tour"
     ],
     "startAt": "2026-11-21T00:00:00+09:00",
     "endAt": "2026-11-23T23:59:00+09:00",
@@ -16583,7 +16587,8 @@
     "isFree": null,
     "reservationRequired": null,
     "sourceIds": [
-      "src-0007ecfa8fc5"
+      "src-0007ecfa8fc5",
+      "src-7f5ae6a86cff"
     ],
     "producerIds": [],
     "productIds": [],
@@ -16592,7 +16597,7 @@
     "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-13T22:28:11.295Z",
-    "updatedAt": "2026-11-14T12:55:38.655Z",
+    "updatedAt": "2026-11-21T00:26:14.960Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -16713,7 +16718,8 @@
     "isFree": null,
     "reservationRequired": null,
     "sourceIds": [
-      "src-b6c8b5d7d4b6"
+      "src-b6c8b5d7d4b6",
+      "src-f333e488ae35"
     ],
     "producerIds": [],
     "productIds": [],
@@ -16722,7 +16728,7 @@
     "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-13T22:28:11.295Z",
-    "updatedAt": "2026-11-14T12:55:38.655Z",
+    "updatedAt": "2026-11-21T00:26:14.960Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
@@ -16899,50 +16905,6 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "hidden"
-  },
-  {
-    "id": "evt-f333e488ae35",
-    "slug": "e-f333e488ae35",
-    "title": "忠孝酒造 第25回秋祭り",
-    "description": "泡盛の蔵元が年に1度開く秋祭りで、泡盛「夢航海」の無料振る舞いや限定古酒の特別販売がある。忠孝焼5升甕が当たる抽選会のほか、飲食ブースやライブ演奏もあり、家族で楽しめる。",
-    "genres": [
-      "sake",
-      "awamori"
-    ],
-    "eventTypes": [
-      "festival"
-    ],
-    "startAt": "2026-11-21T00:00:00+09:00",
-    "endAt": "2026-11-22T23:59:00+09:00",
-    "venue": {
-      "name": "くぅーすの杜忠孝蔵",
-      "address": "豊見城市伊良波",
-      "prefecture": "沖縄県",
-      "city": "豊見城市",
-      "latitude": 26.172075,
-      "longitude": 127.666588
-    },
-    "organizer": "忠孝酒造",
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "https://imgopt.asahi.com/ogp/AS20261113003722_comm.jpg",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-f333e488ae35"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "partially_verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-11-14T21:11:20.402Z",
-    "updatedAt": "2026-11-20T15:37:52.949Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "pending"
   },
   {
     "id": "evt-1d1985104ec6",
@@ -17204,50 +17166,6 @@
     "dateOnly": true,
     "isSample": false,
     "publication": "published"
-  },
-  {
-    "id": "evt-e9fc5a6982a3",
-    "slug": "e-e9fc5a6982a3",
-    "title": "地の酒・地の味 まいもん祭り in 新橋",
-    "description": "鳥取の酒蔵やブルワリーが持ち寄った日本酒、地ビール、どぶろくを90分間飲み放題で飲み比べできる。地元の味覚を詰めたおつまみプレートが付き、景品が当たる企画も予定されている。",
-    "genres": [
-      "beer",
-      "sake"
-    ],
-    "eventTypes": [
-      "festival"
-    ],
-    "startAt": "2026-11-23T00:00:00+09:00",
-    "endAt": "2026-11-23T23:59:00+09:00",
-    "venue": {
-      "name": "とっとり・おかやま新橋館 2階",
-      "address": "東京都港区新橋1-11-7",
-      "prefecture": "東京都",
-      "city": "港区",
-      "latitude": 35.667454,
-      "longitude": 139.759262
-    },
-    "organizer": "DAISEN HAKKO PROJECT推進協議会",
-    "officialUrl": "https://maimonmatsurishinbashi.peatix.com",
-    "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/194611/1/194611-1-9e5d79dbf9cda32fe8c7d7810b5ba95d-1414x2000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-e9fc5a6982a3"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "partially_verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-20T15:37:52.949Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "pending"
   },
   {
     "id": "evt-a118c03eff1d",
@@ -18420,51 +18338,6 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
     "updatedAt": "2026-11-17T00:46:17.440Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "pending"
-  },
-  {
-    "id": "evt-7f5ae6a86cff",
-    "slug": "e-7f5ae6a86cff",
-    "title": "雲海酒造 綾蔵 蔵まつり 2026",
-    "description": "芋焼酎「木挽BLUE」と地酒「初御代」の振る舞いに加え、県内窯元の陶器市やキッチンカー、屋台が並ぶ蔵元の祭りだ。新酒と初登場の金ボトルのセット販売や、子ども向けのステージや体験コーナーもある。",
-    "genres": [
-      "sake"
-    ],
-    "eventTypes": [
-      "festival",
-      "seminar",
-      "tour"
-    ],
-    "startAt": "2026-11-21T00:00:00+09:00",
-    "endAt": "2026-11-23T23:59:00+09:00",
-    "venue": {
-      "name": "蔵元 綾 酒泉の杜、綾自然蔵見学館",
-      "address": "綾町南俣",
-      "prefecture": "宮崎県",
-      "city": "綾町",
-      "latitude": 31.994806,
-      "longitude": 131.240356
-    },
-    "organizer": "雲海酒造",
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "https://images.keizai.biz/miyazaki_keizai/headline/1794819936_photo.jpg",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-7f5ae6a86cff"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "partially_verified",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-20T15:37:52.949Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
