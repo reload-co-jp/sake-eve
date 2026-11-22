@@ -15578,5 +15578,103 @@
       "eventKeywordMatched": true,
       "duplicateCandidateIds": []
     }
+  },
+  {
+    "id": "src-9f6598399ad8",
+    "sourceType": "news",
+    "url": "https://www.minpo.jp/articles/-/278198",
+    "title": "野口英世博士の素顔に触れる 猪苗代で生誕150年祝うトークイベント 「お酒大好き」「お金にあまい」「人間くささ魅力」 大石邦子さんら語る",
+    "publisher": "福島民報",
+    "publishedAt": "2026-11-22T20:00:00.000Z",
+    "fetchedAt": "2026-11-22T22:22:45.965Z",
+    "contentHash": "323e4600dd7f851269fe4439d1727137b544556caab708b7e8f79933fa4f065c",
+    "relatedEventIds": [
+      "evt-9f6598399ad8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-716e07a8a7c8",
+    "sourceType": "news",
+    "url": "https://www.daily.co.jp/gossip/2026/11/23/0021063822.shtml",
+    "title": "玉袋筋太郎、本番前から酒1リットル!「町中華で飲ろうぜ」ファン交流イベントで激ヤバトーク 過激さ増し反省「かましすぎ」",
+    "publisher": "デイリースポーツ online",
+    "publishedAt": "2026-11-22T20:00:00.000Z",
+    "fetchedAt": "2026-11-22T22:22:45.965Z",
+    "contentHash": "6fdfe6b060d7196b134777fd91c8458a414885a1c2987979ee9263fa4a0e3dfa",
+    "relatedEventIds": [
+      "evt-716e07a8a7c8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-5d639116452a",
+    "sourceType": "news",
+    "url": "https://www.umk.co.jp/news/?date=20261121&id=35466",
+    "title": "綾工芸まつりと綾蔵・蔵まつり始まる 44工房の染織物や木工品並び 焼酎の振る舞いも 宮崎・綾町",
+    "publisher": "UMKテレビ宮崎",
+    "publishedAt": "2026-11-21T10:00:00.000Z",
+    "fetchedAt": "2026-11-22T22:22:45.965Z",
+    "contentHash": "a3cc3e2df8d90b9c15f2c22ab93879a2cceef9353e2756afbd9b01e1b81cd29c",
+    "relatedEventIds": [
+      "evt-5d639116452a"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "shochu"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-23",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-21c346240b07"
+      ]
+    }
   }
 ]

@@ -10210,10 +10210,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-10-29T21:36:44.059Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-8b793b3d50b2",
@@ -18473,10 +18473,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-20T15:30:32.034Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-7ea743e7a925",
@@ -18905,10 +18905,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T23:48:35.739Z",
-    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-de0c074ac33c",
@@ -19864,10 +19864,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-20T23:02:22.235Z",
-    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d1c24e6045ba",
@@ -20346,10 +20346,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-21T22:06:35.704Z",
-    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-921ae8150674",
@@ -20432,7 +20432,136 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-21T22:06:35.704Z",
-    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-9f6598399ad8",
+    "slug": "e-9f6598399ad8",
+    "title": "野口英世博士の素顔に触れる 猪苗代で生誕150年祝うトークイベント 「お酒大好き」「お金にあまい」「人間くささ魅力」 大石邦子さんら語る",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9f6598399ad8"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-22T22:22:45.965Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-716e07a8a7c8",
+    "slug": "e-716e07a8a7c8",
+    "title": "玉袋筋太郎、本番前から酒1リットル!「町中華で飲ろうぜ」ファン交流イベントで激ヤバトーク 過激さ増し反省「かましすぎ」",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": null,
+    "endAt": null,
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://i.daily.jp/gossip/2026/11/23/Images/f_21063823.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-716e07a8a7c8"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "unknown",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-22T22:22:45.965Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-5d639116452a",
+    "slug": "e-5d639116452a",
+    "title": "綾工芸まつりと綾蔵・蔵まつり始まる 44工房の染織物や木工品並び 焼酎の振る舞いも 宮崎・綾町",
+    "description": null,
+    "genres": [
+      "shochu"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-23T00:00:00+09:00",
+    "endAt": "2026-11-23T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://www.umk.co.jp/news/img/2026112135466.jpg?20261123072148",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-5d639116452a"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-22T22:22:45.965Z",
+    "updatedAt": "2026-11-22T22:22:45.965Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
