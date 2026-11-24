@@ -15676,5 +15676,108 @@
         "evt-21c346240b07"
       ]
     }
+  },
+  {
+    "id": "src-53c2d2a2b641",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000056.000053434.html",
+    "title": "11月29日「いい肉の日」は『肉と焼酎のふるさと 都城』でテゲバジャーロ宮崎とサガン鳥栖の九州ダービー！サイン入りグッズや宮崎牛・焼酎セットが当たる豪華抽選会、霧島酒造×サンAの日向夏限定カクテルも。",
+    "publisher": "霧島酒造株式会社",
+    "publishedAt": "2026-11-24T10:00:02+09:00",
+    "fetchedAt": "2026-11-24T03:14:20.253Z",
+    "contentHash": "839f4de58f20a99bcfebb676b9226a21218a966bf203b0ccc32a5b351c1221b1",
+    "relatedEventIds": [
+      "evt-53c2d2a2b641"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake",
+        "shochu",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "dateSource": "label",
+      "venueName": "KUROKIRI STADIUM(都城市山之口町花木2381番地4)",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9eaf1aa02113",
+    "sourceType": "news",
+    "url": "https://takamatsu.keizai.biz/headline/1666/",
+    "title": "丸亀町商店街で初の屋外フレンチマルシェ 新酒ワインやアートで仏文化発信",
+    "publisher": "高松経済新聞",
+    "publishedAt": "2026-11-23T01:33:27.000Z",
+    "fetchedAt": "2026-11-24T03:14:20.253Z",
+    "contentHash": "c94d89cf7f6fa163da8011a0972a2c588b76ef3bda61fd03bfdbb24dc8c9e62f",
+    "relatedEventIds": [
+      "evt-9eaf1aa02113"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "market"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9dd6bd1cdaf8",
+    "sourceType": "news",
+    "url": "https://omihachiman.keizai.biz/headline/217/",
+    "title": "近江八幡で地酒をテーマにしたイベント 「近江八幡の郷土食を知って」",
+    "publisher": "近江八幡経済新聞",
+    "publishedAt": "2026-11-23T01:23:24.000Z",
+    "fetchedAt": "2026-11-24T03:14:20.253Z",
+    "contentHash": "3c1ec55a40d94be6862419dc61fa502b96a287035e0cfac3f77f40b8dc5a6d29",
+    "relatedEventIds": [
+      "evt-9dd6bd1cdaf8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]

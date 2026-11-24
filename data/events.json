@@ -11478,10 +11478,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-02T23:51:59.095Z",
-    "updatedAt": "2026-11-03T02:40:35.970Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-eaaee73196b2",
@@ -18426,10 +18426,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-20T15:30:32.034Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-1fe4342e9f9f",
@@ -18517,10 +18517,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-20T15:30:32.034Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-a664f668e20d",
@@ -20299,10 +20299,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-21T22:06:35.704Z",
-    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-3de9cd6f6347",
@@ -20561,7 +20561,143 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-22T22:22:45.965Z",
-    "updatedAt": "2026-11-22T22:22:45.965Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-53c2d2a2b641",
+    "slug": "e-53c2d2a2b641",
+    "title": "11月29日「いい肉の日」は『肉と焼酎のふるさと 都城』でテゲバジャーロ宮崎とサガン鳥栖の九州ダービー！サイン入りグッズや宮崎牛・焼酎セットが当たる豪華抽選会、霧島酒造×サンAの日向夏限定カクテルも。",
+    "description": null,
+    "genres": [
+      "sake",
+      "shochu",
+      "cocktail"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-29T00:00:00+09:00",
+    "endAt": "2026-11-29T23:59:00+09:00",
+    "venue": {
+      "name": "KUROKIRI STADIUM(都城市山之口町花木2381番地4)",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/53434/56/53434-56-d5dd7cc6b35ed9bea17fb719d36e5070-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-53c2d2a2b641"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-24T03:14:20.253Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-9eaf1aa02113",
+    "slug": "e-9eaf1aa02113",
+    "title": "丸亀町商店街で初の屋外フレンチマルシェ 新酒ワインやアートで仏文化発信",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "market"
+    ],
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-21T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/takamatsu_keizai/headline/1795397611_photo.webp",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9eaf1aa02113"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-24T03:14:20.253Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "hidden"
+  },
+  {
+    "id": "evt-9dd6bd1cdaf8",
+    "slug": "e-9dd6bd1cdaf8",
+    "title": "近江八幡で地酒をテーマにしたイベント 「近江八幡の郷土食を知って」",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour",
+      "market"
+    ],
+    "startAt": "2026-11-28T00:00:00+09:00",
+    "endAt": "2026-11-28T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/omihachiman_keizai/headline/1795397163_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-9dd6bd1cdaf8"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-24T03:14:20.253Z",
+    "updatedAt": "2026-11-24T03:14:20.253Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
