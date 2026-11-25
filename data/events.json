@@ -19296,10 +19296,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-18T23:20:54.997Z",
-    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-ee74848aea56",
@@ -19951,10 +19951,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-20T23:02:22.235Z",
-    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-a36dfcd688fb",
@@ -20698,6 +20698,398 @@
     "lastVerifiedAt": null,
     "createdAt": "2026-11-24T03:14:20.253Z",
     "updatedAt": "2026-11-24T03:14:20.253Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6d933e1557a9",
+    "slug": "e-6d933e1557a9",
+    "title": "【阪神梅田本店】冬こそアイス！王道から『チーズオリーブオイル』や『味噌キャラメル』など個性派まで揃う、“冬アイス”の祭典がスタート",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-12-09T00:00:00+09:00",
+    "endAt": "2026-12-14T23:59:00+09:00",
+    "venue": {
+      "name": "阪神梅田本店 1階 食祭テラス",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/14431/3579/14431-3579-86d4e0887dca198aa2ca1d55a11e6f55-787x778.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6d933e1557a9"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-6b601e25ecf1",
+    "slug": "e-6b601e25ecf1",
+    "title": "【深谷市ニューオープン】『焼肉ホルモンたけ田 深谷店』が2026年11月26日(木)オープン！！名物牛タン×A5黒毛和牛×蛇口レモンサワーが5000円以下で腹パンに食べられるハイコスパ焼肉店",
+    "description": null,
+    "genres": [
+      "cocktail"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-26T00:00:00+09:00",
+    "endAt": "2026-12-15T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/73526/75/73526-75-dae7f679cd0fd30193fe6d17a6a82fe3-1425x1149.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-6b601e25ecf1"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e099327d1ac0",
+    "slug": "e-e099327d1ac0",
+    "title": "柏市特化の地域情報メディア「かしわっぷ」、好評につき第2回「飲食店レビュー投稿キャンペーン」を開催",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-28T00:00:00+09:00",
+    "endAt": "2027-01-11T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "千葉県柏市",
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "latitude": 35.867508,
+      "longitude": 139.975937
+    },
+    "organizer": null,
+    "officialUrl": "https://kashiwapp.com/media/kashiwa-restaurant-review-campaign-2/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/146400/24/146400-24-ce7304bffe5e3ec815cb69b8f43380f6-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e099327d1ac0"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-1f3ea19e75f8",
+    "slug": "e-1f3ea19e75f8",
+    "title": "阿倍野の街に、冬の海鮮フェスがやってきた！「出張牡蠣小屋 かき太鼓 あべのキューズモール店」が11月27日(金)冬季限定オープン！",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-11-27T00:00:00+09:00",
+    "endAt": "2027-03-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": "大阪府大阪市阿倍野区阿倍野筋1丁目6-1 あべのキューズモール 4階Qしば内",
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "latitude": 34.646053,
+      "longitude": 135.512772
+    },
+    "organizer": null,
+    "officialUrl": "https://kakidaiko.com/",
+    "ticketUrl": null,
+    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54560/110/54560-110-e282771dfb1538ae66354c184b0a008d-1240x1753.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-1f3ea19e75f8"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "unverified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-11ef85d35e91",
+    "slug": "e-11ef85d35e91",
+    "title": "神戸の学生に灘の酒アピール 三井住友銀行、神戸酒心館とイベント",
+    "description": null,
+    "genres": [
+      "wine",
+      "sake"
+    ],
+    "eventTypes": [
+      "tasting",
+      "tour"
+    ],
+    "startAt": "2027-07-01T00:00:00+09:00",
+    "endAt": "2027-07-01T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "兵庫県",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3924958024112026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.39&h=630&w=1200&s=0756dab20b86b88340a9e6dc4cccaeda",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-11ef85d35e91"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-8e610f738d99",
+    "slug": "e-8e610f738d99",
+    "title": "石和で屋外ワインイベント 笛吹のワイナリーや飲食店が出店",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "seminar",
+      "tour"
+    ],
+    "startAt": "2026-11-27T00:00:00+09:00",
+    "endAt": "2026-11-28T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/kofu_keizai/headline/1795514631_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-8e610f738d99"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-616477ad5250",
+    "slug": "e-616477ad5250",
+    "title": "高田馬場・西早稲田で「天下一葡萄会」 ワインで巡る飲食店周遊イベント",
+    "description": null,
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "festival",
+      "market"
+    ],
+    "startAt": "2026-12-20T00:00:00+09:00",
+    "endAt": "2026-12-20T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://images.keizai.biz/takadanobaba_keizai/headline/1795490270_photo.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-616477ad5250"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-e61e79596d71",
+    "slug": "e-e61e79596d71",
+    "title": "東映太秦映画村「大人限定の夜祭り」開催決定 雪化粧・賭場・忠臣蔵×日本酒飲み放題【12月12日・13日/概要】",
+    "description": null,
+    "genres": [
+      "sake"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-12-12T00:00:00+09:00",
+    "endAt": "2026-12-13T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://contents.oricon.co.jp/upimg/news/2495000/2494902/20261124_164224_p_o_12499796.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-e61e79596d71"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "pending"
+  },
+  {
+    "id": "evt-87bee6702d92",
+    "slug": "e-87bee6702d92",
+    "title": "純烈リーダー酒井一圭が恐れていた「紅白落選」…日刊ゲンダイ大阪45周年イベントで明かした本音",
+    "description": null,
+    "genres": [
+      "other"
+    ],
+    "eventTypes": [
+      "festival"
+    ],
+    "startAt": "2026-12-03T00:00:00+09:00",
+    "endAt": "2026-12-03T23:59:00+09:00",
+    "venue": {
+      "name": null,
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "latitude": null,
+      "longitude": null
+    },
+    "organizer": null,
+    "officialUrl": null,
+    "ticketUrl": null,
+    "imageUrl": "https://jmqvqzo7.user.webaccel.jp/img/article/000/395/919/2029080b298225c22c0d0e1e92e3254d20261123000926140.jpg",
+    "price": null,
+    "isFree": null,
+    "reservationRequired": null,
+    "sourceIds": [
+      "src-87bee6702d92"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "needs_review",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-25T01:20:05.135Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
