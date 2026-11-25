@@ -18310,8 +18310,8 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-16T00:00:00+09:00",
+    "endAt": "2026-11-16T23:59:00+09:00",
     "venue": {
       "name": null,
       "address": null,
@@ -18320,7 +18320,7 @@
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "東京都",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://s.mxtv.jp/mxnews/rss/thumb560/thumb_vucx2zaa3xwlhwy8.jpg",
@@ -18333,14 +18333,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T00:46:17.440Z",
-    "updatedAt": "2026-11-17T00:46:17.440Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6c0a61636229",
@@ -18924,14 +18924,14 @@
     "startAt": null,
     "endAt": null,
     "venue": {
-      "name": null,
+      "name": "東急ホテル",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "秋田屋",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.chukei-news.co.jp/images/20261117_204735_19839.jpg",
@@ -18948,10 +18948,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T23:48:35.739Z",
-    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d9d90f2a9f05",
@@ -18964,17 +18964,17 @@
     "eventTypes": [
       "brewery_open_day"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-14T00:00:00+09:00",
+    "endAt": "2026-11-14T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "神戸酒心館",
+      "address": "神戸市東灘区",
       "prefecture": "兵庫県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "神戸市東灘区",
+      "latitude": 34.720211,
+      "longitude": 135.265671
     },
-    "organizer": null,
+    "organizer": "神戸酒心館",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://www.sankei.com/resizer/v2/YYFK7WFDWRJCZKINUYZ5U3GZM4.jpg?auth=65a593d8252017fc812c19b009fab14879fab0a6407e0b4c6980de1d593201b8&quality=50&focal=2056%2C1391&width=1200&height=675",
@@ -18987,14 +18987,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-17T23:48:35.739Z",
-    "updatedAt": "2026-11-17T23:48:35.739Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-52ddf551b714",
@@ -19093,12 +19093,12 @@
     "eventTypes": [
       "festival"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-19T00:00:00+09:00",
+    "endAt": "2026-11-19T23:59:00+09:00",
     "venue": {
       "name": null,
       "address": null,
-      "prefecture": null,
+      "prefecture": "東京都",
       "city": null,
       "latitude": null,
       "longitude": null
@@ -19116,14 +19116,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-18T23:20:54.997Z",
-    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-0e2075e95555",
@@ -19172,8 +19172,8 @@
   {
     "id": "evt-51719f500ff1",
     "slug": "e-51719f500ff1",
-    "title": "ラーメン県そば王国 酒田でフェスタ 1月23日開催 多彩なラーメン・そば5種 地酒やスイーツも",
-    "description": null,
+    "title": "『ラーメン県そば王国』フェスタｉｎさかた",
+    "description": "山形県のラーメンとそばの魅力を発信する冬の食フェスで、鴨ラーメンや尾花沢そばなど5種の麺を食べ比べできる。地元の日本酒やクラフトビール、スイーツも楽しめ、高校生と連携したワニエソのラーメンも数量限定で登場する。",
     "genres": [
       "sake"
     ],
@@ -19183,20 +19183,20 @@
     "startAt": "2027-01-23T00:00:00+09:00",
     "endAt": "2027-01-23T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "ホテルリッチ＆ガーデン酒田",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "山形県",
+      "city": "酒田市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "『ラーメン県そば王国』フェスタｉｎさかた実行委員会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
-    "price": null,
+    "price": "チケット2,000円（前売10枚・当日8枚つづり）",
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": false,
     "sourceIds": [
       "src-51719f500ff1"
     ],
@@ -19204,13 +19204,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-18T23:20:54.997Z",
-    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-7f774797d32b",
@@ -19304,30 +19304,30 @@
   {
     "id": "evt-ee74848aea56",
     "slug": "e-ee74848aea56",
-    "title": "約24種類の日本酒を飲み比べ!コピス吉祥寺で「SAKE FES」21日より開催",
-    "description": null,
+    "title": "SAKE FES2026 by KEG DRAFT vol.3",
+    "description": "全国から集めた約24種類の日本酒を、鮮度を保つKEG DRAFTシステムによるフレッシュな味わいで飲み比べられる。樽から自分で注ぐ体験や、日本酒に合う料理・おつまみの出店も楽しめる。",
     "genres": [
       "sake"
     ],
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "コピス吉祥寺 A館3階 GREENING広場",
       "address": null,
       "prefecture": null,
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "コピス吉祥寺",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": null,
-    "price": null,
-    "isFree": null,
+    "price": "入場無料（飲食は有料）",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-ee74848aea56"
@@ -19335,20 +19335,20 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-18T23:20:54.997Z",
-    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-e15c214676cc",
     "slug": "e-e15c214676cc",
-    "title": "愛知・名古屋東急ホテルに世界各国のワインが集結 名古屋最大級のワイン試飲会『2027 リカマンワインフェスタ in NAGOYA』が開催",
-    "description": null,
+    "title": "2027 リカマンワインフェスタ in NAGOYA",
+    "description": "日本ワインや世界各国のワイナリーが出品する約500アイテムを、約80のブースで無料試飲できる大規模なワイン試飲会だ。高級シャンパーニュの出品や特別価格の即売、限定福袋の販売、来場者参加型の企画も用意される。",
     "genres": [
       "wine"
     ],
@@ -19359,22 +19359,65 @@
     "startAt": "2027-03-14T00:00:00+09:00",
     "endAt": "2027-03-14T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "名古屋東急ホテル3F「ヴェルサイユの間」",
+      "address": "愛知県名古屋市中区栄4-6-8 名古屋東急ホテル3階",
       "prefecture": "愛知県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "名古屋市",
+      "latitude": 35.169209,
+      "longitude": 136.913788
+    },
+    "organizer": "リカーマウンテン",
+    "officialUrl": "http://likaman.co.jp/event/winefesta/",
+    "ticketUrl": null,
+    "imageUrl": null,
+    "price": "前売3,500円〜",
+    "isFree": false,
+    "reservationRequired": false,
+    "sourceIds": [
+      "src-e15c214676cc"
+    ],
+    "producerIds": [],
+    "productIds": [],
+    "articleIds": [],
+    "status": "scheduled",
+    "verificationStatus": "partially_verified",
+    "lastVerifiedAt": null,
+    "createdAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
+    "dateOnly": true,
+    "isSample": false,
+    "publication": "published"
+  },
+  {
+    "id": "evt-200d93439214",
+    "slug": "e-200d93439214",
+    "title": "黄昏ワインバル",
+    "description": "伊勢市近郊のフレンチやイタリアンなど10店が商店街に集まり、松阪牛やジビエ、魚介といった地元食材の料理を出す。ボージョレ・ヌーボー解禁に合わせ、さまざまな銘柄のワインと料理を一緒に味わえる。",
+    "genres": [
+      "wine"
+    ],
+    "eventTypes": [
+      "other"
+    ],
+    "startAt": "2026-11-20T00:00:00+09:00",
+    "endAt": "2026-11-20T23:59:00+09:00",
+    "venue": {
+      "name": "高柳商店街",
+      "address": "三重県伊勢市",
+      "prefecture": "三重県",
+      "city": "伊勢市",
+      "latitude": 34.487492,
+      "longitude": 136.709335
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
-    "imageUrl": null,
-    "price": null,
+    "imageUrl": "https://www.isenp.co.jp/wp-content/uploads/2026/11/54880e1692b7e32f18623bf0a7e605a1.jpg",
+    "price": "前売2,000円",
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": false,
     "sourceIds": [
-      "src-e15c214676cc"
+      "src-200d93439214"
     ],
     "producerIds": [],
     "productIds": [],
@@ -19383,53 +19426,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-18T23:20:54.997Z",
-    "updatedAt": "2026-11-18T23:20:54.997Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
-  },
-  {
-    "id": "evt-200d93439214",
-    "slug": "e-200d93439214",
-    "title": "「ワインバル」20日開催 伊勢の高柳商店街で 「ボージョレ」解禁に合わせ",
-    "description": null,
-    "genres": [
-      "wine"
-    ],
-    "eventTypes": [
-      "other"
-    ],
-    "startAt": null,
-    "endAt": null,
-    "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
-    },
-    "organizer": null,
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "https://www.isenp.co.jp/wp-content/uploads/2026/11/54880e1692b7e32f18623bf0a7e605a1.jpg",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-200d93439214"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "unknown",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-11-18T23:20:54.997Z",
-    "updatedAt": "2026-11-18T23:20:54.997Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-e6720f26bb59",
@@ -19445,20 +19445,20 @@
     "startAt": "2026-12-03T00:00:00+09:00",
     "endAt": "2026-12-03T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "丸文株式会社 本社ビル5階 セミナールーム",
+      "address": "東京都中央区日本橋大伝馬町8-1",
+      "prefecture": "東京都",
+      "city": "中央区",
+      "latitude": 35.69009,
+      "longitude": 139.77919
     },
-    "organizer": null,
+    "organizer": "丸文株式会社、SentinelOne",
     "officialUrl": "https://www.marubun.co.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/166754/154/166754-154-6655aff57b739ca3cf485a5437c3c963-1377x370.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "無料",
+    "isFree": true,
+    "reservationRequired": true,
     "sourceIds": [
       "src-e6720f26bb59"
     ],
@@ -19469,16 +19469,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
-    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-10fe5a2c9511",
     "slug": "e-10fe5a2c9511",
-    "title": "ボージョレ・ヌーボー解禁 箱根ユネッサンで名物ワイン風呂を楽しむイベント開催",
-    "description": null,
+    "title": "ボージョレ・ヌーボー解禁 ワイン風呂イベント",
+    "description": "ボージョレ・ヌーボーの解禁を祝い、新酒を注いだ露天風呂に入れる箱根の恒例イベントだ。湯につかりながら、ソムリエが提供するフルーティーな新酒の試飲も楽しめる。",
     "genres": [
       "wine"
     ],
@@ -19488,7 +19488,7 @@
     "startAt": null,
     "endAt": null,
     "venue": {
-      "name": null,
+      "name": "箱根小涌園ユネッサン",
       "address": null,
       "prefecture": null,
       "city": null,
@@ -19512,7 +19512,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
-    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -19520,21 +19520,21 @@
   {
     "id": "evt-f750bf78910c",
     "slug": "e-f750bf78910c",
-    "title": "【八戸市乾杯条例】21日に制定記念イベント マチニワ会場「地酒と食を愉しむ夕べ」",
-    "description": null,
+    "title": "八戸の地酒と食を愉しむ夕べ2026",
+    "description": "八戸市の乾杯条例の制定を記念して初めて開かれる催しだ。地元の地酒や地ビール、ワインと八戸の食を味わえる。",
     "genres": [
       "sake"
     ],
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-21T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "マチニワ",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "青森県",
+      "city": "八戸市",
       "latitude": null,
       "longitude": null
     },
@@ -19551,14 +19551,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
-    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-7ce3113086a9",
@@ -19571,13 +19571,13 @@
     "eventTypes": [
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-19T00:00:00+09:00",
+    "endAt": "2026-11-19T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "箱根小涌園ユネッサン",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "神奈川県",
+      "city": "箱根町",
       "latitude": null,
       "longitude": null
     },
@@ -19594,20 +19594,20 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
-    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-50108f8a7595",
     "slug": "e-50108f8a7595",
-    "title": "「遠野どべっこ祭り」11月28日から開催へ 生の濁り酒や郷土料理を堪能 岩手県",
-    "description": null,
+    "title": "遠野どべっこ祭り",
+    "description": "遠野の造り酒屋が仕込んだ生の濁り酒「どべっこ」を、ヤマメの甘露煮やひっつみなどの郷土料理とともに味わえる。語り部の昔話や神楽などの郷土芸能も楽しめる。",
     "genres": [
       "other"
     ],
@@ -19618,10 +19618,10 @@
     "startAt": "2026-11-28T00:00:00+09:00",
     "endAt": "2026-11-28T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "遠野ふるさと村",
       "address": null,
       "prefecture": "岩手県",
-      "city": null,
+      "city": "遠野市",
       "latitude": null,
       "longitude": null
     },
@@ -19631,7 +19631,7 @@
     "imageUrl": "https://fnn.ismcdn.jp/mwimgs/d/5/600/img_d5fdda9bec5545d1a333482b27e46c7c256330.jpg",
     "price": null,
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": true,
     "sourceIds": [
       "src-50108f8a7595"
     ],
@@ -19639,13 +19639,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
-    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-502f1b00427e",
@@ -19663,14 +19663,14 @@
     "startAt": null,
     "endAt": null,
     "venue": {
-      "name": null,
+      "name": "東京国際フォーラム・ホールE",
       "address": null,
       "prefecture": "東京都",
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "ウイスキー文化研究所",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://jcbls.com/views/78e09d3c90/images/chatlogo1.jpg",
@@ -19687,16 +19687,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
-    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-cae1c4f82aa1",
     "slug": "e-cae1c4f82aa1",
-    "title": "栃木ワインと牧場チーズが出会うフェス 21~23日、那須千本松牧場",
-    "description": null,
+    "title": "栃木ワイン×牧場チーズフェス",
+    "description": "栃木県内の若手生産者5人が造る県産ワインと、那須千本松牧場の手作りチーズを組み合わせて味わえる初のフェスだ。ワインの無料試飲やグラス販売のほか、チーズ料理の提供や造り手によるトークセッションもある。",
     "genres": [
       "wine"
     ],
@@ -19704,17 +19704,17 @@
       "festival",
       "tasting"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "那須千本松牧場",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "栃木県",
+      "city": "那須塩原市",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "那須千本松牧場",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://soon.ismcdn.jp/mwimgs/8/f/1200wm/img_8f54014b3fc82a5b812feaf846681200148558.jpg",
@@ -19727,14 +19727,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-19T23:28:16.942Z",
-    "updatedAt": "2026-11-19T23:28:16.942Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-cd5425feabac",
@@ -19786,8 +19786,8 @@
   {
     "id": "evt-a9a201f65adb",
     "slug": "e-a9a201f65adb",
-    "title": "ポルトガル産や県産などワインの魅力を気軽に味わって「秋のワインマルシェ」22日までの開催《長崎》",
-    "description": null,
+    "title": "AMUよか酒ひろば ～秋のワインマルシェ～",
+    "description": "ポルトガルの本格赤ワインや五島産ブドウを使った県産白ワインなど、多彩なワインをグラスで気軽に味わえるマルシェだ。ポルトガルの本場のおつまみを楽しめるブースもあり、現地流のワインとつまみの組み合わせを体験できる。",
     "genres": [
       "wine"
     ],
@@ -19797,10 +19797,10 @@
     "startAt": null,
     "endAt": null,
     "venue": {
-      "name": null,
+      "name": "アミュプラザ長崎かもめ広場",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "長崎県",
+      "city": "長崎市",
       "latitude": null,
       "longitude": null
     },
@@ -19821,7 +19821,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-20T23:02:22.235Z",
-    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -20134,8 +20134,8 @@
   {
     "id": "evt-64129b5ba20f",
     "slug": "e-64129b5ba20f",
-    "title": "【週末おでかけ情報】21~23日 白河で「日本酒まみれ」、浪江で十日市祭、南会津で八十里マーケット",
-    "description": null,
+    "title": "全国日本酒まみれ",
+    "description": "全国各地の日本酒が一堂にそろい、さまざまな銘柄に触れられる催しである。地域を越えて日本酒の多彩な味わいを知ることができる。",
     "genres": [
       "sake"
     ],
@@ -20143,13 +20143,13 @@
       "festival",
       "market"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-21T00:00:00+09:00",
+    "endAt": "2026-11-23T23:59:00+09:00",
     "venue": {
       "name": null,
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "福島県",
+      "city": "白河市",
       "latitude": null,
       "longitude": null
     },
@@ -20166,14 +20166,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-20T23:02:22.235Z",
-    "updatedAt": "2026-11-20T23:02:22.235Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-be7fa77f444b",
@@ -20232,20 +20232,20 @@
     "startAt": "2026-12-03T00:00:00+09:00",
     "endAt": "2026-12-03T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "オンライン（ZOOM）",
       "address": null,
       "prefecture": null,
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "株式会社パイ・アール",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/87017/132/87017-132-1ef65572e31b0a1452466a94ae2232ae-1600x800.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "無料",
+    "isFree": true,
+    "reservationRequired": true,
     "sourceIds": [
       "src-0ad5bedf2a76"
     ],
@@ -20256,10 +20256,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-21T22:06:35.704Z",
-    "updatedAt": "2026-11-21T22:06:35.704Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-21c346240b07",
@@ -20451,10 +20451,10 @@
     "startAt": null,
     "endAt": null,
     "venue": {
-      "name": null,
+      "name": "レイクサイドホテルみなとや",
       "address": null,
       "prefecture": null,
-      "city": null,
+      "city": "猪苗代町",
       "latitude": null,
       "longitude": null
     },
@@ -20475,10 +20475,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-22T22:22:45.965Z",
-    "updatedAt": "2026-11-22T22:22:45.965Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-716e07a8a7c8",
@@ -20491,10 +20491,10 @@
     "eventTypes": [
       "other"
     ],
-    "startAt": null,
-    "endAt": null,
+    "startAt": "2026-11-22T00:00:00+09:00",
+    "endAt": "2026-11-22T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "ららぽーと名古屋みなとアクルス",
       "address": null,
       "prefecture": null,
       "city": null,
@@ -20514,14 +20514,14 @@
     "producerIds": [],
     "productIds": [],
     "articleIds": [],
-    "status": "unknown",
+    "status": "scheduled",
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-22T22:22:45.965Z",
-    "updatedAt": "2026-11-22T22:22:45.965Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-5d639116452a",
@@ -20569,8 +20569,8 @@
   {
     "id": "evt-53c2d2a2b641",
     "slug": "e-53c2d2a2b641",
-    "title": "11月29日「いい肉の日」は『肉と焼酎のふるさと 都城』でテゲバジャーロ宮崎とサガン鳥栖の九州ダービー！サイン入りグッズや宮崎牛・焼酎セットが当たる豪華抽選会、霧島酒造×サンAの日向夏限定カクテルも。",
-    "description": null,
+    "title": "LET'S 黒ッキリボ～～～ル杯",
+    "description": "J2のテゲバジャーロ宮崎対サガン鳥栖戦に合わせ、特設ブースで霧島焼酎やKIRISHIMA BEER、日向夏を使った限定カクテルを味わえる。一定額以上の購入で宮崎牛と焼酎のセットなどが当たる抽選会もある。",
     "genres": [
       "sake",
       "shochu",
@@ -20583,13 +20583,13 @@
     "endAt": "2026-11-29T23:59:00+09:00",
     "venue": {
       "name": "KUROKIRI STADIUM(都城市山之口町花木2381番地4)",
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "address": "都城市山之口町花木2381番地4",
+      "prefecture": "宮崎県",
+      "city": "都城市",
+      "latitude": 31.776566,
+      "longitude": 131.165207
     },
-    "organizer": null,
+    "organizer": "霧島酒造株式会社",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/53434/56/53434-56-d5dd7cc6b35ed9bea17fb719d36e5070-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -20603,13 +20603,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-24T03:14:20.253Z",
-    "updatedAt": "2026-11-24T03:14:20.253Z",
+    "updatedAt": "2026-11-25T09:17:00.121Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-9eaf1aa02113",

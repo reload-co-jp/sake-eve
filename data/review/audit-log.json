@@ -8299,5 +8299,478 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-b09784846224",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-b09784846224",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 東京都が11月16日に開催したアルコール問題啓発イベントの開催報告であり、すでに終了しているうえ、お酒を楽しむイベントでもないため。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-de0c074ac33c",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-de0c074ac33c",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 「開催」「にぎわう」とあり、すでに終わったイベントの開催報告記事であるため。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-d9d90f2a9f05",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.address, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-d9d90f2a9f05",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 11月14日にすでに開催された蔵開きの様子を伝える開催報告記事であるため、これから開催されるイベントには当たらない。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-0a62c3135423",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.prefecture）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-0a62c3135423",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 銀座のワインショップで行われたボージョレ・ヌーボー解禁イベントの様子を伝える報道記事で、これから参加者を募集するイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-51719f500ff1",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture, venue.city, price, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-51719f500ff1",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-ee74848aea56",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-ee74848aea56",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-e15c214676cc",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree, reservationRequired, officialUrl, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-e15c214676cc",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-200d93439214",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "price",
+      "reservationRequired"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.address, venue.prefecture, venue.city, price, reservationRequired）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-200d93439214",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-e6720f26bb59",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-e6720f26bb59",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: AIセキュリティをテーマにした企業向けのビジネスセミナーであり、カクテルレセプションはあるもののお酒を主題としたイベントではないため。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-10fe5a2c9511",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-f750bf78910c",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-f750bf78910c",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-7ce3113086a9",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-7ce3113086a9",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 11月19日に始まったボージョレ・ヌーボー風呂と当日の試飲会の様子を伝える開催報告記事であり、これから参加できるイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-50108f8a7595",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "reservationRequired"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.city, reservationRequired）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-50108f8a7595",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-502f1b00427e",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-502f1b00427e",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年11月6・7日にすでに開催されたウイスキーフェスティバルの開催報告記事であり、これから開催されるイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-cae1c4f82aa1",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.name, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-cae1c4f82aa1",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-a9a201f65adb",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-64129b5ba20f",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, startAt, endAt, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-64129b5ba20f",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 開催終了"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-0ad5bedf2a76",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-0ad5bedf2a76",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: アルコールチェックシステムの新機能を紹介する企業向けウェビナーであり、お酒を楽しむイベントではない。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-9f6598399ad8",
+    "action": "update",
+    "changedFields": [
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.city）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-9f6598399ad8",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 11月9日にすでに開かれた野口英世生誕150年記念トークイベントの開催報告で、これから開催されるお酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-716e07a8a7c8",
+    "action": "update",
+    "changedFields": [
+      "startAt",
+      "endAt",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（startAt, endAt, venue.name）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-716e07a8a7c8",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年11月22日にすでに開催されたファン交流イベントの様子を伝える開催報告記事であり、これから開催されるイベントではない。"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-53c2d2a2b641",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-25T09:17:00.121Z",
+    "collection": "events",
+    "id": "evt-53c2d2a2b641",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
   }
 ]

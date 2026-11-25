@@ -2198,5 +2198,341 @@
     ],
     "todo": [],
     "rejected": []
+  },
+  {
+    "eventId": "evt-b09784846224",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "東京都が11月16日に開催したアルコール問題啓発イベントの開催報告であり、すでに終了しているうえ、お酒を楽しむイベントでもないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-de0c074ac33c",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "「開催」「にぎわう」とあり、すでに終わったイベントの開催報告記事であるため。",
+    "filled": [
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-d9d90f2a9f05",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "11月14日にすでに開催された蔵開きの様子を伝える開催報告記事であるため、これから開催されるイベントには当たらない。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0a62c3135423",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "銀座のワインショップで行われたボージョレ・ヌーボー解禁イベントの様子を伝える報道記事で、これから参加者を募集するイベントの告知ではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.prefecture"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-51719f500ff1",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "published",
+    "reason": "一般客が参加できる来年1月開催の食のフェスで、地元の日本酒やクラフトビールも提供されるため、これから開催されるお酒を楽しめるイベントと判断した。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-ee74848aea56",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e15c214676cc",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "published",
+    "reason": "一般来場者が入場券を購入して参加でき、2027年3月に開催予定のワイン試飲会であるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "officialUrl",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-200d93439214",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "reservationRequired"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e6720f26bb59",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "AIセキュリティをテーマにした企業向けのビジネスセミナーであり、カクテルレセプションはあるもののお酒を主題としたイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-10fe5a2c9511",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "pending",
+    "reason": "箱根小涌園ユネッサンで一般の来場者がワイン風呂とボージョレ・ヌーボーの試飲を楽しむイベントで、配信時点では23日まで開催中だったため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name"
+    ],
+    "todo": [
+      "開催日",
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-f750bf78910c",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-7ce3113086a9",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "11月19日に始まったボージョレ・ヌーボー風呂と当日の試飲会の様子を伝える開催報告記事であり、これから参加できるイベントの告知ではないため。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-50108f8a7595",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "published",
+    "reason": "一般の人が予約して参加できる、これから開催されるどぶろくと郷土料理のイベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.city",
+      "reservationRequired"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-502f1b00427e",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "2026年11月6・7日にすでに開催されたウイスキーフェスティバルの開催報告記事であり、これから開催されるイベントの告知ではないため。",
+    "filled": [
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": [
+      "startDate"
+    ]
+  },
+  {
+    "eventId": "evt-cae1c4f82aa1",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-a9a201f65adb",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "pending",
+    "reason": "アミュプラザ長崎で一般客がグラス単位でワインを楽しめる開催中の試飲・販売イベントで、配信時点では会期中だったため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [
+      "開催日"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-64129b5ba20f",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "開催終了",
+    "filled": [
+      "title",
+      "description",
+      "startAt",
+      "endAt",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-0ad5bedf2a76",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "アルコールチェックシステムの新機能を紹介する企業向けウェビナーであり、お酒を楽しむイベントではない。",
+    "filled": [
+      "venue.name",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-9f6598399ad8",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "11月9日にすでに開かれた野口英世生誕150年記念トークイベントの開催報告で、これから開催されるお酒のイベントではないため。",
+    "filled": [
+      "venue.name",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": [
+      "startDate"
+    ]
+  },
+  {
+    "eventId": "evt-716e07a8a7c8",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "hidden",
+    "reason": "2026年11月22日にすでに開催されたファン交流イベントの様子を伝える開催報告記事であり、これから開催されるイベントではない。",
+    "filled": [
+      "startAt",
+      "endAt",
+      "venue.name"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-53c2d2a2b641",
+    "reviewedAt": "2026-11-25T09:17:00.121Z",
+    "decision": "published",
+    "reason": "J2リーグの試合会場に霧島焼酎やクラフトビール、限定カクテルを提供する特設ブースが出店し、一般の来場者が参加できる今後開催のスポンサーマッチであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
   }
 ]
