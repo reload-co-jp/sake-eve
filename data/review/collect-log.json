@@ -2321,5 +2321,51 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-11-26T00:50:29.095Z",
+    "finishedAt": "2026-11-26T00:58:24.859Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得30件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "ok",
+        "items": 30,
+        "message": "検索ヒット603件 / 未取得528件 / 候補372件 / 詳細取得30件 / 次回へ繰越342件"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 https://tetsudo-ch.com/13045594.html: アクセス制限 (HTTP 403) のため中止: https://tetsudo-ch.com/13045594.html / 詳細取得失敗 https://www.kochinews.co.jp/article/detail/1068900: アクセス制限 (HTTP 403) のため中止: https://www.kochinews.co.jp/article/detail/1068900 / 詳細取得失敗 https://yama.minato-yamaguchi.co.jp/e-yama/articles/113583: アクセス制限 (HTTP 403) のため中止: https://yama.minato-yamaguchi.co.jp/e-yama/articles/113583 / 詳細取得失敗 https://www.rti.org.tw/jp/news?uid=3&pid=1053247: アクセス制限 (HTTP 403) のため中止: https://www.rti.org.tw/jp/news?uid=3&pid=1053247 / 詳細取得26件 / 失敗4件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 330,
+      "irrelevant": 291,
+      "duplicateUrl": 5,
+      "added": 34,
+      "needsReview": 24,
+      "autoPublished": 5,
+      "duplicateCandidates": 6,
+      "autoHidden": 12,
+      "autoReviewed": 0,
+      "summarized": 0,
+      "geocoded": 16
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]
