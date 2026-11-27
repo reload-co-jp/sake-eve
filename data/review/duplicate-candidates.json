@@ -315,5 +315,69 @@
       "similar_title"
     ],
     "detectedAt": "2026-11-26T00:57:30.579Z"
+  },
+  {
+    "eventId": "evt-38f3581eb93f",
+    "candidateEventId": "evt-79f3cb10ba23",
+    "score": 0.87,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-11-27T01:03:31.428Z"
+  },
+  {
+    "eventId": "evt-2808a5690d47",
+    "candidateEventId": "evt-82517aecb9bc",
+    "score": 0.73,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-11-27T01:03:31.428Z"
+  },
+  {
+    "eventId": "evt-1a51127c579b",
+    "candidateEventId": "evt-2808a5690d47",
+    "score": 0.58,
+    "reasons": [
+      "same_start_date"
+    ],
+    "detectedAt": "2026-11-27T01:03:31.428Z"
+  },
+  {
+    "eventId": "evt-6e891eae88d6",
+    "candidateEventId": "evt-c4465401c2c9",
+    "score": 0.83,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-11-27T01:03:31.428Z"
+  },
+  {
+    "eventId": "evt-9d31d8654639",
+    "candidateEventId": "evt-c4465401c2c9",
+    "score": 0.7,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-11-27T01:03:31.428Z"
+  },
+  {
+    "eventId": "evt-9d31d8654639",
+    "candidateEventId": "evt-6e891eae88d6",
+    "score": 0.68,
+    "reasons": [
+      "similar_title",
+      "same_start_date"
+    ],
+    "detectedAt": "2026-11-27T01:03:31.428Z"
+  },
+  {
+    "eventId": "evt-35cc0c3b9596",
+    "candidateEventId": "evt-211ee7a85519",
+    "score": 0.61,
+    "reasons": [
+      "similar_title"
+    ],
+    "detectedAt": "2026-11-27T01:03:31.428Z"
   }
 ]
