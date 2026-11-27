@@ -9584,5 +9584,18 @@
       "organizer"
     ],
     "note": "auto-review: 出典から入力（title, description, venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-27T10:09:28.905Z",
+    "collection": "events",
+    "id": "evt-c65e941b20bb",
+    "action": "merge",
+    "changedFields": [
+      "genres",
+      "eventTypes",
+      "sourceIds",
+      "updatedAt"
+    ],
+    "note": "統合して削除: evt-45e650e2803d（今日は、ローストビーフにしよう。～ごちそうを、もっと身近に。～）"
   }
 ]

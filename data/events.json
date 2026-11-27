@@ -21543,10 +21543,12 @@
     "description": "伊藤ハムの国産黒毛和牛ローストビーフを気軽に味わえる期間限定のポップアップイベントである。昼はローストビーフ丼を、夜は田崎真也氏が薦めるワインやビールなどのドリンクとソースの組み合わせを楽しめる。",
     "genres": [
       "beer",
-      "wine"
+      "wine",
+      "cocktail"
     ],
     "eventTypes": [
-      "other"
+      "other",
+      "tasting"
     ],
     "startAt": "2026-12-02T00:00:00+09:00",
     "endAt": "2026-12-11T23:59:00+09:00",
@@ -21566,7 +21568,8 @@
     "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
-      "src-c65e941b20bb"
+      "src-c65e941b20bb",
+      "src-45e650e2803d"
     ],
     "producerIds": [],
     "productIds": [],
@@ -21575,52 +21578,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-27T09:38:08.812Z",
-    "dateOnly": true,
-    "isSample": false,
-    "publication": "pending"
-  },
-  {
-    "id": "evt-45e650e2803d",
-    "slug": "e-45e650e2803d",
-    "title": "今日は、ローストビーフにしよう。～ごちそうを、もっと身近に。～",
-    "description": "国産黒毛和牛のローストビーフを気軽に味わえる期間限定のポップアップイベントだ。昼はローストビーフ丼、夜はソムリエ田崎真也氏が薦めるソースとワインやビールなどのドリンクの組み合わせを楽しめる。",
-    "genres": [
-      "beer",
-      "wine",
-      "cocktail"
-    ],
-    "eventTypes": [
-      "tasting"
-    ],
-    "startAt": "2026-12-02T00:00:00+09:00",
-    "endAt": "2026-12-11T23:59:00+09:00",
-    "venue": {
-      "name": "カフェピアッザ",
-      "address": "東京都港区新橋3丁目16-17 1F(新橋駅から徒歩約3分)",
-      "prefecture": "東京都",
-      "city": "港区",
-      "latitude": 35.665482,
-      "longitude": 139.756836
-    },
-    "organizer": "伊藤ハム米久ホールディングス株式会社",
-    "officialUrl": null,
-    "ticketUrl": null,
-    "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4867/778/4867-778-a26277eee1e1e27f24feea93e685187c-2960x1920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": "入場無料（飲食は有料）",
-    "isFree": true,
-    "reservationRequired": null,
-    "sourceIds": [
-      "src-45e650e2803d"
-    ],
-    "producerIds": [],
-    "productIds": [],
-    "articleIds": [],
-    "status": "scheduled",
-    "verificationStatus": "needs_review",
-    "lastVerifiedAt": null,
-    "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-27T09:38:08.812Z",
+    "updatedAt": "2026-11-27T10:09:28.905Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
