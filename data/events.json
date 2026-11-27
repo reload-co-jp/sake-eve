@@ -20659,8 +20659,8 @@
   {
     "id": "evt-9dd6bd1cdaf8",
     "slug": "e-9dd6bd1cdaf8",
-    "title": "近江八幡で地酒をテーマにしたイベント 「近江八幡の郷土食を知って」",
-    "description": null,
+    "title": "郷土食フェス in OMIHACHIMAN Vol.3 GOLD & AMBER 地酒",
+    "description": "近江八幡の食文化を伝える全5回シリーズの第3回で、地酒をテーマに地元の生産者らが関連の飲食物や雑貨を販売する。地酒「権座」の田んぼと歩みを紹介するトークやワークショップがあり、権座に合うピンチョスを味わいながら生産者と交流できる。",
     "genres": [
       "sake"
     ],
@@ -20673,19 +20673,19 @@
     "startAt": "2026-11-28T00:00:00+09:00",
     "endAt": "2026-11-28T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "白雲館",
+      "address": "近江八幡市為心町",
       "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "近江八幡市",
+      "latitude": 35.139069,
+      "longitude": 136.09082
     },
-    "organizer": null,
+    "organizer": "GOOD PEOPLE GOOD PLACE",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/omihachiman_keizai/headline/1795397163_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-9dd6bd1cdaf8"
@@ -20697,7 +20697,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-24T03:14:20.253Z",
-    "updatedAt": "2026-11-24T03:14:20.253Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -20723,7 +20723,7 @@
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "阪神梅田本店",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/14431/3579/14431-3579-86d4e0887dca198aa2ca1d55a11e6f55-787x778.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -20740,10 +20740,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-6b601e25ecf1",
@@ -20759,14 +20759,14 @@
     "startAt": "2026-11-26T00:00:00+09:00",
     "endAt": "2026-12-15T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "焼肉ホルモンたけ田 深谷店",
+      "address": "埼玉県深谷市東方町２丁目２４−１７",
+      "prefecture": "埼玉県",
+      "city": "深谷市",
+      "latitude": 36.188946,
+      "longitude": 139.312668
     },
-    "organizer": null,
+    "organizer": "株式会社ミナモト",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/73526/75/73526-75-dae7f679cd0fd30193fe6d17a6a82fe3-1425x1149.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -20783,10 +20783,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-e099327d1ac0",
@@ -20809,7 +20809,7 @@
       "latitude": 35.867508,
       "longitude": 139.975937
     },
-    "organizer": null,
+    "organizer": "株式会社プラッタ",
     "officialUrl": "https://kashiwapp.com/media/kashiwa-restaurant-review-campaign-2/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/146400/24/146400-24-ce7304bffe5e3ec815cb69b8f43380f6-1672x941.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -20826,10 +20826,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-1f3ea19e75f8",
@@ -20845,14 +20845,14 @@
     "startAt": "2026-11-27T00:00:00+09:00",
     "endAt": "2027-03-01T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "あべのキューズモール 4階Qしば",
       "address": "大阪府大阪市阿倍野区阿倍野筋1丁目6-1 あべのキューズモール 4階Qしば内",
       "prefecture": "大阪府",
       "city": "大阪市",
       "latitude": 34.646053,
       "longitude": 135.512772
     },
-    "organizer": null,
+    "organizer": "株式会社スタンドケイ",
     "officialUrl": "https://kakidaiko.com/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54560/110/54560-110-e282771dfb1538ae66354c184b0a008d-1240x1753.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -20869,10 +20869,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-11ef85d35e91",
@@ -20890,14 +20890,14 @@
     "startAt": "2027-07-01T00:00:00+09:00",
     "endAt": "2027-07-01T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "神戸酒心館本社",
+      "address": "神戸市東灘区",
       "prefecture": "兵庫県",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "神戸市東灘区",
+      "latitude": 34.720211,
+      "longitude": 135.265671
     },
-    "organizer": null,
+    "organizer": "三井住友銀行、神戸酒心館",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3924958024112026000000-1.png?auto=compress&bg=FFFF&crop=focalpoint&fit=crop&fm=jpg&fp-x=0.76&fp-y=0.39&h=630&w=1200&s=0756dab20b86b88340a9e6dc4cccaeda",
@@ -20914,16 +20914,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-8e610f738d99",
     "slug": "e-8e610f738d99",
-    "title": "石和で屋外ワインイベント 笛吹のワイナリーや飲食店が出店",
-    "description": null,
+    "title": "Fuefuki WinePark Lounge 2026",
+    "description": "笛吹市のワイナリーと地元の飲食店が石和の屋外会場に集まり、産地のワインと料理を一度に味わえるイベントだ。ワインと料理の組み合わせや初めての店との出合い、来場者同士の交流も楽しめる。",
     "genres": [
       "wine"
     ],
@@ -20935,19 +20935,19 @@
     "startAt": "2026-11-27T00:00:00+09:00",
     "endAt": "2026-11-28T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
+      "name": "笛吹みんなの広場",
+      "address": "笛吹市石和町松本",
       "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "笛吹市",
+      "latitude": 35.660812,
+      "longitude": 138.632919
     },
     "organizer": null,
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/kofu_keizai/headline/1795514631_photo.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-8e610f738d99"
@@ -20959,7 +20959,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -20967,8 +20967,8 @@
   {
     "id": "evt-616477ad5250",
     "slug": "e-616477ad5250",
-    "title": "高田馬場・西早稲田で「天下一葡萄会」 ワインで巡る飲食店周遊イベント",
-    "description": null,
+    "title": "高田馬場天下一葡萄会",
+    "description": "高田馬場・西早稲田周辺の飲食店を巡り、各店でワインを楽しむ飲み歩きイベントだ。ワインを注文するとスタンプがたまり、集めた数に応じてオリジナルステッカーがもらえるほか、抽選でTシャツも当たる。",
     "genres": [
       "wine"
     ],
@@ -20979,14 +20979,14 @@
     "startAt": "2026-12-20T00:00:00+09:00",
     "endAt": "2026-12-20T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "高田馬場・西早稲田エリアの参加飲食店11店舗",
       "address": null,
-      "prefecture": null,
-      "city": null,
+      "prefecture": "東京都",
+      "city": "新宿区",
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "さかなや しんせい",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://images.keizai.biz/takadanobaba_keizai/headline/1795490270_photo.jpg",
@@ -21003,7 +21003,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -21011,8 +21011,8 @@
   {
     "id": "evt-e61e79596d71",
     "slug": "e-e61e79596d71",
-    "title": "東映太秦映画村「大人限定の夜祭り」開催決定 雪化粧・賭場・忠臣蔵×日本酒飲み放題【12月12日・13日/概要】",
-    "description": null,
+    "title": "太秦江戸酒場～雪夜の宴～",
+    "description": "江戸の町並みに雪が舞う演出の中、京都の酒蔵の日本酒と名店の料理を味わえる大人限定の夜祭りだ。参加者が討ち入りを体験するショーや伝統芸能、俳優と酒を楽しめる館などの催しもある。",
     "genres": [
       "sake"
     ],
@@ -21022,19 +21022,19 @@
     "startAt": "2026-12-12T00:00:00+09:00",
     "endAt": "2026-12-13T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "東映太秦映画村",
+      "address": "京都市右京区",
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "latitude": 35.010105,
+      "longitude": 135.716248
     },
-    "organizer": null,
+    "organizer": "東映太秦映画村",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://contents.oricon.co.jp/upimg/news/2495000/2494902/20261124_164224_p_o_12499796.jpg",
-    "price": null,
-    "isFree": null,
+    "price": "8,500円〜",
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-e61e79596d71"
@@ -21043,13 +21043,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-87bee6702d92",
@@ -21077,7 +21077,7 @@
     "ticketUrl": null,
     "imageUrl": "https://jmqvqzo7.user.webaccel.jp/img/article/000/395/919/2029080b298225c22c0d0e1e92e3254d20261123000926140.jpg",
     "price": null,
-    "isFree": null,
+    "isFree": false,
     "reservationRequired": null,
     "sourceIds": [
       "src-87bee6702d92"
@@ -21089,16 +21089,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-25T01:20:05.135Z",
-    "updatedAt": "2026-11-25T01:20:05.135Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-bfb5695c560c",
     "slug": "e-bfb5695c560c",
-    "title": "オーストリアの新酒ワインや焼き菓子を販売　『オーストリアマーケット Österreichischer Markt』　11月25日（水）～28日（土）東京・南青山で開催",
-    "description": null,
+    "title": "オーストリアマーケット Österreichischer Markt",
+    "description": "新酒ホイリゲをはじめとするオーストリアワインの試飲販売に加え、ウィーン菓子や雑貨も買えるマーケットである。フルートとピアノのコンサートや、マジパン細工・アドヴェントクランツ作りの教室も開かれる。",
     "genres": [
       "wine"
     ],
@@ -21110,18 +21110,18 @@
     "endAt": "2026-11-28T23:59:00+09:00",
     "venue": {
       "name": "パソナグループ PASONA SQUARE 2階",
-      "address": null,
+      "address": "東京都港区南青山3-1-30",
       "prefecture": "東京都",
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "city": "港区",
+      "latitude": 35.668217,
+      "longitude": 139.715881
     },
-    "organizer": null,
+    "organizer": "日墺文化協会",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/16751/2350/16751-2350-86ee485418a419ec62db245de2d5f9af-1536x1024.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-bfb5695c560c"
@@ -21133,7 +21133,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -21141,8 +21141,8 @@
   {
     "id": "evt-5c773b1b8df8",
     "slug": "e-5c773b1b8df8",
-    "title": "【信濃屋主催】ナパ・ヴァレー最高峰のカルトワイン「ダラ・ヴァレ」一夜限りのメーカーズディナーを「Smith & Wollensky GINZA」にて開催",
-    "description": null,
+    "title": "ダラ・ヴァレ メーカーズディナー",
+    "description": "ナパ・ヴァレーの元祖カルトワイン「ダラ・ヴァレ」の創業40周年を祝う特別ディナーだ。来日するオーナーやワインメーカーを迎え、希少キュヴェ「マヤ」の複数ヴィンテージを本格ステーキ料理と合わせて味わえる。",
     "genres": [
       "wine"
     ],
@@ -21160,13 +21160,13 @@
       "latitude": 35.670334,
       "longitude": 139.764282
     },
-    "organizer": null,
+    "organizer": "株式会社信濃屋食品",
     "officialUrl": "https://forms.gle/ecEYXKwZADSe2FMs8",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/124825/31/124825-31-4aefecb79d821a96f635fd5b2e2a9072-2528x1685.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "66,000円",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-5c773b1b8df8"
     ],
@@ -21174,13 +21174,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-6d6d6076e4ea",
@@ -21196,14 +21196,14 @@
     "startAt": "2026-12-08T00:00:00+09:00",
     "endAt": "2026-12-08T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "GOOD NATURE STATION 1階正面広場「MAENIWA」",
       "address": null,
-      "prefecture": null,
+      "prefecture": "京都府",
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "株式会社ビオスタイル",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/54899/268/54899-268-2ec5422cbdcaa222039eaba9788aafa0-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
@@ -21220,10 +21220,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-79f3cb10ba23",
@@ -21318,8 +21318,8 @@
   {
     "id": "evt-62deb6d6da99",
     "slug": "e-62deb6d6da99",
-    "title": "【山形・置賜】フラワー長井線で行く　クリスマスワイン列車",
-    "description": null,
+    "title": "クリスマスワイン列車",
+    "description": "山形鉄道フラワー長井線の貸切列車に乗り、県内産ワインと沿線食材を使った特製ランチBOXを味わう呑み鉄企画だ。白鷹町の酒屋店主が選んだワインとおつまみを、本人の解説を聞きながら飲み比べられる。",
     "genres": [
       "wine"
     ],
@@ -21330,20 +21330,20 @@
     "startAt": "2026-12-13T00:00:00+09:00",
     "endAt": "2026-12-13T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "赤湯駅 山形鉄道フラワー長井線乗り場（4番線）",
       "address": null,
-      "prefecture": null,
+      "prefecture": "山形県",
       "city": null,
       "latitude": null,
       "longitude": null
     },
-    "organizer": null,
+    "organizer": "一般社団法人やまがたアルカディア観光局",
     "officialUrl": "https://tour.arcadia-kanko.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/107723/41/107723-41-6b984e8d1955aa6aaf30bf09b110d73f-1500x1089.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
-    "reservationRequired": null,
+    "price": "13,200円",
+    "isFree": false,
+    "reservationRequired": true,
     "sourceIds": [
       "src-62deb6d6da99"
     ],
@@ -21351,13 +21351,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-a8b02b9b00e1",
@@ -21374,20 +21374,20 @@
     "startAt": "2026-11-30T00:00:00+09:00",
     "endAt": "2026-12-01T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "居酒屋革命 酔っ手羽 新橋店",
       "address": "東京都港区新橋2-9-4 新橋乾盃ビルB1",
       "prefecture": "東京都",
       "city": "港区",
       "latitude": 35.666889,
       "longitude": 139.756561
     },
-    "organizer": null,
+    "organizer": "ENRAVE株式会社",
     "officialUrl": "https://yotteba.co.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49183/205/49183-205-4c5fbfa5a0ce7603cb8f504d6c64472b-1740x811.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": false,
     "sourceIds": [
       "src-a8b02b9b00e1"
     ],
@@ -21398,10 +21398,10 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-d6921a7ff7cf",
@@ -21417,20 +21417,20 @@
     "startAt": "2026-12-03T00:00:00+09:00",
     "endAt": "2026-12-03T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "居酒屋革命 酔っ手羽 JR高槻店",
       "address": "大阪府高槻市高槻町12-20 もり菊ビル",
       "prefecture": "大阪府",
       "city": "高槻市",
       "latitude": 34.850185,
       "longitude": 135.619553
     },
-    "organizer": null,
+    "organizer": "ENRAVE株式会社",
     "officialUrl": "https://yotteba.co.jp/",
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/49183/202/49183-202-4c5fbfa5a0ce7603cb8f504d6c64472b-1740x811.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
     "price": null,
     "isFree": null,
-    "reservationRequired": null,
+    "reservationRequired": false,
     "sourceIds": [
       "src-d6921a7ff7cf"
     ],
@@ -21441,10 +21441,10 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c812ef93e5fa",
@@ -21507,7 +21507,7 @@
     "startAt": null,
     "endAt": null,
     "venue": {
-      "name": null,
+      "name": "東京都庭園美術館",
       "address": "東京都品川区上大崎3-3-5 新陽CKビル103",
       "prefecture": "東京都",
       "city": "品川区",
@@ -21531,16 +21531,16 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "hidden"
   },
   {
     "id": "evt-c65e941b20bb",
     "slug": "e-c65e941b20bb",
-    "title": "今日は、ローストビーフにしよう。～ごちそうを、もっと身近に。～「ローストビーフポップアップイベント」を期間限定開催！",
-    "description": null,
+    "title": "今日は、ローストビーフにしよう。～ごちそうを、もっと身近に。～",
+    "description": "伊藤ハムの国産黒毛和牛ローストビーフを気軽に味わえる期間限定のポップアップイベントである。昼はローストビーフ丼を、夜は田崎真也氏が薦めるワインやビールなどのドリンクとソースの組み合わせを楽しめる。",
     "genres": [
       "beer",
       "wine"
@@ -21551,19 +21551,19 @@
     "startAt": "2026-12-02T00:00:00+09:00",
     "endAt": "2026-12-11T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "カフェピアッザ",
       "address": "東京都港区新橋3丁目16-17 1F(新橋駅から徒歩約3分)",
       "prefecture": "東京都",
       "city": "港区",
       "latitude": 35.665482,
       "longitude": 139.756836
     },
-    "organizer": null,
+    "organizer": "伊藤ハム米久ホールディングス株式会社",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/16981/162/16981-162-3f1220a48f6bedb1187a934808c3b8be-3900x2530.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-c65e941b20bb"
@@ -21575,7 +21575,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -21583,8 +21583,8 @@
   {
     "id": "evt-45e650e2803d",
     "slug": "e-45e650e2803d",
-    "title": "今日は、ローストビーフにしよう。～ごちそうを、もっと身近に。～ 「ローストビーフポップアップイベント」を期間限定開催！",
-    "description": null,
+    "title": "今日は、ローストビーフにしよう。～ごちそうを、もっと身近に。～",
+    "description": "国産黒毛和牛のローストビーフを気軽に味わえる期間限定のポップアップイベントだ。昼はローストビーフ丼、夜はソムリエ田崎真也氏が薦めるソースとワインやビールなどのドリンクの組み合わせを楽しめる。",
     "genres": [
       "beer",
       "wine",
@@ -21596,19 +21596,19 @@
     "startAt": "2026-12-02T00:00:00+09:00",
     "endAt": "2026-12-11T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "カフェピアッザ",
       "address": "東京都港区新橋3丁目16-17 1F(新橋駅から徒歩約3分)",
       "prefecture": "東京都",
       "city": "港区",
       "latitude": 35.665482,
       "longitude": 139.756836
     },
-    "organizer": null,
+    "organizer": "伊藤ハム米久ホールディングス株式会社",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/4867/778/4867-778-a26277eee1e1e27f24feea93e685187c-2960x1920.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "入場無料（飲食は有料）",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-45e650e2803d"
@@ -21620,7 +21620,7 @@
     "verificationStatus": "needs_review",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"
@@ -21628,8 +21628,8 @@
   {
     "id": "evt-eebd720817b9",
     "slug": "e-eebd720817b9",
-    "title": "シングルモルトウイスキー「静寂」NEW BORN 2YEARS 発売記念　イベント 国立「角打ちBAR 虎と満月」にて開催！700mlボトル　　限定３０本　(2026．11．28　sat）",
-    "description": null,
+    "title": "シングルモルトウイスキー「静寂」NEW BORN 2YEARS 発売記念イベント",
+    "description": "バーボン樽で2年余り熟成させたシングルモルト「静寂」ニューボーンの発売を祝う一夜限りの催しだ。静寂のハイボールやロックを味わえ、限定ボトルの販売やラッパー火男とDJ RALLYのライブもある。",
     "genres": [
       "whisky"
     ],
@@ -21639,12 +21639,12 @@
     "startAt": "2026-11-28T00:00:00+09:00",
     "endAt": "2026-11-28T23:59:00+09:00",
     "venue": {
-      "name": null,
-      "address": null,
-      "prefecture": null,
-      "city": null,
-      "latitude": null,
-      "longitude": null
+      "name": "角打ちBAR TORATOMANGETSU 虎と満月",
+      "address": "国立市中1丁目19-1",
+      "prefecture": "東京都",
+      "city": "国立市",
+      "latitude": 35.696404,
+      "longitude": 139.441589
     },
     "organizer": null,
     "officialUrl": null,
@@ -21660,13 +21660,13 @@
     "productIds": [],
     "articleIds": [],
     "status": "scheduled",
-    "verificationStatus": "needs_review",
+    "verificationStatus": "partially_verified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
-    "publication": "pending"
+    "publication": "published"
   },
   {
     "id": "evt-13c2cf6e47ca",
@@ -21714,8 +21714,8 @@
   {
     "id": "evt-bf85b35bc00a",
     "slug": "e-bf85b35bc00a",
-    "title": "【愛知・瀬戸】日本初上陸！KCBS公認BBQ大会＆入場無料フェスを11月29日同時開催！本場アメリカのBBQ、フードトラック、クラフトビール、音楽ライブ、ホットドッグ早食い大会まで楽しむ1日限りの祭典",
-    "description": null,
+    "title": "MID JAPAN BBQ SHOWDOWN & FESTIVAL 2026",
+    "description": "本場アメリカンBBQのフードトラックやクラフトビールを味わいながら、音楽ライブやホットドッグ早食い大会を楽しめるフェスだ。日本初のKCBS公認BBQ大会も同時に行われ、日米12チームの競技を間近で観戦できる。",
     "genres": [
       "beer"
     ],
@@ -21726,19 +21726,19 @@
     "startAt": "2026-11-29T00:00:00+09:00",
     "endAt": "2026-11-29T23:59:00+09:00",
     "venue": {
-      "name": null,
+      "name": "ウッドデザインパーク瀬戸",
       "address": "愛知県瀬戸市南山口町730",
       "prefecture": "愛知県",
       "city": "瀬戸市",
       "latitude": 35.187977,
       "longitude": 137.086563
     },
-    "organizer": null,
+    "organizer": "MID JAPAN BBQ SHOWDOWN実行委員会事務局",
     "officialUrl": null,
     "ticketUrl": null,
     "imageUrl": "https://prcdn.freetls.fastly.net/release_image/45400/1216/45400-1216-dda8283788f76a3cf4a7d43f57f6dc1a-1536x1024.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
-    "price": null,
-    "isFree": null,
+    "price": "無料",
+    "isFree": true,
     "reservationRequired": null,
     "sourceIds": [
       "src-bf85b35bc00a"
@@ -21750,7 +21750,7 @@
     "verificationStatus": "unverified",
     "lastVerifiedAt": null,
     "createdAt": "2026-11-26T00:57:30.579Z",
-    "updatedAt": "2026-11-26T00:57:30.579Z",
+    "updatedAt": "2026-11-27T09:38:08.812Z",
     "dateOnly": true,
     "isSample": false,
     "publication": "pending"

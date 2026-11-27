@@ -9172,5 +9172,417 @@
       "publication"
     ],
     "note": "auto: 開催終了"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-9dd6bd1cdaf8",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-6d933e1557a9",
+    "action": "update",
+    "changedFields": [
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-6d933e1557a9",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: アイスクリームとあたたかい料理を楽しむ催事で、ドリンクもノンアルコールのモクテルやコーヒーに限られ、お酒のイベントではないため対象外とした。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-6b601e25ecf1",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-6b601e25ecf1",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 焼肉店の新規オープンと開店記念のドリンク割引キャンペーンの告知であり、一般参加型のお酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-e099327d1ac0",
+    "action": "update",
+    "changedFields": [
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-e099327d1ac0",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 飲食店レビューの投稿でギフトカードがもらえるWeb上のキャンペーンであり、お酒のイベントではないため。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-1f3ea19e75f8",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-1f3ea19e75f8",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 冬季限定で営業する牡蠣小屋の期間限定店舗のオープン告知であり、お酒が主役の参加型イベントではないため。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-11ef85d35e91",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.address, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-11ef85d35e91",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 11月23日にすでに開催された学生向けイベントの開催報告記事であり、これから一般の人が参加できるイベントの告知ではないため。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-8e610f738d99",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.city, price, isFree）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-616477ad5250",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture, venue.city, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-e61e79596d71",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-e61e79596d71",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-87bee6702d92",
+    "action": "update",
+    "changedFields": [
+      "isFree"
+    ],
+    "note": "auto-review: 出典から入力（isFree）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-87bee6702d92",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: すでに大阪で開催された純烈リーダーらのトークイベントの開催報告であり、お酒のイベントでもないため掲載対象外である。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-bfb5695c560c",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.address, venue.city, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-5c773b1b8df8",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-5c773b1b8df8",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-6d6d6076e4ea",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, venue.prefecture, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-6d6d6076e4ea",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 有機野菜やハーブティーを扱うオーガニックマルシェであり、お酒を楽しむイベントではないため対象外とした。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-62deb6d6da99",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.prefecture, price, isFree, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-62deb6d6da99",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-a8b02b9b00e1",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-a8b02b9b00e1",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 居酒屋1店舗の開業1周年を記念したドリンク割引キャンペーンであり、フェスや試飲会のような一般参加型のお酒のイベントではない。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-d6921a7ff7cf",
+    "action": "update",
+    "changedFields": [
+      "venue",
+      "reservationRequired",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（venue.name, reservationRequired, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-d6921a7ff7cf",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 居酒屋の新店舗オープンに合わせた生ビール1円の記念キャンペーンで、一般向けのお酒のイベントではなく店舗開業の販促であるため。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-2db4c99345c2",
+    "action": "update",
+    "changedFields": [
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（venue.name）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-2db4c99345c2",
+    "action": "hidden",
+    "changedFields": [
+      "publication"
+    ],
+    "note": "auto-review: 2026年8月にすでに開催されたイベントへの協力を報告する開催報告のリリースである。"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-c65e941b20bb",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-45e650e2803d",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, price, isFree, organizer）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-eebd720817b9",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, venue.address, venue.prefecture, venue.city）"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-eebd720817b9",
+    "action": "published",
+    "changedFields": [
+      "publication",
+      "verificationStatus"
+    ],
+    "note": "auto-review: 出典で日程・会場・都道府県を確認"
+  },
+  {
+    "at": "2026-11-27T09:38:08.812Z",
+    "collection": "events",
+    "id": "evt-bf85b35bc00a",
+    "action": "update",
+    "changedFields": [
+      "title",
+      "description",
+      "venue",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "note": "auto-review: 出典から入力（title, description, venue.name, price, isFree, organizer）"
   }
 ]

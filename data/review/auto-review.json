@@ -2534,5 +2534,328 @@
     ],
     "todo": [],
     "rejected": []
+  },
+  {
+    "eventId": "evt-9dd6bd1cdaf8",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "pending",
+    "reason": "近江八幡で一般向けに開催される、地酒をテーマにした入場無料のフェスで、開催日は配信日より後である。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6d933e1557a9",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "アイスクリームとあたたかい料理を楽しむ催事で、ドリンクもノンアルコールのモクテルやコーヒーに限られ、お酒のイベントではないため対象外とした。",
+    "filled": [
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6b601e25ecf1",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "焼肉店の新規オープンと開店記念のドリンク割引キャンペーンの告知であり、一般参加型のお酒のイベントではない。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e099327d1ac0",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "飲食店レビューの投稿でギフトカードがもらえるWeb上のキャンペーンであり、お酒のイベントではないため。",
+    "filled": [
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-1f3ea19e75f8",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "冬季限定で営業する牡蠣小屋の期間限定店舗のオープン告知であり、お酒が主役の参加型イベントではないため。",
+    "filled": [
+      "venue.name",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-11ef85d35e91",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "11月23日にすでに開催された学生向けイベントの開催報告記事であり、これから一般の人が参加できるイベントの告知ではないため。",
+    "filled": [
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-8e610f738d99",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "pending",
+    "reason": "一般来場者が地元ワインを楽しめる屋外ワインイベントで、配信日以降の11月27日・28日に開催されるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree"
+    ],
+    "todo": [
+      "都道府県"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-616477ad5250",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "pending",
+    "reason": "高田馬場・西早稲田の飲食店11店舗でワインを飲み歩く周遊イベントで、12月20日まで開催中のため一般の人がこれから参加できる。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "venue.city",
+      "organizer"
+    ],
+    "todo": [
+      "開催日"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-e61e79596d71",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "published",
+    "reason": "東映太秦映画村で2026年12月12日・13日に開かれる、一般向けで日本酒飲み放題付きの券もある大人限定の夜祭りであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-87bee6702d92",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "すでに大阪で開催された純烈リーダーらのトークイベントの開催報告であり、お酒のイベントでもないため掲載対象外である。",
+    "filled": [
+      "isFree"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-bfb5695c560c",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "pending",
+    "reason": "一般の人が無料で入場でき、オーストリアワインの試飲販売を行う、これから開催されるマーケットイベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.address",
+      "venue.city",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "開催日が過去"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-5c773b1b8df8",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "published",
+    "reason": "一般の人が予約・抽選で参加できる、これから開催されるワインのメーカーズディナーであるため。",
+    "filled": [
+      "title",
+      "description",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-6d6d6076e4ea",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "有機野菜やハーブティーを扱うオーガニックマルシェであり、お酒を楽しむイベントではないため対象外とした。",
+    "filled": [
+      "venue.name",
+      "venue.prefecture",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-62deb6d6da99",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "published",
+    "reason": "一般参加者を募集し、2026年12月13日に運行される、山形ワインを楽しむ貸切列車の旅行企画であるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.prefecture",
+      "price",
+      "isFree",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-a8b02b9b00e1",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "居酒屋1店舗の開業1周年を記念したドリンク割引キャンペーンであり、フェスや試飲会のような一般参加型のお酒のイベントではない。",
+    "filled": [
+      "venue.name",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-d6921a7ff7cf",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "居酒屋の新店舗オープンに合わせた生ビール1円の記念キャンペーンで、一般向けのお酒のイベントではなく店舗開業の販促であるため。",
+    "filled": [
+      "venue.name",
+      "reservationRequired",
+      "organizer"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-2db4c99345c2",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "hidden",
+    "reason": "2026年8月にすでに開催されたイベントへの協力を報告する開催報告のリリースである。",
+    "filled": [
+      "venue.name"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-c65e941b20bb",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "pending",
+    "reason": "一般の人が来場でき、夜の部ではソムリエの田崎真也氏が薦めるワインやビールなどとローストビーフの組み合わせを楽しめる、これから開催される期間限定イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-45e650e2803d",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "pending",
+    "reason": "一般客が来場でき、夜の部ではソムリエ田崎真也氏が薦めるワインやビールなどとローストビーフのペアリングを楽しめる、これから開催される期間限定イベントであるため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-eebd720817b9",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "published",
+    "reason": "新商品の発売を記念して、一般客が来店して飲食やライブを楽しめるバーイベントを、配信日以降の11月28日に開催するため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "venue.address",
+      "venue.prefecture",
+      "venue.city"
+    ],
+    "todo": [],
+    "rejected": []
+  },
+  {
+    "eventId": "evt-bf85b35bc00a",
+    "reviewedAt": "2026-11-27T09:38:08.812Z",
+    "decision": "pending",
+    "reason": "これから開催される一般来場可能なフェスで、クラフトビールを楽しめる企画を含むため。",
+    "filled": [
+      "title",
+      "description",
+      "venue.name",
+      "price",
+      "isFree",
+      "organizer"
+    ],
+    "todo": [
+      "重複候補"
+    ],
+    "rejected": []
   }
 ]
