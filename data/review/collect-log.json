@@ -2413,5 +2413,51 @@
     },
     "validationErrors": [],
     "written": true
+  },
+  {
+    "startedAt": "2026-11-28T00:21:46.273Z",
+    "finishedAt": "2026-11-28T00:29:10.826Z",
+    "dryRun": false,
+    "sources": [
+      {
+        "id": "prtimes",
+        "status": "ok",
+        "items": 200,
+        "message": "詳細取得28件"
+      },
+      {
+        "id": "prtimes_search",
+        "status": "ok",
+        "items": 30,
+        "message": "検索ヒット592件 / 未取得468件 / 候補321件 / 詳細取得30件 / 次回へ繰越291件"
+      },
+      {
+        "id": "ceek_news",
+        "status": "ok",
+        "items": 100,
+        "message": "詳細取得失敗 http://spice.eplus.jp/articles/350750: アクセス制限 (HTTP 403) のため中止: http://spice.eplus.jp/articles/350750 / 詳細取得失敗 https://www.gamer.ne.jp/news/202611260051/: アクセス制限 (HTTP 403) のため中止: https://www.gamer.ne.jp/news/202611260051/ / 詳細取得28件 / 失敗2件"
+      },
+      {
+        "id": "google_news",
+        "status": "skipped",
+        "items": 0,
+        "message": "Google News RSSはフィード内で「personal feed reader での個人的・非商用利用専用、それ以外の利用は禁止」と明記され、robots.txtも /rss を許可していないため。利用許諾を得た場合のみ有効化する。"
+      }
+    ],
+    "stats": {
+      "fetched": 330,
+      "irrelevant": 295,
+      "duplicateUrl": 2,
+      "added": 33,
+      "needsReview": 25,
+      "autoPublished": 1,
+      "duplicateCandidates": 6,
+      "autoHidden": 22,
+      "autoReviewed": 0,
+      "summarized": 0,
+      "geocoded": 8
+    },
+    "validationErrors": [],
+    "written": true
   }
 ]

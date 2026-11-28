@@ -18448,5 +18448,1103 @@
         "evt-211ee7a85519"
       ]
     }
+  },
+  {
+    "id": "src-1ae07de5b5b6",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000016.000152003.html",
+    "title": "【開催レポート】プラントベースの祭典「Plantful Inspirations 2026」初の2日間開催で、延べ参加・支援件数約5,900件を記録",
+    "publisher": "Plantful Journey",
+    "publishedAt": "2026-11-25T10:10:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "89480e665b5065f807a932b6e4b2e932a493efcdbbde6bba0618bec5a61da2bd",
+    "relatedEventIds": [
+      "evt-1ae07de5b5b6"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar",
+        "tour",
+        "market"
+      ],
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ee85e64fd0a9",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000662.000021123.html",
+    "title": "YOSHIKI 、誕生日に開催したチャリティーオークションでワイングラスに驚異の850万円落札！",
+    "publisher": "YOSHIKI PR事務局",
+    "publishedAt": "2026-11-26T11:03:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "632356753236cc5b376896c84b799081517a2594c647f80557ae39f72c18e79d",
+    "relatedEventIds": [
+      "evt-ee85e64fd0a9"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-be7fa77f444b"
+      ]
+    }
+  },
+  {
+    "id": "src-ca1751614015",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000152.000021191.html",
+    "title": "地元に恵みを還元　北海道・NIKI Hills Wineryで『収穫感謝祭』初開催",
+    "publisher": "株式会社DACホールディングス",
+    "publishedAt": "2026-11-27T16:07:31+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "c683a8edd8b3b6f441b9f504d64d2c5328b5f7040dfd3b4a1968fd82be6f33fc",
+    "relatedEventIds": [
+      "evt-ca1751614015"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "tour"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "dateSource": "text",
+      "venueName": null,
+      "address": "〒110-0015 東京都台東区東上野4-8-1 TIXTOWER UENO 13F",
+      "prefecture": "東京都",
+      "city": "台東区",
+      "officialUrl": "https://nikihills.co.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-51dcc82a3a80",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000002549.000031382.html",
+    "title": "【西武秋田店】見つけよう、わたしの好きな一杯と一皿。日本酒、ワイン、ビール、フード。新しい“おいしい”との出会い",
+    "publisher": "株式会社そごう・西武",
+    "publishedAt": "2026-11-27T16:00:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "fb637a4810078a39f0e051b661d16bb5b825d62d1501436dcacb0e6fceb0ed9d",
+    "relatedEventIds": [
+      "evt-51dcc82a3a80"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "tasting",
+        "seminar"
+      ],
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "dateSource": "label",
+      "venueName": "西武秋田店 地階=催事場",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f7c75d474ba8",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000138.000019739.html",
+    "title": "レシート起点の成果報酬型ネットワーク「PMN」、初のメディアパートナー向けイベント「PMN Media Connect 2026」を開催",
+    "publisher": "WED株式会社",
+    "publishedAt": "2026-11-27T15:30:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "fd70a4213098990a8d0a705d9824f7e031db974ec126bd1eee6c694c49ab1ffa",
+    "relatedEventIds": [
+      "evt-f7c75d474ba8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "dateSource": "label",
+      "venueName": "ギフティ本社 イベントスペース(東五反田スクエア13階)",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://business.perf.media/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-ae03b0a1ada1",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001783.000007303.html",
+    "title": "【冬のごちそうは、豪快な塊肉とワインで】THE PUBLIC 都内2店舗で、肉とワインを楽しむSPECIAL MENUが登場！",
+    "publisher": "株式会社DDグループ",
+    "publishedAt": "2026-11-27T15:01:00+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "a7bb9b3c268cb129a4a8b0a7c1007479cade41cbae43cc404909042af94f595f",
+    "relatedEventIds": [
+      "evt-ae03b0a1ada1"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "wine"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-11-27",
+      "endDate": "2027-02-28",
+      "dateSource": "label",
+      "venueName": null,
+      "address": "〒106-0032 東京都港区六本木6-8-22 イケガミビル1F",
+      "prefecture": "東京都",
+      "city": "港区",
+      "officialUrl": "http://www.bagus-99.com/public6/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f05910740058",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000637.000015279.html",
+    "title": "2026年12月19日(土)、20日(日)の2日間、南与野初のクリスマスイベント「Xmas Jam! in Kaya-Machi」を開催！",
+    "publisher": "株式会社ジェイアール東日本都市開発",
+    "publishedAt": "2026-11-27T14:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "5aac44a24fd54623e23a3054d816eb1b7f92160a2c3c918fb0a8bf9a21b92cae",
+    "relatedEventIds": [
+      "evt-f05910740058"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "market"
+      ],
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "dateSource": "label",
+      "venueName": "Kaya-Machi(埼京線南与野駅西口徒歩3分)※雨天縮小",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-6dc5e4fc088b",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000197.000034628.html",
+    "title": "バドワイザー誕生150周年を祝う音楽イベント「BUD 150」を12月26日（土）東京・渋谷 Spotify O-EASTで開催",
+    "publisher": "AB InBev Japan 合同会社",
+    "publishedAt": "2026-11-27T12:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "487722cc38cc3adc9c360e04b001a99020b0b0b763e4e9c4a3c02f29ecf69fc8",
+    "relatedEventIds": [
+      "evt-6dc5e4fc088b"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "other"
+      ],
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-26",
+      "dateSource": "label",
+      "venueName": "Spotify O-EAST( 渋谷区道玄坂2丁目14-8 )",
+      "address": "東京都渋谷区)は",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7abc580bf6f1",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000517.000061977.html",
+    "title": "渋谷道玄坂のクラフトビールバー「KOBUSHI BEER LOUNGE & BAR」 12月1日の開業7周年に合わせて、スポーツバー営業を本格始動！",
+    "publisher": "KOBUSHI MARKETING合同会社",
+    "publishedAt": "2026-11-27T10:10:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "c0216e94a0e196f4a0a9d7b2e309e7862f3ad89b83011fe1d442b140a84582bd",
+    "relatedEventIds": [
+      "evt-7abc580bf6f1"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "seminar"
+      ],
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "dateSource": "text",
+      "venueName": null,
+      "address": "東京都渋谷区道玄坂2-17-2 トップ美奄 2F",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-7cb94945f44f",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001033.000039557.html",
+    "title": "【仙台ロイヤルパークホテル×秋保グレートデーンブリューイング】仙台リゾートで夏を楽しむビアフェスタ3選！",
+    "publisher": "三菱地所ホテルズ＆リゾーツ株式会社",
+    "publishedAt": "2025-05-21T15:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "39131771500af60a982c5c0cb7eea9bc8366cbe6a4345bdf7b80f251e628f11f",
+    "relatedEventIds": [
+      "evt-7cb94945f44f"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2025-07-01",
+      "endDate": "2025-09-30",
+      "dateSource": "label",
+      "venueName": "オールデイダイニング「シェフズ テラス」 テラス席",
+      "address": "仙台市泉区寺岡6-2-1 総支配人:佐藤 善史)では",
+      "prefecture": "宮城県",
+      "city": null,
+      "officialUrl": "https://www.srph.co.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4c4e262f2608",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000003308.000005180.html",
+    "title": "阪神甲子園球場 外周フードイベント【第六弾】 「甲子園 ビアフェスタ」を開催！",
+    "publisher": "阪神電気鉄道株式会社",
+    "publishedAt": "2025-05-19T15:20:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "e9366cc7710e07da7288a35efb9b5e38638fb6783061d7adcf5edba688f0e6a1",
+    "relatedEventIds": [
+      "evt-4c4e262f2608"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2025-06-06",
+      "endDate": "2025-06-08",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-4bea8ee4979a"
+      ]
+    }
+  },
+  {
+    "id": "src-23024db945d4",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000003073.000025003.html",
+    "title": "ライトアップでバカンス気分☆旧居留地ビアガーデン～ビアフェスタ2025～を満喫しよう！",
+    "publisher": "株式会社　大丸松坂屋百貨店",
+    "publishedAt": "2025-05-14T15:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "84c0a3e6f69250b385f5a0d1650d0f93cfd6f54db088d1a3609b9540c550ccba",
+    "relatedEventIds": [
+      "evt-23024db945d4"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2025-04-23",
+      "endDate": "2025-10-14",
+      "dateSource": "label",
+      "venueName": "大丸神戸店 10階レストランフロア〈Pizza House イタリコ〉・11階 山の見える広場",
+      "address": null,
+      "prefecture": "兵庫県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-fd3597b8ade8",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000003792.000002213.html",
+    "title": "【ホテル日航新潟】「絶景ビアフェスタ 2025」が6月27日（金）にオープン",
+    "publisher": "株式会社オークラ ニッコー ホテルマネジメント",
+    "publishedAt": "2025-05-07T08:50:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "d33c71097fcf06af11dfc37f59c40504132a30fe00c80abfd97425830b20a75e",
+    "relatedEventIds": [
+      "evt-fd3597b8ade8"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2025-06-27",
+      "endDate": "2025-09-06",
+      "dateSource": "label",
+      "venueName": "ホテル日航新潟 31階 特設会場「スカイビアホール」(完全屋内)※要予約",
+      "address": "新潟県新潟市中央区万代島5-1",
+      "prefecture": "新潟県",
+      "city": "新潟市",
+      "officialUrl": "https://www.hotelnikkoniigata.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-4aa84e915774",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000138757.html",
+    "title": "スマイルキッチンカーが4月12日、13日【汐留 春のビアフェスタ2025】に出現！ハンバーガーを食べると農家に寄付ができる！水素エネルギーで稼働するキッチンカー第3弾！",
+    "publisher": "株式会社Treasure",
+    "publishedAt": "2025-04-07T12:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "e12fd65841f0b40dc5857b8db33ee3a88de2cb0200ee4c0732e1f3d2ab264649",
+    "relatedEventIds": [
+      "evt-4aa84e915774"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "market"
+      ],
+      "startDate": "2025-04-12",
+      "endDate": "2025-04-13",
+      "dateSource": "text",
+      "venueName": "汐留西公園",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-dea63c2d9272",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000005.000097878.html",
+    "title": "焼き芋をアップサイクルした「クラフトビール」と「ソイミートから揚げ」をキッチンカー【libero（リベロ）】にて販売し、1億人に届けたい！",
+    "publisher": "合同会社ゆたか",
+    "publishedAt": "2025-04-01T13:00:03+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "a251a0a25ba4219e1a468dbe19c5d3836e73189f4c2a630ab6ad2f6d70bb3852",
+    "relatedEventIds": [
+      "evt-dea63c2d9272"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2025-04-12",
+      "endDate": "2025-04-12",
+      "dateSource": "label",
+      "venueName": "汐留西公園",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-9e41e2c63a63",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000149.000005566.html",
+    "title": "JR東日本グループ初、元駅員が手掛ける直営クラフトビール醸造所「中央線ビアワークス」が2025年夏に誕生　JR中央線東小金井駅～武蔵小金井駅間高架下から沿線のクラフトビール文化を発信",
+    "publisher": "株式会社JR中央線コミュニティデザイン",
+    "publishedAt": "2025-01-28T14:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "8b68bcbc32c3e59ae3a20849b48ce8df8d31c45fd47ae9b6bd010a87c62e4ed4",
+    "relatedEventIds": [
+      "evt-9e41e2c63a63"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "market"
+      ],
+      "startDate": null,
+      "endDate": null,
+      "dateSource": null,
+      "venueName": null,
+      "address": "東京都小金井市緑町5丁目3番 (JR中央線東小金井駅〜武蔵小金井駅間高架下)",
+      "prefecture": "東京都",
+      "city": "小金井市",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-371ada2ee990",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000086893.html",
+    "title": "クラフトビールイベント　日本橋ビアフェスタ「Beer or beer?」を開催",
+    "publisher": "有限会社二軒茶屋餅角屋本店",
+    "publishedAt": "2024-10-09T12:00:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "83e6a64a7578002511fd7a36779e689924c2a68ec103506d4d989b69c10f25ae",
+    "relatedEventIds": [
+      "evt-371ada2ee990"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2024-10-25",
+      "endDate": "2024-10-25",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://www.biyagura.jp/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-0a259282c760",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000007.000133050.html",
+    "title": "横浜・八景島シーパラダイスに日本全国から１５社のブルワリーが集合！！10月１２、１３、１４日開催の八景島ビール祭を楽しもう！！",
+    "publisher": "株式会社ハチミツ",
+    "publishedAt": "2024-10-03T11:11:30+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "fc0ba90c042933da7eda88cddae70150c21b3ab60ae5ff6fa969726fbe387be0",
+    "relatedEventIds": [
+      "evt-0a259282c760"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2024-10-12",
+      "endDate": "2024-10-12",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "神奈川県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-40c18e64c330",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000002679.000030117.html",
+    "title": "【ホテルメトロポリタン】オールデイダイニング「クロスダイン」食べてみんね！「長崎フェア」開催",
+    "publisher": "日本ホテル株式会社",
+    "publishedAt": "2026-11-26T14:00:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "aa8a508c746631b97a749ea63e152b0c6b06776b74b7cd6d0f296c272be5c9f9",
+    "relatedEventIds": [
+      "evt-40c18e64c330"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine",
+        "whisky",
+        "sake",
+        "shochu",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2027-01-16",
+      "endDate": "2027-03-12",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-19f975623780",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000102.000147733.html",
+    "title": "【大阪府・泉南市】約2万人が来場！ 先進会眼科presents SBI舞花火 in 大阪・泉南 開催レポート",
+    "publisher": "株式会社SBI MUSIC CIRCUS",
+    "publishedAt": "2026-11-18T13:00:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "1e6a0a49519de934089b1b6b5a414bcd190e549c8d5ea7e303996b77a07e0f08",
+    "relatedEventIds": [
+      "evt-19f975623780"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-22",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-92b6fa21f360",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000157545.html",
+    "title": "飲むうどん！？香川×福岡「博多うどん HAZY DOUBLE IPA」をSETOUCHI BEERとFUKUOKA CRAFT BREWINGが共同開発",
+    "publisher": "株式会社瀬戸内",
+    "publishedAt": "2026-11-17T13:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "81aafe0539db520822e1465f6e065c6853f72d14eb29dbbe54b9d8dbedae88e6",
+    "relatedEventIds": [
+      "evt-92b6fa21f360"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": "福岡県",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-df86c5467a38",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005228.000003670.html",
+    "title": "【英会話】1回たった15分！日常で使えるテーマで楽しくリスニング力をアップさせよう！　毎週木曜開催の無料セミナー「クリスのランチタイム英会話【暮らしと建物編】【ヘルスケア英語編】」",
+    "publisher": "株式会社クリーク・アンド・リバー社",
+    "publishedAt": "2026-11-13T18:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "93475852f28200ebd3e7fc838c428518f17552e9305603a8f8ec1d87bf2f1aa2",
+    "relatedEventIds": [
+      "evt-df86c5467a38"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-831485d3ab36",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005221.000003670.html",
+    "title": "【英会話】1回15分！世界のクリスマスをテーマにリスニング力をアップ！毎週水曜日開催！無料セミナー「クリスのランチタイム英会話【特別編】～世界のクリスマス～」",
+    "publisher": "株式会社クリーク・アンド・リバー社",
+    "publishedAt": "2026-11-12T18:00:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "ca78804ca3d66395fe918113f60c3da576123371ab91bfdc1fe335255646a705",
+    "relatedEventIds": [
+      "evt-831485d3ab36"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-df86c5467a38"
+      ]
+    }
+  },
+  {
+    "id": "src-4e4fc04d3182",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005219.000003670.html",
+    "title": "【英会話】ランチをしながら15分聞き流すだけでOK！12月開催 無料セミナー「クリスのランチタイム英会話　【リスニング入門編】【中級編】」",
+    "publisher": "株式会社クリーク・アンド・リバー社",
+    "publishedAt": "2026-11-11T18:00:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "ca9278e232c162343a71240806539f5f88f2aa2f7c8456ac1932cd950791df45",
+    "relatedEventIds": [
+      "evt-4e4fc04d3182"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-657813adbe51",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000811.000040629.html",
+    "title": "快晴の万博に4万人超！「ABCラジオまつり2026」ステージレポート",
+    "publisher": "朝日放送ラジオ株式会社",
+    "publishedAt": "2026-11-10T15:10:37+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "50f8baae7e97deb09dc77846a06380f2cf009cf9a20c567262159693466fb9c6",
+    "relatedEventIds": [
+      "evt-657813adbe51"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "dateSource": "text",
+      "venueName": "万博記念公園(大阪府吹田市)",
+      "address": null,
+      "prefecture": "大阪府",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-1338128bff71",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000055.000148025.html",
+    "title": "「JUNGLIA×ORION 島風めんそーれ祭り」スペシャルイベントゴリ応援団長主催「ゴリオン祭り」2026年11月28日（土） 開催",
+    "publisher": "株式会社ジャパンエンターテイメント",
+    "publishedAt": "2026-10-28T15:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "c6865dcac1da03106673870230292357949b1b6bdd0ea2a94b63386b80ca5d58",
+    "relatedEventIds": [
+      "evt-1338128bff71"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "cocktail"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://junglia.jp/event/gorion-matsuri-2026",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-456c9bed99c8",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000005170.000003670.html",
+    "title": "【英会話】勉強の秋本番！ランチをしながら15分聞き流すだけでOK！11月開催 無料セミナー「クリスのランチタイム英会話　【リスニング入門編】【中級編】」",
+    "publisher": "株式会社クリーク・アンド・リバー社",
+    "publishedAt": "2026-10-23T18:30:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "6064a4bd48ad2aec9b39e0e39ed01df2a62973929376df76afb7bc06b7c163ad",
+    "relatedEventIds": [
+      "evt-456c9bed99c8"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar"
+      ],
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-4e4fc04d3182"
+      ]
+    }
+  },
+  {
+    "id": "src-820d0b14fd37",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001454.000025445.html",
+    "title": "yumegiwatone×Teenage Brewingのコラボビール11/21にタワレコ限定発売！ミニライブも実施！",
+    "publisher": "タワーレコード株式会社",
+    "publishedAt": "2026-10-23T12:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "ab7fd65da5b154e48d88e467c3bac2fb94fcc22f3e603c32c7d5d8261bed35a8",
+    "relatedEventIds": [
+      "evt-820d0b14fd37"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "dateSource": "label",
+      "venueName": "TOWER RECORDS BEER 渋谷店",
+      "address": "東京都渋谷区神南1-22-14 タワーレコード渋谷店 6階アナログレコードフロア",
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b5a80ed0c215",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000001430.000048998.html",
+    "title": "まちとひとのB面があつまる大文化祭「CULTURE SNACK '26」 2026年11月20日（金）〜21日（土）、コクヨ東京品川オフィス「THE CAMPUS」を中心とした品川港南エリアで開催！",
+    "publisher": "コクヨ株式会社",
+    "publishedAt": "2026-10-23T11:00:02+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "3d0eb128c2e06cc52be20f74241ca122f5b0bbc0a269b7d76da0c9d8a3c8ef6c",
+    "relatedEventIds": [
+      "evt-b5a80ed0c215"
+    ],
+    "processingStatus": "processed",
+    "extractedFields": {
+      "genres": [
+        "beer",
+        "wine",
+        "sake"
+      ],
+      "eventTypes": [
+        "festival",
+        "tasting",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "dateSource": "label",
+      "venueName": "コクヨ東京品川オフィス「THE CAMPUS」 他",
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": "https://the-campus.net/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-b8da7e098456",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000033.000172277.html",
+    "title": "【まぐろ問屋】×【スプリングバレーブルワリー東京】共演‼11月7日・8日の二日間開催される『クラフトビール ジャパンホップ フェスト2026 in SVB東京』にて、廻転寿司ポップアップストアを出店‼",
+    "publisher": "株式会社　ネオ・エモーション",
+    "publishedAt": "2026-10-23T10:32:30+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "cb8805aeb601b6bc34b56daec91e56d8f6dde2c0d0f042e75eba1ef1c6196d2f",
+    "relatedEventIds": [
+      "evt-b8da7e098456"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-09-01",
+      "endDate": "2026-11-30",
+      "dateSource": "label",
+      "venueName": null,
+      "address": null,
+      "prefecture": "東京都",
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": [
+        "evt-a1ce237d7d5c",
+        "evt-31b8fa9d74a1"
+      ]
+    }
+  },
+  {
+    "id": "src-ceae22a7f981",
+    "sourceType": "prtimes",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000106995.html",
+    "title": "いよいよ来週開催！「エビカニフェス2026」は食べて呑むだけじゃない！赤い服着て割引、レシートで生ズワイガニ当たるガラポン、カラオケ高得点でカニGET！エンタメ満載「エビカニフェス2026」全貌発表！",
+    "publisher": "株式会社 ライブエグザム",
+    "publishedAt": "2026-10-20T17:00:01+09:00",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "0e974993052a864dbd3b051fc94c6b768ad94e3bccf9f6ed645e54c887cb3bbc",
+    "relatedEventIds": [
+      "evt-ceae22a7f981"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "beer"
+      ],
+      "eventTypes": [
+        "festival"
+      ],
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-03",
+      "dateSource": "text",
+      "venueName": "インフォメーションブース",
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://ebikani.jp",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-3752b167235e",
+    "sourceType": "news",
+    "url": "https://barks.jp/news/1107128",
+    "title": "【ライブレポート】少年キッズボウイ、自主企画イベント<ひるはライブハウス、よるは酒>開催。EPリリース&ツアー開催発表も",
+    "publisher": "BARKS",
+    "publishedAt": "2026-11-27T07:10:15.000Z",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "adcea26048da4b06891129c3be54e8bf4e2e183c3ec7f4576601f24ed1e58cb3",
+    "relatedEventIds": [
+      "evt-3752b167235e"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival",
+        "tour"
+      ],
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-13",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": "https://eplus.jp/shonenkidsboy/",
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
+  },
+  {
+    "id": "src-f7c06c0ab9f7",
+    "sourceType": "news",
+    "url": "https://www.yamagata-np.jp/news/202611/27/kj_2026112700667.php",
+    "title": "「ラーメン県そば王国フェスタ」、酒田で来年1月開催 “麺活\"美酒・食と味わう",
+    "publisher": "やまがたニュースオンライン",
+    "publishedAt": "2026-11-27T01:48:00.000Z",
+    "fetchedAt": "2026-11-28T00:28:40.959Z",
+    "contentHash": "648197b320ce2735311e49c04d3ede177555803fcb83c4cec7ff0e1ffb55111a",
+    "relatedEventIds": [
+      "evt-f7c06c0ab9f7"
+    ],
+    "processingStatus": "needs_review",
+    "extractedFields": {
+      "genres": [
+        "other"
+      ],
+      "eventTypes": [
+        "festival",
+        "seminar",
+        "tour"
+      ],
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-28",
+      "dateSource": "text",
+      "venueName": null,
+      "address": null,
+      "prefecture": null,
+      "city": null,
+      "officialUrl": null,
+      "eventKeywordMatched": true,
+      "duplicateCandidateIds": []
+    }
   }
 ]
